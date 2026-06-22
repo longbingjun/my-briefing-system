@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My Briefing</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <h1>My Briefing</h1>
+          <p id="meta">Loading...</p>
+        </div>
+        <nav id="entityList" class="entity-list" aria-label="Entities"></nav>
+      </aside>
+
+      <section class="content">
+        <header class="content-header">
+          <div>
+            <p class="eyebrow">DISTILLED</p>
+            <h2 id="entityTitle">Loading</h2>
+          </div>
+          <a class="digest-link" href="./digest-latest.md">Markdown</a>
+        </header>
+        <p id="summary" class="summary"></p>
+        <div id="sections" class="sections"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
+

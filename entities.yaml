@@ -1,0 +1,75 @@
+entities:
+  - id: ai_agents
+    name: AI Agents
+    type: Concept
+    keywords:
+      - agent
+      - agents
+      - tool use
+      - workflow
+      - autonomous
+      - claude code
+      - coding agent
+
+  - id: llm_models
+    name: 大模型
+    type: Concept
+    keywords:
+      - model
+      - llm
+      - gpt
+      - claude
+      - gemini
+      - deepseek
+      - qwen
+      - llama
+
+  - id: open_source_ai
+    name: 开源 AI
+    type: Concept
+    keywords:
+      - open source
+      - github
+      - release
+      - apache
+      - mit license
+      - model weights
+
+  - id: ai_product
+    name: AI 产品
+    type: Domain
+    keywords:
+      - product
+      - app
+      - user experience
+      - workflow
+      - launch
+      - beta
+
+  - id: cost_management
+    name: 成本管理
+    type: Domain
+    keywords:
+      - cost
+      - pricing
+      - budget
+      - spend
+      - finops
+      - token
+      - 成本
+      - 预算
+      - 财务
+
+  - id: data_analytics
+    name: 数据分析
+    type: Domain
+    keywords:
+      - data
+      - analytics
+      - dashboard
+      - metric
+      - kpi
+      - warehouse
+      - 数据
+      - 指标
+

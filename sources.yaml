@@ -1,0 +1,49 @@
+sources:
+  - id: openai_blog
+    name: OpenAI Blog
+    type: rss
+    url: https://openai.com/news/rss.xml
+    weight: 0.95
+
+  - id: anthropic_news
+    name: Anthropic News
+    type: rss
+    url: https://www.anthropic.com/news/rss.xml
+    weight: 0.95
+
+  - id: google_ai_blog
+    name: Google AI Blog
+    type: rss
+    url: https://blog.google/technology/ai/rss/
+    weight: 0.85
+
+  - id: microsoft_ai_blog
+    name: Microsoft AI Blog
+    type: rss
+    url: https://blogs.microsoft.com/ai/feed/
+    weight: 0.85
+
+  - id: huggingface_blog
+    name: Hugging Face Blog
+    type: rss
+    url: https://huggingface.co/blog/feed.xml
+    weight: 0.85
+
+  - id: simon_willison
+    name: Simon Willison
+    type: rss
+    url: https://simonwillison.net/atom/everything/
+    weight: 0.8
+
+  - id: github_blog
+    name: GitHub Blog
+    type: rss
+    url: https://github.blog/feed/
+    weight: 0.75
+
+  - id: stripe_blog
+    name: Stripe Blog
+    type: rss
+    url: https://stripe.com/blog/feed.rss
+    weight: 0.7
+
