@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-22T03:47:59.009616+00:00",
+  "generated_at": "2026-06-26T09:32:43.227095+00:00",
   "meta": {
-    "article_total": 89,
+    "article_total": 139,
     "entity_curated": 6
   },
   "curated_ids": [
     "llm_models",
     "ai_product",
+    "ai_agents",
     "open_source_ai",
     "data_analytics",
-    "ai_agents",
     "cost_management"
   ],
   "entities": [
@@ -17,89 +17,20 @@
       "entity_id": "llm_models",
       "display": "大模型",
       "type": "Concept",
-      "article_count": 37,
-      "last_updated": "2026-06-22T03:47:59.007619+00:00",
+      "article_count": 54,
+      "last_updated": "2026-06-26T09:32:43.222044+00:00",
       "narrative": {
-        "summary": "大模型 本期共匹配 37 篇文章，重点集中在 Agent 工作流、大模型、产品发布。最值得先看的是「Statement on the US government directive to suspend access to Fable 5 and Mythos 5」。",
+        "summary": "大模型 本期共匹配 54 篇文章，重点集中在 大模型、Agent 工作流、产品发布。最值得先看的是「\"They screwed us\": Personality clashes sent Anthropic's models offline」。",
         "sections": [
-          {
-            "topic": "Agent 工作流",
-            "articles": [
-              {
-                "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-                "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
-                "title": "Claude Fable is relentlessly proactive",
-                "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
-                "title": "Quoting Georgi Gerganov",
-                "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
-                "title": "Cloudflare CAPTCHA on at least one ampersand",
-                "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "Quoting Sean Lynch",
-                "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "Mapping SQLite result columns back to their source `table.column`",
-                "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              }
-            ]
-          },
           {
             "topic": "大模型",
             "articles": [
-              {
-                "title": "OpenAI WebRTC Audio Session, now with document context",
-                "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
               {
                 "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
                 "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
-                "title": "The Fable 5 Export Controls Harm US Cyber Defense",
-                "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 96
               },
               {
@@ -107,23 +38,92 @@
                 "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 96
               },
               {
-                "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-                "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-                "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+                "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+                "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
+                "title": "OpenAI WebRTC Audio Session, now with document context",
+                "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-22",
+                "score": 92
+              },
+              {
+                "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+                "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+                "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
                 "source": "OpenAI Blog",
-                "date": "2026-06-21",
+                "date": "2026-06-24",
                 "score": 76
               },
               {
-                "title": "Quoting Charity Majors",
-                "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+                "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+                "url": "https://openai.com/index/gpt-5-immunology-mystery",
+                "link": "https://openai.com/index/gpt-5-immunology-mystery",
+                "source": "OpenAI Blog",
+                "date": "2026-06-23",
+                "score": 76
+              }
+            ]
+          },
+          {
+            "topic": "Agent 工作流",
+            "articles": [
+              {
+                "title": "Quoting Georgi Gerganov",
+                "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
+                "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+                "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
+                "score": 92
+              },
+              {
+                "title": "Claude Fable is relentlessly proactive",
+                "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-22",
+                "score": 92
+              },
+              {
+                "title": "Cloudflare CAPTCHA on at least one ampersand",
+                "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Quoting Sean Lynch",
+                "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Why AI hasn’t replaced software engineers, and won’t",
+                "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
                 "score": 73
               }
             ]
@@ -132,20 +132,44 @@
             "topic": "产品发布",
             "articles": [
               {
-                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
                 "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 96
+              },
+              {
+                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
+                "title": "simonw/browser-compat-db",
+                "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
+                "title": "datasette-agent 0.3a0",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+                "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
               },
               {
                 "title": "datasette 1.0a33",
@@ -153,37 +177,21 @@
                 "link": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "datasette-agent 0.3a0",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "Publishing WASM wheels to PyPI for use with Pyodide",
-                "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-                "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
+                "score": 81
               }
             ]
           },
           {
             "topic": "成本与效率",
             "articles": [
+              {
+                "title": "Which tokens does a hybrid model predict better?",
+                "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+                "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+                "source": "Hugging Face Blog",
+                "date": "2026-06-25",
+                "score": 74
+              },
               {
                 "title": "New usage analytics and updated spend controls for enterprises",
                 "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -198,7 +206,7 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
                 "source": "GitHub Blog",
                 "date": "2026-06-17",
-                "score": 68
+                "score": 65
               }
             ]
           },
@@ -206,18 +214,34 @@
             "topic": "数据与指标",
             "articles": [
               {
+                "title": "Prompt Injection as Role Confusion",
+                "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
                 "title": "PRC-linked influence operations are targeting AI debates in the US",
                 "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
                 "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
                 "source": "OpenAI Blog",
                 "date": "2026-06-10",
-                "score": 69
+                "score": 66
               }
             ]
           },
           {
             "topic": "开源动态",
             "articles": [
+              {
+                "title": "Quoting Tom MacWright",
+                "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
               {
                 "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
                 "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
@@ -235,10 +259,10 @@
       "entity_id": "ai_product",
       "display": "AI 产品",
       "type": "Domain",
-      "article_count": 35,
-      "last_updated": "2026-06-22T03:47:59.008619+00:00",
+      "article_count": 49,
+      "last_updated": "2026-06-26T09:32:43.224731+00:00",
       "narrative": {
-        "summary": "AI 产品 本期共匹配 35 篇文章，重点集中在 产品发布、Agent 工作流、开源动态。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
+        "summary": "AI 产品 本期共匹配 49 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
         "sections": [
           {
             "topic": "产品发布",
@@ -248,7 +272,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 96
               },
               {
@@ -257,22 +281,30 @@
                 "link": "https://openai.com/index/economic-research-exchange",
                 "source": "OpenAI Blog",
                 "date": "2026-06-08",
-                "score": 92
+                "score": 89
               },
               {
                 "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 85
               },
               {
-                "title": "datasette-apps 0.1a3",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+                "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+                "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "datasette-agent 0.3a0",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
                 "score": 73
               },
               {
@@ -280,16 +312,61 @@
                 "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
+                "score": 73
+              }
+            ]
+          },
+          {
+            "topic": "AI 产品",
+            "articles": [
+              {
+                "title": "Quoting Charity Majors",
+                "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Helping build shared standards for advanced AI",
+                "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+                "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+                "source": "OpenAI Blog",
+                "date": "2026-06-23",
+                "score": 76
+              },
+              {
+                "title": "Our latest Google Finance upgrades, including a new app",
+                "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+                "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+                "source": "Google AI Blog",
+                "date": "2026-06-25",
+                "score": 74
+              },
+              {
+                "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+                "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
                 "score": 73
               },
               {
-                "title": "datasette-agent 0.3a0",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "title": "Quoting Matteo Wong, The Atlantic",
+                "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 73
+              },
+              {
+                "title": "How Omio is building the future of conversational travel",
+                "url": "https://openai.com/index/omio",
+                "link": "https://openai.com/index/omio",
+                "source": "OpenAI Blog",
+                "date": "2026-06-23",
+                "score": 72
               }
             ]
           },
@@ -305,35 +382,27 @@
                 "score": 81
               },
               {
-                "title": "Mapping SQLite result columns back to their source `table.column`",
-                "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
+                "title": "How agents are transforming work",
+                "url": "https://openai.com/index/how-agents-are-transforming-work",
+                "link": "https://openai.com/index/how-agents-are-transforming-work",
+                "source": "OpenAI Blog",
+                "date": "2026-06-25",
+                "score": 76
               },
               {
-                "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-                "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Claude Fable is relentlessly proactive",
-                "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
+                "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+                "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+                "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+                "source": "Hugging Face Blog",
+                "date": "2026-06-23",
+                "score": 74
               },
               {
                 "title": "Why AI hasn’t replaced software engineers, and won’t",
                 "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 73
               },
               {
@@ -341,7 +410,15 @@
                 "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "OPFS + Pyodide test harness",
+                "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
                 "score": 73
               }
             ]
@@ -349,6 +426,38 @@
           {
             "topic": "开源动态",
             "articles": [
+              {
+                "title": "Quoting Tom MacWright",
+                "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "I automated my job (and it made me a better leader)",
+                "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+                "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+                "source": "GitHub Blog",
+                "date": "2026-06-23",
+                "score": 72
+              },
+              {
+                "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+                "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+                "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+                "source": "GitHub Blog",
+                "date": "2026-06-23",
+                "score": 72
+              },
+              {
+                "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+                "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+                "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+                "source": "GitHub Blog",
+                "date": "2026-06-22",
+                "score": 68
+              },
               {
                 "title": "How pull request limits are cutting down the noise",
                 "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
@@ -363,84 +472,7 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
                 "source": "GitHub Blog",
                 "date": "2026-06-16",
-                "score": 68
-              },
-              {
-                "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-                "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-                "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-                "source": "GitHub Blog",
-                "date": "2026-06-15",
-                "score": 68
-              },
-              {
-                "title": "How we made GitHub Copilot CLI more selective about delegation",
-                "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-                "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-                "source": "GitHub Blog",
-                "date": "2026-06-12",
                 "score": 65
-              },
-              {
-                "title": "GitHub availability report: May 2026",
-                "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-                "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-                "source": "GitHub Blog",
-                "date": "2026-06-11",
-                "score": 65
-              },
-              {
-                "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-                "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-                "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-                "source": "GitHub Blog",
-                "date": "2026-06-11",
-                "score": 65
-              }
-            ]
-          },
-          {
-            "topic": "AI 产品",
-            "articles": [
-              {
-                "title": "Quoting Charity Majors",
-                "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "OpenAI WebRTC Audio Session, now with document context",
-                "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-                "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Quoting Matteo Wong, The Atlantic",
-                "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "How engineers at Nextdoor use Codex to build without limits",
-                "url": "https://openai.com/index/nextdoor",
-                "link": "https://openai.com/index/nextdoor",
-                "source": "OpenAI Blog",
-                "date": "2026-06-09",
-                "score": 69
               }
             ]
           },
@@ -453,7 +485,7 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
                 "source": "GitHub Blog",
                 "date": "2026-06-17",
-                "score": 68
+                "score": 65
               },
               {
                 "title": "New ways to turn global demand into revenue",
@@ -464,6 +496,150 @@
                 "score": 61
               }
             ]
+          },
+          {
+            "topic": "数据与指标",
+            "articles": [
+              {
+                "title": "Prompt Injection as Role Confusion",
+                "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "entity_id": "ai_agents",
+      "display": "AI Agents",
+      "type": "Concept",
+      "article_count": 39,
+      "last_updated": "2026-06-26T09:32:43.220311+00:00",
+      "narrative": {
+        "summary": "AI Agents 本期共匹配 39 篇文章，重点集中在 产品发布、Agent 工作流、AI Agents。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
+        "sections": [
+          {
+            "topic": "产品发布",
+            "articles": [
+              {
+                "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+                "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
+              {
+                "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+                "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "Temporary Cloudflare Accounts for AI agents",
+                "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "simonw/browser-compat-db",
+                "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
+                "title": "datasette-agent 0.3a0",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              }
+            ]
+          },
+          {
+            "topic": "Agent 工作流",
+            "articles": [
+              {
+                "title": "Claude Fable is relentlessly proactive",
+                "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-22",
+                "score": 92
+              },
+              {
+                "title": "New OpenAI Academy courses for the next era of work",
+                "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+                "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+                "source": "OpenAI Blog",
+                "date": "2026-06-12",
+                "score": 92
+              },
+              {
+                "title": "OpenAI to acquire Ona",
+                "url": "https://openai.com/index/openai-to-acquire-ona",
+                "link": "https://openai.com/index/openai-to-acquire-ona",
+                "source": "OpenAI Blog",
+                "date": "2026-06-11",
+                "score": 89
+              },
+              {
+                "title": "How Endava is redesigning software delivery around AI agents",
+                "url": "https://openai.com/index/endava-frontiers",
+                "link": "https://openai.com/index/endava-frontiers",
+                "source": "OpenAI Blog",
+                "date": "2026-06-04",
+                "score": 89
+              },
+              {
+                "title": "How agents are transforming work",
+                "url": "https://openai.com/index/how-agents-are-transforming-work",
+                "link": "https://openai.com/index/how-agents-are-transforming-work",
+                "source": "OpenAI Blog",
+                "date": "2026-06-25",
+                "score": 88
+              },
+              {
+                "title": "Why AI hasn’t replaced software engineers, and won’t",
+                "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              }
+            ]
+          },
+          {
+            "topic": "AI Agents",
+            "articles": [
+              {
+                "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+                "url": "https://openai.com/index/ai-chemist-improves-reaction",
+                "link": "https://openai.com/index/ai-chemist-improves-reaction",
+                "source": "OpenAI Blog",
+                "date": "2026-06-17",
+                "score": 69
+              }
+            ]
           }
         ]
       }
@@ -472,28 +648,36 @@
       "entity_id": "open_source_ai",
       "display": "开源 AI",
       "type": "Concept",
-      "article_count": 26,
-      "last_updated": "2026-06-22T03:47:59.007619+00:00",
+      "article_count": 38,
+      "last_updated": "2026-06-26T09:32:43.223278+00:00",
       "narrative": {
-        "summary": "开源 AI 本期共匹配 26 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Publishing WASM wheels to PyPI for use with Pyodide」。",
+        "summary": "开源 AI 本期共匹配 38 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
           {
             "topic": "产品发布",
             "articles": [
+              {
+                "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+                "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 96
+              },
               {
                 "title": "Publishing WASM wheels to PyPI for use with Pyodide",
                 "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 96
+                "score": 92
               },
               {
-                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "title": "NetNewsWire Status",
+                "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 85
               },
               {
@@ -501,15 +685,15 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 85
               },
               {
-                "title": "NetNewsWire Status",
-                "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 85
               },
               {
@@ -517,16 +701,8 @@
                 "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 85
-              },
-              {
-                "title": "datasette 1.0a33",
-                "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
               }
             ]
           },
@@ -534,52 +710,52 @@
             "topic": "开源动态",
             "articles": [
               {
+                "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+                "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+                "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+                "source": "GitHub Blog",
+                "date": "2026-06-23",
+                "score": 84
+              },
+              {
+                "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+                "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+                "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+                "source": "GitHub Blog",
+                "date": "2026-06-22",
+                "score": 80
+              },
+              {
+                "title": "Quoting Tom MacWright",
+                "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "I automated my job (and it made me a better leader)",
+                "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+                "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+                "source": "GitHub Blog",
+                "date": "2026-06-23",
+                "score": 72
+              },
+              {
+                "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+                "url": "https://openai.com/index/patch-the-planet",
+                "link": "https://openai.com/index/patch-the-planet",
+                "source": "OpenAI Blog",
+                "date": "2026-06-22",
+                "score": 72
+              },
+              {
                 "title": "How pull request limits are cutting down the noise",
                 "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
                 "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
                 "source": "GitHub Blog",
                 "date": "2026-06-18",
                 "score": 68
-              },
-              {
-                "title": "What are git worktrees, and why should I use them?",
-                "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-                "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-                "source": "GitHub Blog",
-                "date": "2026-06-16",
-                "score": 68
-              },
-              {
-                "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-                "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-                "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-                "source": "GitHub Blog",
-                "date": "2026-06-15",
-                "score": 68
-              },
-              {
-                "title": "How we made GitHub Copilot CLI more selective about delegation",
-                "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-                "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-                "source": "GitHub Blog",
-                "date": "2026-06-12",
-                "score": 65
-              },
-              {
-                "title": "GitHub availability report: May 2026",
-                "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-                "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-                "source": "GitHub Blog",
-                "date": "2026-06-11",
-                "score": 65
-              },
-              {
-                "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-                "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-                "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-                "source": "GitHub Blog",
-                "date": "2026-06-11",
-                "score": 65
               }
             ]
           },
@@ -587,12 +763,20 @@
             "topic": "Agent 工作流",
             "articles": [
               {
+                "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+                "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "source": "GitHub Blog",
+                "date": "2026-06-25",
+                "score": 72
+              },
+              {
                 "title": "How we built an internal data analytics agent",
                 "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
                 "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
                 "source": "GitHub Blog",
                 "date": "2026-06-19",
-                "score": 72
+                "score": 68
               },
               {
                 "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
@@ -600,7 +784,15 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
                 "source": "GitHub Blog",
                 "date": "2026-06-15",
-                "score": 68
+                "score": 65
+              },
+              {
+                "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+                "url": "https://huggingface.co/blog/openenv-agentic-rl",
+                "link": "https://huggingface.co/blog/openenv-agentic-rl",
+                "source": "Hugging Face Blog",
+                "date": "2026-06-08",
+                "score": 64
               }
             ]
           },
@@ -613,7 +805,7 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
                 "source": "GitHub Blog",
                 "date": "2026-06-17",
-                "score": 68
+                "score": 65
               }
             ]
           }
@@ -624,64 +816,11 @@
       "entity_id": "data_analytics",
       "display": "数据分析",
       "type": "Domain",
-      "article_count": 24,
-      "last_updated": "2026-06-22T03:47:59.009616+00:00",
+      "article_count": 30,
+      "last_updated": "2026-06-26T09:32:43.227083+00:00",
       "narrative": {
-        "summary": "数据分析 本期共匹配 24 篇文章，重点集中在 产品发布、Agent 工作流、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
+        "summary": "数据分析 本期共匹配 30 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
         "sections": [
-          {
-            "topic": "产品发布",
-            "articles": [
-              {
-                "title": "datasette 1.0a33",
-                "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Publishing WASM wheels to PyPI for use with Pyodide",
-                "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "datasette-apps 0.1a3",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "datasette-apps 0.1a2",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "datasette-agent 0.3a0",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              }
-            ]
-          },
           {
             "topic": "Agent 工作流",
             "articles": [
@@ -691,7 +830,23 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
                 "source": "GitHub Blog",
                 "date": "2026-06-19",
-                "score": 84
+                "score": 80
+              },
+              {
+                "title": "Why AI hasn’t replaced software engineers, and won’t",
+                "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "OPFS + Pyodide test harness",
+                "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
               },
               {
                 "title": "Mapping SQLite result columns back to their source `table.column`",
@@ -699,7 +854,7 @@
                 "link": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 73
+                "score": 69
               },
               {
                 "title": "Claude Fable is relentlessly proactive",
@@ -707,15 +862,7 @@
                 "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Why AI hasn’t replaced software engineers, and won’t",
-                "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
+                "score": 69
               },
               {
                 "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
@@ -723,7 +870,60 @@
                 "link": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
                 "source": "Stripe Blog",
                 "date": "2026-06-11",
-                "score": 64
+                "score": 61
+              }
+            ]
+          },
+          {
+            "topic": "产品发布",
+            "articles": [
+              {
+                "title": "datasette-agent 0.3a0",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "datasette-apps 0.1a2",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "datasette-apps 0.1a3",
+                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "datasette-tailscale 0.1a0",
+                "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "datasette 1.0a34",
+                "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "datasette-acl 0.6a0",
+                "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
               }
             ]
           },
@@ -735,7 +935,15 @@
                 "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "Prompt Injection as Role Confusion",
+                "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
                 "score": 73
               },
               {
@@ -744,7 +952,7 @@
                 "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
                 "source": "OpenAI Blog",
                 "date": "2026-06-10",
-                "score": 69
+                "score": 66
               },
               {
                 "title": "What Link data tells us about AI spending",
@@ -752,7 +960,7 @@
                 "link": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
                 "source": "Stripe Blog",
                 "date": "2026-06-18",
-                "score": 67
+                "score": 64
               },
               {
                 "title": "Solo founding is at an all-time high: Top performers have these traits in common",
@@ -786,138 +994,7 @@
                 "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
                 "source": "GitHub Blog",
                 "date": "2026-06-15",
-                "score": 68
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "entity_id": "ai_agents",
-      "display": "AI Agents",
-      "type": "Concept",
-      "article_count": 23,
-      "last_updated": "2026-06-22T03:47:59.006616+00:00",
-      "narrative": {
-        "summary": "AI Agents 本期共匹配 23 篇文章，重点集中在 Agent 工作流、产品发布、AI Agents。最值得先看的是「Claude Fable is relentlessly proactive」。",
-        "sections": [
-          {
-            "topic": "Agent 工作流",
-            "articles": [
-              {
-                "title": "Claude Fable is relentlessly proactive",
-                "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 96
-              },
-              {
-                "title": "New OpenAI Academy courses for the next era of work",
-                "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-                "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-                "source": "OpenAI Blog",
-                "date": "2026-06-12",
-                "score": 92
-              },
-              {
-                "title": "OpenAI to acquire Ona",
-                "url": "https://openai.com/index/openai-to-acquire-ona",
-                "link": "https://openai.com/index/openai-to-acquire-ona",
-                "source": "OpenAI Blog",
-                "date": "2026-06-11",
-                "score": 92
-              },
-              {
-                "title": "How Endava is redesigning software delivery around AI agents",
-                "url": "https://openai.com/index/endava-frontiers",
-                "link": "https://openai.com/index/endava-frontiers",
-                "source": "OpenAI Blog",
-                "date": "2026-06-04",
-                "score": 89
-              },
-              {
-                "title": "Why AI hasn’t replaced software engineers, and won’t",
-                "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "Quoting Georgi Gerganov",
-                "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              }
-            ]
-          },
-          {
-            "topic": "产品发布",
-            "articles": [
-              {
-                "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-                "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-                "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "Temporary Cloudflare Accounts for AI agents",
-                "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 85
-              },
-              {
-                "title": "datasette 1.0a33",
-                "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "datasette-apps 0.1a2",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "datasette-agent 0.3a0",
-                "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
-              }
-            ]
-          },
-          {
-            "topic": "AI Agents",
-            "articles": [
-              {
-                "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-                "url": "https://openai.com/index/ai-chemist-improves-reaction",
-                "link": "https://openai.com/index/ai-chemist-improves-reaction",
-                "source": "OpenAI Blog",
-                "date": "2026-06-17",
-                "score": 72
+                "score": 65
               }
             ]
           }
@@ -928,10 +1005,10 @@
       "entity_id": "cost_management",
       "display": "成本管理",
       "type": "Domain",
-      "article_count": 9,
-      "last_updated": "2026-06-22T03:47:59.008619+00:00",
+      "article_count": 12,
+      "last_updated": "2026-06-26T09:32:43.225840+00:00",
       "narrative": {
-        "summary": "成本管理 本期共匹配 9 篇文章，重点集中在 成本与效率、Agent 工作流、产品发布。最值得先看的是「Claude Fable is relentlessly proactive」。",
+        "summary": "成本管理 本期共匹配 12 篇文章，重点集中在 成本与效率、Agent 工作流、产品发布。最值得先看的是「Claude Fable is relentlessly proactive」。",
         "sections": [
           {
             "topic": "成本与效率",
@@ -945,12 +1022,20 @@
                 "score": 84
               },
               {
+                "title": "Which tokens does a hybrid model predict better?",
+                "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+                "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+                "source": "Hugging Face Blog",
+                "date": "2026-06-25",
+                "score": 74
+              },
+              {
                 "title": "Getting more from each token: How Copilot improves context handling and model routing",
                 "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
                 "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
                 "source": "GitHub Blog",
                 "date": "2026-06-17",
-                "score": 68
+                "score": 65
               },
               {
                 "title": "New ways to turn global demand into revenue",
@@ -979,7 +1064,23 @@
                 "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 96
+                "score": 92
+              },
+              {
+                "title": "Quoting Georgi Gerganov",
+                "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 73
+              },
+              {
+                "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+                "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "source": "GitHub Blog",
+                "date": "2026-06-25",
+                "score": 72
               },
               {
                 "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
@@ -987,15 +1088,7 @@
                 "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
                 "source": "Simon Willison",
                 "date": "2026-06-22",
-                "score": 73
-              },
-              {
-                "title": "Quoting Georgi Gerganov",
-                "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-                "source": "Simon Willison",
-                "date": "2026-06-22",
-                "score": 73
+                "score": 69
               }
             ]
           },
@@ -1003,11 +1096,19 @@
             "topic": "产品发布",
             "articles": [
               {
+                "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+                "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-26",
+                "score": 85
+              },
+              {
                 "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-22",
+                "date": "2026-06-26",
                 "score": 73
               }
             ]
@@ -1021,7 +1122,7 @@
                 "link": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
                 "source": "Stripe Blog",
                 "date": "2026-06-18",
-                "score": 67
+                "score": 64
               }
             ]
           }
