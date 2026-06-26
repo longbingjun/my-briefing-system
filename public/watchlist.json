@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T09:32:43.227095+00:00",
+  "generated_at": "2026-06-26T15:06:30.221403+00:00",
   "meta": {
-    "article_total": 139,
+    "article_total": 140,
     "entity_curated": 6
   },
   "curated_ids": [
@@ -18,7 +18,7 @@
       "display": "大模型",
       "type": "Concept",
       "article_count": 54,
-      "last_updated": "2026-06-26T09:32:43.222044+00:00",
+      "last_updated": "2026-06-26T15:06:30.216487+00:00",
       "narrative": {
         "summary": "大模型 本期共匹配 54 篇文章，重点集中在 大模型、Agent 工作流、产品发布。最值得先看的是「\"They screwed us\": Personality clashes sent Anthropic's models offline」。",
         "sections": [
@@ -259,10 +259,10 @@
       "entity_id": "ai_product",
       "display": "AI 产品",
       "type": "Domain",
-      "article_count": 49,
-      "last_updated": "2026-06-26T09:32:43.224731+00:00",
+      "article_count": 50,
+      "last_updated": "2026-06-26T15:06:30.219151+00:00",
       "narrative": {
-        "summary": "AI 产品 本期共匹配 49 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
+        "summary": "AI 产品 本期共匹配 50 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
         "sections": [
           {
             "topic": "产品发布",
@@ -329,14 +329,6 @@
                 "score": 85
               },
               {
-                "title": "Helping build shared standards for advanced AI",
-                "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-                "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-                "source": "OpenAI Blog",
-                "date": "2026-06-23",
-                "score": 76
-              },
-              {
                 "title": "Our latest Google Finance upgrades, including a new app",
                 "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
                 "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
@@ -359,6 +351,14 @@
                 "source": "Simon Willison",
                 "date": "2026-06-26",
                 "score": 73
+              },
+              {
+                "title": "Helping build shared standards for advanced AI",
+                "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+                "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+                "source": "OpenAI Blog",
+                "date": "2026-06-23",
+                "score": 72
               },
               {
                 "title": "How Omio is building the future of conversational travel",
@@ -390,14 +390,6 @@
                 "score": 76
               },
               {
-                "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-                "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-                "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-                "source": "Hugging Face Blog",
-                "date": "2026-06-23",
-                "score": 74
-              },
-              {
                 "title": "Why AI hasn’t replaced software engineers, and won’t",
                 "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
@@ -420,6 +412,14 @@
                 "source": "Simon Willison",
                 "date": "2026-06-26",
                 "score": 73
+              },
+              {
+                "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+                "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "source": "GitHub Blog",
+                "date": "2026-06-25",
+                "score": 72
               }
             ]
           },
@@ -433,6 +433,14 @@
                 "source": "Simon Willison",
                 "date": "2026-06-26",
                 "score": 73
+              },
+              {
+                "title": "Transitioning as a hubber",
+                "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+                "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+                "source": "GitHub Blog",
+                "date": "2026-06-26",
+                "score": 72
               },
               {
                 "title": "I automated my job (and it made me a better leader)",
@@ -465,14 +473,6 @@
                 "source": "GitHub Blog",
                 "date": "2026-06-18",
                 "score": 68
-              },
-              {
-                "title": "What are git worktrees, and why should I use them?",
-                "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-                "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-                "source": "GitHub Blog",
-                "date": "2026-06-16",
-                "score": 65
               }
             ]
           },
@@ -518,7 +518,7 @@
       "display": "AI Agents",
       "type": "Concept",
       "article_count": 39,
-      "last_updated": "2026-06-26T09:32:43.220311+00:00",
+      "last_updated": "2026-06-26T15:06:30.214830+00:00",
       "narrative": {
         "summary": "AI Agents 本期共匹配 39 篇文章，重点集中在 产品发布、Agent 工作流、AI Agents。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -648,10 +648,10 @@
       "entity_id": "open_source_ai",
       "display": "开源 AI",
       "type": "Concept",
-      "article_count": 38,
-      "last_updated": "2026-06-26T09:32:43.223278+00:00",
+      "article_count": 39,
+      "last_updated": "2026-06-26T15:06:30.217718+00:00",
       "narrative": {
-        "summary": "开源 AI 本期共匹配 38 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
+        "summary": "开源 AI 本期共匹配 39 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
           {
             "topic": "产品发布",
@@ -734,6 +734,14 @@
                 "score": 73
               },
               {
+                "title": "Transitioning as a hubber",
+                "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+                "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+                "source": "GitHub Blog",
+                "date": "2026-06-26",
+                "score": 72
+              },
+              {
                 "title": "I automated my job (and it made me a better leader)",
                 "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
                 "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
@@ -748,14 +756,6 @@
                 "source": "OpenAI Blog",
                 "date": "2026-06-22",
                 "score": 72
-              },
-              {
-                "title": "How pull request limits are cutting down the noise",
-                "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-                "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-                "source": "GitHub Blog",
-                "date": "2026-06-18",
-                "score": 68
               }
             ]
           },
@@ -817,7 +817,7 @@
       "display": "数据分析",
       "type": "Domain",
       "article_count": 30,
-      "last_updated": "2026-06-26T09:32:43.227083+00:00",
+      "last_updated": "2026-06-26T15:06:30.221391+00:00",
       "narrative": {
         "summary": "数据分析 本期共匹配 30 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
         "sections": [
@@ -1006,7 +1006,7 @@
       "display": "成本管理",
       "type": "Domain",
       "article_count": 12,
-      "last_updated": "2026-06-26T09:32:43.225840+00:00",
+      "last_updated": "2026-06-26T15:06:30.220203+00:00",
       "narrative": {
         "summary": "成本管理 本期共匹配 12 篇文章，重点集中在 成本与效率、Agent 工作流、产品发布。最值得先看的是「Claude Fable is relentlessly proactive」。",
         "sections": [
