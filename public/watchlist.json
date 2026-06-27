@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T05:05:23.423881+00:00",
+  "generated_at": "2026-06-27T14:11:10.452065+00:00",
   "meta": {
     "article_total": 145,
     "entity_curated": 6
@@ -18,7 +18,7 @@
       "display": "大模型",
       "type": "Concept",
       "article_count": 60,
-      "last_updated": "2026-06-27T05:05:23.418573+00:00",
+      "last_updated": "2026-06-27T14:11:10.446815+00:00",
       "narrative": {
         "summary": "大模型 本期共匹配 60 篇文章，重点集中在 大模型、Agent 工作流、产品发布。最值得先看的是「Quoting Matteo Wong, The Atlantic」。",
         "sections": [
@@ -66,12 +66,12 @@
                 "score": 88
               },
               {
-                "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-                "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-                "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-                "source": "OpenAI Blog",
-                "date": "2026-06-24",
-                "score": 76
+                "title": "Run a vLLM Server on HF Jobs in One Command",
+                "url": "https://huggingface.co/blog/vllm-jobs",
+                "link": "https://huggingface.co/blog/vllm-jobs",
+                "source": "Hugging Face Blog",
+                "date": "2026-06-26",
+                "score": 74
               }
             ]
           },
@@ -260,7 +260,7 @@
       "display": "AI 产品",
       "type": "Domain",
       "article_count": 55,
-      "last_updated": "2026-06-27T05:05:23.421424+00:00",
+      "last_updated": "2026-06-27T14:11:10.449628+00:00",
       "narrative": {
         "summary": "AI 产品 本期共匹配 55 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
         "sections": [
@@ -387,7 +387,7 @@
                 "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
                 "source": "OpenAI Blog",
                 "date": "2026-06-12",
-                "score": 81
+                "score": 78
               },
               {
                 "title": "How agents are transforming work",
@@ -518,7 +518,7 @@
       "display": "开源 AI",
       "type": "Concept",
       "article_count": 44,
-      "last_updated": "2026-06-27T05:05:23.419907+00:00",
+      "last_updated": "2026-06-27T14:11:10.448123+00:00",
       "narrative": {
         "summary": "开源 AI 本期共匹配 44 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -686,7 +686,7 @@
       "display": "AI Agents",
       "type": "Concept",
       "article_count": 41,
-      "last_updated": "2026-06-27T05:05:23.416805+00:00",
+      "last_updated": "2026-06-27T14:11:10.445048+00:00",
       "narrative": {
         "summary": "AI Agents 本期共匹配 41 篇文章，重点集中在 产品发布、Agent 工作流、AI Agents。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -760,7 +760,7 @@
                 "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
                 "source": "OpenAI Blog",
                 "date": "2026-06-12",
-                "score": 92
+                "score": 89
               },
               {
                 "title": "OpenAI to acquire Ona",
@@ -817,7 +817,7 @@
       "display": "数据分析",
       "type": "Domain",
       "article_count": 32,
-      "last_updated": "2026-06-27T05:05:23.423868+00:00",
+      "last_updated": "2026-06-27T14:11:10.452052+00:00",
       "narrative": {
         "summary": "数据分析 本期共匹配 32 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
         "sections": [
@@ -1006,7 +1006,7 @@
       "display": "成本管理",
       "type": "Domain",
       "article_count": 16,
-      "last_updated": "2026-06-27T05:05:23.422606+00:00",
+      "last_updated": "2026-06-27T14:11:10.450791+00:00",
       "narrative": {
         "summary": "成本管理 本期共匹配 16 篇文章，重点集中在 产品发布、Agent 工作流、成本与效率。最值得先看的是「Quoting OpenAI」。",
         "sections": [

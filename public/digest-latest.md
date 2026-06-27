@@ -22,8 +22,8 @@ Don't scroll. Distill.
   Simon Willison · 2026-06-22
 - [88] [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
   OpenAI Blog · 2026-06-26
-- [76] [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
-  OpenAI Blog · 2026-06-24
+- [74] [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
+  Hugging Face Blog · 2026-06-26
 
 ### ── Agent 工作流 (6) ──
 
@@ -118,7 +118,7 @@ AI 产品 本期共匹配 55 篇文章，重点集中在 产品发布、AI 产�
 
 - [85] [What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything)
   Simon Willison · 2026-06-27
-- [81] [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)
+- [78] [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)
   OpenAI Blog · 2026-06-12
 - [76] [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)
   OpenAI Blog · 2026-06-25
@@ -233,7 +233,7 @@ AI Agents 本期共匹配 41 篇文章，重点集中在 产品发布、Agent �
 
 - [92] [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything)
   Simon Willison · 2026-06-22
-- [92] [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)
+- [89] [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)
   OpenAI Blog · 2026-06-12
 - [89] [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona)
   OpenAI Blog · 2026-06-11
