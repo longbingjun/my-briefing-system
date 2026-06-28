@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:46:32.072006+00:00",
+  "generated_at": "2026-06-28T14:19:30.773504+00:00",
   "meta": {
     "article_total": 144,
     "entity_curated": 6
@@ -18,7 +18,7 @@
       "display": "大模型",
       "type": "Concept",
       "article_count": 60,
-      "last_updated": "2026-06-28T05:46:32.066788+00:00",
+      "last_updated": "2026-06-28T14:19:30.768181+00:00",
       "narrative": {
         "summary": "大模型 本期共匹配 60 篇文章，重点集中在 大模型、Agent 工作流、产品发布。最值得先看的是「Quoting Matteo Wong, The Atlantic」。",
         "sections": [
@@ -260,7 +260,7 @@
       "display": "AI 产品",
       "type": "Domain",
       "article_count": 55,
-      "last_updated": "2026-06-28T05:46:32.069586+00:00",
+      "last_updated": "2026-06-28T14:19:30.771066+00:00",
       "narrative": {
         "summary": "AI 产品 本期共匹配 55 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
         "sections": [
@@ -518,7 +518,7 @@
       "display": "开源 AI",
       "type": "Concept",
       "article_count": 44,
-      "last_updated": "2026-06-28T05:46:32.068071+00:00",
+      "last_updated": "2026-06-28T14:19:30.769529+00:00",
       "narrative": {
         "summary": "开源 AI 本期共匹配 44 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -686,7 +686,7 @@
       "display": "AI Agents",
       "type": "Concept",
       "article_count": 41,
-      "last_updated": "2026-06-28T05:46:32.065024+00:00",
+      "last_updated": "2026-06-28T14:19:30.766352+00:00",
       "narrative": {
         "summary": "AI Agents 本期共匹配 41 篇文章，重点集中在 产品发布、Agent 工作流、AI Agents。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -817,7 +817,7 @@
       "display": "数据分析",
       "type": "Domain",
       "article_count": 31,
-      "last_updated": "2026-06-28T05:46:32.071993+00:00",
+      "last_updated": "2026-06-28T14:19:30.773490+00:00",
       "narrative": {
         "summary": "数据分析 本期共匹配 31 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
         "sections": [
@@ -998,7 +998,7 @@
       "display": "成本管理",
       "type": "Domain",
       "article_count": 16,
-      "last_updated": "2026-06-28T05:46:32.070743+00:00",
+      "last_updated": "2026-06-28T14:19:30.772240+00:00",
       "narrative": {
         "summary": "成本管理 本期共匹配 16 篇文章，重点集中在 产品发布、Agent 工作流、成本与效率。最值得先看的是「Quoting OpenAI」。",
         "sections": [
