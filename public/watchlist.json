@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T14:11:10.452065+00:00",
+  "generated_at": "2026-06-28T05:46:32.072006+00:00",
   "meta": {
-    "article_total": 145,
+    "article_total": 144,
     "entity_curated": 6
   },
   "curated_ids": [
@@ -18,7 +18,7 @@
       "display": "大模型",
       "type": "Concept",
       "article_count": 60,
-      "last_updated": "2026-06-27T14:11:10.446815+00:00",
+      "last_updated": "2026-06-28T05:46:32.066788+00:00",
       "narrative": {
         "summary": "大模型 本期共匹配 60 篇文章，重点集中在 大模型、Agent 工作流、产品发布。最值得先看的是「Quoting Matteo Wong, The Atlantic」。",
         "sections": [
@@ -30,7 +30,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -38,7 +38,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -83,7 +83,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -91,7 +91,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -115,7 +115,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -123,7 +123,7 @@
                 "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               }
             ]
@@ -136,7 +136,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -144,7 +144,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -152,7 +152,7 @@
                 "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -160,7 +160,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -168,7 +168,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -176,7 +176,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               }
             ]
@@ -218,7 +218,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -239,7 +239,7 @@
                 "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -260,7 +260,7 @@
       "display": "AI 产品",
       "type": "Domain",
       "article_count": 55,
-      "last_updated": "2026-06-27T14:11:10.449628+00:00",
+      "last_updated": "2026-06-28T05:46:32.069586+00:00",
       "narrative": {
         "summary": "AI 产品 本期共匹配 55 篇文章，重点集中在 产品发布、AI 产品、Agent 工作流。最值得先看的是「Datasette Apps: Host custom HTML applications inside Datasette」。",
         "sections": [
@@ -272,7 +272,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -288,7 +288,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -296,7 +296,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -304,7 +304,7 @@
                 "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -312,7 +312,7 @@
                 "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               }
             ]
@@ -325,7 +325,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -341,7 +341,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -378,7 +378,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -390,19 +390,11 @@
                 "score": 78
               },
               {
-                "title": "How agents are transforming work",
-                "url": "https://openai.com/index/how-agents-are-transforming-work",
-                "link": "https://openai.com/index/how-agents-are-transforming-work",
-                "source": "OpenAI Blog",
-                "date": "2026-06-25",
-                "score": 76
-              },
-              {
                 "title": "Cloudflare CAPTCHA on at least one ampersand",
                 "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -410,7 +402,7 @@
                 "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -420,6 +412,14 @@
                 "source": "Simon Willison",
                 "date": "2026-06-26",
                 "score": 73
+              },
+              {
+                "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+                "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+                "source": "GitHub Blog",
+                "date": "2026-06-25",
+                "score": 72
               }
             ]
           },
@@ -431,7 +431,7 @@
                 "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -505,7 +505,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               }
             ]
@@ -518,7 +518,7 @@
       "display": "开源 AI",
       "type": "Concept",
       "article_count": 44,
-      "last_updated": "2026-06-27T14:11:10.448123+00:00",
+      "last_updated": "2026-06-28T05:46:32.068071+00:00",
       "narrative": {
         "summary": "开源 AI 本期共匹配 44 篇文章，重点集中在 产品发布、开源动态、Agent 工作流。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -530,7 +530,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -546,7 +546,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -554,7 +554,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -562,7 +562,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -570,7 +570,7 @@
                 "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               }
             ]
@@ -607,7 +607,7 @@
                 "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -645,7 +645,7 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
                 "source": "GitHub Blog",
                 "date": "2026-06-19",
-                "score": 68
+                "score": 65
               },
               {
                 "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
@@ -686,7 +686,7 @@
       "display": "AI Agents",
       "type": "Concept",
       "article_count": 41,
-      "last_updated": "2026-06-27T14:11:10.445048+00:00",
+      "last_updated": "2026-06-28T05:46:32.065024+00:00",
       "narrative": {
         "summary": "AI Agents 本期共匹配 41 篇文章，重点集中在 产品发布、Agent 工作流、AI Agents。最值得先看的是「Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code」。",
         "sections": [
@@ -698,7 +698,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -706,7 +706,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -714,7 +714,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -722,7 +722,7 @@
                 "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -730,7 +730,7 @@
                 "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -738,7 +738,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               }
             ]
@@ -779,19 +779,19 @@
                 "score": 89
               },
               {
-                "title": "How agents are transforming work",
-                "url": "https://openai.com/index/how-agents-are-transforming-work",
-                "link": "https://openai.com/index/how-agents-are-transforming-work",
-                "source": "OpenAI Blog",
-                "date": "2026-06-25",
-                "score": 88
-              },
-              {
                 "title": "Quoting Georgi Gerganov",
                 "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
+                "score": 85
+              },
+              {
+                "title": "AI and Liability",
+                "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+                "link": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+                "source": "Simon Willison",
+                "date": "2026-06-28",
                 "score": 85
               }
             ]
@@ -816,10 +816,10 @@
       "entity_id": "data_analytics",
       "display": "数据分析",
       "type": "Domain",
-      "article_count": 32,
-      "last_updated": "2026-06-27T14:11:10.452052+00:00",
+      "article_count": 31,
+      "last_updated": "2026-06-28T05:46:32.071993+00:00",
       "narrative": {
-        "summary": "数据分析 本期共匹配 32 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
+        "summary": "数据分析 本期共匹配 31 篇文章，重点集中在 Agent 工作流、产品发布、数据与指标。最值得先看的是「How we built an internal data analytics agent」。",
         "sections": [
           {
             "topic": "Agent 工作流",
@@ -830,14 +830,14 @@
                 "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
                 "source": "GitHub Blog",
                 "date": "2026-06-19",
-                "score": 80
+                "score": 77
               },
               {
                 "title": "OPFS + Pyodide test harness",
                 "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -845,7 +845,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -882,7 +882,7 @@
                 "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -890,7 +890,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -898,7 +898,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -906,7 +906,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -914,7 +914,7 @@
                 "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -922,7 +922,7 @@
                 "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               }
             ]
@@ -935,7 +935,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -943,7 +943,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -961,14 +961,6 @@
                 "source": "Stripe Blog",
                 "date": "2026-06-18",
                 "score": 64
-              },
-              {
-                "title": "Solo founding is at an all-time high: Top performers have these traits in common",
-                "url": "https://stripe.com/blog/top-solo-founder-traits",
-                "link": "https://stripe.com/blog/top-solo-founder-traits",
-                "source": "Stripe Blog",
-                "date": "2026-05-28",
-                "score": 61
               }
             ]
           },
@@ -1006,7 +998,7 @@
       "display": "成本管理",
       "type": "Domain",
       "article_count": 16,
-      "last_updated": "2026-06-27T14:11:10.450791+00:00",
+      "last_updated": "2026-06-28T05:46:32.070743+00:00",
       "narrative": {
         "summary": "成本管理 本期共匹配 16 篇文章，重点集中在 产品发布、Agent 工作流、成本与效率。最值得先看的是「Quoting OpenAI」。",
         "sections": [
@@ -1018,7 +1010,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 96
               },
               {
@@ -1026,7 +1018,7 @@
                 "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -1034,7 +1026,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -1042,7 +1034,7 @@
                 "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
@@ -1050,7 +1042,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               }
             ]
@@ -1071,7 +1063,7 @@
                 "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 85
               },
               {
@@ -1079,7 +1071,7 @@
                 "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
                 "source": "Simon Willison",
-                "date": "2026-06-27",
+                "date": "2026-06-28",
                 "score": 73
               },
               {
