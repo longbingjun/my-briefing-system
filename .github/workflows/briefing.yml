@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: briefing-main
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -20,6 +20,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -38,7 +40,12 @@ jobs:
           git config user.name "briefing-bot"
           git config user.email "briefing-bot@users.noreply.github.com"
           git add data public
-          git commit -m "update briefing" || exit 0
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+          git commit -m "update briefing"
+          git pull --rebase origin main
           git push
 
       - uses: actions/configure-pages@v5
@@ -48,4 +55,3 @@ jobs:
           path: public
 
       - uses: actions/deploy-pages@v4
-
