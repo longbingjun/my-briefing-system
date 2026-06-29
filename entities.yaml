@@ -1,11 +1,11 @@
 domains:
   - id: ai_research
     name: AI 研究前沿
-    description: 覆盖预训练、后训练、推理训练、评测、安全、数据与算力基础设施。
+    description: 预训练、后训练、推理训练、评测安全、数据与算力基础设施。
 
   - id: ai_products
     name: AI 产品与 Agent
-    description: 覆盖 Claude Code、Codex、Cursor、AI Agents、工作流自动化与产品化。
+    description: Claude Code、Codex、Cursor、AI Agents、工作流自动化与产品化。
 
   - id: industry_transformation
     name: AI 改造传统领域
@@ -24,6 +24,7 @@ entities:
     name: 预训练
     domain: ai_research
     type: Research
+    pinned: true
     keywords:
       - pretraining
       - pre-training
@@ -44,6 +45,7 @@ entities:
     name: 后训练与对齐
     domain: ai_research
     type: Research
+    pinned: true
     keywords:
       - post-training
       - post training
@@ -65,12 +67,12 @@ entities:
     name: 推理训练与强化学习
     domain: ai_research
     type: Research
+    pinned: true
     keywords:
       - reasoning
       - inference-time compute
       - test-time compute
       - reinforcement learning
-      - rl
       - grpo
       - verifier
       - chain-of-thought
@@ -131,6 +133,7 @@ entities:
     name: AI Agents
     domain: ai_products
     type: Product
+    pinned: true
     keywords:
       - agent
       - agents
@@ -152,6 +155,7 @@ entities:
     name: 编程 Agent
     domain: ai_products
     type: Product
+    pinned: true
     keywords:
       - coding agent
       - claude code
@@ -219,7 +223,6 @@ entities:
       - metric
       - kpi
       - warehouse
-      - bi
       - semantic layer
       - 数据
       - 指标
@@ -231,6 +234,7 @@ entities:
     name: 官方 AI 实验室与公司信号
     domain: official_signals
     type: Signal
+    pinned: true
     keywords:
       - openai
       - anthropic

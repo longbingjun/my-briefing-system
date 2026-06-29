@@ -1,8 +1,8 @@
 # My Briefing System
 
-一个 makino-distilled 风格的个人中文 AI 简报与知识库入口。
+一个参考 Distilled 思路搭建的个人中文 AI 简报系统。
 
-系统目标不是简单聚合 RSS，而是把信息处理成三层结构：
+它不是简单 RSS 列表，而是把信息处理成三层结构：
 
 ```text
 长期关注领域
@@ -13,63 +13,40 @@
 ## 当前能力
 
 1. 定时抓取 RSS 信源。
-2. 按长期领域和实体主题分类。
-3. 对英文标题和摘要生成中文译文。
-4. 为每个实体生成中文趋势摘要。
-5. 输出机器可读的 `watchlist.json`。
-6. 输出人可读的 `digest-latest.md`。
-7. 用 GitHub Pages 展示网页。
+2. 按长期领域和实体主题打分、聚合。
+3. 英文内容可自动翻译成中文标题和摘要。
+4. 可用 OpenAI-compatible 接口接入 Qwen、DeepSeek 或 OpenAI。
+5. 生成今日漏斗、实体追踪、内容分栏、信源画像。
+6. 输出公开 JSON、Markdown、llms.txt。
+7. 通过 GitHub Pages 发布成静态网站。
 
-## 目录结构
+## 公开数据文件
 
-```text
-my-briefing-system/
-├── sources.yaml
-├── entities.yaml
-├── feedback.yaml
-├── requirements.txt
-├── scripts/
-│   └── run_pipeline.py
-├── data/
-│   └── articles.json
-├── public/
-│   ├── index.html
-│   ├── app.js
-│   ├── styles.css
-│   ├── digest-latest.md
-│   └── watchlist.json
-└── .github/
-    └── workflows/
-        └── briefing.yml
-```
-
-## GitHub Actions 配置
-
-仓库推到 GitHub 后，Actions 会每天北京时间 09:25 和 20:25 自动运行。
-
-如果需要英文内容翻译成中文、实体级中文摘要，请在 GitHub 仓库添加 Secret：
+GitHub Actions 每次运行后会在 `public/` 下生成：
 
 ```text
-OPENAI_API_KEY
+public/lists/today.json
+public/lists/watchlist.json
+public/lists/boards.json
+public/lists/article_details.json
+public/lists/sources.json
+public/digest-latest.md
+public/llms.txt
+public/llms-full.txt
 ```
 
-路径：
+页面本身只读取这些静态文件，所以不需要后端服务器。
+
+## 页面结构
 
 ```text
-Settings
--> Secrets and variables
--> Actions
--> New repository secret
+#today    今日导读、蒸馏漏斗、今日值得看
+#watch    实体追踪、30 天热度曲线、今日增量
+#content  学啥 / 读啥 / 做啥 / 忽略
+#sources  信源画像、质量指数、活跃度
+#api      公开 JSON 与 Markdown 入口
+#story    项目背后的处理链路
 ```
-
-可选变量：
-
-```text
-OPENAI_MODEL=gpt-4o-mini
-TRANSLATE_MAX_PER_RUN=80
-```
-
-没有 `OPENAI_API_KEY` 时，系统仍能运行，但只会使用原始标题和规则摘要，不会真正翻译英文内容。
 
 ## 本地运行
 
@@ -78,22 +55,59 @@ pip install -r requirements.txt
 python scripts/run_pipeline.py
 ```
 
-如果要在本地测试翻译和摘要，需要先设置环境变量：
+然后直接打开：
 
-```bash
-export OPENAI_API_KEY=你的密钥
+```text
+public/index.html
 ```
 
-Windows PowerShell：
+## 使用 Qwen 或 DeepSeek
 
-```powershell
-$env:OPENAI_API_KEY="你的密钥"
-python scripts/run_pipeline.py
+不一定要使用 OpenAI API。只要服务商提供 OpenAI-compatible `/chat/completions` 接口，就可以这样配置：
+
+```text
+LLM_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+LLM_MODEL=qwen-plus
+LLM_API_KEY=你的 DashScope Key
 ```
 
-## 长期关注领域
+或者：
 
-默认领域包括：
+```text
+LLM_BASE_URL=https://api.deepseek.com
+LLM_MODEL=deepseek-chat
+LLM_API_KEY=你的 DeepSeek Key
+```
+
+GitHub 仓库里推荐这样设置：
+
+```text
+Settings
+-> Secrets and variables
+-> Actions
+```
+
+Secret:
+
+```text
+LLM_API_KEY
+```
+
+Variables:
+
+```text
+LLM_BASE_URL
+LLM_MODEL
+TRANSLATE_MAX_PER_RUN
+```
+
+如果没有配置 LLM，系统仍然可以运行，只是英文内容不会真正翻译，实体摘要会退化成规则生成。
+
+## 信源维护
+
+信源在 `sources.yaml`，长期关注实体在 `entities.yaml`，个人偏好在 `feedback.yaml`。
+
+当前默认覆盖：
 
 ```text
 AI 研究前沿
@@ -103,48 +117,9 @@ AI 改造传统领域
 财务数字化与成本管理
 ```
 
-## 研究主题覆盖
+## X/Twitter 来源
 
-`entities.yaml` 已覆盖：
-
-```text
-预训练
-后训练与对齐
-推理训练与强化学习
-AI 评测与安全
-AI 基础设施与算力
-AI Agents
-编程 Agent
-AI 产品化
-AI 改造传统领域
-数据分析与指标体系
-官方 AI 实验室与公司信号
-科技圈动态
-成本管理与 FinOps
-成本数据库与项目财务
-```
-
-## 中文优先与个人偏好
-
-`feedback.yaml` 用来调整你的偏好：
-
-```yaml
-language_preference:
-  preferred: zh
-  zh_bonus: 10
-
-boost_keywords:
-  - 预训练
-  - 后训练
-  - 推理训练
-  - 成本数据库
-```
-
-中文优先采用加权方式，不会丢弃 OpenAI、Anthropic、Google DeepMind 等英文一手信源。
-
-## Twitter/X 来源
-
-`sources.yaml` 已预留以下来源，但默认关闭：
+`sources.yaml` 已预留：
 
 ```text
 X / Anthropic
@@ -152,13 +127,33 @@ X / OpenAI
 X / Zara Zhang
 ```
 
-不建议在 GitHub Actions 里直接硬爬 X 页面。更稳的方式是：
+这些默认关闭。更稳的接入方式是：
 
 ```text
 自建 RSSHub
-官方 X API
-手动维护高价值账号链接
+-> 把 X/Twitter 账号转成 RSS
+-> 修改 sources.yaml 的 url
+-> enabled: true
 ```
 
-等有稳定 RSSHub 地址后，把对应 source 的 `enabled` 改成 `true` 即可。
+不建议在 GitHub Actions 里直接爬 X 页面，稳定性和合规风险都比较高。
 
+## GitHub Pages
+
+仓库推到 GitHub 后：
+
+```text
+Settings
+-> Pages
+-> Source: GitHub Actions
+```
+
+然后到：
+
+```text
+Actions
+-> Briefing
+-> Run workflow
+```
+
+运行成功后，Pages 会发布 `public/` 目录。
