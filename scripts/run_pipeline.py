@@ -21,10 +21,13 @@ PUBLIC_DIR = ROOT / "public"
 ARTICLES_PATH = DATA_DIR / "articles.json"
 WATCHLIST_PATH = PUBLIC_DIR / "watchlist.json"
 DIGEST_PATH = PUBLIC_DIR / "digest-latest.md"
+
 MAX_ARTICLE_AGE_DAYS = 30
 MAX_ARTICLES_PER_SOURCE = 30
 MAX_ARTICLES_PER_SECTION = 6
 MATCH_THRESHOLD = 40
+TRANSLATION_BATCH_SIZE = 10
+TRANSLATE_MAX_PER_RUN = int(os.environ.get("TRANSLATE_MAX_PER_RUN", "80"))
 
 
 def main() -> None:
@@ -39,6 +42,7 @@ def main() -> None:
     fetched_articles = fetch_sources(sources)
     articles = merge_articles(existing_articles, fetched_articles)
     articles = keep_recent_articles(articles)
+    articles = enrich_articles_with_chinese(articles)
 
     entity_payloads = build_entities(config.get("entities", []), articles, feedback)
     domain_payloads = build_domains(config.get("domains", []), entity_payloads)
@@ -48,6 +52,7 @@ def main() -> None:
             "article_total": len(articles),
             "entity_curated": len(entity_payloads),
             "domain_total": len(domain_payloads),
+            "translation_enabled": bool(os.environ.get("OPENAI_API_KEY")),
         },
         "domains": domain_payloads,
         "curated_ids": [entity["entity_id"] for entity in entity_payloads],
@@ -96,9 +101,7 @@ def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 continue
 
             summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
-            published_at = parse_entry_date(entry)
             article_id = make_article_id(url, title)
-
             articles.append(
                 {
                     "id": article_id,
@@ -110,7 +113,7 @@ def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
                     "language": source.get("language", "unknown"),
                     "source_weight": float(source.get("weight", 0.7)),
                     "summary": summary,
-                    "published_at": published_at,
+                    "published_at": parse_entry_date(entry),
                     "fetched_at": datetime.now(timezone.utc).isoformat(),
                 }
             )
@@ -118,8 +121,7 @@ def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def parse_entry_date(entry: Any) -> str:
-    candidates = [entry.get("published"), entry.get("updated"), entry.get("created")]
-    for candidate in candidates:
+    for candidate in [entry.get("published"), entry.get("updated"), entry.get("created")]:
         if not candidate:
             continue
         try:
@@ -152,6 +154,68 @@ def keep_recent_articles(articles: list[dict[str, Any]]) -> list[dict[str, Any]]
     return recent
 
 
+def enrich_articles_with_chinese(articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    for article in articles:
+        if article.get("language") == "zh":
+            article["title_zh"] = article.get("title", "")
+            article["summary_zh"] = article.get("summary", "")
+
+    candidates = [
+        article
+        for article in articles
+        if article.get("language") != "zh" and not article.get("title_zh")
+    ][:TRANSLATE_MAX_PER_RUN]
+
+    if not candidates:
+        return articles
+
+    translations = translate_articles_with_openai(candidates)
+    for article in candidates:
+        translated = translations.get(article["id"])
+        if translated:
+            article["title_zh"] = translated.get("title_zh") or article.get("title", "")
+            article["summary_zh"] = translated.get("summary_zh") or article.get("summary", "")
+        else:
+            article["title_zh"] = article.get("title", "")
+            article["summary_zh"] = article.get("summary", "")
+    return articles
+
+
+def translate_articles_with_openai(articles: list[dict[str, Any]]) -> dict[str, dict[str, str]]:
+    if not os.environ.get("OPENAI_API_KEY"):
+        return {}
+
+    translated: dict[str, dict[str, str]] = {}
+    for index in range(0, len(articles), TRANSLATION_BATCH_SIZE):
+        batch = articles[index : index + TRANSLATION_BATCH_SIZE]
+        items = [
+            {
+                "id": article["id"],
+                "title": article.get("title", ""),
+                "summary": article.get("summary", "")[:700],
+            }
+            for article in batch
+        ]
+        prompt = (
+            "你是中文 AI 情报编辑。请把下面英文科技资讯翻译成自然、准确、适合中文简报阅读的中文。"
+            "标题保留常用英文技术名词，摘要控制在 80 字以内。只返回 JSON 数组，不要 Markdown。"
+            "每项格式为 {\"id\":\"...\",\"title_zh\":\"...\",\"summary_zh\":\"...\"}。\n\n"
+            f"{json.dumps(items, ensure_ascii=False)}"
+        )
+        try:
+            content = call_openai_text(prompt, max_tokens=2200)
+            parsed = json.loads(extract_json_array(content))
+            for item in parsed:
+                if isinstance(item, dict) and item.get("id"):
+                    translated[item["id"]] = {
+                        "title_zh": clean_text(item.get("title_zh", "")),
+                        "summary_zh": clean_text(item.get("summary_zh", "")),
+                    }
+        except Exception as error:
+            print(f"Translation batch failed: {error}")
+    return translated
+
+
 def build_domains(domains: list[dict[str, Any]], entities: list[dict[str, Any]]) -> list[dict[str, Any]]:
     by_domain: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for entity in entities:
@@ -160,14 +224,13 @@ def build_domains(domains: list[dict[str, Any]], entities: list[dict[str, Any]])
     payloads = []
     for domain in domains:
         domain_entities = by_domain.get(domain["id"], [])
-        article_count = sum(entity["article_count"] for entity in domain_entities)
         payloads.append(
             {
                 "domain_id": domain["id"],
                 "name": domain["name"],
                 "description": domain.get("description", ""),
                 "entity_count": len(domain_entities),
-                "article_count": article_count,
+                "article_count": sum(entity["article_count"] for entity in domain_entities),
             }
         )
     return payloads
@@ -205,23 +268,19 @@ def build_entities(
                 },
             }
         )
-
     return sorted(payloads, key=lambda item: item["article_count"], reverse=True)
 
 
 def score_article(entity: dict[str, Any], article: dict[str, Any], feedback: dict[str, Any]) -> int:
-    haystack = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    haystack = article_text(article).lower()
     keywords = [str(keyword).lower() for keyword in entity.get("keywords", [])]
     hits = sum(1 for keyword in keywords if keyword in haystack)
     if hits == 0:
         return 0
 
-    source_weight = float(article.get("source_weight", 0.7))
     keyword_score = min(62, 30 + hits * 10)
-    source_score = int(source_weight * 18)
-    freshness_score = freshness_points(article.get("published_at", ""))
-    preference_score = feedback_points(article, haystack, feedback)
-    return max(0, min(100, keyword_score + source_score + freshness_score + preference_score))
+    source_score = int(float(article.get("source_weight", 0.7)) * 18)
+    return max(0, min(100, keyword_score + source_score + freshness_points(article.get("published_at", "")) + feedback_points(article, haystack, feedback)))
 
 
 def feedback_points(article: dict[str, Any], haystack: str, feedback: dict[str, Any]) -> int:
@@ -230,8 +289,7 @@ def feedback_points(article: dict[str, Any], haystack: str, feedback: dict[str, 
     if article.get("language") == language_pref.get("preferred"):
         points += int(language_pref.get("zh_bonus", 0))
 
-    favorite_sources = set(feedback.get("favorite_sources", []))
-    if article.get("source") in favorite_sources:
+    if article.get("source") in set(feedback.get("favorite_sources", [])):
         points += 8
 
     boost_hits = sum(1 for keyword in feedback.get("boost_keywords", []) if str(keyword).lower() in haystack)
@@ -259,23 +317,17 @@ def freshness_points(published_at: str) -> int:
 def build_sections(entity: dict[str, Any], articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
     buckets: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for article in articles:
-        topic = infer_topic(entity, article)
-        buckets[topic].append(article_to_public(article))
+        buckets[infer_topic(entity, article)].append(article_to_public(article))
 
     sections = []
     for topic, topic_articles in buckets.items():
         topic_articles = sorted(topic_articles, key=lambda item: item["score"], reverse=True)
-        sections.append(
-            {
-                "topic": topic,
-                "articles": topic_articles[:MAX_ARTICLES_PER_SECTION],
-            }
-        )
+        sections.append({"topic": topic, "articles": topic_articles[:MAX_ARTICLES_PER_SECTION]})
     return sorted(sections, key=lambda item: len(item["articles"]), reverse=True)
 
 
 def infer_topic(entity: dict[str, Any], article: dict[str, Any]) -> str:
-    text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    text = article_text(article).lower()
     rules = [
         ("预训练/模型架构", ["pretraining", "pre-training", "scaling law", "architecture", "moe", "预训练", "模型架构"]),
         ("后训练/对齐", ["post-training", "alignment", "rlhf", "dpo", "sft", "后训练", "对齐", "微调"]),
@@ -297,8 +349,12 @@ def infer_topic(entity: dict[str, Any], article: dict[str, Any]) -> str:
 
 
 def article_to_public(article: dict[str, Any]) -> dict[str, Any]:
+    title = article.get("title_zh") or article["title"]
+    summary = article.get("summary_zh") or article.get("summary", "")
     return {
-        "title": article["title"],
+        "title": title,
+        "title_original": article["title"],
+        "summary": summary,
         "url": article["url"],
         "link": article["url"],
         "source": article["source"],
@@ -311,7 +367,7 @@ def article_to_public(article: dict[str, Any]) -> dict[str, Any]:
 
 
 def infer_actionability(article: dict[str, Any]) -> int:
-    text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    text = article_text(article).lower()
     score = 35
     if any(term in text for term in ["how to", "guide", "tutorial", "cookbook", "framework", "方法", "教程", "实践", "框架"]):
         score += 30
@@ -328,7 +384,7 @@ def summarize_entity(entity: dict[str, Any], articles: list[dict[str, Any]], sec
         return ai_summary
 
     top_topics = "、".join(section["topic"] for section in sections[:3])
-    top_article = articles[0]["title"]
+    top_article = articles[0].get("title_zh") or articles[0]["title"]
     return f"{entity['name']} 本期匹配 {len(articles)} 篇文章，重点集中在 {top_topics}。建议先看「{top_article}」。"
 
 
@@ -337,11 +393,10 @@ def summarize_with_openai(
     articles: list[dict[str, Any]],
     sections: list[dict[str, Any]],
 ) -> str | None:
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
+    if not os.environ.get("OPENAI_API_KEY"):
         return None
 
-    titles = "\n".join(f"- [{item['score']}] {item['title']}" for item in articles[:12])
+    titles = "\n".join(f"- [{item['score']}] {item.get('title_zh') or item['title']}" for item in articles[:12])
     topics = ", ".join(section["topic"] for section in sections[:5])
     prompt = (
         "你是中文 AI 情报简报编辑。请基于文章标题，用一句中文总结该实体最近值得关注的趋势。"
@@ -350,34 +405,50 @@ def summarize_with_openai(
     )
 
     try:
-        response = requests.post(
-            "https://api.openai.com/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {api_key}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.2,
-                "max_tokens": 180,
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
-        payload = response.json()
-        return payload["choices"][0]["message"]["content"].strip()
+        return call_openai_text(prompt, max_tokens=220).strip()
     except Exception as error:
         print(f"OpenAI summary failed for {entity['id']}: {error}")
         return None
 
 
+def call_openai_text(prompt: str, max_tokens: int) -> str:
+    response = requests.post(
+        "https://api.openai.com/v1/chat/completions",
+        headers={
+            "Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
+            "Content-Type": "application/json",
+        },
+        json={
+            "model": os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.2,
+            "max_tokens": max_tokens,
+        },
+        timeout=45,
+    )
+    response.raise_for_status()
+    return response.json()["choices"][0]["message"]["content"]
+
+
+def extract_json_array(value: str) -> str:
+    value = value.strip()
+    if value.startswith("```"):
+        value = re.sub(r"^```(?:json)?", "", value).strip()
+        value = re.sub(r"```$", "", value).strip()
+    start = value.find("[")
+    end = value.rfind("]")
+    if start == -1 or end == -1 or end < start:
+        raise ValueError("OpenAI response does not contain a JSON array")
+    return value[start : end + 1]
+
+
 def render_digest(watchlist: dict[str, Any]) -> str:
     date_label = datetime.now().strftime("%m-%d")
+    translation_status = "已启用" if watchlist["meta"].get("translation_enabled") else "未启用"
     lines = [
         f"# DISTILLED · {date_label}",
         "",
-        "中文优先 · 研究前沿 · 官方信号 · 行业改造",
+        f"中文优先 · 研究前沿 · 官方信号 · 行业改造 · 翻译摘要：{translation_status}",
         "",
         f"{watchlist['meta']['article_total']} articles · {watchlist['meta']['entity_curated']} entities · {watchlist['meta']['domain_total']} domains",
         "",
@@ -408,6 +479,10 @@ def render_digest(watchlist: dict[str, Any]) -> str:
                         f"  {article['source']} · {article['date']} · actionability {article['actionability']}",
                     ]
                 )
+                if article.get("title_original") and article["title_original"] != article["title"]:
+                    lines.append(f"  原题：{article['title_original']}")
+                if article.get("summary"):
+                    lines.append(f"  摘要：{article['summary']}")
             lines.append("")
         lines.append("---")
         lines.append("")
@@ -421,6 +496,17 @@ def clean_text(value: str) -> str:
     return value.strip()
 
 
+def article_text(article: dict[str, Any]) -> str:
+    return " ".join(
+        [
+            article.get("title", ""),
+            article.get("summary", ""),
+            article.get("title_zh", ""),
+            article.get("summary_zh", ""),
+        ]
+    )
+
+
 def normalize_url(url: str) -> str:
     url = url.strip()
     if not url:
@@ -429,8 +515,7 @@ def normalize_url(url: str) -> str:
 
 
 def make_article_id(url: str, title: str) -> str:
-    digest = hashlib.sha256(f"{url}|{title}".encode("utf-8")).hexdigest()
-    return digest[:16]
+    return hashlib.sha256(f"{url}|{title}".encode("utf-8")).hexdigest()[:16]
 
 
 def format_date(value: str) -> str:

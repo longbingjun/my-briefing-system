@@ -43,9 +43,16 @@ function renderEntity(data, entityId) {
         const language = escapeHtml(article.language || "unknown");
         const date = escapeHtml(article.date || "");
         const actionability = article.actionability ?? "-";
+        const summary = escapeHtml(article.summary || "");
+        const originalTitle =
+          article.title_original && article.title_original !== article.title
+            ? `<div class="article-original">原题：${escapeHtml(article.title_original)}</div>`
+            : "";
         return `
           <article class="article">
             <a href="${url}" target="_blank" rel="noreferrer">${title}</a>
+            ${originalTitle}
+            ${summary ? `<p class="article-summary">${summary}</p>` : ""}
             <div class="article-meta">${source} · ${language} · ${date} · score ${score} · actionability ${actionability}</div>
           </article>
         `;
