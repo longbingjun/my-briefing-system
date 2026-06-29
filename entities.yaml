@@ -1,7 +1,136 @@
+domains:
+  - id: ai_research
+    name: AI 研究前沿
+    description: 覆盖预训练、后训练、推理训练、评测、安全、数据与算力基础设施。
+
+  - id: ai_products
+    name: AI 产品与 Agent
+    description: 覆盖 Claude Code、Codex、Cursor、AI Agents、工作流自动化与产品化。
+
+  - id: industry_transformation
+    name: AI 改造传统领域
+    description: 观察 AI 对软件、数据、财务、制造、供应链、教育、医疗等旧领域的重构。
+
+  - id: official_signals
+    name: 官方信号与科技圈动态
+    description: 官方博客、研究团队、公司账号和高价值个人账号发布的动向。
+
+  - id: finance_digitization
+    name: 财务数字化与成本管理
+    description: 结合你的工作场景，跟踪成本数据库、预算、FinOps、数据指标和自动化。
+
 entities:
+  - id: pretraining
+    name: 预训练
+    domain: ai_research
+    type: Research
+    keywords:
+      - pretraining
+      - pre-training
+      - foundation model
+      - scaling law
+      - data mixture
+      - tokenizer
+      - architecture
+      - transformer
+      - moe
+      - 预训练
+      - 基座模型
+      - 扩展定律
+      - 数据配比
+      - 模型架构
+
+  - id: post_training
+    name: 后训练与对齐
+    domain: ai_research
+    type: Research
+    keywords:
+      - post-training
+      - post training
+      - alignment
+      - rlhf
+      - dpo
+      - rlaif
+      - preference optimization
+      - instruction tuning
+      - supervised fine-tuning
+      - sft
+      - 后训练
+      - 对齐
+      - 偏好优化
+      - 指令微调
+      - 监督微调
+
+  - id: reasoning_training
+    name: 推理训练与强化学习
+    domain: ai_research
+    type: Research
+    keywords:
+      - reasoning
+      - inference-time compute
+      - test-time compute
+      - reinforcement learning
+      - rl
+      - grpo
+      - verifier
+      - chain-of-thought
+      - o1
+      - o3
+      - 推理
+      - 推理训练
+      - 测试时计算
+      - 强化学习
+      - 验证器
+      - 思维链
+
+  - id: ai_evaluation_safety
+    name: AI 评测与安全
+    domain: ai_research
+    type: Research
+    keywords:
+      - benchmark
+      - eval
+      - evaluation
+      - safety
+      - red teaming
+      - jailbreak
+      - hallucination
+      - robustness
+      - system card
+      - 评测
+      - 安全
+      - 红队
+      - 越狱
+      - 幻觉
+      - 鲁棒性
+      - 系统卡
+
+  - id: ai_infra
+    name: AI 基础设施与算力
+    domain: ai_research
+    type: Infrastructure
+    keywords:
+      - inference
+      - serving
+      - gpu
+      - tpu
+      - cuda
+      - kernel
+      - quantization
+      - distillation
+      - speculative decoding
+      - memory
+      - 算力
+      - 推理服务
+      - 量化
+      - 蒸馏
+      - 投机解码
+      - 显存
+
   - id: ai_agents
     name: AI Agents
-    type: Concept
+    domain: ai_products
+    type: Product
     keywords:
       - agent
       - agents
@@ -9,59 +138,79 @@ entities:
       - workflow
       - autonomous
       - claude code
+      - codex
+      - cursor
+      - computer use
+      - mcp
+      - skill
+      - 智能体
+      - 工具调用
+      - 工作流
+      - 自动化
+
+  - id: coding_agents
+    name: 编程 Agent
+    domain: ai_products
+    type: Product
+    keywords:
       - coding agent
+      - claude code
+      - codex
+      - cursor
+      - copilot
+      - devin
+      - code generation
+      - software engineering agent
+      - 编程 Agent
+      - 代码生成
+      - 软件工程
 
-  - id: llm_models
-    name: 大模型
-    type: Concept
+  - id: ai_products
+    name: AI 产品化
+    domain: ai_products
+    type: Product
     keywords:
-      - model
-      - llm
-      - gpt
-      - claude
-      - gemini
-      - deepseek
-      - qwen
-      - llama
-
-  - id: open_source_ai
-    name: 开源 AI
-    type: Concept
-    keywords:
-      - open source
-      - github
-      - release
-      - apache
-      - mit license
-      - model weights
-
-  - id: ai_product
-    name: AI 产品
-    type: Domain
-    keywords:
+      - ai product
       - product
       - app
-      - user experience
-      - workflow
       - launch
       - beta
-
-  - id: cost_management
-    name: 成本管理
-    type: Domain
-    keywords:
-      - cost
+      - user experience
+      - workflow
       - pricing
-      - budget
-      - spend
-      - finops
-      - token
-      - 成本
-      - 预算
-      - 财务
+      - monetization
+      - AI 产品
+      - 产品化
+      - 用户体验
+      - 商业化
+
+  - id: domain_transformation
+    name: AI 改造传统领域
+    domain: industry_transformation
+    type: Industry
+    keywords:
+      - automation
+      - digital transformation
+      - enterprise ai
+      - ai workflow
+      - healthcare
+      - education
+      - manufacturing
+      - supply chain
+      - finance
+      - legal
+      - 自动化
+      - 数字化转型
+      - 企业 AI
+      - 制造
+      - 供应链
+      - 医疗
+      - 教育
+      - 法律
 
   - id: data_analytics
-    name: 数据分析
+    name: 数据分析与指标体系
+    domain: industry_transformation
     type: Domain
     keywords:
       - data
@@ -70,6 +219,86 @@ entities:
       - metric
       - kpi
       - warehouse
+      - bi
+      - semantic layer
       - 数据
       - 指标
+      - 看板
+      - 数据仓库
+      - 语义层
 
+  - id: official_ai_labs
+    name: 官方 AI 实验室与公司信号
+    domain: official_signals
+    type: Signal
+    keywords:
+      - openai
+      - anthropic
+      - deepmind
+      - google ai
+      - meta ai
+      - mistral
+      - xai
+      - zarazhang
+      - official
+      - release
+      - research
+      - 官方
+      - 发布
+      - 研究
+
+  - id: tech_circle
+    name: 科技圈动态
+    domain: official_signals
+    type: Signal
+    keywords:
+      - twitter
+      - x.com
+      - thread
+      - founder
+      - researcher
+      - startup
+      - funding
+      - acquisition
+      - policy
+      - 科技圈
+      - 创业
+      - 融资
+      - 收购
+      - 政策
+
+  - id: cost_management
+    name: 成本管理与 FinOps
+    domain: finance_digitization
+    type: Domain
+    keywords:
+      - cost
+      - pricing
+      - budget
+      - spend
+      - finops
+      - token
+      - cloud cost
+      - unit economics
+      - 成本
+      - 预算
+      - 财务
+      - 单位经济
+      - 云成本
+
+  - id: cost_database
+    name: 成本数据库与项目财务
+    domain: finance_digitization
+    type: Domain
+    keywords:
+      - cost database
+      - project finance
+      - product cost
+      - bom
+      - quote
+      - margin
+      - 成本数据库
+      - 项目财务
+      - 产品成本
+      - 报价
+      - 毛利

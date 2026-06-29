@@ -14,7 +14,7 @@ function renderEntityList(data, selectedId) {
     const button = document.createElement("button");
     button.className = `entity-button${entity.entity_id === selectedId ? " active" : ""}`;
     button.type = "button";
-    button.innerHTML = `${entity.display}<span>${entity.type} · ${entity.article_count || 0} articles</span>`;
+    button.innerHTML = `${entity.display}<span>${entity.domain || "general"} · ${entity.article_count || 0} articles</span>`;
     button.addEventListener("click", () => renderEntity(data, entity.entity_id));
     list.appendChild(button);
   });
@@ -40,11 +40,13 @@ function renderEntity(data, entityId) {
         const url = article.url || article.link || "#";
         const score = article.score ?? "-";
         const source = escapeHtml(article.source || "Unknown");
+        const language = escapeHtml(article.language || "unknown");
         const date = escapeHtml(article.date || "");
+        const actionability = article.actionability ?? "-";
         return `
           <article class="article">
             <a href="${url}" target="_blank" rel="noreferrer">${title}</a>
-            <div class="article-meta">${source} · ${date} · score ${score}</div>
+            <div class="article-meta">${source} · ${language} · ${date} · score ${score} · actionability ${actionability}</div>
           </article>
         `;
       })
@@ -86,4 +88,3 @@ loadWatchlist()
     document.getElementById("entityTitle").textContent = "Unable to load data";
     document.getElementById("summary").textContent = error.message;
   });
-

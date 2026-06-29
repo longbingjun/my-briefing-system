@@ -1,0 +1,36 @@
+language_preference:
+  preferred: zh
+  zh_bonus: 10
+
+boost_keywords:
+  - 预训练
+  - 后训练
+  - 推理训练
+  - 强化学习
+  - Agent
+  - Claude Code
+  - Codex
+  - 成本数据库
+  - 项目财务
+  - 财务数字化
+  - AI 自动化
+  - zarazhang
+  - Anthropic
+
+mute_keywords:
+  - 纯融资新闻
+  - 明星八卦
+  - 营销稿
+  - 标题党
+
+favorite_sources:
+  - OpenAI Blog
+  - Anthropic News
+  - Google DeepMind
+  - Simon Willison
+  - 机器之心
+  - 量子位
+
+notes:
+  - Twitter/X 来源建议通过自建 RSSHub、官方 API 或手动维护高价值账号列表接入。
+  - 中文优先不是只保留中文，而是中文内容加权；官方英文源仍保留，因为一手信息通常最早。

@@ -24,27 +24,32 @@ DIGEST_PATH = PUBLIC_DIR / "digest-latest.md"
 MAX_ARTICLE_AGE_DAYS = 30
 MAX_ARTICLES_PER_SOURCE = 30
 MAX_ARTICLES_PER_SECTION = 6
+MATCH_THRESHOLD = 40
 
 
 def main() -> None:
     DATA_DIR.mkdir(exist_ok=True)
     PUBLIC_DIR.mkdir(exist_ok=True)
 
+    config = load_yaml(ROOT / "entities.yaml")
     sources = load_yaml(ROOT / "sources.yaml").get("sources", [])
-    entities = load_yaml(ROOT / "entities.yaml").get("entities", [])
+    feedback = load_yaml(ROOT / "feedback.yaml")
     existing_articles = load_json(ARTICLES_PATH, [])
 
     fetched_articles = fetch_sources(sources)
     articles = merge_articles(existing_articles, fetched_articles)
     articles = keep_recent_articles(articles)
 
-    entity_payloads = build_entities(entities, articles)
+    entity_payloads = build_entities(config.get("entities", []), articles, feedback)
+    domain_payloads = build_domains(config.get("domains", []), entity_payloads)
     watchlist = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "meta": {
             "article_total": len(articles),
             "entity_curated": len(entity_payloads),
+            "domain_total": len(domain_payloads),
         },
+        "domains": domain_payloads,
         "curated_ids": [entity["entity_id"] for entity in entity_payloads],
         "entities": entity_payloads,
     }
@@ -55,6 +60,8 @@ def main() -> None:
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {}
     with path.open("r", encoding="utf-8") as file:
         return yaml.safe_load(file) or {}
 
@@ -73,10 +80,15 @@ def write_json(path: Path, payload: Any) -> None:
 def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
     articles: list[dict[str, Any]] = []
     for source in sources:
+        if source.get("enabled", True) is False:
+            continue
         if source.get("type") != "rss":
             continue
 
         feed = feedparser.parse(source["url"])
+        if getattr(feed, "bozo", False):
+            print(f"Feed warning: {source.get('name', source['id'])} may be unavailable")
+
         for entry in feed.entries[:MAX_ARTICLES_PER_SOURCE]:
             title = clean_text(entry.get("title", "Untitled"))
             url = normalize_url(entry.get("link", ""))
@@ -94,6 +106,8 @@ def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
                     "url": url,
                     "source": source.get("name", source["id"]),
                     "source_id": source["id"],
+                    "source_group": source.get("group", "general"),
+                    "language": source.get("language", "unknown"),
                     "source_weight": float(source.get("weight", 0.7)),
                     "summary": summary,
                     "published_at": published_at,
@@ -104,11 +118,7 @@ def fetch_sources(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def parse_entry_date(entry: Any) -> str:
-    candidates = [
-        entry.get("published"),
-        entry.get("updated"),
-        entry.get("created"),
-    ]
+    candidates = [entry.get("published"), entry.get("updated"), entry.get("created")]
     for candidate in candidates:
         if not candidate:
             continue
@@ -142,13 +152,38 @@ def keep_recent_articles(articles: list[dict[str, Any]]) -> list[dict[str, Any]]
     return recent
 
 
-def build_entities(entities: list[dict[str, Any]], articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def build_domains(domains: list[dict[str, Any]], entities: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_domain: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for entity in entities:
+        by_domain[entity.get("domain", "uncategorized")].append(entity)
+
+    payloads = []
+    for domain in domains:
+        domain_entities = by_domain.get(domain["id"], [])
+        article_count = sum(entity["article_count"] for entity in domain_entities)
+        payloads.append(
+            {
+                "domain_id": domain["id"],
+                "name": domain["name"],
+                "description": domain.get("description", ""),
+                "entity_count": len(domain_entities),
+                "article_count": article_count,
+            }
+        )
+    return payloads
+
+
+def build_entities(
+    entities: list[dict[str, Any]],
+    articles: list[dict[str, Any]],
+    feedback: dict[str, Any],
+) -> list[dict[str, Any]]:
     payloads = []
     for entity in entities:
         matched = []
         for article in articles:
-            score = score_article(entity, article)
-            if score >= 40:
+            score = score_article(entity, article, feedback)
+            if score >= MATCH_THRESHOLD:
                 matched.append({**article, "score": score})
 
         matched = sorted(matched, key=lambda item: item["score"], reverse=True)
@@ -160,6 +195,7 @@ def build_entities(entities: list[dict[str, Any]], articles: list[dict[str, Any]
             {
                 "entity_id": entity["id"],
                 "display": entity["name"],
+                "domain": entity.get("domain", "uncategorized"),
                 "type": entity.get("type", "Concept"),
                 "article_count": len(matched),
                 "last_updated": datetime.now(timezone.utc).isoformat(),
@@ -173,7 +209,7 @@ def build_entities(entities: list[dict[str, Any]], articles: list[dict[str, Any]
     return sorted(payloads, key=lambda item: item["article_count"], reverse=True)
 
 
-def score_article(entity: dict[str, Any], article: dict[str, Any]) -> int:
+def score_article(entity: dict[str, Any], article: dict[str, Any], feedback: dict[str, Any]) -> int:
     haystack = f"{article.get('title', '')} {article.get('summary', '')}".lower()
     keywords = [str(keyword).lower() for keyword in entity.get("keywords", [])]
     hits = sum(1 for keyword in keywords if keyword in haystack)
@@ -181,10 +217,28 @@ def score_article(entity: dict[str, Any], article: dict[str, Any]) -> int:
         return 0
 
     source_weight = float(article.get("source_weight", 0.7))
-    keyword_score = min(70, 35 + hits * 12)
-    source_score = int(source_weight * 20)
+    keyword_score = min(62, 30 + hits * 10)
+    source_score = int(source_weight * 18)
     freshness_score = freshness_points(article.get("published_at", ""))
-    return min(100, keyword_score + source_score + freshness_score)
+    preference_score = feedback_points(article, haystack, feedback)
+    return max(0, min(100, keyword_score + source_score + freshness_score + preference_score))
+
+
+def feedback_points(article: dict[str, Any], haystack: str, feedback: dict[str, Any]) -> int:
+    points = 0
+    language_pref = feedback.get("language_preference", {})
+    if article.get("language") == language_pref.get("preferred"):
+        points += int(language_pref.get("zh_bonus", 0))
+
+    favorite_sources = set(feedback.get("favorite_sources", []))
+    if article.get("source") in favorite_sources:
+        points += 8
+
+    boost_hits = sum(1 for keyword in feedback.get("boost_keywords", []) if str(keyword).lower() in haystack)
+    mute_hits = sum(1 for keyword in feedback.get("mute_keywords", []) if str(keyword).lower() in haystack)
+    points += min(16, boost_hits * 4)
+    points -= min(30, mute_hits * 12)
+    return points
 
 
 def freshness_points(published_at: str) -> int:
@@ -222,16 +276,23 @@ def build_sections(entity: dict[str, Any], articles: list[dict[str, Any]]) -> li
 
 def infer_topic(entity: dict[str, Any], article: dict[str, Any]) -> str:
     text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
-    if any(term in text for term in ["release", "launch", "announce", "发布", "上线"]):
-        return "产品发布"
-    if any(term in text for term in ["agent", "workflow", "tool use", "claude code"]):
-        return "Agent 工作流"
-    if any(term in text for term in ["cost", "pricing", "token", "budget", "finops", "成本", "预算"]):
-        return "成本与效率"
-    if any(term in text for term in ["open source", "github", "license", "开源"]):
-        return "开源动态"
-    if any(term in text for term in ["data", "analytics", "metric", "dashboard", "数据", "指标"]):
-        return "数据与指标"
+    rules = [
+        ("预训练/模型架构", ["pretraining", "pre-training", "scaling law", "architecture", "moe", "预训练", "模型架构"]),
+        ("后训练/对齐", ["post-training", "alignment", "rlhf", "dpo", "sft", "后训练", "对齐", "微调"]),
+        ("推理训练/测试时计算", ["reasoning", "test-time", "inference-time", "grpo", "verifier", "推理训练", "强化学习", "测试时计算"]),
+        ("评测/安全", ["benchmark", "eval", "safety", "red team", "jailbreak", "system card", "评测", "安全", "红队"]),
+        ("Agent 工作流", ["agent", "tool use", "workflow", "claude code", "codex", "mcp", "智能体", "工具调用", "工作流"]),
+        ("AI 基础设施", ["gpu", "inference", "serving", "quantization", "distillation", "cuda", "算力", "推理服务", "量化", "蒸馏"]),
+        ("产品发布", ["release", "launch", "announce", "beta", "发布", "上线", "推出"]),
+        ("开源动态", ["open source", "github", "license", "model weights", "开源"]),
+        ("成本与效率", ["cost", "pricing", "token", "budget", "finops", "成本", "预算", "效率"]),
+        ("数据与指标", ["data", "analytics", "metric", "dashboard", "kpi", "数据", "指标", "看板"]),
+        ("官方/科技圈信号", ["twitter", "x.com", "official", "founder", "researcher", "官方", "科技圈", "融资"]),
+        ("行业改造", ["enterprise", "workflow", "automation", "finance", "manufacturing", "supply chain", "企业", "自动化", "制造", "供应链"]),
+    ]
+    for topic, terms in rules:
+        if any(term in text for term in terms):
+            return topic
     return entity["name"]
 
 
@@ -241,23 +302,34 @@ def article_to_public(article: dict[str, Any]) -> dict[str, Any]:
         "url": article["url"],
         "link": article["url"],
         "source": article["source"],
+        "source_group": article.get("source_group", "general"),
+        "language": article.get("language", "unknown"),
         "date": format_date(article.get("published_at", "")),
         "score": article["score"],
+        "actionability": infer_actionability(article),
     }
 
 
-def summarize_entity(
-    entity: dict[str, Any],
-    articles: list[dict[str, Any]],
-    sections: list[dict[str, Any]],
-) -> str:
+def infer_actionability(article: dict[str, Any]) -> int:
+    text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    score = 35
+    if any(term in text for term in ["how to", "guide", "tutorial", "cookbook", "framework", "方法", "教程", "实践", "框架"]):
+        score += 30
+    if any(term in text for term in ["github", "open source", "api", "sdk", "release", "开源", "工具", "模板"]):
+        score += 20
+    if any(term in text for term in ["funding", "融资", "估值"]):
+        score -= 15
+    return max(0, min(100, score))
+
+
+def summarize_entity(entity: dict[str, Any], articles: list[dict[str, Any]], sections: list[dict[str, Any]]) -> str:
     ai_summary = summarize_with_openai(entity, articles, sections)
     if ai_summary:
         return ai_summary
 
     top_topics = "、".join(section["topic"] for section in sections[:3])
     top_article = articles[0]["title"]
-    return f"{entity['name']} 本期共匹配 {len(articles)} 篇文章，重点集中在 {top_topics}。最值得先看的是「{top_article}」。"
+    return f"{entity['name']} 本期匹配 {len(articles)} 篇文章，重点集中在 {top_topics}。建议先看「{top_article}」。"
 
 
 def summarize_with_openai(
@@ -272,8 +344,8 @@ def summarize_with_openai(
     titles = "\n".join(f"- [{item['score']}] {item['title']}" for item in articles[:12])
     topics = ", ".join(section["topic"] for section in sections[:5])
     prompt = (
-        "你是个人情报简报编辑。请基于文章标题，用一句中文总结该实体最近值得关注的趋势。"
-        "不要泛泛而谈，要指出具体方向。控制在 80 字以内。\n\n"
+        "你是中文 AI 情报简报编辑。请基于文章标题，用一句中文总结该实体最近值得关注的趋势。"
+        "不要泛泛而谈，要指出具体方向、技术阶段或应用场景。控制在 90 字以内。\n\n"
         f"实体：{entity['name']}\n主题：{topics}\n文章：\n{titles}"
     )
 
@@ -305,13 +377,18 @@ def render_digest(watchlist: dict[str, Any]) -> str:
     lines = [
         f"# DISTILLED · {date_label}",
         "",
-        "Don't scroll. Distill.",
+        "中文优先 · 研究前沿 · 官方信号 · 行业改造",
         "",
-        f"{watchlist['meta']['article_total']} articles · {watchlist['meta']['entity_curated']} entities",
+        f"{watchlist['meta']['article_total']} articles · {watchlist['meta']['entity_curated']} entities · {watchlist['meta']['domain_total']} domains",
         "",
-        "━━━ WATCHING ━━━",
+        "━━━ DOMAINS ━━━",
         "",
     ]
+
+    for domain in watchlist.get("domains", []):
+        lines.append(f"- {domain['name']}：{domain['article_count']} articles / {domain['entity_count']} entities")
+
+    lines.extend(["", "━━━ WATCHING ━━━", ""])
 
     for entity in watchlist["entities"]:
         lines.extend(
@@ -328,7 +405,7 @@ def render_digest(watchlist: dict[str, Any]) -> str:
                 lines.extend(
                     [
                         f"- [{article['score']}] [{article['title']}]({article['url']})",
-                        f"  {article['source']} · {article['date']}",
+                        f"  {article['source']} · {article['date']} · actionability {article['actionability']}",
                     ]
                 )
             lines.append("")
@@ -365,4 +442,3 @@ def format_date(value: str) -> str:
 
 if __name__ == "__main__":
     main()
-

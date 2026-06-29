@@ -1,49 +1,161 @@
 sources:
+  # Official AI labs and company blogs
   - id: openai_blog
     name: OpenAI Blog
     type: rss
+    group: official
+    language: en
     url: https://openai.com/news/rss.xml
-    weight: 0.95
+    weight: 0.98
 
   - id: anthropic_news
     name: Anthropic News
     type: rss
+    group: official
+    language: en
     url: https://www.anthropic.com/news/rss.xml
-    weight: 0.95
+    weight: 0.98
 
   - id: google_ai_blog
     name: Google AI Blog
     type: rss
+    group: official
+    language: en
     url: https://blog.google/technology/ai/rss/
-    weight: 0.85
+    weight: 0.9
+
+  - id: google_deepmind_blog
+    name: Google DeepMind
+    type: rss
+    group: official
+    language: en
+    url: https://deepmind.google/discover/blog/rss.xml
+    weight: 0.94
 
   - id: microsoft_ai_blog
     name: Microsoft AI Blog
     type: rss
+    group: official
+    language: en
     url: https://blogs.microsoft.com/ai/feed/
-    weight: 0.85
+    weight: 0.86
 
   - id: huggingface_blog
     name: Hugging Face Blog
     type: rss
+    group: official
+    language: en
     url: https://huggingface.co/blog/feed.xml
-    weight: 0.85
-
-  - id: simon_willison
-    name: Simon Willison
-    type: rss
-    url: https://simonwillison.net/atom/everything/
-    weight: 0.8
+    weight: 0.86
 
   - id: github_blog
     name: GitHub Blog
     type: rss
+    group: official
+    language: en
     url: https://github.blog/feed/
-    weight: 0.75
+    weight: 0.78
 
+  # Research and engineering signals
+  - id: simon_willison
+    name: Simon Willison
+    type: rss
+    group: individual
+    language: en
+    url: https://simonwillison.net/atom/everything/
+    weight: 0.86
+
+  - id: arxiv_ai
+    name: arXiv AI
+    type: rss
+    group: research
+    language: en
+    url: http://export.arxiv.org/rss/cs.AI
+    weight: 0.72
+
+  - id: arxiv_lg
+    name: arXiv Machine Learning
+    type: rss
+    group: research
+    language: en
+    url: http://export.arxiv.org/rss/cs.LG
+    weight: 0.72
+
+  - id: arxiv_cl
+    name: arXiv Computation and Language
+    type: rss
+    group: research
+    language: en
+    url: http://export.arxiv.org/rss/cs.CL
+    weight: 0.72
+
+  # Chinese AI and tech media. These are preferred for Chinese reading.
+  - id: jiqizhixin
+    name: 机器之心
+    type: rss
+    group: chinese_media
+    language: zh
+    url: https://www.jiqizhixin.com/rss
+    weight: 0.84
+
+  - id: qbitai
+    name: 量子位
+    type: rss
+    group: chinese_media
+    language: zh
+    url: https://www.qbitai.com/feed
+    weight: 0.82
+
+  - id: ithome
+    name: IT之家
+    type: rss
+    group: chinese_media
+    language: zh
+    url: https://www.ithome.com/rss/
+    weight: 0.62
+
+  - id: infoq_cn
+    name: InfoQ 中文
+    type: rss
+    group: chinese_media
+    language: zh
+    url: https://www.infoq.cn/feed
+    weight: 0.68
+
+  # Finance, product, and business context
   - id: stripe_blog
     name: Stripe Blog
     type: rss
+    group: business
+    language: en
     url: https://stripe.com/blog/feed.rss
     weight: 0.7
 
+  # X/Twitter via RSSHub. Disabled by default because public RSSHub and X scraping are unstable.
+  # To use these, self-host RSSHub or replace rsshub.app with a reliable RSSHub endpoint.
+  - id: x_anthropic
+    name: X / Anthropic
+    type: rss
+    group: x_official
+    language: en
+    url: https://rsshub.app/twitter/user/AnthropicAI
+    weight: 0.92
+    enabled: false
+
+  - id: x_openai
+    name: X / OpenAI
+    type: rss
+    group: x_official
+    language: en
+    url: https://rsshub.app/twitter/user/OpenAI
+    weight: 0.92
+    enabled: false
+
+  - id: x_zarazhang
+    name: X / Zara Zhang
+    type: rss
+    group: x_individual
+    language: en
+    url: https://rsshub.app/twitter/user/zarazhang
+    weight: 0.86
+    enabled: false
