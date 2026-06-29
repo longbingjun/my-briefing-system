@@ -1,6 +1,9 @@
 name: Briefing
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "25 1,12 * * *"
   workflow_dispatch:
