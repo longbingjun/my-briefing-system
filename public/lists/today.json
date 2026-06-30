@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "edition": "daily",
-  "generated_at": "2026-06-29T17:18:34.988589+00:00",
+  "generated_at": "2026-06-30T05:35:36.831010+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 338,
+    "total_scanned": 467,
     "picks_count": 7,
     "est_read_minutes": 11,
-    "est_saved_hours": 13.9
+    "est_saved_hours": 19.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 126 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 168 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 126 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 168 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 126 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 168 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 87 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。",
+        "text": "AI Agents 本期匹配 120 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 87 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 120 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 42 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。",
+        "text": "推理训练与强化学习 本期匹配 69 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 42 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 69 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 91,
+        "articles_7d": 133,
         "direction": "up",
-        "today_count": 77
+        "today_count": 86
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 55,
+        "articles_7d": 88,
         "direction": "up",
-        "today_count": 47
+        "today_count": 53
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 35,
+        "articles_7d": 62,
         "direction": "up",
-        "today_count": 34
+        "today_count": 31
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 32,
+        "articles_7d": 51,
         "direction": "up",
-        "today_count": 30
+        "today_count": 22
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 14,
+        "articles_7d": 29,
         "direction": "up",
-        "today_count": 14
+        "today_count": 16
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 9,
-        "direction": "down",
-        "today_count": 7
+        "articles_7d": 11,
+        "direction": "up",
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 93,
+        "articles_7d": 162,
         "direction": "up",
         "today_count": 86
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 86,
+        "articles_7d": 146,
         "direction": "up",
-        "today_count": 66
+        "today_count": 82
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 336
+    "word_count": 337
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-06-29",
-      "published_at": "2026-06-29T17:18:26.301954+00:00",
+      "date": "2026-06-30",
+      "published_at": "2026-06-30T05:35:26.532805+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-06-29",
-      "published_at": "2026-06-29T17:18:26.300843+00:00",
+      "date": "2026-06-30",
+      "published_at": "2026-06-30T05:35:26.531644+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -250,8 +250,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-06-29",
-      "published_at": "2026-06-29T17:18:26.301996+00:00",
+      "date": "2026-06-30",
+      "published_at": "2026-06-30T05:35:26.532847+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -271,8 +271,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-06-29",
-      "published_at": "2026-06-29T17:18:26.300418+00:00",
+      "date": "2026-06-30",
+      "published_at": "2026-06-30T05:35:26.531219+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -326,29 +326,89 @@
   ],
   "trending": [
     {
+      "keyword": "models",
+      "mention_count": 403,
+      "source_count": 7
+    },
+    {
       "keyword": "model",
-      "mention_count": 236,
+      "mention_count": 387,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 232,
+      "mention_count": 381,
       "source_count": 8
     },
     {
-      "keyword": "models",
-      "mention_count": 229,
-      "source_count": 7
-    },
-    {
       "keyword": "are",
-      "mention_count": 202,
+      "mention_count": 328,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 202,
+      "mention_count": 315,
       "source_count": 7
+    },
+    {
+      "keyword": "type",
+      "mention_count": 299,
+      "source_count": 4
+    },
+    {
+      "keyword": "abstract",
+      "mention_count": 282,
+      "source_count": 3
+    },
+    {
+      "keyword": "arxiv",
+      "mention_count": 275,
+      "source_count": 3
+    },
+    {
+      "keyword": "announce",
+      "mention_count": 275,
+      "source_count": 3
+    },
+    {
+      "keyword": "data",
+      "mention_count": 225,
+      "source_count": 8
+    },
+    {
+      "keyword": "which",
+      "mention_count": 222,
+      "source_count": 6
+    },
+    {
+      "keyword": "之家",
+      "mention_count": 204,
+      "source_count": 1
+    },
+    {
+      "keyword": "but",
+      "mention_count": 203,
+      "source_count": 5
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 194,
+      "source_count": 1
+    },
+    {
+      "keyword": "agent",
+      "mention_count": 193,
+      "source_count": 9
+    },
+    {
+      "keyword": "not",
+      "mention_count": 191,
+      "source_count": 5
+    },
+    {
+      "keyword": "across",
+      "mention_count": 188,
+      "source_count": 9
     },
     {
       "keyword": "datasette",
@@ -356,79 +416,19 @@
       "source_count": 1
     },
     {
-      "keyword": "which",
-      "mention_count": 155,
-      "source_count": 6
-    },
-    {
-      "keyword": "type",
-      "mention_count": 155,
-      "source_count": 4
-    },
-    {
-      "keyword": "claude",
-      "mention_count": 146,
-      "source_count": 4
-    },
-    {
-      "keyword": "code",
-      "mention_count": 145,
-      "source_count": 9
-    },
-    {
-      "keyword": "data",
-      "mention_count": 141,
-      "source_count": 8
-    },
-    {
-      "keyword": "abstract",
-      "mention_count": 139,
-      "source_count": 3
-    },
-    {
-      "keyword": "之家",
-      "mention_count": 138,
-      "source_count": 1
-    },
-    {
-      "keyword": "日消息",
-      "mention_count": 138,
-      "source_count": 1
-    },
-    {
-      "keyword": "but",
-      "mention_count": 137,
-      "source_count": 5
-    },
-    {
-      "keyword": "arxiv",
-      "mention_count": 135,
-      "source_count": 3
-    },
-    {
-      "keyword": "announce",
-      "mention_count": 135,
-      "source_count": 3
-    },
-    {
-      "keyword": "how",
-      "mention_count": 131,
-      "source_count": 9
-    },
-    {
       "keyword": "more",
-      "mention_count": 129,
+      "mention_count": 180,
       "source_count": 7
     },
     {
-      "keyword": "was",
-      "mention_count": 123,
-      "source_count": 2
+      "keyword": "claude",
+      "mention_count": 176,
+      "source_count": 4
     }
   ],
   "quality": {
-    "scored": 194,
-    "must_read_count": 144,
-    "avg_score": 74.6
+    "scored": 253,
+    "must_read_count": 172,
+    "avg_score": 73.8
   }
 }
