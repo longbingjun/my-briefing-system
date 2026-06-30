@@ -5,6 +5,8 @@ const state = {
   sources: null,
   articleDetails: null,
   board: "all",
+  loading: true,
+  errors: [],
 };
 
 const routeTitles = {
@@ -23,14 +25,23 @@ async function fetchJson(path) {
 }
 
 async function loadData() {
-  const [today, watchlist, boards, sources, articleDetails] = await Promise.all([
-    fetchJson("./lists/today.json"),
-    fetchJson("./lists/watchlist.json"),
-    fetchJson("./lists/boards.json"),
-    fetchJson("./lists/sources.json"),
-    fetchJson("./lists/article_details.json"),
-  ]);
-  Object.assign(state, { today, watchlist, boards, sources, articleDetails });
+  const endpoints = [
+    ["today", "./lists/today.json"],
+    ["watchlist", "./lists/watchlist.json"],
+    ["boards", "./lists/boards.json"],
+    ["sources", "./lists/sources.json"],
+    ["articleDetails", "./lists/article_details.json"],
+  ];
+  const results = await Promise.allSettled(endpoints.map(([, path]) => fetchJson(path)));
+  results.forEach((result, index) => {
+    const [key, path] = endpoints[index];
+    if (result.status === "fulfilled") {
+      state[key] = result.value;
+    } else {
+      state.errors.push(`${path}: ${result.reason?.message || result.reason}`);
+    }
+  });
+  state.loading = false;
 }
 
 function currentRoute() {
@@ -43,7 +54,9 @@ function setHeader(route) {
   const funnel = state.today?.funnel;
   document.getElementById("pageMeta").textContent = funnel
     ? `${state.today.date} · ${funnel.sources_active} 信源 · ${funnel.total_scanned} 扫描 · ${funnel.picks_count} 值得看 · ${generated} 更新`
-    : "正在加载...";
+    : state.loading
+      ? "正在加载数据..."
+      : "数据未完整加载，请刷新或稍后再试";
   document.querySelectorAll("[data-route]").forEach((item) => {
     item.classList.toggle("active", item.dataset.route === route);
   });
@@ -63,8 +76,22 @@ function render() {
   bindCopyButtons();
 }
 
+function renderLoading(label) {
+  const errorList = state.errors.length
+    ? `<ul class="error-list">${state.errors.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`
+    : "";
+  return `
+    <section class="panel state-panel">
+      <h2>${state.loading ? "正在加载" : "数据加载不完整"}</h2>
+      <p>${escapeHtml(label)}还没有准备好。你可以先打开 API 或项目背后页面，或者刷新当前页面。</p>
+      ${errorList}
+    </section>
+  `;
+}
+
 function renderToday() {
   const { today } = state;
+  if (!today) return renderLoading("今日数据");
   const f = today.funnel;
   return `
     <section class="hero-grid">
@@ -111,6 +138,7 @@ function renderDigestParagraph(item) {
 }
 
 function renderWatch() {
+  if (!state.watchlist) return renderLoading("实体数据");
   const pinned = state.watchlist.entities.filter((item) => item.pinned);
   const others = state.watchlist.entities.filter((item) => !item.pinned);
   return `
@@ -140,6 +168,7 @@ function renderEntityRow(entity) {
 }
 
 function renderContent() {
+  if (!state.boards) return renderLoading("内容数据");
   const all = state.boards._all_articles || [];
   const boardItems = state.board === "all" ? all : state.boards.boards[state.board]?.items || [];
   return `
@@ -187,6 +216,7 @@ function renderArticle(article) {
 }
 
 function renderSources() {
+  if (!state.sources) return renderLoading("信源数据");
   const sources = state.sources.all_sources || [];
   const active = sources.filter((item) => item.enabled);
   const disabled = sources.filter((item) => !item.enabled);
@@ -300,12 +330,11 @@ function escapeAttr(value) {
   return escapeHtml(value).replaceAll("\n", "&#10;");
 }
 
+window.addEventListener("hashchange", render);
+render();
 loadData()
-  .then(() => {
-    render();
-    window.addEventListener("hashchange", render);
-  })
   .catch((error) => {
-    document.getElementById("pageMeta").textContent = "加载失败";
-    document.getElementById("view").innerHTML = `<section class="panel"><h2>无法加载情报数据</h2><p>${escapeHtml(error.message)}</p></section>`;
-  });
+    state.errors.push(error.message || String(error));
+    state.loading = false;
+  })
+  .finally(render);

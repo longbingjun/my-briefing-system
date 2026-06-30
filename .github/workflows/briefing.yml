@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: briefing-main
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -27,13 +27,16 @@ jobs:
           ref: main
 
       - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
         with:
           python-version: "3.11"
 
       - name: Install dependencies
+        if: github.event_name != 'push'
         run: pip install -r requirements.txt
 
       - name: Run briefing pipeline
+        if: github.event_name != 'push'
         run: python scripts/run_pipeline.py
         env:
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
@@ -43,6 +46,7 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
 
       - name: Commit generated files
+        if: github.event_name != 'push'
         run: |
           git config user.name "briefing-bot"
           git config user.email "briefing-bot@users.noreply.github.com"
