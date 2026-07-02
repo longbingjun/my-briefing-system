@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-01
+# My Briefing · 2026-07-02
 
-12 个活跃信源 -> 708 条扫描 -> 7 条今日值得看
-预计阅读 18 分钟，节省约 29.2 小时。
+12 个活跃信源 -> 838 条扫描 -> 7 条今日值得看
+预计阅读 18 分钟，节省约 34.6 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 250 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
-- **AI Agents**：AI Agents 本期匹配 175 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 97 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
+- **AI Agents**：AI Agents 本期匹配 208 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 212，今日 +72，官方 AI 实验室与公司信号 本期匹配 250 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
-- AI Agents：本周 142，今日 +61，AI Agents 本期匹配 175 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
-- 推理训练与强化学习：本周 90，今日 +29，推理训练与强化学习 本期匹配 97 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
-- 预训练：本周 69，今日 +20，预训练 本期匹配 70 篇文章，重点集中在 预训练/模型架构、预训练、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐：本周 40，今日 +12，后训练与对齐 本期匹配 41 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance》。
-- 编程 Agent：本周 20，今日 +13，编程 Agent 本期匹配 40 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- AI 评测与安全：本周 240，今日 +78，AI 评测与安全 本期匹配 251 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
-- 数据分析与指标体系：本周 217，今日 +80，数据分析与指标体系 本期匹配 230 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 产品化：本周 203，今日 +69，AI 产品化 本期匹配 232 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
-- AI 基础设施与算力：本周 127，今日 +42，AI 基础设施与算力 本期匹配 134 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 110，今日 +33，成本管理与 FinOps 本期匹配 117 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《What's new in Claude Sonnet 5》。
-- 科技圈动态：本周 62，今日 +21，科技圈动态 本期匹配 67 篇文章，重点集中在 官方/科技圈信号、评测/安全、Agent 工作流。建议先看《Claude Mythos让梁文锋决定融资》。
+- 官方 AI 实验室与公司信号：本周 246，今日 +71，官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
+- AI Agents：本周 174，今日 +51，AI Agents 本期匹配 208 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
+- 推理训练与强化学习：本周 126，今日 +41，推理训练与强化学习 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
+- 预训练：本周 90，今日 +26，预训练 本期匹配 92 篇文章，重点集中在 预训练/模型架构、预训练、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐：本周 55，今日 +16，后训练与对齐 本期匹配 56 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance》。
+- 编程 Agent：本周 22，今日 +10，编程 Agent 本期匹配 42 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- AI 评测与安全：本周 301，今日 +75，AI 评测与安全 本期匹配 312 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
+- 数据分析与指标体系：本周 269，今日 +77，数据分析与指标体系 本期匹配 282 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《消息称美团内部全面限用豆包大模型，此前曾限用阿里云 Qwen》。
+- AI 产品化：本周 263，今日 +80，AI 产品化 本期匹配 293 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
+- AI 基础设施与算力：本周 171，今日 +57，AI 基础设施与算力 本期匹配 178 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 137，今日 +38，成本管理与 FinOps 本期匹配 144 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《What's new in Claude Sonnet 5》。
+- 科技圈动态：本周 78，今日 +24，科技圈动态 本期匹配 83 篇文章，重点集中在 官方/科技圈信号、评测/安全、Agent 工作流。建议先看《Claude Mythos让梁文锋决定融资》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：22 篇
+- 做啥：25 篇
 - 忽略：0 篇

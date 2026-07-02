@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-07-01
-Funnel: 12 sources, 708 scanned, 7 picks
+Date: 2026-07-02
+Funnel: 12 sources, 838 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 250 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
+官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
 
 ## Top Picks
 - [100] Temporary Cloudflare Accounts for AI agents (Simon Willison) https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 708 scanned, 7 picks
   Summary: This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few post-release months that they are broadly available. After that period elapses, the models become sub-frontier, competition emerges, and margins compress. Every week of delay is eating into the narrow window that labs have to make their accounting work. The ongoing AI infrastructure buildout—the one that is, according to former US AI Czar David Sacks, essential to the US economy , assumes a functionally global total addressable market for US AI services. No one is building $100 billion dollar data centers to serve frontier models to whatever 100 companies the US government will allow access. [...] &mdash; Dean W. Ball , 35 thoughts on what has happened and what America should do Tags: anthropic , generative-ai , openai , ai , llms
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 250 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
-- AI Agents: AI Agents 本期匹配 175 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 97 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
-- 预训练: 预训练 本期匹配 70 篇文章，重点集中在 预训练/模型架构、预训练、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐: 后训练与对齐 本期匹配 41 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance》。
-- 编程 Agent: 编程 Agent 本期匹配 40 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- AI 评测与安全: AI 评测与安全 本期匹配 251 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 230 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 产品化: AI 产品化 本期匹配 232 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 134 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 117 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《What's new in Claude Sonnet 5》。
-- 科技圈动态: 科技圈动态 本期匹配 67 篇文章，重点集中在 官方/科技圈信号、评测/安全、Agent 工作流。建议先看《Claude Mythos让梁文锋决定融资》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 54 篇文章，重点集中在 评测/安全、行业改造、推理训练/测试时计算。建议先看《Prompt Injection as Role Confusion》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 12 篇文章，重点集中在 产品发布、评测/安全、预训练/模型架构。建议先看《Quoting Dean W. Ball》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。
+- AI Agents: AI Agents 本期匹配 208 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。
+- 预训练: 预训练 本期匹配 92 篇文章，重点集中在 预训练/模型架构、预训练、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐: 后训练与对齐 本期匹配 56 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance》。
+- 编程 Agent: 编程 Agent 本期匹配 42 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- AI 评测与安全: AI 评测与安全 本期匹配 312 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 282 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《消息称美团内部全面限用豆包大模型，此前曾限用阿里云 Qwen》。
+- AI 产品化: AI 产品化 本期匹配 293 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 178 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 144 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《What's new in Claude Sonnet 5》。
+- 科技圈动态: 科技圈动态 本期匹配 83 篇文章，重点集中在 官方/科技圈信号、评测/安全、Agent 工作流。建议先看《Claude Mythos让梁文锋决定融资》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 62 篇文章，重点集中在 评测/安全、行业改造、推理训练/测试时计算。建议先看《Prompt Injection as Role Confusion》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 16 篇文章，重点集中在 产品发布、评测/安全、AI 基础设施。建议先看《Quoting Dean W. Ball》。
