@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-07-02",
   "edition": "daily",
-  "generated_at": "2026-07-02T05:11:03.337153+00:00",
+  "generated_at": "2026-07-02T14:33:20.944539+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 838,
+    "total_scanned": 886,
     "picks_count": 7,
-    "est_read_minutes": 18,
-    "est_saved_hours": 34.6
+    "est_read_minutes": 19,
+    "est_saved_hours": 36.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 302 篇文章，重点集中在 产品发布、评测/安全、预训练/模型架构。建议先看《Quoting Dean W. Ball》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 302 篇文章，重点集中在 产品发布、评测/安全、预训练/模型架构。建议先看《Quoting Dean W. Ball》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 285 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 302 篇文章，重点集中在 产品发布、评测/安全、预训练/模型架构。建议先看《Quoting Dean W. Ball》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 208 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。",
+        "text": "AI Agents 本期匹配 217 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 208 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 217 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Datasette Apps: Host custom HTML applications inside Datasette》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。",
+        "text": "推理训练与强化学习 本期匹配 135 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 135 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Tandem Reinforcement Learning with Verifiable Rewards》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -91,14 +91,6 @@
       },
       {
         "n": 5,
-        "link": "https://www.ithome.com/0/970/200.htm",
-        "title": "OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题",
-        "source": "IT之家",
-        "score": 99,
-        "minutes": 2
-      },
-      {
-        "n": 6,
         "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
         "title": "Quoting Sean Lynch",
         "source": "Simon Willison",
@@ -106,42 +98,50 @@
         "minutes": 1
       },
       {
-        "n": 7,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
         "title": "Quoting Dean W. Ball",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 2
+      },
+      {
+        "n": 7,
+        "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+        "title": "What's new in Claude Sonnet 5",
+        "source": "Simon Willison",
+        "score": 97,
+        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 246,
+        "articles_7d": 263,
         "direction": "up",
-        "today_count": 71
+        "today_count": 75
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 174,
+        "articles_7d": 184,
         "direction": "up",
-        "today_count": 51
+        "today_count": 59
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 126,
+        "articles_7d": 128,
         "direction": "up",
-        "today_count": 41
+        "today_count": 40
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
         "articles_7d": 90,
         "direction": "up",
-        "today_count": 26
+        "today_count": 25
       },
       {
         "entity_id": "post_training",
@@ -153,27 +153,27 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 22,
+        "articles_7d": 24,
         "direction": "up",
-        "today_count": 10
+        "today_count": 12
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 301,
+        "articles_7d": 306,
         "direction": "up",
-        "today_count": 75
+        "today_count": 76
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 269,
+        "articles_7d": 278,
         "direction": "up",
-        "today_count": 77
+        "today_count": 76
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 338
+    "word_count": 320
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-02",
-      "published_at": "2026-07-02T05:10:54.582913+00:00",
+      "published_at": "2026-07-02T14:33:11.216165+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-02",
-      "published_at": "2026-07-02T05:10:54.581866+00:00",
+      "published_at": "2026-07-02T14:33:11.215022+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-02",
-      "published_at": "2026-07-02T05:10:54.581159+00:00",
+      "published_at": "2026-07-02T14:33:11.214274+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -261,27 +261,6 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "44d8bf1cce52431b",
-      "title": "OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题",
-      "title_original": "OpenAI 成立“应急小组”，调查用户 Codex 额度消耗速度过快问题",
-      "summary": "IT之家 6 月 29 日消息，OpenAI 组建了应急专项攻坚小组，着手处理大量用户反馈的其编码智能体额度消耗速度远超往常的问题。 IT之家注意到，OpenAI 状态监控页面发布更新称，部分用户的 Codex 编程工具额度“消耗速度超出预期”，问题根源是平台的防滥用、反欺诈风控系统错误地对部分账户实施了限流。 OpenAI Codex 工程负责人蒂博 · 索蒂奥克斯于当地时间上周日表示，公司已全面重置所有用户的额度上限，同时开展问题溯源排查工作。 索蒂奥克斯另在 X 平台发文称：“Codex 团队周日全员进驻应急攻坚室，逐条核查运行日志，排查是否存在导致部分用户额度异常快速消耗的故障点。我们高度重视此事，不查清根源绝不收工。” 使用额度用于统计 AI 编程任务消耗的算力总量，Codex 的额度会以百分比形式展示在用户控制台。运算负载更高的任务会更快消耗积分，且不同订阅档位对应的额度上限各不相同。 但上周末，大量各类 Codex 用户在 X 平台反馈：执行和一周前相同的编程任务时，额度消耗速度明显变快。 一名名叫亚当的软件工程师留言：“系统肯定出了问题。我订阅的是 200 美元套餐，以往要整整一周高强度工作才会耗尽七天额度；但过去两天，我每天都一天就耗光整周额度，这也是我第一次不得不手动重置额度。” OpenAI 状态页面补充说明，本次故障影响范围有限，平台仍在持续监控事态进展。 随着 AI 工具热度暴涨、算力资源持续承压，各大 AI 企业都在逐步下调用户可用额度。今年 3 月，Anthropic 就曾在流量高峰时段下调 Claude 的额度上限。不少软件工程师只能调整工作节奏，等待额度自动重置。 放眼整个行业，AI 服务商都在逐步取消不限量使用模式；各类企业也开始限制员工使用 AI 工具，以此控制成本。 本次 OpenAI Codex 额度异常事件，发生在本月早些时候平台一次宕机故障之后。Anthropic 也曾出现同类问题，今年 3 月 Claude 的大规模宕机事件更是凸显出程序员如今对 AI 工具的高度依赖，不少开发者吐槽只能重新手写代码。",
-      "url": "https://www.ithome.com/0/970/200.htm",
-      "link": "https://www.ithome.com/0/970/200.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-06-29",
-      "published_at": "2026-06-29T13:10:03+00:00",
-      "score": 99,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "f20f40aa4b84ccc7",
       "title": "Quoting Sean Lynch",
       "title_original": "Quoting Sean Lynch",
@@ -293,7 +272,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-02",
-      "published_at": "2026-07-02T05:10:54.582951+00:00",
+      "published_at": "2026-07-02T14:33:11.216204+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -314,7 +293,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-02",
-      "published_at": "2026-07-02T05:10:54.581520+00:00",
+      "published_at": "2026-07-02T14:33:11.214639+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -322,6 +301,27 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "产品发布"
+    },
+    {
+      "id": "a457f4260a111228",
+      "title": "What's new in Claude Sonnet 5",
+      "title_original": "What's new in Claude Sonnet 5",
+      "summary": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus 4.7 and Opus 4.8 (models that are more capable than Sonnet 5 but much less capable than Mythos 5). Of note from the \"what's new\" API changes: Sampling parameters temperature , top_p , top_k are no longer supported. It has a 1 million token context window and 128,000 maximum output tokens. It features \"the same set of tools and platform features as Claude Sonnet 4.6\" Adaptive thinking is on by default, unless you specify \"thinking\": {type: \"disabled\"} . The pricing is the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to $2/$10 until 31st August. But... The model has a new tokenizer, where \"The same input text produces approximately 30% more tokens than on Claude Sonnet 4.6.\" - effectively a 30% price increase. I used my Claude Token Counter tool to try out the new tokenizer. Here are my results for several larger documents: Document Sonnet 4.6 Opus 4.7 Sonnet 5 Universal Declaration of Human Rights (English) 2,356 3,347 1.42x 3,341 1.42x Universal Declaration of Human Rights (Spanish) 3,572 4,753 1.33x 4,747 1.33x Universal Declaration of Human Rights (Chinese, Mandarin Simplified) 3,334 3,366 1.01x 3,360 1.01x sqlite_utils/db.py (4,279 lines of Python) 44,014 56,118 1.28x 56,113 1.27x So the new token is roughly 1.4x times more expensive for English, 1.33x for Spanish, 1.28x for Python code and effectively the same cost for Simplified Mandarin. Here's the pelican . It's nothing to write home about. Sonnet 5 thinks it looks like a goose. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , llm-release",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-02",
+      "published_at": "2026-07-02T14:33:11.213909+00:00",
+      "score": 97,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 3,
+      "topic": "评测/安全"
     }
   ],
   "trending": [
@@ -337,7 +337,7 @@
     },
     {
       "keyword": "model",
-      "mention_count": 634,
+      "mention_count": 638,
       "source_count": 8
     },
     {
@@ -366,19 +366,19 @@
       "source_count": 3
     },
     {
-      "keyword": "can",
-      "mention_count": 442,
-      "source_count": 7
-    },
-    {
       "keyword": "之家",
-      "mention_count": 440,
+      "mention_count": 500,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 430,
+      "mention_count": 490,
       "source_count": 1
+    },
+    {
+      "keyword": "can",
+      "mention_count": 442,
+      "source_count": 7
     },
     {
       "keyword": "across",
@@ -412,7 +412,7 @@
     },
     {
       "keyword": "agent",
-      "mention_count": 311,
+      "mention_count": 320,
       "source_count": 10
     },
     {
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 317,
-    "must_read_count": 220,
-    "avg_score": 74.5
+    "scored": 322,
+    "must_read_count": 225,
+    "avg_score": 74.7
   }
 }
