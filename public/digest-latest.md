@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-07
+# My Briefing · 2026-07-08
 
-12 个活跃信源 -> 1437 条扫描 -> 7 条今日值得看
-预计阅读 22 分钟，节省约 59.5 小时。
+12 个活跃信源 -> 1576 条扫描 -> 7 条今日值得看
+预计阅读 22 分钟，节省约 65.3 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 548 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- **AI Agents**：AI Agents 本期匹配 307 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 189 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 591 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- **AI Agents**：AI Agents 本期匹配 344 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 215 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 373，今日 +69，官方 AI 实验室与公司信号 本期匹配 548 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents：本周 201，今日 +49，AI Agents 本期匹配 307 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- 推理训练与强化学习：本周 123，今日 +27，推理训练与强化学习 本期匹配 189 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
-- 预训练：本周 96，今日 +25，预训练 本期匹配 146 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐：本周 63，今日 +23，后训练与对齐 本期匹配 92 篇文章，重点集中在 后训练/对齐、预训练/模型架构、产品发布。建议先看《Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models》。
-- 编程 Agent：本周 37，今日 +15，编程 Agent 本期匹配 62 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- 数据分析与指标体系：本周 320，今日 +73，数据分析与指标体系 本期匹配 470 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 评测与安全：本周 305，今日 +80，AI 评测与安全 本期匹配 475 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
-- AI 产品化：本周 274，今日 +78，AI 产品化 本期匹配 434 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 基础设施与算力：本周 188，今日 +44，AI 基础设施与算力 本期匹配 278 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 162，今日 +37，成本管理与 FinOps 本期匹配 244 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 改造传统领域：本周 98，今日 +20，AI 改造传统领域 本期匹配 135 篇文章，重点集中在 预训练/模型架构、评测/安全、数据与指标。建议先看《阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证》。
+- 官方 AI 实验室与公司信号：本周 380，今日 +85，官方 AI 实验室与公司信号 本期匹配 591 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents：本周 195，今日 +56，AI Agents 本期匹配 344 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- 推理训练与强化学习：本周 125，今日 +30，推理训练与强化学习 本期匹配 215 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
+- 预训练：本周 105，今日 +28，预训练 本期匹配 171 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐：本周 69，今日 +18，后训练与对齐 本期匹配 108 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models》。
+- 编程 Agent：本周 35，今日 +12，编程 Agent 本期匹配 65 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- 数据分析与指标体系：本周 320，今日 +75，数据分析与指标体系 本期匹配 524 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- AI 评测与安全：本周 307，今日 +77，AI 评测与安全 本期匹配 541 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
+- AI 产品化：本周 285，今日 +79，AI 产品化 本期匹配 495 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- AI 基础设施与算力：本周 204，今日 +56，AI 基础设施与算力 本期匹配 323 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 174，今日 +47，成本管理与 FinOps 本期匹配 278 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 改造传统领域：本周 101，今日 +19，AI 改造传统领域 本期匹配 146 篇文章，重点集中在 预训练/模型架构、评测/安全、数据与指标。建议先看《阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：29 篇
+- 做啥：26 篇
 - 忽略：0 篇
