@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-08
-Funnel: 12 sources, 1576 scanned, 7 picks
+Funnel: 12 sources, 1627 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 591 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+官方 AI 实验室与公司信号 本期匹配 614 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
 
 ## Top Picks
 - [100] Have your agent record video demos of its work with shot-scraper video (Simon Willison) https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything
@@ -14,11 +14,11 @@ Funnel: 12 sources, 1576 scanned, 7 picks
 - [100] 全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成 (IT之家) https://www.ithome.com/0/972/424.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 591 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents: AI Agents 本期匹配 344 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 215 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 614 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents: AI Agents 本期匹配 350 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 218 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、推理训练与强化学习。建议先看《ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability》。
 - 预训练: 预训练 本期匹配 171 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐: 后训练与对齐 本期匹配 108 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models》。
-- 编程 Agent: 编程 Agent 本期匹配 65 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 524 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 评测与安全: AI 评测与安全 本期匹配 541 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
+- 后训练与对齐: 后训练与对齐 本期匹配 109 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models》。
+- 编程 Agent: 编程 Agent 本期匹配 67 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 532 篇文章，重点集中在 产品发布、Agent 工作流、预训练/模型架构。建议先看《高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座》。
+- AI 评测与安全: AI 评测与安全 本期匹配 544 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue》。
