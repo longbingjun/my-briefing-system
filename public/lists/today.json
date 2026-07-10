@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "edition": "daily",
-  "generated_at": "2026-07-09T15:38:52.287798+00:00",
+  "generated_at": "2026-07-10T05:12:45.602411+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 1806,
+    "total_scanned": 1941,
     "picks_count": 7,
     "est_read_minutes": 25,
-    "est_saved_hours": 74.8
+    "est_saved_hours": 80.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 667 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 722 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 667 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 722 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 667 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 722 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 389 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。",
+        "text": "AI Agents 本期匹配 426 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 389 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 426 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 249 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。",
+        "text": "推理训练与强化学习 本期匹配 282 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练与强化学习。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 249 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 282 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练与强化学习。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,14 +59,6 @@
     "citations": [
       {
         "n": 1,
-        "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
-        "title": "Have your agent record video demos of its work with shot-scraper video",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 7
-      },
-      {
-        "n": 2,
         "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
         "title": "Fable's judgement",
         "source": "Simon Willison",
@@ -74,7 +66,7 @@
         "minutes": 3
       },
       {
-        "n": 3,
+        "n": 2,
         "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
         "title": "Better Models: Worse Tools",
         "source": "Simon Willison",
@@ -82,12 +74,20 @@
         "minutes": 3
       },
       {
-        "n": 4,
+        "n": 3,
         "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
         "title": "Rewriting Bun in Rust",
         "source": "Simon Willison",
         "score": 100,
         "minutes": 5
+      },
+      {
+        "n": 4,
+        "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+        "title": "Have your agent record video demos of its work with shot-scraper video",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 7
       },
       {
         "n": 5,
@@ -118,85 +118,64 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 387,
+        "articles_7d": 396,
         "direction": "up",
-        "today_count": 73
+        "today_count": 92
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 197,
-        "direction": "up",
-        "today_count": 55
+        "articles_7d": 199,
+        "direction": "down",
+        "today_count": 56
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 118,
+        "articles_7d": 126,
         "direction": "down",
-        "today_count": 34
+        "today_count": 39
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 109,
-        "direction": "up",
+        "articles_7d": 107,
+        "direction": "down",
         "today_count": 29
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 65,
+        "articles_7d": 71,
         "direction": "up",
-        "today_count": 11
+        "today_count": 21
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 36,
+        "articles_7d": 39,
         "direction": "up",
         "today_count": 17
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 319,
-        "direction": "up",
-        "today_count": 78
+        "articles_7d": 323,
+        "direction": "down",
+        "today_count": 88
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 303,
-        "direction": "up",
-        "today_count": 68
+        "articles_7d": 302,
+        "direction": "down",
+        "today_count": 70
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 424
+    "word_count": 380
   },
   "picks": [
-    {
-      "id": "5b9f76277898950b",
-      "title": "Have your agent record video demos of its work with shot-scraper video",
-      "title_original": "Have your agent record video demos of its work with shot-scraper video",
-      "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that. Here's an example video created using shot-scraper video , exercising a still in development feature adding the ability to create new tables in Datasette from pasted CSV, TSV or JSON data: That video was created by running this command: shot-scraper video datasette-bulk-insert-storyboard.yml \\ --auth datasette-demo-auth.json --mp4 (That --auth JSON file contains a cookie , as described here in the documentation.) Here's the datasette-bulk-insert-storyboard.yml file: output : /tmp/datasette-bulk-insert-demo.webm server : - uv - --directory - /Users/simon/Dropbox/dev/datasette - run - datasette - -p - 6419 - --root - --secret - \" 1 \" - /tmp/demo.db url : http://127.0.0.1:6419/demo/tasks viewport : width : 1280 height : 720 cursor : true wait_for : ' button[data-table-action=\"insert-row\"] ' javascript : | (() =&gt; { let clipboardText = \"\"; Object.defineProperty(navigator, \"clipboard\", { configurable: true, get: () =&gt; ({ writeText: async (text) =&gt; { clipboardText = String(text); }, readText: async () =&gt; clipboardText, }), }); })(); scenes : - name : Bulk insert existing table rows do : - pause : 0.8 - click : ' button[data-table-action=\"insert-row\"] ' - wait_for : \" #row-edit-dialog[open] \" - pause : 0.5 - click : \" .row-edit-bulk-insert \" - wait_for : \" .row-edit-bulk-textarea \" - pause : 0.5 - click : \" .row-edit-copy-template \" - wait_for : \" text=Copied \" - pause : 0.8 - fill : into : \" .row-edit-bulk-textarea \" text : | title,owner,status,priority,notes Prepare release video,Ana,doing,1,Recorded with shot-scraper Check pasted CSV import,Ben,review,3,Previewed before inserting Share the branch demo,Chen,queued,2,Bulk insert creates three rows - pause : 0.8 - click : \" .row-edit-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .row-edit-save \" - wait_for : \" text=3 rows inserted. \" - pause : 1.0 - click : \" .row-edit-cancel \" - wait_for : \" text=Prepare release video \" - pause : 1.0 - name : Create a table from pasted CSV open : http://127.0.0.1:6419/demo wait_for : ' details.actions-menu-links summary ' do : - pause : 0.8 - click : ' details.actions-menu-links summary ' - click : ' button[data-database-action=\"create-table\"] ' - wait_for : \" #table-create-dialog[open] \" - pause : 0.5 - fill : into : \" .table-create-table-name \" text : \" launch_metrics \" - click : \" .table-create-from-data \" - wait_for : \" .table-create-data-textarea \" - pause : 0.5 - fill : into : \" .table-create-data-textarea \" text : | metric_id,name,score,recorded_on m001,Activation rate,87.5,2026-06-29 m002,Retention check,72.25,2026-06-30 m003,CSV import health,95,2026-07-01 - pause : 0.8 - click : \" .table-create-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .table-create-save \" - wait_for_url : \" **/demo/launch_metrics \" - wait_for : \" text=Activation rate \" - pause : 1.2 The video command documentation includes simpler examples, but for the purpose of this post I thought I'd go with something more comprehensive. That demo YAML storyboard was constructed entirely by GPT-5.5 xhigh running in Codex Desktop, using the following prompt run inside my ~/dev/datasette checkout of this branch : Review the changes on this branch. cd to ~/dev/shot-scraper and run the command \"uv run shot-scraper video --help\" Now use that new video command to record a video demo of the new features from this branch, including running a \"uv run datasette -p 6419 --root --secret 1 /tmp/demo.db\" development server so you can record the video against a demo DB that you first create. Now that I've released the feature the prompt could say \" run uvx shot-scraper video --help \" instead and it should achieve the same result. I really like this pattern where the --help output for a command provides enough detail that a coding agent can use it - it works kind of like bundling a SKILL.md file directly inside the tool. I used the same pattern for showboat and rodney . How I built this shot-scraper video started as an experimental prototype. shot-scraper is built on top of Playwright , and the key feature it needed was for Playwright to be able to record video of browser sessions with enough control to create the desired demo. I first tried this a few years ago and found that the Playwright-produced videos included additional chrome that was useful for debugging a test failure but unwanted for a product demo. They fixed that a while ago, but there were still some minor blockers. In particular I was getting a few white frames at the start of the videos , since the recording mechanism kicked in before the first URL was loaded by the browser. Playwright 1.59 added a new screencast mechanism providing much more finely grained control over video recording. This was very nearly what I needed, but the resulting videos were fixed at 800px wide. I found a landed PR fixing that but it wasn't yet in a release. Then yesterday they shipped it in playwright-python 1.61.0 and I was finally unblocked to finish implementing the feature! The code itself was all written by GPT-5.5 xhigh in Codex Desktop. I had it write the documentation as well which gave me a very useful frame for reviewing the design - much of the iteration on the feature came from reviewing that documentation, spotting things that were redundant, inconsistent or confusing, and requesting (or dictating) a better design. The YAML format itself was mostly defined by the coding agent. I had it use Pydantic to both define and validate the format, partly to make the design easier to review. This is a great example of the kind of feature that I almost certainly wouldn't have taken on without coding agent support. I filed the original issue in February 2024, and had difficulty finding the necessary time to solve this in amongst all of my other projects. Tags: projects , python , yaml , ai , datasette , playwright , shot-scraper , generative-ai , llms , pydantic , coding-agents , agentic-engineering",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-09",
-      "published_at": "2026-07-09T15:38:43.125493+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 7,
-      "topic": "Agent 工作流"
-    },
     {
       "id": "0bb21f2800323e80",
       "title": "Fable's judgement",
@@ -208,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-09",
-      "published_at": "2026-07-09T15:38:43.124622+00:00",
+      "date": "2026-07-10",
+      "published_at": "2026-07-10T05:12:37.431767+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -229,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-09",
-      "published_at": "2026-07-09T15:38:43.124384+00:00",
+      "date": "2026-07-10",
+      "published_at": "2026-07-10T05:12:37.431526+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -250,14 +229,35 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-09",
-      "published_at": "2026-07-09T15:38:43.122556+00:00",
+      "date": "2026-07-10",
+      "published_at": "2026-07-10T05:12:37.429589+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 55,
       "minutes": 5,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "5b9f76277898950b",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "title_original": "Have your agent record video demos of its work with shot-scraper video",
+      "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that. Here's an example video created using shot-scraper video , exercising a still in development feature adding the ability to create new tables in Datasette from pasted CSV, TSV or JSON data: That video was created by running this command: shot-scraper video datasette-bulk-insert-storyboard.yml \\ --auth datasette-demo-auth.json --mp4 (That --auth JSON file contains a cookie , as described here in the documentation.) Here's the datasette-bulk-insert-storyboard.yml file: output : /tmp/datasette-bulk-insert-demo.webm server : - uv - --directory - /Users/simon/Dropbox/dev/datasette - run - datasette - -p - 6419 - --root - --secret - \" 1 \" - /tmp/demo.db url : http://127.0.0.1:6419/demo/tasks viewport : width : 1280 height : 720 cursor : true wait_for : ' button[data-table-action=\"insert-row\"] ' javascript : | (() =&gt; { let clipboardText = \"\"; Object.defineProperty(navigator, \"clipboard\", { configurable: true, get: () =&gt; ({ writeText: async (text) =&gt; { clipboardText = String(text); }, readText: async () =&gt; clipboardText, }), }); })(); scenes : - name : Bulk insert existing table rows do : - pause : 0.8 - click : ' button[data-table-action=\"insert-row\"] ' - wait_for : \" #row-edit-dialog[open] \" - pause : 0.5 - click : \" .row-edit-bulk-insert \" - wait_for : \" .row-edit-bulk-textarea \" - pause : 0.5 - click : \" .row-edit-copy-template \" - wait_for : \" text=Copied \" - pause : 0.8 - fill : into : \" .row-edit-bulk-textarea \" text : | title,owner,status,priority,notes Prepare release video,Ana,doing,1,Recorded with shot-scraper Check pasted CSV import,Ben,review,3,Previewed before inserting Share the branch demo,Chen,queued,2,Bulk insert creates three rows - pause : 0.8 - click : \" .row-edit-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .row-edit-save \" - wait_for : \" text=3 rows inserted. \" - pause : 1.0 - click : \" .row-edit-cancel \" - wait_for : \" text=Prepare release video \" - pause : 1.0 - name : Create a table from pasted CSV open : http://127.0.0.1:6419/demo wait_for : ' details.actions-menu-links summary ' do : - pause : 0.8 - click : ' details.actions-menu-links summary ' - click : ' button[data-database-action=\"create-table\"] ' - wait_for : \" #table-create-dialog[open] \" - pause : 0.5 - fill : into : \" .table-create-table-name \" text : \" launch_metrics \" - click : \" .table-create-from-data \" - wait_for : \" .table-create-data-textarea \" - pause : 0.5 - fill : into : \" .table-create-data-textarea \" text : | metric_id,name,score,recorded_on m001,Activation rate,87.5,2026-06-29 m002,Retention check,72.25,2026-06-30 m003,CSV import health,95,2026-07-01 - pause : 0.8 - click : \" .table-create-save \" - wait_for : \" text=Previewing 3 rows. \" - pause : 1.2 - click : \" .table-create-save \" - wait_for_url : \" **/demo/launch_metrics \" - wait_for : \" text=Activation rate \" - pause : 1.2 The video command documentation includes simpler examples, but for the purpose of this post I thought I'd go with something more comprehensive. That demo YAML storyboard was constructed entirely by GPT-5.5 xhigh running in Codex Desktop, using the following prompt run inside my ~/dev/datasette checkout of this branch : Review the changes on this branch. cd to ~/dev/shot-scraper and run the command \"uv run shot-scraper video --help\" Now use that new video command to record a video demo of the new features from this branch, including running a \"uv run datasette -p 6419 --root --secret 1 /tmp/demo.db\" development server so you can record the video against a demo DB that you first create. Now that I've released the feature the prompt could say \" run uvx shot-scraper video --help \" instead and it should achieve the same result. I really like this pattern where the --help output for a command provides enough detail that a coding agent can use it - it works kind of like bundling a SKILL.md file directly inside the tool. I used the same pattern for showboat and rodney . How I built this shot-scraper video started as an experimental prototype. shot-scraper is built on top of Playwright , and the key feature it needed was for Playwright to be able to record video of browser sessions with enough control to create the desired demo. I first tried this a few years ago and found that the Playwright-produced videos included additional chrome that was useful for debugging a test failure but unwanted for a product demo. They fixed that a while ago, but there were still some minor blockers. In particular I was getting a few white frames at the start of the videos , since the recording mechanism kicked in before the first URL was loaded by the browser. Playwright 1.59 added a new screencast mechanism providing much more finely grained control over video recording. This was very nearly what I needed, but the resulting videos were fixed at 800px wide. I found a landed PR fixing that but it wasn't yet in a release. Then yesterday they shipped it in playwright-python 1.61.0 and I was finally unblocked to finish implementing the feature! The code itself was all written by GPT-5.5 xhigh in Codex Desktop. I had it write the documentation as well which gave me a very useful frame for reviewing the design - much of the iteration on the feature came from reviewing that documentation, spotting things that were redundant, inconsistent or confusing, and requesting (or dictating) a better design. The YAML format itself was mostly defined by the coding agent. I had it use Pydantic to both define and validate the format, partly to make the design easier to review. This is a great example of the kind of feature that I almost certainly wouldn't have taken on without coding agent support. I filed the original issue in February 2024, and had difficulty finding the necessary time to solve this in amongst all of my other projects. Tags: projects , python , yaml , ai , datasette , playwright , shot-scraper , generative-ai , llms , pydantic , coding-agents , agentic-engineering",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-09",
+      "published_at": "2026-07-09T15:38:43.125493+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 7,
       "topic": "Agent 工作流"
     },
     {
@@ -313,8 +313,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-09",
-      "published_at": "2026-07-09T15:38:43.125168+00:00",
+      "date": "2026-07-10",
+      "published_at": "2026-07-10T05:12:37.432336+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 1618,
+      "mention_count": 1795,
       "source_count": 8
     },
     {
       "keyword": "new",
-      "mention_count": 1606,
+      "mention_count": 1786,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 1492,
+      "mention_count": 1673,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 1382,
+      "mention_count": 1533,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 1337,
+      "mention_count": 1479,
       "source_count": 3
-    },
-    {
-      "keyword": "之家",
-      "mention_count": 1328,
-      "source_count": 1
     },
     {
       "keyword": "arxiv",
-      "mention_count": 1321,
+      "mention_count": 1461,
       "source_count": 3
-    },
-    {
-      "keyword": "日消息",
-      "mention_count": 1316,
-      "source_count": 1
-    },
-    {
-      "keyword": "are",
-      "mention_count": 1313,
-      "source_count": 7
     },
     {
       "keyword": "announce",
-      "mention_count": 1313,
+      "mention_count": 1453,
       "source_count": 3
     },
     {
+      "keyword": "are",
+      "mention_count": 1448,
+      "source_count": 7
+    },
+    {
+      "keyword": "之家",
+      "mention_count": 1386,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 1374,
+      "source_count": 1
+    },
+    {
       "keyword": "across",
-      "mention_count": 1011,
+      "mention_count": 1124,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 883,
-      "source_count": 6
+      "mention_count": 977,
+      "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 827,
+      "mention_count": 928,
       "source_count": 11
     },
     {
-      "keyword": "which",
-      "mention_count": 819,
-      "source_count": 6
+      "keyword": "while",
+      "mention_count": 899,
+      "source_count": 5
     },
     {
-      "keyword": "while",
-      "mention_count": 817,
-      "source_count": 5
+      "keyword": "which",
+      "mention_count": 888,
+      "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 788,
+      "mention_count": 879,
       "source_count": 8
     },
     {
-      "keyword": "framework",
-      "mention_count": 737,
-      "source_count": 5
-    },
-    {
       "keyword": "learning",
-      "mention_count": 732,
+      "mention_count": 858,
       "source_count": 6
     },
     {
-      "keyword": "but",
-      "mention_count": 710,
+      "keyword": "framework",
+      "mention_count": 800,
       "source_count": 5
     },
     {
       "keyword": "these",
-      "mention_count": 679,
+      "mention_count": 764,
       "source_count": 5
+    },
+    {
+      "keyword": "reasoning",
+      "mention_count": 763,
+      "source_count": 6
     }
   ],
   "quality": {
-    "scored": 412,
-    "must_read_count": 270,
-    "avg_score": 74.5
+    "scored": 428,
+    "must_read_count": 273,
+    "avg_score": 74.4
   }
 }
