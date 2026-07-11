@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-11
-Funnel: 12 sources, 2017 scanned, 7 picks
+Funnel: 12 sources, 2050 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 768 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+官方 AI 实验室与公司信号 本期匹配 789 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
 
 ## Top Picks
 - [100] Fable's judgement (Simon Willison) https://simonwillison.net/2026/Jul/3/judgement/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 2017 scanned, 7 picks
   Summary: What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the "what's new" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that "its performance is close to that of Opus 4.8, but at lower prices". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus 4.7 and Opus 4.8 (models that are more capable than Sonnet 5 but much less capable than Mythos 5). Of note from the "what's new" API changes: Sampling parameters temperature , top_p , top_k are no longer supported. It has a 1 million token context window and 128,000 maximum output tokens. It features "the same set of tools and platform features as Claude Sonnet 4.6" Adaptive thinking is on by default, unless you specify "thinking": {type: "disabled"} . The pricing is the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to $2/$10 until 31st August. But... The model has a new tokenizer, where "The same input text produces approximately 30% more tokens than on Claude Sonnet 4.6." - effectively a 30% price increase. I used my Claude Token Counter tool to try out the new tokenizer. Here are my results for several larger documents: Document Sonnet 4.6 Opus 4.7 Sonnet 5 Universal Declaration of Human Rights (English) 2,356 3,347 1.42x 3,341 1.42x Universal Declaration of Human Rights (Spanish) 3,572 4,753 1.33x 4,747 1.33x Universal Declaration of Human Rights (Chinese, Mandarin Simplified) 3,334 3,366 1.01x 3,360 1.01x sqlite_utils/db.py (4,279 lines of Python) 44,014 56,118 1.28x 56,113 1.27x So the new token is roughly 1.4x times more expensive for English, 1.33x for Spanish, 1.28x for Python code and effectively the same cost for Simplified Mandarin. Here's the pelican . It's nothing to write home about. Sonnet 5 thinks it looks like a goose. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , llm-release
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 768 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents: AI Agents 本期匹配 431 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 286 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练与强化学习。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 789 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents: AI Agents 本期匹配 433 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 287 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1》。
 - 预训练: 预训练 本期匹配 225 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
 - 后训练与对齐: 后训练与对齐 本期匹配 139 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters》。
 - 编程 Agent: 编程 Agent 本期匹配 79 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 679 篇文章，重点集中在 产品发布、Agent 工作流、预训练/模型架构。建议先看《高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座》。
-- AI 评测与安全: AI 评测与安全 本期匹配 682 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 686 篇文章，重点集中在 Agent 工作流、产品发布、预训练/模型架构。建议先看《Have your agent record video demos of its work with shot-scraper video》。
+- AI 评测与安全: AI 评测与安全 本期匹配 685 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
 - AI 产品化: AI 产品化 本期匹配 636 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Have your agent record video demos of its work with shot-scraper video》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 414 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 359 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
-- 科技圈动态: 科技圈动态 本期匹配 194 篇文章，重点集中在 Agent 工作流、科技圈动态、官方/科技圈信号。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 175 篇文章，重点集中在 评测/安全、AI 改造传统领域、预训练/模型架构。建议先看《美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 418 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 362 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
+- 科技圈动态: 科技圈动态 本期匹配 195 篇文章，重点集中在 Agent 工作流、科技圈动态、官方/科技圈信号。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 180 篇文章，重点集中在 评测/安全、AI 改造传统领域、预训练/模型架构。建议先看《美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上》。
 - 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 39 篇文章，重点集中在 产品发布、Agent 工作流、预训练/模型架构。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
