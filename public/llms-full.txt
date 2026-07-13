@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-13
-Funnel: 12 sources, 2229 scanned, 7 picks
+Funnel: 12 sources, 2276 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 857 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+官方 AI 实验室与公司信号 本期匹配 874 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
 
 ## Top Picks
 - [100] Fable's judgement (Simon Willison) https://simonwillison.net/2026/Jul/3/judgement/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 2229 scanned, 7 picks
   Summary: IT之家 7 月 11 日消息，据《The Information》昨天报道，特斯拉 CEO 埃隆 · 马斯克在一份备忘录中表示，鉴于 Grok 4.5 的 Token 成本低于对手，员工应在尽可能的情况下改用 Grok。 据报道，特斯拉曾在本周早些时候规定，员工每周使用 AI 的支出上限为 200 美元（IT之家注：现汇率约合 1357 元人民币）。这一条款适用于 Anthropic、OpenAI 和谷歌产品，但 xAI 的 Grok 不受限制。 过去几个月，特斯拉一直在内部测试新版 Grok，xAI 产品负责人 Andrew Milich 也持续和特斯拉员工合作，解决使用过程中显现的问题。 不过根据四位了解内情的人士透露， 特斯拉工程师在日常开发工作中 ， 普遍倾向于使用 Anthropic 的 Claude 。 同时，xAI 于本周三发布其最新模型 Grok 4.5，定位“Opus 级”模型。但在综合多领域排行榜中，Grok 4.5 综合得分为 76.3 分仅排名第九，落后于 OpenAI、Anthropic 和谷歌的模型。编程能力得分仅为 68.6 分，是榜单中所有模型里最低的一项。 而马斯克本人并没有否认差距，而是表示：“公平地说，Fable 确实比 Grok 4.5 更优秀，但大多数任务并不需要 Fable 那样的能力”。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 857 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents: AI Agents 本期匹配 469 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 316 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 874 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents: AI Agents 本期匹配 477 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 317 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
 - 预训练: 预训练 本期匹配 243 篇文章，重点集中在 预训练/模型架构、评测/安全、官方/科技圈信号。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
 - 后训练与对齐: 后训练与对齐 本期匹配 150 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《98年哈工大教授创业，要做人形灵巧操作世界模型》。
-- 编程 Agent: 编程 Agent 本期匹配 78 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 评测与安全: AI 评测与安全 本期匹配 756 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 748 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 产品化: AI 产品化 本期匹配 685 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 463 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 400 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
-- 科技圈动态: 科技圈动态 本期匹配 211 篇文章，重点集中在 Agent 工作流、后训练/对齐、数据与指标。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 203 篇文章，重点集中在 产品发布、评测/安全、推理训练/测试时计算。建议先看《特斯拉 2025 年电池回收量增长 20%，回收超 1.4 万吨材料可造 4.6 万块新电池》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 41 篇文章，重点集中在 Agent 工作流、产品发布、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 编程 Agent: 编程 Agent 本期匹配 79 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 764 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 751 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 产品化: AI 产品化 本期匹配 695 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 466 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 406 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
+- 科技圈动态: 科技圈动态 本期匹配 214 篇文章，重点集中在 Agent 工作流、成本与效率、后训练/对齐。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 207 篇文章，重点集中在 产品发布、评测/安全、推理训练/测试时计算。建议先看《特斯拉 2025 年电池回收量增长 20%，回收超 1.4 万吨材料可造 4.6 万块新电池》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 42 篇文章，重点集中在 Agent 工作流、产品发布、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。

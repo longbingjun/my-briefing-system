@@ -1,13 +1,13 @@
 # My Briefing · 2026-07-13
 
-12 个活跃信源 -> 2229 条扫描 -> 7 条今日值得看
-预计阅读 25 分钟，节省约 92.5 小时。
+12 个活跃信源 -> 2276 条扫描 -> 7 条今日值得看
+预计阅读 25 分钟，节省约 94.4 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 857 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- **AI Agents**：AI Agents 本期匹配 469 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 316 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 874 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- **AI Agents**：AI Agents 本期匹配 477 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 317 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 416，今日 +72，官方 AI 实验室与公司信号 本期匹配 857 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents：本周 229，今日 +47，AI Agents 本期匹配 469 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
-- 推理训练与强化学习：本周 157，今日 +32，推理训练与强化学习 本期匹配 316 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
-- 预训练：本周 124，今日 +19，预训练 本期匹配 243 篇文章，重点集中在 预训练/模型架构、评测/安全、官方/科技圈信号。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐：本周 81，今日 +13，后训练与对齐 本期匹配 150 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《98年哈工大教授创业，要做人形灵巧操作世界模型》。
-- 编程 Agent：本周 41，今日 +12，编程 Agent 本期匹配 78 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 评测与安全：本周 366，今日 +69，AI 评测与安全 本期匹配 756 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- 数据分析与指标体系：本周 363，今日 +61，数据分析与指标体系 本期匹配 748 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 产品化：本周 340，今日 +69，AI 产品化 本期匹配 685 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 基础设施与算力：本周 231，今日 +47，AI 基础设施与算力 本期匹配 463 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 195，今日 +40，成本管理与 FinOps 本期匹配 400 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
-- 科技圈动态：本周 99，今日 +20，科技圈动态 本期匹配 211 篇文章，重点集中在 Agent 工作流、后训练/对齐、数据与指标。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 官方 AI 实验室与公司信号：本周 406，今日 +74，官方 AI 实验室与公司信号 本期匹配 874 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents：本周 228，今日 +51，AI Agents 本期匹配 477 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《llm-coding-agent 0.1a0》。
+- 推理训练与强化学习：本周 156，今日 +33，推理训练与强化学习 本期匹配 317 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《Better Models: Worse Tools》。
+- 预训练：本周 122，今日 +19，预训练 本期匹配 243 篇文章，重点集中在 预训练/模型架构、评测/安全、官方/科技圈信号。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐：本周 81，今日 +12，后训练与对齐 本期匹配 150 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《98年哈工大教授创业，要做人形灵巧操作世界模型》。
+- 编程 Agent：本周 38，今日 +11，编程 Agent 本期匹配 79 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 评测与安全：本周 370，今日 +73，AI 评测与安全 本期匹配 764 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 数据分析与指标体系：本周 357，今日 +58，数据分析与指标体系 本期匹配 751 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 产品化：本周 347，今日 +76，AI 产品化 本期匹配 695 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 基础设施与算力：本周 232，今日 +49，AI 基础设施与算力 本期匹配 466 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 199，今日 +46，成本管理与 FinOps 本期匹配 406 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
+- 科技圈动态：本周 98，今日 +19，科技圈动态 本期匹配 214 篇文章，重点集中在 Agent 工作流、成本与效率、后训练/对齐。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：30 篇
+- 做啥：31 篇
 - 忽略：0 篇
