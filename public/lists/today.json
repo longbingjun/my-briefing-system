@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-07-15",
   "edition": "daily",
-  "generated_at": "2026-07-15T04:19:30.605983+00:00",
+  "generated_at": "2026-07-15T14:16:10.534182+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 2593,
+    "total_scanned": 2635,
     "picks_count": 7,
     "est_read_minutes": 25,
-    "est_saved_hours": 107.6
+    "est_saved_hours": 109.4
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 556 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 556 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 370 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
+        "text": "推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 370 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,30 +118,30 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 422,
+        "articles_7d": 421,
         "direction": "up",
-        "today_count": 86
+        "today_count": 89
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 235,
+        "articles_7d": 237,
         "direction": "up",
-        "today_count": 60
+        "today_count": 59
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 160,
+        "articles_7d": 158,
         "direction": "up",
-        "today_count": 25
+        "today_count": 24
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
         "articles_7d": 119,
         "direction": "up",
-        "today_count": 27
+        "today_count": 26
       },
       {
         "entity_id": "post_training",
@@ -153,27 +153,27 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 40,
+        "articles_7d": 41,
         "direction": "up",
-        "today_count": 16
+        "today_count": 15
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 376,
+        "articles_7d": 380,
         "direction": "up",
-        "today_count": 75
+        "today_count": 81
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 375,
+        "articles_7d": 376,
         "direction": "up",
-        "today_count": 82
+        "today_count": 84
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 368
+    "word_count": 369
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-15",
-      "published_at": "2026-07-15T04:19:19.825470+00:00",
+      "published_at": "2026-07-15T14:16:00.557442+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-15",
-      "published_at": "2026-07-15T04:19:19.824005+00:00",
+      "published_at": "2026-07-15T14:16:00.556054+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -346,6 +346,16 @@
       "source_count": 5
     },
     {
+      "keyword": "之家",
+      "mention_count": 2046,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 2030,
+      "source_count": 1
+    },
+    {
       "keyword": "abstract",
       "mention_count": 2028,
       "source_count": 3
@@ -359,16 +369,6 @@
       "keyword": "announce",
       "mention_count": 1985,
       "source_count": 3
-    },
-    {
-      "keyword": "之家",
-      "mention_count": 1984,
-      "source_count": 1
-    },
-    {
-      "keyword": "日消息",
-      "mention_count": 1970,
-      "source_count": 1
     },
     {
       "keyword": "are",
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 471,
-    "must_read_count": 302,
-    "avg_score": 73.9
+    "scored": 472,
+    "must_read_count": 306,
+    "avg_score": 74.0
   }
 }

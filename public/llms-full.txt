@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-15
-Funnel: 12 sources, 2593 scanned, 7 picks
+Funnel: 12 sources, 2635 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
 
 ## Top Picks
 - [100] Rewriting Bun in Rust (Simon Willison) https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 2593 scanned, 7 picks
   Summary: IT之家 7 月 9 日消息，Meta Platforms 今日正式向开发者开 Muse Spark AI 模型 API，同时发布了升级版 Muse Spark 1.1。此举意味着 Meta 正式加入 AI 模型商业化竞争，与 Anthropic、OpenAI 等公司一样，开始通过模型调用收费。 Meta 表示，Muse Spark 1.1 是公司迄今在真实世界编程（Coding）和 AI Agent（智能体）任务方面能力最强的模型，也是其打造“个人超级智能（Personal Superintelligence）”战略的重要组成部分。 据介绍，新版模型具备以下能力： 编写和调试代码； 操作软件及调用外部工具； 理解文本、图片和视频内容； 在更少人工干预的情况下完成复杂的多步骤任务。 今年 4 月，Meta 首次发布了 Muse Spark。这是 Meta 去年组建“超级智能（Superintelligence）”团队后推出的首款文本推理模型，旨在缩小与竞争对手在 AI 领域的差距。 发布之初，Meta 仅向部分合作伙伴开放了应用程序接口（API）私测。API 是 AI 模型商业化的重要基础，它相当于连接开发者与 AI 模型的“数字桥梁”，开发者可将模型能力集成到自己的应用和软件中。 如今，美国开发者已可通过 Meta Model API 公开预览版使用 Muse Spark，对模型进行提示词测试、输出效果比较以及应用原型开发。 注册 API 的开发者可获得 20 美元免费额度，用于体验模型，之后则按调用量付费。Meta 公布的定价为：每百万输入 Token 收费 1.25 美元；每百万输出 Token 收费 4.25 美元。 这一价格高于 OpenAI 入门级 GPT-5 mini 以及 Anthropic 主打低成本的 Claude Haiku 4.5，但低于 Anthropic 高端模型 Claude Sonnet 4.6。 除了开放 API 外，Muse Spark 1.1 已在 Meta AI 应用和网页版中以 Thinking（思考）模式上线。 未来，该模型还将逐步取代目前驱动 WhatsApp、Instagram、Facebook 以及 Meta 智能眼镜聊天机器人的 Llama 系列模型。 IT之家注意到，此次发布紧随 Meta 本周二的另一项 AI 更新。当时，公司宣布将生成式 AI 功能扩展至旗下各款应用，并推出了来自 Meta Superintelligence Labs 的首款图像生成模型 Muse Image。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents: AI Agents 本期匹配 556 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 370 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI Agents: AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。
 - 预训练: 预训练 本期匹配 288 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
 - 后训练与对齐: 后训练与对齐 本期匹配 183 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study》。
-- 编程 Agent: 编程 Agent 本期匹配 88 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 885 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
-- AI 评测与安全: AI 评测与安全 本期匹配 910 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- AI 产品化: AI 产品化 本期匹配 812 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 561 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 495 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
-- 科技圈动态: 科技圈动态 本期匹配 246 篇文章，重点集中在 Agent 工作流、官方/科技圈信号、成本与效率。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 233 篇文章，重点集中在 评测/安全、产品发布、推理训练/测试时计算。建议先看《美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 51 篇文章，重点集中在 Agent 工作流、产品发布、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 编程 Agent: 编程 Agent 本期匹配 89 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 896 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
+- AI 评测与安全: AI 评测与安全 本期匹配 917 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- AI 产品化: AI 产品化 本期匹配 819 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 564 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 499 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Rewriting Bun in Rust》。
+- 科技圈动态: 科技圈动态 本期匹配 251 篇文章，重点集中在 Agent 工作流、官方/科技圈信号、成本与效率。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 243 篇文章，重点集中在 评测/安全、产品发布、推理训练/测试时计算。建议先看《美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 52 篇文章，重点集中在 Agent 工作流、产品发布、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
