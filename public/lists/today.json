@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "edition": "daily",
-  "generated_at": "2026-07-14T14:19:11.427474+00:00",
+  "generated_at": "2026-07-15T04:19:30.605983+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 2460,
+    "total_scanned": 2593,
     "picks_count": 7,
     "est_read_minutes": 25,
-    "est_saved_hours": 102.1
+    "est_saved_hours": 107.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 933 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 933 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 933 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 979 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 518 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
+        "text": "AI Agents 本期匹配 556 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 518 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 556 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 351 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
+        "text": "推理训练与强化学习 本期匹配 370 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 351 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 370 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,14 +59,6 @@
     "citations": [
       {
         "n": 1,
-        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-        "title": "Better Models: Worse Tools",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 3
-      },
-      {
-        "n": 2,
         "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
         "title": "Rewriting Bun in Rust",
         "source": "Simon Willison",
@@ -74,7 +66,23 @@
         "minutes": 5
       },
       {
+        "n": 2,
+        "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+        "title": "simonw/pedalican",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 3
+      },
+      {
         "n": 3,
+        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+        "title": "Better Models: Worse Tools",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 3
+      },
+      {
+        "n": 4,
         "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
         "title": "Fable's judgement",
         "source": "Simon Willison",
@@ -82,7 +90,7 @@
         "minutes": 3
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://www.ithome.com/0/972/424.htm",
         "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
         "source": "IT之家",
@@ -90,37 +98,29 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
         "title": "Have your agent record video demos of its work with shot-scraper video",
         "source": "Simon Willison",
-        "score": 99,
+        "score": 97,
         "minutes": 7
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://www.ithome.com/0/974/775.htm",
         "title": "Meta 正式向开发者开放 Muse Spark AI 模型 API，加入 AI 商业化竞争",
         "source": "IT之家",
         "score": 97,
         "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-        "title": "Fable gets another bump",
-        "source": "Simon Willison",
-        "score": 95,
-        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 419,
+        "articles_7d": 422,
         "direction": "up",
-        "today_count": 90
+        "today_count": 86
       },
       {
         "entity_id": "ai_agents",
@@ -132,50 +132,92 @@
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 167,
+        "articles_7d": 160,
         "direction": "up",
-        "today_count": 39
+        "today_count": 25
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 120,
+        "articles_7d": 119,
         "direction": "up",
-        "today_count": 21
+        "today_count": 27
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 74,
+        "articles_7d": 76,
         "direction": "up",
-        "today_count": 16
+        "today_count": 21
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 37,
+        "articles_7d": 40,
         "direction": "up",
-        "today_count": 14
+        "today_count": 16
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 374,
+        "articles_7d": 376,
         "direction": "up",
-        "today_count": 86
+        "today_count": 75
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 368,
+        "articles_7d": 375,
         "direction": "up",
-        "today_count": 74
+        "today_count": 82
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 323
+    "word_count": 368
   },
   "picks": [
+    {
+      "id": "fff5a61a40a20da8",
+      "title": "Rewriting Bun in Rust",
+      "title_original": "Rewriting Bun in Rust",
+      "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and \"forgot to free\" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop . A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite . This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from \"this is worth trying\" to \"I'm going to merge this\". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai , rust , zig , generative-ai , llms , ai-assisted-programming , anthropic , bun , conformance-suites , agentic-engineering , claude-mythos-fable",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-15",
+      "published_at": "2026-07-15T04:19:19.825470+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 5,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "8f6579600f746dee",
+      "title": "simonw/pedalican",
+      "title_original": "simonw/pedalican",
+      "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps . My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif : That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image , which was created with this prompt , which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it! Tags: ai , prompt-engineering , generative-ai , llms , text-to-image , pelican-riding-a-bicycle , codex",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-15",
+      "published_at": "2026-07-15T04:19:19.824005+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 3,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "92e6186908f49804",
       "title": "Better Models: Worse Tools",
@@ -195,27 +237,6 @@
       "kind": "read",
       "actionability": 35,
       "minutes": 3,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "fff5a61a40a20da8",
-      "title": "Rewriting Bun in Rust",
-      "title_original": "Rewriting Bun in Rust",
-      "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and \"forgot to free\" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop . A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite . This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from \"this is worth trying\" to \"I'm going to merge this\". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai , rust , zig , generative-ai , llms , ai-assisted-programming , anthropic , bun , conformance-suites , agentic-engineering , claude-mythos-fable",
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-14",
-      "published_at": "2026-07-14T14:18:59.834978+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 5,
       "topic": "Agent 工作流"
     },
     {
@@ -273,9 +294,9 @@
       "language": "en",
       "date": "2026-07-09",
       "published_at": "2026-07-09T15:38:43.125493+00:00",
-      "score": 99,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
+      "score": 97,
+      "entity_id": "coding_agents",
+      "entity": "编程 Agent",
       "kind": "read",
       "actionability": 55,
       "minutes": 7,
@@ -301,134 +322,113 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "a245101d0a5270ef",
-      "title": "Fable gets another bump",
-      "title_original": "Fable gets another bump",
-      "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19. As before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits. Anthropic's original rationale for this was compute constraints - they wanted a better idea of both demand and compute availability before committing to keeping the new model cheap for subscribers. OpenAI appear confident that they won't need to restrict access to GPT-5.6 in the same way. Here's Thibault Sottiaux this morning : The last 48 hours of Codex and ChatGPT Work have been intense! Three important updates: Temporarily removing the 5 hour usage limit restriction for all Plus, Business and Pro plans Rolling out changes that will make GPT 5.6 Sol more efficient across the board and that will be reflected in less usage being used so that it can take you further. Exact impact to be quantified and shared We hit 6M active users, and are landing a usage reset in the next hour At this point I think Anthropic should change track and keep Fable permanently available on those plans. OpenAI are winning users simply due to the uncertainty that surrounds Fable access. Tags: anthropic , generative-ai , gpt , openai , claude-mythos-fable , ai , llms , llm-pricing",
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-14",
-      "published_at": "2026-07-14T14:18:59.834087+00:00",
-      "score": 95,
-      "entity_id": "coding_agents",
-      "entity": "编程 Agent",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 2221,
+      "mention_count": 2374,
       "source_count": 8
     },
     {
       "keyword": "models",
-      "mention_count": 2209,
+      "mention_count": 2337,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 2174,
+      "mention_count": 2296,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 1950,
+      "mention_count": 2091,
       "source_count": 5
     },
     {
-      "keyword": "之家",
-      "mention_count": 1924,
-      "source_count": 1
-    },
-    {
-      "keyword": "日消息",
-      "mention_count": 1910,
-      "source_count": 1
-    },
-    {
       "keyword": "abstract",
-      "mention_count": 1882,
+      "mention_count": 2028,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 1856,
+      "mention_count": 1996,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 1845,
+      "mention_count": 1985,
       "source_count": 3
     },
     {
+      "keyword": "之家",
+      "mention_count": 1984,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 1970,
+      "source_count": 1
+    },
+    {
       "keyword": "are",
-      "mention_count": 1773,
+      "mention_count": 1883,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 1411,
+      "mention_count": 1520,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 1235,
+      "mention_count": 1301,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1201,
+      "mention_count": 1270,
       "source_count": 11
     },
     {
       "keyword": "while",
-      "mention_count": 1170,
+      "mention_count": 1257,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1127,
+      "mention_count": 1208,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1089,
+      "mention_count": 1170,
       "source_count": 6
     },
     {
       "keyword": "learning",
-      "mention_count": 1033,
+      "mention_count": 1120,
       "source_count": 5
     },
     {
       "keyword": "framework",
-      "mention_count": 992,
+      "mention_count": 1085,
       "source_count": 5
     },
     {
       "keyword": "reasoning",
-      "mention_count": 983,
+      "mention_count": 1021,
       "source_count": 6
     },
     {
-      "keyword": "these",
-      "mention_count": 936,
-      "source_count": 5
+      "keyword": "our",
+      "mention_count": 994,
+      "source_count": 8
     }
   ],
   "quality": {
-    "scored": 463,
-    "must_read_count": 295,
-    "avg_score": 73.8
+    "scored": 471,
+    "must_read_count": 302,
+    "avg_score": 73.9
   }
 }
