@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
-Date: 2026-07-15
-Funnel: 12 sources, 2635 scanned, 7 picks
+Date: 2026-07-16
+Funnel: 12 sources, 2738 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
 
 ## Top Picks
 - [100] Rewriting Bun in Rust (Simon Willison) https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
 - [100] simonw/pedalican (Simon Willison) https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything
+- [100] xai-org/grok-build, now open source (Simon Willison) https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything
 - [100] Better Models: Worse Tools (Simon Willison) https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything
-- [100] Fable's judgement (Simon Willison) https://simonwillison.net/2026/Jul/3/judgement/#atom-everything
 - [100] 全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成 (IT之家) https://www.ithome.com/0/972/424.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- AI Agents: AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。
-- 预训练: 预训练 本期匹配 288 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 后训练与对齐: 后训练与对齐 本期匹配 183 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study》。
-- 编程 Agent: 编程 Agent 本期匹配 89 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 896 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
-- AI 评测与安全: AI 评测与安全 本期匹配 917 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- AI Agents: AI Agents 本期匹配 596 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 392 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《Better Models: Worse Tools》。
+- 预训练: 预训练 本期匹配 309 篇文章，重点集中在 预训练/模型架构、官方/科技圈信号、预训练。建议先看《小米推出“开箱即用”机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练》。
+- 后训练与对齐: 后训练与对齐 本期匹配 191 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study》。
+- 编程 Agent: 编程 Agent 本期匹配 93 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《sqlite-utils 4.0, now with database schema migrations》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 939 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
+- AI 评测与安全: AI 评测与安全 本期匹配 967 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。

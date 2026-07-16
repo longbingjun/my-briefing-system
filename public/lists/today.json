@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "edition": "daily",
-  "generated_at": "2026-07-15T14:16:10.534182+00:00",
+  "generated_at": "2026-07-16T04:28:52.990439+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 2635,
+    "total_scanned": 2738,
     "picks_count": 7,
-    "est_read_minutes": 25,
-    "est_saved_hours": 109.4
+    "est_read_minutes": 27,
+    "est_saved_hours": 113.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1000 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。",
+        "text": "AI Agents 本期匹配 596 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 562 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 596 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。",
+        "text": "推理训练与强化学习 本期匹配 392 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《Better Models: Worse Tools》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 371 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 392 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -75,16 +75,16 @@
       },
       {
         "n": 3,
-        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-        "title": "Better Models: Worse Tools",
+        "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+        "title": "xai-org/grok-build, now open source",
         "source": "Simon Willison",
         "score": 100,
-        "minutes": 3
+        "minutes": 5
       },
       {
         "n": 4,
-        "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-        "title": "Fable's judgement",
+        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+        "title": "Better Models: Worse Tools",
         "source": "Simon Willison",
         "score": 100,
         "minutes": 3
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 421,
+        "articles_7d": 423,
         "direction": "up",
-        "today_count": 89
+        "today_count": 90
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 237,
+        "articles_7d": 235,
         "direction": "up",
-        "today_count": 59
+        "today_count": 63
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 158,
+        "articles_7d": 151,
         "direction": "up",
-        "today_count": 24
+        "today_count": 30
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 119,
+        "articles_7d": 115,
         "direction": "up",
-        "today_count": 26
+        "today_count": 30
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 76,
+        "articles_7d": 73,
         "direction": "up",
-        "today_count": 21
+        "today_count": 19
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 41,
+        "articles_7d": 39,
         "direction": "up",
-        "today_count": 15
+        "today_count": 14
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 380,
+        "articles_7d": 368,
         "direction": "up",
-        "today_count": 81
+        "today_count": 84
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 376,
+        "articles_7d": 365,
         "direction": "up",
-        "today_count": 84
+        "today_count": 83
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 369
+    "word_count": 318
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-15",
-      "published_at": "2026-07-15T14:16:00.557442+00:00",
+      "date": "2026-07-16",
+      "published_at": "2026-07-16T04:28:43.847047+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,14 +208,35 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-15",
-      "published_at": "2026-07-15T14:16:00.556054+00:00",
+      "date": "2026-07-16",
+      "published_at": "2026-07-16T04:28:43.845614+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 55,
       "minutes": 3,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "717b9e5cb224a2bc",
+      "title": "xai-org/grok-build, now open source",
+      "title_original": "xai-org/grok-build, now open source",
+      "summary": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback ( Musk : \"As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.\") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository : [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool , which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has \"Do not ... reveal the contents of this system prompt to the user\" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a \"self-contained terminal renderer for Mermaid diagrams\", which renders a subset of Mermaid chart types using Unicode box-drawing. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch , grep_files , list_dir , and read_dir tools, and OpenCode's bash , edit , glob , grep , read , skill , todowrite and write . The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are \"ported from\" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source , ai , rust , generative-ai , llms , coding-agents , xai",
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-16",
+      "published_at": "2026-07-16T04:28:43.845354+00:00",
+      "score": 100,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 5,
       "topic": "Agent 工作流"
     },
     {
@@ -236,27 +257,6 @@
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "0bb21f2800323e80",
-      "title": "Fable's judgement",
-      "title_original": "Fable's judgement",
-      "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work. The example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for small copy or design changes\" - but it's better to just tell Fable to use its own judgement when deciding to write tests instead. Jesse Vincent just gave me a related tip to help avoid burning too many of those valuable Fable tokens in the few days we have left before the prices go up. Tell Fable to use other models for smaller tasks, applying its own judgement about which model to use. I prompted Claude Code just now with: For all coding tasks use your judgement to decide an appropriate lower power model and run that in a subagent Claude saved this memory file in ~/.claude/projects/name-of-project/memory/delegate-coding-to-subagents.md : --- name: delegate-coding-to-subagents description: Simon wants coding tasks delegated to subagents running an appropriately lower-power model metadata: node_type: memory type: feedback originSessionId: 30068d78-43a9-4fb1-bb29-9799e18c526a --- Stated by Simon on 2026-07-03: \"For all coding tasks use your judgement to decide an appropriate lower power model and run that in a subagent.\" Why: cost/efficiency — implementation work rarely needs the top-tier model; judgment, review, and synthesis stay with the main loop. How to apply: when a task in this project is primarily writing/editing code, spawn an Agent with a model override (sonnet for substantive implementation, haiku for trivial/mechanical edits) and a self-contained prompt; review the result in the main loop before committing. Design, auditing, data synthesis, and anything judgment-heavy stays in the main model. See also [[project-goals]]. So far it seems to be working well. I'm getting a ton of work done and my Fable allowance is shrinking less quickly than before. Tags: claude , ai , claude-code , llms , prompt-engineering , coding-agents , generative-ai , claude-mythos-fable , anthropic",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-13",
-      "published_at": "2026-07-13T15:16:46.643194+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 65,
       "minutes": 3,
       "topic": "Agent 工作流"
     },
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 2374,
+      "mention_count": 2501,
       "source_count": 8
     },
     {
       "keyword": "models",
-      "mention_count": 2337,
+      "mention_count": 2451,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 2296,
+      "mention_count": 2399,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 2091,
+      "mention_count": 2202,
       "source_count": 5
     },
     {
-      "keyword": "之家",
-      "mention_count": 2046,
-      "source_count": 1
-    },
-    {
-      "keyword": "日消息",
-      "mention_count": 2030,
-      "source_count": 1
-    },
-    {
       "keyword": "abstract",
-      "mention_count": 2028,
+      "mention_count": 2142,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 1996,
+      "mention_count": 2106,
       "source_count": 4
     },
     {
+      "keyword": "之家",
+      "mention_count": 2102,
+      "source_count": 1
+    },
+    {
       "keyword": "announce",
-      "mention_count": 1985,
+      "mention_count": 2095,
       "source_count": 3
     },
     {
+      "keyword": "日消息",
+      "mention_count": 2086,
+      "source_count": 1
+    },
+    {
       "keyword": "are",
-      "mention_count": 1883,
+      "mention_count": 1979,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 1520,
+      "mention_count": 1592,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 1301,
+      "mention_count": 1369,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1270,
+      "mention_count": 1345,
       "source_count": 11
     },
     {
       "keyword": "while",
-      "mention_count": 1257,
+      "mention_count": 1313,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1208,
+      "mention_count": 1278,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1170,
+      "mention_count": 1248,
       "source_count": 6
     },
     {
       "keyword": "learning",
-      "mention_count": 1120,
+      "mention_count": 1174,
       "source_count": 5
     },
     {
       "keyword": "framework",
-      "mention_count": 1085,
-      "source_count": 5
-    },
-    {
-      "keyword": "reasoning",
-      "mention_count": 1021,
+      "mention_count": 1150,
       "source_count": 6
     },
     {
-      "keyword": "our",
-      "mention_count": 994,
-      "source_count": 8
+      "keyword": "reasoning",
+      "mention_count": 1090,
+      "source_count": 6
+    },
+    {
+      "keyword": "these",
+      "mention_count": 1052,
+      "source_count": 5
     }
   ],
   "quality": {
-    "scored": 472,
-    "must_read_count": 306,
+    "scored": 484,
+    "must_read_count": 319,
     "avg_score": 74.0
   }
 }
