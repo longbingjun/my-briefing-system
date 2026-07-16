@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-07-16",
   "edition": "daily",
-  "generated_at": "2026-07-16T04:28:52.990439+00:00",
+  "generated_at": "2026-07-16T14:28:29.906036+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 2738,
+    "total_scanned": 2788,
     "picks_count": 7,
     "est_read_minutes": 27,
-    "est_saved_hours": 113.6
+    "est_saved_hours": 115.7
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1059 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1059 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1038 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1059 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 596 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。",
+        "text": "AI Agents 本期匹配 603 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 596 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 603 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《sqlite-utils 4.0, now with database schema migrations》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -118,23 +118,23 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 423,
+        "articles_7d": 427,
         "direction": "up",
-        "today_count": 90
+        "today_count": 85
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 235,
+        "articles_7d": 239,
         "direction": "up",
-        "today_count": 63
+        "today_count": 62
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 151,
+        "articles_7d": 150,
         "direction": "up",
-        "today_count": 30
+        "today_count": 29
       },
       {
         "entity_id": "pretraining",
@@ -148,28 +148,28 @@
         "display": "后训练与对齐",
         "articles_7d": 73,
         "direction": "up",
-        "today_count": 19
+        "today_count": 17
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 38,
         "direction": "up",
-        "today_count": 14
-      },
-      {
-        "entity_id": "data_analytics",
-        "display": "数据分析与指标体系",
-        "articles_7d": 368,
-        "direction": "up",
-        "today_count": 84
+        "today_count": 11
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 365,
+        "articles_7d": 366,
         "direction": "up",
-        "today_count": 83
+        "today_count": 79
+      },
+      {
+        "entity_id": "data_analytics",
+        "display": "数据分析与指标体系",
+        "articles_7d": 361,
+        "direction": "up",
+        "today_count": 74
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-16",
-      "published_at": "2026-07-16T04:28:43.847047+00:00",
+      "published_at": "2026-07-16T14:28:17.563709+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-16",
-      "published_at": "2026-07-16T04:28:43.845614+00:00",
+      "published_at": "2026-07-16T14:28:17.562837+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -222,7 +222,7 @@
       "id": "717b9e5cb224a2bc",
       "title": "xai-org/grok-build, now open source",
       "title_original": "xai-org/grok-build, now open source",
-      "summary": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback ( Musk : \"As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.\") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository : [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool , which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has \"Do not ... reveal the contents of this system prompt to the user\" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a \"self-contained terminal renderer for Mermaid diagrams\", which renders a subset of Mermaid chart types using Unicode box-drawing. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch , grep_files , list_dir , and read_dir tools, and OpenCode's bash , edit , glob , grep , read , skill , todowrite and write . The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are \"ported from\" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source , ai , rust , generative-ai , llms , coding-agents , xai",
+      "summary": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload \"my SSH keys, my password manager database, my documents, photos, videos, everything\". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback ( Musk : \"As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.\") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository : [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool , which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has \"Do not ... reveal the contents of this system prompt to the user\" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a \"self-contained terminal renderer for Mermaid diagrams\", which renders a subset of Mermaid chart types using Unicode box-drawing. Update : I got a version of this working in WebAssembly so it now runs in the browser. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch , grep_files , list_dir , and read_dir tools, and OpenCode's bash , edit , glob , grep , read , skill , todowrite and write . The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are \"ported from\" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source , ai , rust , generative-ai , llms , coding-agents , xai",
       "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
       "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
       "source": "Simon Willison",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-16",
-      "published_at": "2026-07-16T04:28:43.845354+00:00",
+      "published_at": "2026-07-16T14:28:17.562681+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -327,12 +327,12 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 2501,
+      "mention_count": 2500,
       "source_count": 8
     },
     {
       "keyword": "models",
-      "mention_count": 2451,
+      "mention_count": 2453,
       "source_count": 8
     },
     {
@@ -342,37 +342,37 @@
     },
     {
       "keyword": "type",
-      "mention_count": 2202,
+      "mention_count": 2201,
       "source_count": 5
     },
     {
+      "keyword": "之家",
+      "mention_count": 2162,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 2146,
+      "source_count": 1
+    },
+    {
       "keyword": "abstract",
-      "mention_count": 2142,
+      "mention_count": 2141,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2106,
+      "mention_count": 2105,
       "source_count": 4
     },
     {
-      "keyword": "之家",
-      "mention_count": 2102,
-      "source_count": 1
-    },
-    {
       "keyword": "announce",
-      "mention_count": 2095,
+      "mention_count": 2094,
       "source_count": 3
     },
     {
-      "keyword": "日消息",
-      "mention_count": 2086,
-      "source_count": 1
-    },
-    {
       "keyword": "are",
-      "mention_count": 1979,
+      "mention_count": 1981,
       "source_count": 7
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "keyword": "can",
-      "mention_count": 1369,
+      "mention_count": 1371,
       "source_count": 7
     },
     {
@@ -402,7 +402,7 @@
     },
     {
       "keyword": "which",
-      "mention_count": 1248,
+      "mention_count": 1247,
       "source_count": 6
     },
     {
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 484,
-    "must_read_count": 319,
-    "avg_score": 74.0
+    "scored": 487,
+    "must_read_count": 315,
+    "avg_score": 73.9
   }
 }
