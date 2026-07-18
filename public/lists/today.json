@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "edition": "daily",
-  "generated_at": "2026-07-17T14:08:30.443118+00:00",
+  "generated_at": "2026-07-18T04:17:34.662206+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 2970,
+    "total_scanned": 3015,
     "picks_count": 7,
-    "est_read_minutes": 22,
-    "est_saved_hours": 123.4
+    "est_read_minutes": 21,
+    "est_saved_hours": 125.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1117 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1137 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1117 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1137 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1117 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1137 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 648 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+        "text": "AI Agents 本期匹配 654 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 648 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 654 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 427 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《Better Models: Worse Tools》。",
+        "text": "推理训练与强化学习 本期匹配 429 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 427 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《Better Models: Worse Tools》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 429 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,11 +99,11 @@
       },
       {
         "n": 6,
-        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-        "title": "Better Models: Worse Tools",
-        "source": "Simon Willison",
-        "score": 99,
-        "minutes": 3
+        "link": "https://www.ithome.com/0/978/440.htm",
+        "title": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
+        "source": "IT之家",
+        "score": 97,
+        "minutes": 2
       },
       {
         "n": 7,
@@ -118,77 +118,77 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 419,
+        "articles_7d": 404,
         "direction": "up",
-        "today_count": 82
+        "today_count": 75
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 246,
+        "articles_7d": 243,
         "direction": "up",
-        "today_count": 62
+        "today_count": 53
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 157,
+        "articles_7d": 148,
         "direction": "up",
-        "today_count": 37
+        "today_count": 25
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 118,
+        "articles_7d": 112,
         "direction": "up",
-        "today_count": 26
+        "today_count": 17
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 79,
+        "articles_7d": 71,
         "direction": "up",
-        "today_count": 18
+        "today_count": 14
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 32,
+        "articles_7d": 34,
         "direction": "up",
-        "today_count": 10
+        "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 396,
+        "articles_7d": 380,
         "direction": "up",
-        "today_count": 79
+        "today_count": 62
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 377,
+        "articles_7d": 358,
         "direction": "up",
-        "today_count": 85
+        "today_count": 67
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 305
+    "word_count": 377
   },
   "picks": [
     {
       "id": "8f6579600f746dee",
       "title": "simonw/pedalican",
       "title_original": "simonw/pedalican",
-      "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps . My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif : That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image , which was created with this prompt , which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it! Tags: ai , prompt-engineering , generative-ai , llms , text-to-image , pelican-riding-a-bicycle , codex",
+      "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps . My GitHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif : That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image , which was created with this prompt , which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it! Tags: ai , prompt-engineering , generative-ai , llms , text-to-image , pelican-riding-a-bicycle , codex",
       "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
       "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
       "source": "Simon Willison",
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-17",
-      "published_at": "2026-07-17T14:08:21.758988+00:00",
+      "date": "2026-07-18",
+      "published_at": "2026-07-18T04:17:24.934758+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-17",
-      "published_at": "2026-07-17T14:08:21.758737+00:00",
+      "date": "2026-07-18",
+      "published_at": "2026-07-18T04:17:24.934566+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -229,8 +229,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-17",
-      "published_at": "2026-07-17T14:08:21.758165+00:00",
+      "date": "2026-07-18",
+      "published_at": "2026-07-18T04:17:24.934135+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -282,25 +282,25 @@
       "topic": "评测/安全"
     },
     {
-      "id": "92e6186908f49804",
-      "title": "Better Models: Worse Tools",
-      "title_original": "Better Models: Worse Tools",
-      "summary": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace . OpenAI's Codex uses an apply_patch mechanism instead , and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher , ai , openai , generative-ai , llms , anthropic , llm-tool-use , coding-agents , pi",
-      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-14",
-      "published_at": "2026-07-14T14:18:59.836898+00:00",
-      "score": 99,
+      "id": "4d81d5f703eb6b6d",
+      "title": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
+      "title_original": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
+      "summary": "IT之家 7 月 18 日消息，@claudeai 官方 X 账号今天（7 月 18 日）发布推文，宣布将于 7 月 20 日开始， Max 和 Team Premium 订阅用户可以使用 Claude Fable 5 模型，限额为 50%。 而 Pro 和 Team Standard 订阅用户后续将继续通过用量积分方式调用 Claude Fable 5，不过官方一次性赠送价值 100 美元积分。 Anthropic 官方表示 Claude Fable 5 模型上线后用户需求较高，后续会根据服务器负载等情况，分阶段将其推广到现有订阅体系中。 IT之家查询该推文下方评论，用户负面评价偏多： 不过也有用户表示支持： 在推文下方评论，称 Kimi K3 模型每月 39 美元挺有吸引力的，而且实际使用体验可能比 Claude Fable 5 这 50% 限额更好用。 相关阅读： 《 Anthropic 收紧 Claude Fable 5 最强模型，7 月 7 日从订阅中移除改为 AI 用量计费 》 延伸阅读 Claude Fable 5 是 Anthropic 于 2026 年 6 月 10 日推出的面向普通用户的最强 Claude 模型，在软件工程、知识工作、视觉、科学研究等领域展现出卓越性能。 该模型在 2026 年 6 月 30 日解除出口管制后于 7 月 1 日重新上线，但随后用户反馈其存在“降智”情况，且因安全护栏严苛，频繁回退到 Opus 4.8 模型。 根据 Anthropic 于 2026 年 7 月 3 日公布的原计划，Fable 5 本应在 2026 年 7 月 7 日后从 Pro、Max、Team 和部分 Enterprise 订阅中移除，改为基于使用量积分的计费模式。 此后，Anthropic 曾将 Claude Fable 5 的限时推广活动从原计划的 2026 年 7 月 12 日延长至 7 月 19 日，所有付费套餐用户在此期间可继续使用。",
+      "url": "https://www.ithome.com/0/978/440.htm",
+      "link": "https://www.ithome.com/0/978/440.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-07-18",
+      "published_at": "2026-07-18T03:55:46+00:00",
+      "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
       "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
+      "minutes": 2,
+      "topic": "评测/安全"
     },
     {
       "id": "521d3f261102c7ea",
@@ -327,12 +327,12 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 2671,
+      "mention_count": 2674,
       "source_count": 8
     },
     {
       "keyword": "models",
-      "mention_count": 2627,
+      "mention_count": 2629,
       "source_count": 8
     },
     {
@@ -342,37 +342,37 @@
     },
     {
       "keyword": "type",
-      "mention_count": 2349,
+      "mention_count": 2353,
       "source_count": 5
     },
     {
       "keyword": "之家",
-      "mention_count": 2284,
+      "mention_count": 2344,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 2326,
       "source_count": 1
     },
     {
       "keyword": "abstract",
-      "mention_count": 2284,
+      "mention_count": 2285,
       "source_count": 3
     },
     {
-      "keyword": "日消息",
-      "mention_count": 2266,
-      "source_count": 1
-    },
-    {
       "keyword": "arxiv",
-      "mention_count": 2244,
+      "mention_count": 2245,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 2233,
+      "mention_count": 2234,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2117,
+      "mention_count": 2113,
       "source_count": 7
     },
     {
@@ -392,32 +392,32 @@
     },
     {
       "keyword": "while",
-      "mention_count": 1399,
+      "mention_count": 1400,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1368,
+      "mention_count": 1369,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1331,
-      "source_count": 6
+      "mention_count": 1333,
+      "source_count": 7
     },
     {
       "keyword": "learning",
-      "mention_count": 1286,
+      "mention_count": 1287,
       "source_count": 6
     },
     {
       "keyword": "framework",
-      "mention_count": 1252,
-      "source_count": 6
+      "mention_count": 1256,
+      "source_count": 7
     },
     {
       "keyword": "reasoning",
-      "mention_count": 1165,
+      "mention_count": 1166,
       "source_count": 6
     },
     {
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 493,
-    "must_read_count": 310,
-    "avg_score": 73.8
+    "scored": 497,
+    "must_read_count": 306,
+    "avg_score": 73.5
   }
 }
