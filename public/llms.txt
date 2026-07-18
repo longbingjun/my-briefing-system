@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
 Date: 2026-07-18
-Funnel: 12 sources, 3015 scanned, 7 picks
+Funnel: 12 sources, 3052 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1137 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+官方 AI 实验室与公司信号 本期匹配 1156 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
 
 ## Top Picks
 - [100] simonw/pedalican (Simon Willison) https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything
 - [100] xai-org/grok-build, now open source (Simon Willison) https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything
 - [100] Quoting Thibault Sottiaux (Simon Willison) https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything
 - [100] Rewriting Bun in Rust (Simon Willison) https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
-- [100] 全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成 (IT之家) https://www.ithome.com/0/972/424.htm
+- [97] Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3 (IT之家) https://www.ithome.com/0/978/440.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1137 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- AI Agents: AI Agents 本期匹配 654 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 429 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。
-- 预训练: 预训练 本期匹配 335 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《小米推出“开箱即用”机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1156 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- AI Agents: AI Agents 本期匹配 656 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 434 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。
+- 预训练: 预训练 本期匹配 337 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《小米推出“开箱即用”机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练》。
 - 后训练与对齐: 后训练与对齐 本期匹配 208 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《小米推出“开箱即用”机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练》。
-- 编程 Agent: 编程 Agent 本期匹配 98 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1055 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1021 篇文章，重点集中在 数据与指标、Agent 工作流、后训练/对齐。建议先看《How data science teams use ChatGPT Work》。
+- 编程 Agent: 编程 Agent 本期匹配 99 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1059 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1029 篇文章，重点集中在 数据与指标、Agent 工作流、后训练/对齐。建议先看《How data science teams use ChatGPT Work》。
