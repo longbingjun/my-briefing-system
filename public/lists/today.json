@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "edition": "daily",
-  "generated_at": "2026-07-18T13:54:19.678495+00:00",
+  "generated_at": "2026-07-19T04:39:48.546494+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 3052,
+    "total_scanned": 3088,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 126.8
+    "est_saved_hours": 128.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1156 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1179 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1156 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1179 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1156 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1179 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 656 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。",
+        "text": "AI Agents 本期匹配 661 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《simonw/pedalican》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 656 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《The new GPT-5.6 family: Luna, Terra, Sol》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 661 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《simonw/pedalican》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 434 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。",
+        "text": "推理训练与强化学习 本期匹配 435 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 434 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 435 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -91,6 +91,14 @@
       },
       {
         "n": 5,
+        "link": "https://www.ithome.com/0/978/670.htm",
+        "title": "月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破",
+        "source": "IT之家",
+        "score": 99,
+        "minutes": 2
+      },
+      {
+        "n": 6,
         "link": "https://www.ithome.com/0/978/440.htm",
         "title": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
         "source": "IT之家",
@@ -98,17 +106,9 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://www.ithome.com/0/978/290.htm",
         "title": "OpenAI 奥尔特曼调侃 Anthropic 最新广告：我还以为这是讽刺短片",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/0/972/424.htm",
-        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
         "source": "IT之家",
         "score": 97,
         "minutes": 2
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 403,
+        "articles_7d": 401,
         "direction": "up",
-        "today_count": 73
+        "today_count": 59
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 244,
+        "articles_7d": 245,
         "direction": "up",
-        "today_count": 51
+        "today_count": 26
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 152,
+        "articles_7d": 151,
         "direction": "up",
-        "today_count": 30
+        "today_count": 9
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
         "articles_7d": 114,
         "direction": "up",
-        "today_count": 18
+        "today_count": 6
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
         "articles_7d": 71,
         "direction": "up",
-        "today_count": 14
+        "today_count": 0
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 35,
+        "articles_7d": 36,
         "direction": "up",
-        "today_count": 13
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 380,
+        "articles_7d": 376,
         "direction": "up",
-        "today_count": 56
+        "today_count": 8
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 357,
+        "articles_7d": 351,
         "direction": "up",
-        "today_count": 66
+        "today_count": 25
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 377
+    "word_count": 314
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-18",
-      "published_at": "2026-07-18T13:54:10.470277+00:00",
+      "date": "2026-07-19",
+      "published_at": "2026-07-19T04:39:39.464809+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-18",
-      "published_at": "2026-07-18T13:54:10.470071+00:00",
+      "date": "2026-07-19",
+      "published_at": "2026-07-19T04:39:39.464588+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -229,8 +229,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-18",
-      "published_at": "2026-07-18T13:54:10.469655+00:00",
+      "date": "2026-07-19",
+      "published_at": "2026-07-19T04:39:39.464082+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -259,6 +259,27 @@
       "actionability": 55,
       "minutes": 5,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "08e1b79633973494",
+      "title": "月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破",
+      "title_original": "月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破",
+      "summary": "IT之家 7 月 19 日消息，月之暗面 Kimi K3 大模型于周四重磅上线，拥有 2.8 万亿参数，100 万 Tokens 上下文。在 Frontend Code Arena 全球 AI 大模型榜单中，Kimi K3 以 1679 分超越 Claude Fable 5，位居第一。 据彭博社今天报道，月之暗面的这款新模型正在搅动全球科技市场。此前，包括中国顶尖 AI 领军人物及美国头部企业的业内人士认为，中国的尖端 AI 模型开发仍落后于美国。一位不愿透露姓名的 Anthropic 高管还在本周说道，他们公司的技术领先中国竞品 6-12 个月。 Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在， 这种差距可能已经缩小到 2-3 个月 。” Kimi K3 的性能提升也让不少观察人士和投资者感到意外。与 DeepSeek 当年引发的讨论类似， 如今市场再度质疑硅谷数千亿美元投资 AI 是否能得到相应回报 、 美国 AI 领先优势是否被削弱 。 与此同时，越来越多企业用户也开始关注 AI 使用成本。部分开发者已经用上“模型路由”（IT之家注：Model Routing）服务，根据不同任务自动选择成本最低、效率最高的 AI 模型，这其中当然包括中国模型。 一位不愿透露姓名的美国 AI 公司高管表示，美国企业仍将依靠创新保持领先。但随着竞争加剧， 他们必须更清楚地向客户证明自身产品价值 。 事实上，美国 AI 行业已经在 Kimi K3 发布之前注意到中国模型的快速进步。OpenAI 首席执行官萨姆 · 奥尔特曼曾表示：“中国的开源模型已经变得非常优秀。但我仍然认为，我们将继续拥有世界上最优秀的模型，而用户真正想要的，也是世界上最好的模型。”",
+      "url": "https://www.ithome.com/0/978/670.htm",
+      "link": "https://www.ithome.com/0/978/670.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-07-19",
+      "published_at": "2026-07-19T03:55:48+00:00",
+      "score": 99,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "产品发布"
     },
     {
       "id": "4d81d5f703eb6b6d",
@@ -301,134 +322,113 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
-    },
-    {
-      "id": "62ef145eb6b373ca",
-      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-      "title_original": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-      "summary": "IT之家 7 月 3 日消息，安全厂商 Sysdig 昨日宣布，其威胁研究团队首次记录到一例由 AI Agent（智能体）自主完成整个攻击流程的勒索软件攻击，并将该攻击者命名为 JADEPUFFER。 研究人员指出，这是目前公开披露的全球首个有完整记录、完全由 AI Agent 自动执行的勒索软件攻击案例，它利用公开漏洞入侵系统后，自主完成了从侦察、窃取凭证、横向移动到最终加密和摧毁数据库的完整攻击链路，全程无需人类操作。 IT之家注意到，此次事件中的 AI 攻击者并未采用新的漏洞或攻击技术，而是依靠 AI 自主组合现有攻击手法，完成了一条完整的自动化攻击链。 根据 Sysdig 报告，攻击起点是一台暴露在互联网的 Langflow 服务。攻击者利用已修复但仍存在于部分系统中的高危漏洞 CVE-2025-3248，在无需身份验证的情况下远程执行 Python 代码，从而获得目标主机控制权。 研究人员指出，虽然 Langflow 已在 1.3.0 版本修复该漏洞，并于 2025 年被美国网络安全和基础设施安全局（CISA）列入“已知遭利用漏洞”名单，但仍有大量互联网暴露实例没有及时更新，因此成为攻击目标。 成功入侵后，JADEPUFFER 会自动收集主机中的敏感信息，包括 OpenAI、Anthropic、DeepSeek、Gemini 等大模型服务 API 密钥，以及阿里云、腾讯云、华为云、AWS、Google Cloud、Azure 等云平台的登录访问凭证，同时还会搜索数据库账号、配置文件、加密货币钱包及助记词等信息，并导出 Langflow 使用的 PostgreSQL 数据库内容。 研究人员还发现，该 AI 使用 MinIO 默认账号密码“minioadmin”访问对象存储，下载包含访问密钥的配置文件，并在受害服务器创建计划任务，每隔 30 分钟主动连接攻击者控制服务器，以维持长期访问权限。 完成初始侦察后，JADEPUFFER 将攻击目标转向另一台部署生产业务的服务器，该服务器运行 MySQL 数据库及阿里巴巴开源配置中心 Nacos。 研究显示，AI 通过数据库 Root 账号登录 MySQL，并结合 Nacos 身份验证绕过漏洞 CVE-2021-29441 以及长期未修改的默认 JWT 签名密钥，成功获取 Nacos 管理权限，在数据库中植入隐藏管理员账号，实现对配置中心的完全控制。 Sysdig 表示，本次攻击最具代表性的特征并非使用了新的攻击方式，而是 AI 展现出的自主决策能力。攻击过程中，JADEPUFFER 生成的大量恶意代码均包含自然语言注释，对每一步操作目的、攻击优先级和执行逻辑进行说明。 当首次创建管理员账号失败后，它没有简单重复尝试，而是在 31 秒内完成错误分析、重新生成密码哈希、删除失败账号、重新创建管理员并再次验证登录，整个修复过程完全自动完成。 研究团队统计，此次攻击累计执行了超过 600 个具有明确目的的攻击载荷，多次根据实际执行结果调整后续策略。 在勒索阶段，JADEPUFFER 使用 MySQL 的 AES_ENCRYPT () 函数加密了 Nacos 中全部 1342 条配置数据，随后删除原始配置表及历史记录表，并创建 README_RANSOM 表留下包含比特币钱包地址和 Proton Mail 联系方式的勒索信息。 不过，Sysdig 发现，AI 在生成加密密钥后仅输出到终端一次，并未保存或上传给攻击者，这意味着即使受害者支付赎金，也无法获得解密密钥恢复数据。 此外，AI 在后续还删除了多个数据库。虽然其生成的代码声称数据已备份至外部服务器，但研究人员未发现任何数据成功外传的证据，因此无法证实这一说法。 Sysdig 认为，JADEPUFFER 最大的意义在于证明 AI Agent 已能够自主串联漏洞利用、权限提升、凭据窃取、横向移动、持久化控制及勒索破坏等多个环节，从而显著降低实施勒索攻击所需的技术门槛。 研究团队建议企业尽快升级 Langflow 至修复版本，不要将其代码执行接口直接暴露在公网，同时加强 Nacos 安全配置，更换默认 JWT 签名密钥，避免数据库使用 Root 权限对外提供服务，并加强运行时行为检测、限制服务器对外通信能力以及妥善管理各类访问凭据，以降低类似 AI 自动化攻击造成的风险。",
-      "url": "https://www.ithome.com/0/972/424.htm",
-      "link": "https://www.ithome.com/0/972/424.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-07-03",
-      "published_at": "2026-07-03T11:57:00+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 2674,
-      "source_count": 8
-    },
-    {
-      "keyword": "models",
-      "mention_count": 2629,
+      "mention_count": 2722,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 2626,
+      "mention_count": 2697,
+      "source_count": 7
+    },
+    {
+      "keyword": "models",
+      "mention_count": 2682,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 2404,
+      "mention_count": 2462,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 2386,
+      "mention_count": 2444,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 2353,
+      "mention_count": 2395,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 2285,
+      "mention_count": 2327,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2245,
+      "mention_count": 2287,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 2234,
+      "mention_count": 2276,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2113,
-      "source_count": 7
+      "mention_count": 2148,
+      "source_count": 6
     },
     {
       "keyword": "across",
-      "mention_count": 1698,
+      "mention_count": 1731,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 1459,
+      "mention_count": 1483,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1432,
-      "source_count": 10
+      "mention_count": 1448,
+      "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 1400,
+      "mention_count": 1434,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1369,
+      "mention_count": 1402,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1333,
+      "mention_count": 1362,
       "source_count": 7
     },
     {
       "keyword": "learning",
-      "mention_count": 1287,
+      "mention_count": 1314,
       "source_count": 6
     },
     {
       "keyword": "framework",
-      "mention_count": 1258,
+      "mention_count": 1282,
       "source_count": 7
     },
     {
       "keyword": "reasoning",
-      "mention_count": 1166,
+      "mention_count": 1190,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1141,
+      "mention_count": 1166,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 500,
-    "must_read_count": 306,
-    "avg_score": 73.4
+    "scored": 502,
+    "must_read_count": 315,
+    "avg_score": 73.3
   }
 }
