@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-19
-Funnel: 12 sources, 3088 scanned, 7 picks
+Funnel: 12 sources, 3128 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1179 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。
+官方 AI 实验室与公司信号 本期匹配 1198 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。
 
 ## Top Picks
 - [100] simonw/pedalican (Simon Willison) https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything
@@ -14,11 +14,11 @@ Funnel: 12 sources, 3088 scanned, 7 picks
 - [99] 月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破 (IT之家) https://www.ithome.com/0/978/670.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1179 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。
-- AI Agents: AI Agents 本期匹配 661 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《simonw/pedalican》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1198 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、产品发布。建议先看《xai-org/grok-build, now open source》。
+- AI Agents: AI Agents 本期匹配 666 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《simonw/pedalican》。
 - 推理训练与强化学习: 推理训练与强化学习 本期匹配 435 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 预训练: 预训练 本期匹配 338 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination》。
-- 后训练与对齐: 后训练与对齐 本期匹配 208 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study》。
-- 编程 Agent: 编程 Agent 本期匹配 99 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1060 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1034 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
+- 预训练: 预训练 本期匹配 340 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination》。
+- 后训练与对齐: 后训练与对齐 本期匹配 209 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study》。
+- 编程 Agent: 编程 Agent 本期匹配 100 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1064 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1043 篇文章，重点集中在 数据与指标、Agent 工作流、产品发布。建议先看《How data science teams use ChatGPT Work》。
