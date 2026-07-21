@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "edition": "daily",
-  "generated_at": "2026-07-20T14:36:03.714977+00:00",
+  "generated_at": "2026-07-21T04:38:17.703266+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 3303,
+    "total_scanned": 3429,
     "picks_count": 7,
-    "est_read_minutes": 21,
-    "est_saved_hours": 137.3
+    "est_read_minutes": 22,
+    "est_saved_hours": 142.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1258 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1297 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1258 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1297 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1258 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1297 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 703 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《simonw/pedalican》。",
+        "text": "AI Agents 本期匹配 729 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《simonw/pedalican》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 703 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《simonw/pedalican》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 729 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《simonw/pedalican》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 471 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。",
+        "text": "推理训练与强化学习 本期匹配 504 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 471 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 504 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,77 +99,77 @@
       },
       {
         "n": 6,
-        "link": "https://www.ithome.com/0/978/440.htm",
-        "title": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
+        "link": "https://www.ithome.com/0/972/424.htm",
+        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
         "source": "IT之家",
         "score": 97,
         "minutes": 2
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/0/972/424.htm",
-        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 2
+        "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+        "title": "Fable gets another bump",
+        "source": "Simon Willison",
+        "score": 95,
+        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 422,
+        "articles_7d": 413,
         "direction": "up",
-        "today_count": 76
+        "today_count": 81
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 250,
+        "articles_7d": 240,
         "direction": "up",
-        "today_count": 50
+        "today_count": 49
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 160,
-        "direction": "up",
-        "today_count": 37
+        "articles_7d": 161,
+        "direction": "flat",
+        "today_count": 39
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 122,
+        "articles_7d": 123,
         "direction": "up",
-        "today_count": 27
+        "today_count": 23
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 77,
-        "direction": "down",
+        "articles_7d": 79,
+        "direction": "up",
         "today_count": 16
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 38,
+        "articles_7d": 39,
         "direction": "up",
-        "today_count": 12
+        "today_count": 14
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 376,
+        "articles_7d": 371,
         "direction": "up",
-        "today_count": 70
+        "today_count": 73
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 368,
-        "direction": "up",
-        "today_count": 70
+        "articles_7d": 344,
+        "direction": "down",
+        "today_count": 69
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-20",
-      "published_at": "2026-07-20T14:35:55.223448+00:00",
+      "date": "2026-07-21",
+      "published_at": "2026-07-21T04:38:06.403933+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-20",
-      "published_at": "2026-07-20T14:35:55.223265+00:00",
+      "date": "2026-07-21",
+      "published_at": "2026-07-21T04:38:06.403697+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -229,8 +229,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-20",
-      "published_at": "2026-07-20T14:35:55.222853+00:00",
+      "date": "2026-07-21",
+      "published_at": "2026-07-21T04:38:06.403182+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -282,27 +282,6 @@
       "topic": "产品发布"
     },
     {
-      "id": "4d81d5f703eb6b6d",
-      "title": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
-      "title_original": "Claude Fable 5 入驻 AI 订阅计划，网友称限额 50% 还不如用 Kimi K3",
-      "summary": "IT之家 7 月 18 日消息，@claudeai 官方 X 账号今天（7 月 18 日）发布推文，宣布将于 7 月 20 日开始， Max 和 Team Premium 订阅用户可以使用 Claude Fable 5 模型，限额为 50%。 而 Pro 和 Team Standard 订阅用户后续将继续通过用量积分方式调用 Claude Fable 5，不过官方一次性赠送价值 100 美元积分。 Anthropic 官方表示 Claude Fable 5 模型上线后用户需求较高，后续会根据服务器负载等情况，分阶段将其推广到现有订阅体系中。 IT之家查询该推文下方评论，用户负面评价偏多： 不过也有用户表示支持： 在推文下方评论，称 Kimi K3 模型每月 39 美元挺有吸引力的，而且实际使用体验可能比 Claude Fable 5 这 50% 限额更好用。 相关阅读： 《 Anthropic 收紧 Claude Fable 5 最强模型，7 月 7 日从订阅中移除改为 AI 用量计费 》 延伸阅读 Claude Fable 5 是 Anthropic 于 2026 年 6 月 10 日推出的面向普通用户的最强 Claude 模型，在软件工程、知识工作、视觉、科学研究等领域展现出卓越性能。 该模型在 2026 年 6 月 30 日解除出口管制后于 7 月 1 日重新上线，但随后用户反馈其存在“降智”情况，且因安全护栏严苛，频繁回退到 Opus 4.8 模型。 根据 Anthropic 于 2026 年 7 月 3 日公布的原计划，Fable 5 本应在 2026 年 7 月 7 日后从 Pro、Max、Team 和部分 Enterprise 订阅中移除，改为基于使用量积分的计费模式。 此后，Anthropic 曾将 Claude Fable 5 的限时推广活动从原计划的 2026 年 7 月 12 日延长至 7 月 19 日，所有付费套餐用户在此期间可继续使用。",
-      "url": "https://www.ithome.com/0/978/440.htm",
-      "link": "https://www.ithome.com/0/978/440.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-07-18",
-      "published_at": "2026-07-18T03:55:46+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 2,
-      "topic": "评测/安全"
-    },
-    {
       "id": "62ef145eb6b373ca",
       "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
       "title_original": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
@@ -322,113 +301,134 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
+    },
+    {
+      "id": "a245101d0a5270ef",
+      "title": "Fable gets another bump",
+      "title_original": "Fable gets another bump",
+      "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19. As before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits. Anthropic's original rationale for this was compute constraints - they wanted a better idea of both demand and compute availability before committing to keeping the new model cheap for subscribers. OpenAI appear confident that they won't need to restrict access to GPT-5.6 in the same way. Here's Thibault Sottiaux this morning : The last 48 hours of Codex and ChatGPT Work have been intense! Three important updates: Temporarily removing the 5 hour usage limit restriction for all Plus, Business and Pro plans Rolling out changes that will make GPT 5.6 Sol more efficient across the board and that will be reflected in less usage being used so that it can take you further. Exact impact to be quantified and shared We hit 6M active users, and are landing a usage reset in the next hour At this point I think Anthropic should change track and keep Fable permanently available on those plans. OpenAI are winning users simply due to the uncertainty that surrounds Fable access. Tags: anthropic , generative-ai , gpt , openai , claude-mythos-fable , ai , llms , llm-pricing",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-20",
+      "published_at": "2026-07-20T14:35:55.223861+00:00",
+      "score": 95,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 3,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
+      "keyword": "models",
+      "mention_count": 3086,
+      "source_count": 8
+    },
+    {
       "keyword": "new",
-      "mention_count": 2910,
+      "mention_count": 3068,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 2899,
+      "mention_count": 3044,
       "source_count": 7
     },
     {
-      "keyword": "models",
-      "mention_count": 2878,
-      "source_count": 8
+      "keyword": "type",
+      "mention_count": 2719,
+      "source_count": 5
     },
     {
       "keyword": "之家",
-      "mention_count": 2642,
+      "mention_count": 2702,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 2622,
+      "mention_count": 2682,
       "source_count": 1
     },
     {
-      "keyword": "type",
-      "mention_count": 2575,
-      "source_count": 5
-    },
-    {
       "keyword": "abstract",
-      "mention_count": 2507,
+      "mention_count": 2649,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2463,
+      "mention_count": 2605,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 2452,
+      "mention_count": 2592,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2276,
+      "mention_count": 2356,
       "source_count": 6
     },
     {
       "keyword": "across",
-      "mention_count": 1838,
+      "mention_count": 1957,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 1588,
+      "mention_count": 1656,
       "source_count": 6
     },
     {
-      "keyword": "data",
-      "mention_count": 1557,
-      "source_count": 9
-    },
-    {
       "keyword": "while",
-      "mention_count": 1553,
+      "mention_count": 1638,
       "source_count": 5
     },
     {
+      "keyword": "data",
+      "mention_count": 1623,
+      "source_count": 9
+    },
+    {
       "keyword": "language",
-      "mention_count": 1499,
-      "source_count": 7
+      "mention_count": 1598,
+      "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1449,
+      "mention_count": 1497,
       "source_count": 7
     },
     {
       "keyword": "learning",
-      "mention_count": 1411,
+      "mention_count": 1485,
       "source_count": 6
     },
     {
       "keyword": "framework",
-      "mention_count": 1386,
+      "mention_count": 1484,
       "source_count": 7
     },
     {
       "keyword": "reasoning",
-      "mention_count": 1304,
+      "mention_count": 1368,
       "source_count": 5
     },
     {
       "keyword": "these",
-      "mention_count": 1278,
+      "mention_count": 1340,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 508,
-    "must_read_count": 331,
-    "avg_score": 73.7
+    "scored": 515,
+    "must_read_count": 330,
+    "avg_score": 73.5
   }
 }
