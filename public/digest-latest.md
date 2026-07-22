@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-21
+# My Briefing · 2026-07-22
 
-12 个活跃信源 -> 3479 条扫描 -> 7 条今日值得看
-预计阅读 22 分钟，节省约 144.6 小时。
+12 个活跃信源 -> 3614 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 150.2 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1318 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- **AI Agents**：AI Agents 本期匹配 731 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 504 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1354 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- **AI Agents**：AI Agents 本期匹配 761 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 528 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
 
 ## 今日值得看
 
@@ -19,8 +19,8 @@
   On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and mistakenly deletes $HOME instead. &mdash; Thibault Sottiaux , describing a pretty gnarly Codex bug Tags: codex , coding-agents , generative-ai , ai , llms
 - [100] [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) · Simon Willison · 5 min
   Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and "forgot to free" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop . A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite . This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from "this is worth trying" to "I'm going to merge this". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai , rust , zig , generative-ai , llms , ai-assisted-programming , anthropic , bun , conformance-suites , agentic-engineering , claude-mythos-fable
-- [99] [月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破](https://www.ithome.com/0/978/670.htm) · IT之家 · 2 min
-  IT之家 7 月 19 日消息，月之暗面 Kimi K3 大模型于周四重磅上线，拥有 2.8 万亿参数，100 万 Tokens 上下文。在 Frontend Code Arena 全球 AI 大模型榜单中，Kimi K3 以 1679 分超越 Claude Fable 5，位居第一。 据彭博社今天报道，月之暗面的这款新模型正在搅动全球科技市场。此前，包括中国顶尖 AI 领军人物及美国头部企业的业内人士认为，中国的尖端 AI 模型开发仍落后于美国。一位不愿透露姓名的 Anthropic 高管还在本周说道，他们公司的技术领先中国竞品 6-12 个月。 Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在， 这种差距可能已经缩小到 2-3 个月 。” Kimi K3 的性能提升也让不少观察人士和投资者感到意外。与 DeepSeek 当年引发的讨论类似， 如今市场再度质疑硅谷数千亿美元投资 AI 是否能得到相应回报 、 美国 AI 领先优势是否被削弱 。 与此同时，越来越多企业用户也开始关注 AI 使用成本。部分开发者已经用上“模型路由”（IT之家注：Model Routing）服务，根据不同任务自动选择成本最低、效率最高的 AI 模型，这其中当然包括中国模型。 一位不愿透露姓名的美国 AI 公司高管表示，美国企业仍将依靠创新保持领先。但随着竞争加剧， 他们必须更清楚地向客户证明自身产品价值 。 事实上，美国 AI 行业已经在 Kimi K3 发布之前注意到中国模型的快速进步。OpenAI 首席执行官萨姆 · 奥尔特曼曾表示：“中国的开源模型已经变得非常优秀。但我仍然认为，我们将继续拥有世界上最优秀的模型，而用户真正想要的，也是世界上最好的模型。”
+- [99] [Mac 版 Claude Code 集成 iOS 模拟器，可 AI 构建和测试 App](https://www.ithome.com/0/979/938.htm) · IT之家 · 1 min
+  IT之家 7 月 22 日消息， @ClaudeDevs 官方账号今天（7 月 22 日）在 X 平台发布推文，宣布 Mac 桌面版 Claude Code 内置集成 iOS 模拟器， 无需屏幕录制与辅助功能权限即可构建、运行和测试 iOS 应用。 官方表示该功能目前以公测版形式上线，邀请开发者尝试体验。官方表示开发者不需要 macOS 辅助功能权限，也不需要屏幕录制授权，新版 Claude Code 可以直接驱动 iOS 模拟器，运行、交互和迭代项目。 在透明度方面，官方表示 iOS 模拟器的设备截图会发送给 Anthropic，并根据标准的对话保留设置进行保存。Anthropic 建议用户不要在 Claude 使用的设备上登录真实账户。IT之家附上相关截图如下：
 - [97] [全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成](https://www.ithome.com/0/972/424.htm) · IT之家 · 2 min
   IT之家 7 月 3 日消息，安全厂商 Sysdig 昨日宣布，其威胁研究团队首次记录到一例由 AI Agent（智能体）自主完成整个攻击流程的勒索软件攻击，并将该攻击者命名为 JADEPUFFER。 研究人员指出，这是目前公开披露的全球首个有完整记录、完全由 AI Agent 自动执行的勒索软件攻击案例，它利用公开漏洞入侵系统后，自主完成了从侦察、窃取凭证、横向移动到最终加密和摧毁数据库的完整攻击链路，全程无需人类操作。 IT之家注意到，此次事件中的 AI 攻击者并未采用新的漏洞或攻击技术，而是依靠 AI 自主组合现有攻击手法，完成了一条完整的自动化攻击链。 根据 Sysdig 报告，攻击起点是一台暴露在互联网的 Langflow 服务。攻击者利用已修复但仍存在于部分系统中的高危漏洞 CVE-2025-3248，在无需身份验证的情况下远程执行 Python 代码，从而获得目标主机控制权。 研究人员指出，虽然 Langflow 已在 1.3.0 版本修复该漏洞，并于 2025 年被美国网络安全和基础设施安全局（CISA）列入“已知遭利用漏洞”名单，但仍有大量互联网暴露实例没有及时更新，因此成为攻击目标。 成功入侵后，JADEPUFFER 会自动收集主机中的敏感信息，包括 OpenAI、Anthropic、DeepSeek、Gemini 等大模型服务 API 密钥，以及阿里云、腾讯云、华为云、AWS、Google Cloud、Azure 等云平台的登录访问凭证，同时还会搜索数据库账号、配置文件、加密货币钱包及助记词等信息，并导出 Langflow 使用的 PostgreSQL 数据库内容。 研究人员还发现，该 AI 使用 MinIO 默认账号密码“minioadmin”访问对象存储，下载包含访问密钥的配置文件，并在受害服务器创建计划任务，每隔 30 分钟主动连接攻击者控制服务器，以维持长期访问权限。 完成初始侦察后，JADEPUFFER 将攻击目标转向另一台部署生产业务的服务器，该服务器运行 MySQL 数据库及阿里巴巴开源配置中心 Nacos。 研究显示，AI 通过数据库 Root 账号登录 MySQL，并结合 Nacos 身份验证绕过漏洞 CVE-2021-29441 以及长期未修改的默认 JWT 签名密钥，成功获取 Nacos 管理权限，在数据库中植入隐藏管理员账号，实现对配置中心的完全控制。 Sysdig 表示，本次攻击最具代表性的特征并非使用了新的攻击方式，而是 AI 展现出的自主决策能力。攻击过程中，JADEPUFFER 生成的大量恶意代码均包含自然语言注释，对每一步操作目的、攻击优先级和执行逻辑进行说明。 当首次创建管理员账号失败后，它没有简单重复尝试，而是在 31 秒内完成错误分析、重新生成密码哈希、删除失败账号、重新创建管理员并再次验证登录，整个修复过程完全自动完成。 研究团队统计，此次攻击累计执行了超过 600 个具有明确目的的攻击载荷，多次根据实际执行结果调整后续策略。 在勒索阶段，JADEPUFFER 使用 MySQL 的 AES_ENCRYPT () 函数加密了 Nacos 中全部 1342 条配置数据，随后删除原始配置表及历史记录表，并创建 README_RANSOM 表留下包含比特币钱包地址和 Proton Mail 联系方式的勒索信息。 不过，Sysdig 发现，AI 在生成加密密钥后仅输出到终端一次，并未保存或上传给攻击者，这意味着即使受害者支付赎金，也无法获得解密密钥恢复数据。 此外，AI 在后续还删除了多个数据库。虽然其生成的代码声称数据已备份至外部服务器，但研究人员未发现任何数据成功外传的证据，因此无法证实这一说法。 Sysdig 认为，JADEPUFFER 最大的意义在于证明 AI Agent 已能够自主串联漏洞利用、权限提升、凭据窃取、横向移动、持久化控制及勒索破坏等多个环节，从而显著降低实施勒索攻击所需的技术门槛。 研究团队建议企业尽快升级 Langflow 至修复版本，不要将其代码执行接口直接暴露在公网，同时加强 Nacos 安全配置，更换默认 JWT 签名密钥，避免数据库使用 Root 权限对外提供服务，并加强运行时行为检测、限制服务器对外通信能力以及妥善管理各类访问凭据，以降低类似 AI 自动化攻击造成的风险。
 - [95] [Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything) · Simon Willison · 3 min
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 413，今日 +76，官方 AI 实验室与公司信号 本期匹配 1318 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- AI Agents：本周 232，今日 +44，AI Agents 本期匹配 731 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- 推理训练与强化学习：本周 158，今日 +34，推理训练与强化学习 本期匹配 504 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
-- 预训练：本周 122，今日 +23，预训练 本期匹配 384 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 后训练与对齐：本周 80，今日 +16，后训练与对齐 本期匹配 242 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 37，今日 +13，编程 Agent 本期匹配 110 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全：本周 376，今日 +72，AI 评测与安全 本期匹配 1205 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系：本周 346，今日 +64，数据分析与指标体系 本期匹配 1157 篇文章，重点集中在 后训练/对齐、数据与指标、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 334，今日 +79，AI 产品化 本期匹配 1068 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- AI 基础设施与算力：本周 261，今日 +66，AI 基础设施与算力 本期匹配 762 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 230，今日 +47，成本管理与 FinOps 本期匹配 675 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域：本周 115，今日 +21，AI 改造传统领域 本期匹配 339 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
+- 官方 AI 实验室与公司信号：本周 414，今日 +71，官方 AI 实验室与公司信号 本期匹配 1354 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- AI Agents：本周 235，今日 +43，AI Agents 本期匹配 761 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- 推理训练与强化学习：本周 168，今日 +26，推理训练与强化学习 本期匹配 528 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
+- 预训练：本周 124，今日 +22，预训练 本期匹配 403 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 后训练与对齐：本周 84，今日 +15，后训练与对齐 本期匹配 256 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 37，今日 +12，编程 Agent 本期匹配 113 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全：本周 402，今日 +88，AI 评测与安全 本期匹配 1282 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系：本周 375，今日 +83，数据分析与指标体系 本期匹配 1224 篇文章，重点集中在 后训练/对齐、数据与指标、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 355，今日 +83，AI 产品化 本期匹配 1130 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- AI 基础设施与算力：本周 276，今日 +60，AI 基础设施与算力 本期匹配 810 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 246，今日 +55，成本管理与 FinOps 本期匹配 718 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI 改造传统领域：本周 120，今日 +19，AI 改造传统领域 本期匹配 351 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：38 篇
+- 做啥：39 篇
 - 忽略：0 篇
