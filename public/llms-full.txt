@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-07-22
-Funnel: 12 sources, 3662 scanned, 7 picks
+Date: 2026-07-23
+Funnel: 12 sources, 3793 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1383 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
 
 ## Top Picks
 - [100] simonw/pedalican (Simon Willison) https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 3662 scanned, 7 picks
   Summary: IT之家 7 月 22 日消息， @ClaudeDevs 官方账号今天（7 月 22 日）在 X 平台发布推文，宣布 Mac 桌面版 Claude Code 内置集成 iOS 模拟器， 无需屏幕录制与辅助功能权限即可构建、运行和测试 iOS 应用。 官方表示该功能目前以公测版形式上线，邀请开发者尝试体验。官方表示开发者不需要 macOS 辅助功能权限，也不需要屏幕录制授权，新版 Claude Code 可以直接驱动 iOS 模拟器，运行、交互和迭代项目。 在透明度方面，官方表示 iOS 模拟器的设备截图会发送给 Anthropic，并根据标准的对话保留设置进行保存。Anthropic 建议用户不要在 Claude 使用的设备上登录真实账户。IT之家附上相关截图如下：
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1383 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- AI Agents: AI Agents 本期匹配 770 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 528 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
-- 预训练: 预训练 本期匹配 403 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 后训练与对齐: 后训练与对齐 本期匹配 256 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 115 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1287 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1230 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化: AI 产品化 本期匹配 1134 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 815 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 719 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 361 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
-- 科技圈动态: 科技圈动态 本期匹配 355 篇文章，重点集中在 Agent 工作流、后训练/对齐、官方/科技圈信号。建议先看《xai-org/grok-build, now open source》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 75 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- AI Agents: AI Agents 本期匹配 789 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 预训练: 预训练 本期匹配 431 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 后训练与对齐: 后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent: 编程 Agent 本期匹配 114 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1361 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1287 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1195 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 857 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 753 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 366 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
+- 科技圈动态: 科技圈动态 本期匹配 377 篇文章，重点集中在 Agent 工作流、后训练/对齐、科技圈动态。建议先看《xai-org/grok-build, now open source》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 79 篇文章，重点集中在 Agent 工作流、产品发布、推理训练/测试时计算。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。

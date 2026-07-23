@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-22
+# My Briefing · 2026-07-23
 
-12 个活跃信源 -> 3662 条扫描 -> 7 条今日值得看
-预计阅读 20 分钟，节省约 152.2 小时。
+12 个活跃信源 -> 3793 条扫描 -> 7 条今日值得看
+预计阅读 20 分钟，节省约 157.7 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1383 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- **AI Agents**：AI Agents 本期匹配 770 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 528 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- **AI Agents**：AI Agents 本期匹配 789 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 417，今日 +79，官方 AI 实验室与公司信号 本期匹配 1383 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- AI Agents：本周 236，今日 +52，AI Agents 本期匹配 770 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- 推理训练与强化学习：本周 167，今日 +26，推理训练与强化学习 本期匹配 528 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning》。
-- 预训练：本周 123，今日 +22，预训练 本期匹配 403 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 后训练与对齐：本周 82，今日 +15，后训练与对齐 本期匹配 256 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 36，今日 +13，编程 Agent 本期匹配 115 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全：本周 398，今日 +83，AI 评测与安全 本期匹配 1287 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系：本周 367，今日 +83，数据分析与指标体系 本期匹配 1230 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 349，今日 +79，AI 产品化 本期匹配 1134 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- AI 基础设施与算力：本周 278，今日 +61，AI 基础设施与算力 本期匹配 815 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 241，今日 +52，成本管理与 FinOps 本期匹配 719 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域：本周 120，今日 +22，AI 改造传统领域 本期匹配 361 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
+- 官方 AI 实验室与公司信号：本周 421，今日 +89，官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- AI Agents：本周 220，今日 +47，AI Agents 本期匹配 789 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- 推理训练与强化学习：本周 161，今日 +23，推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 预训练：本周 123，今日 +31，预训练 本期匹配 431 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 后训练与对齐：本周 86，今日 +21，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 39，今日 +15，编程 Agent 本期匹配 114 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全：本周 400，今日 +82，AI 评测与安全 本期匹配 1361 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系：本周 368，今日 +76，数据分析与指标体系 本期匹配 1287 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 358，今日 +83，AI 产品化 本期匹配 1195 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- AI 基础设施与算力：本周 275，今日 +58，AI 基础设施与算力 本期匹配 857 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 233，今日 +45，成本管理与 FinOps 本期匹配 753 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI 改造传统领域：本周 116，今日 +17，AI 改造传统领域 本期匹配 366 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：37 篇
+- 做啥：39 篇
 - 忽略：0 篇
