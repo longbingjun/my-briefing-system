@@ -1,13 +1,13 @@
 # My Briefing · 2026-07-23
 
-12 个活跃信源 -> 3793 条扫描 -> 7 条今日值得看
-预计阅读 20 分钟，节省约 157.7 小时。
+12 个活跃信源 -> 3837 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 159.5 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- **AI Agents**：AI Agents 本期匹配 789 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1443 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- **AI Agents**：AI Agents 本期匹配 796 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 551 篇文章，重点集中在 AI 基础设施、推理训练/测试时计算、预训练/模型架构。建议先看《阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务》。
 
 ## 今日值得看
 
@@ -23,23 +23,23 @@
   IT之家 7 月 22 日消息，英伟达首席执行官黄仁勋表示，美国无需害怕中国开源 AI 模型，真正值得担心的反而是美国国内日益高涨的“封禁中国 AI 模型”呼声。 黄仁勋当地时间周二在接受 Axios 专访时表示：“这些中国模型非常优秀，优秀的开源模型就应该被使用。” 作为全球最大的 AI 芯片制造商掌门人，黄仁勋明确表示，美国企业“绝对应该”被允许使用中国开源 AI 模型。这一观点直接挑战了特朗普政府部分官员以及正在游说华盛顿限制中国 AI 模型的美国 AI 公司的立场。 其中就包括英伟达的重要客户 OpenAI 和 Anthropic。这两家公司此前指责中国竞争对手通过模型蒸馏等方式获取其模型能力，并警告称，中国开源模型的迅速崛起正威胁美国在 AI 领域的领先地位。 不过，黄仁勋并不认同这一观点。他认为，OpenAI 和 Anthropic 没有必要惧怕开源模型，因为开源模型能够让更多人首次接触 AI，从而扩大整个市场规模，而许多用户最终仍会愿意为更便捷、更可靠、性能更强的闭源商业服务付费。 黄仁勋表示：“不存在中国企业把美国企业挤出市场的可能性，概率是零。” 此次采访在美国得州沃思堡（Fort Worth）进行，当时黄仁勋正在出席纬创（Wistron）新一阶段先进制造工厂的启用仪式。该工厂负责为英伟达生产 AI 基础设施设备。 黄仁勋借此表示，美国同样具备建设全球最先进制造业的能力。 近期，月之暗面（Moonshot AI）发布了开源大模型 Kimi K3，再次引发美国市场对于 AI 竞争格局的担忧，也成为继 2025 年初 DeepSeek 引发市场震荡以来，AI 行业最受关注的事件之一。 Kimi K3 同时具备三个此前极少同时出现的特点：性能接近国际最先进模型、价格大幅降低，以及开放模型权重，开发者可以自由下载并进行二次开发。 这一组合也导致英伟达等 AI 芯片公司股价出现回调，市场重新担忧，更便宜、更高效的 AI 模型可能削弱行业持续大规模投资 AI 基础设施的必要性。 不过，黄仁勋认为，无论华尔街还是华盛顿，都误判了 Kimi 带来的影响。他说：“市场第一次误解了 DeepSeek 的影响，这一次又误解了 Kimi 的影响。” 在黄仁勋看来，逻辑其实很简单：更便宜、更开放的 AI 模型会让更多企业和个人开始使用 AI，而这反而会带来更多芯片、数据中心以及算力需求，最终利好英伟达等基础设施供应商。他说：“免费的 AI 应该有利于硬件，有利于芯片，也有利于数据中心。” 谈及美国政策时，黄仁勋认为，以国家安全为由限制开源 AI 模型，反而可能让美国自身变得更加脆弱。黄仁勋表示，企业完全可以下载这些模型，并在自身安全隔离环境（Sandbox）中进行部署、修改和控制。 他进一步认为，开放反而意味着更高的安全性，因为全球研究人员都可以检查模型、发现漏洞并及时修复。他说：“如果未来所有人都只能使用一个模型，那么整个世界就只有一个攻击目标、一个单点故障来源，我认为那样反而会更加危险。” 黄仁勋同样将这一观点应用到美国 AI 模型身上。他呼吁 Anthropic 将目前仅限特定用户使用的网络安全模型 Claude Mythos 向更多用户开放，而不是继续限制访问权限。 黄仁勋表示，与其限制模型开放，不如通过持续测试和快速修复来提高模型安全性。他说：“Mythos 应该作为一种服务向所有人开放。要记住，即便 Anthropic 不开放 Mythos，其他开源模型依然存在。所以，我认为应该让 Anthropic 放手去做。” 他还表示：“限制 Anthropic，并不符合美国的利益。” 在黄仁勋看来，美国政府对于中美 AI 竞争的理解也存在偏差。一些特朗普政府顾问将中国 AI 的快速发展视为对美国领先地位的重大威胁，但黄仁勋认为，AI 并不是一场终点明确的竞赛。 他说：“AI 会一直伴随人类发展。美国会长期存在，中国也会长期存在，这并不是一场有终点的比赛。” IT之家注意到，就在黄仁勋接受采访前几个小时，美国财政部长斯科特 · 贝森特（Scott Bessent）刚刚向 Fox Business 表示，美国政府正在调查中国 AI 模型是否存在窃取美国知识产权的问题，并考虑采取制裁措施。 贝森特表示：“如果我们发现海外 AI 模型窃取了美国优秀企业的技术成果，我们将有能力因此实施制裁。”他还称，美国模型中的一些“水印”已经出现在中国 AI 模型中。 对此，黄仁勋则给出了截然不同的看法。他表示：“模型蒸馏、向 AI 学习，以及从其他知识来源学习，本身就是智能形成的基础。” 不过，他也强调，如果企业违反隐私保护规定或合同约定，仍然应承担相应责任。但他认为，监管真正应该针对的是违法行为本身，而不是 AI 模型。
 - [100] [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) · Simon Willison · 5 min
   Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and "forgot to free" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop . A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite . This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from "this is worth trying" to "I'm going to merge this". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai , rust , zig , generative-ai , llms , ai-assisted-programming , anthropic , bun , conformance-suites , agentic-engineering , claude-mythos-fable
-- [99] [Mac 版 Claude Code 集成 iOS 模拟器，可 AI 构建和测试 App](https://www.ithome.com/0/979/938.htm) · IT之家 · 1 min
-  IT之家 7 月 22 日消息， @ClaudeDevs 官方账号今天（7 月 22 日）在 X 平台发布推文，宣布 Mac 桌面版 Claude Code 内置集成 iOS 模拟器， 无需屏幕录制与辅助功能权限即可构建、运行和测试 iOS 应用。 官方表示该功能目前以公测版形式上线，邀请开发者尝试体验。官方表示开发者不需要 macOS 辅助功能权限，也不需要屏幕录制授权，新版 Claude Code 可以直接驱动 iOS 模拟器，运行、交互和迭代项目。 在透明度方面，官方表示 iOS 模拟器的设备截图会发送给 Anthropic，并根据标准的对话保留设置进行保存。Anthropic 建议用户不要在 Claude 使用的设备上登录真实账户。IT之家附上相关截图如下：
+- [99] [AMD 即将推出新一代 AI 基础设施，与英伟达正面交锋](https://www.ithome.com/0/980/847.htm) · IT之家 · 2 min
+  IT之家 7 月 23 日消息，AMD 将于当地时间周四在旧金山市中心的一场活动上发布一系列人工智能硬件产品，与英伟达展开正面竞争。 AMD 正试图在快速增长的数据中心芯片市场抢占更多份额，尤其是 AI 推理计算领域。所谓推理计算，是指用户向 ChatGPT 等聊天机器人发出请求后，系统进行数据处理和生成回答所需的计算过程。 预计 AMD 将在此次活动上展示多款数据中心硬件，其中包括公司首款服务器机架产品 Helios。AMD 将其定位为英伟达同类产品的竞争对手，而英伟达今年正在推出第二代相关产品。 此外，AMD 还预计将正式发布面向数据中心的 Venice 中央处理器（CPU）。 本周，英伟达也公布了大量关于 Vera CPU 的技术细节，试图证明这款芯片与 Rubin 图形处理器（GPU）搭配后，能够在相同电力消耗下，最大限度提升 AI 智能体（AI Agent）的计算能力。 据路透社记者现场观察，周三在旧金山 Moscone West 会展中心，数百名企业高管和工程师参加了技术演讲，并在展区进行了交流。 AMD 在展会上展示了 Helios 数据中心机架，其展位周围还有云计算服务商 Vultr 和 TensorWave 等企业，两家公司均运营着采用 AMD 硬件的数据中心。 AMD 周三还宣布，计划从 2027 年上半年开始，向 AI 公司 Anthropic 供应总规模最高达 2 吉瓦算力的 Instinct MI450 AI 芯片。双方达成的协议还包括 AMD 对 Anthropic 最高 50 亿美元（IT之家注：现汇率约合 339.08 亿元人民币）的投资。 去年 10 月，AMD 还宣布与 OpenAI 达成一项多年合作协议。根据协议，这项合作有望为 AMD 带来每年数百亿美元的收入，同时 OpenAI 还将获得购买 AMD 最多约 10% 股份的选择权。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 421，今日 +89，官方 AI 实验室与公司信号 本期匹配 1422 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- AI Agents：本周 220，今日 +47，AI Agents 本期匹配 789 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
-- 推理训练与强化学习：本周 161，今日 +23，推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 预训练：本周 123，今日 +31，预训练 本期匹配 431 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 后训练与对齐：本周 86，今日 +21，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 39，今日 +15，编程 Agent 本期匹配 114 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全：本周 400，今日 +82，AI 评测与安全 本期匹配 1361 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系：本周 368，今日 +76，数据分析与指标体系 本期匹配 1287 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 358，今日 +83，AI 产品化 本期匹配 1195 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- AI 基础设施与算力：本周 275，今日 +58，AI 基础设施与算力 本期匹配 857 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 233，今日 +45，成本管理与 FinOps 本期匹配 753 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域：本周 116，今日 +17，AI 改造传统领域 本期匹配 366 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
+- 官方 AI 实验室与公司信号：本周 419，今日 +83，官方 AI 实验室与公司信号 本期匹配 1443 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- AI Agents：本周 222，今日 +43，AI Agents 本期匹配 796 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《simonw/pedalican》。
+- 推理训练与强化学习：本周 164，今日 +27，推理训练与强化学习 本期匹配 551 篇文章，重点集中在 AI 基础设施、推理训练/测试时计算、预训练/模型架构。建议先看《阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务》。
+- 预训练：本周 122，今日 +31，预训练 本期匹配 431 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 后训练与对齐：本周 87，今日 +22，后训练与对齐 本期匹配 277 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 38，今日 +12，编程 Agent 本期匹配 113 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
+- AI 评测与安全：本周 404，今日 +86，AI 评测与安全 本期匹配 1370 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系：本周 373，今日 +79，数据分析与指标体系 本期匹配 1298 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 355，今日 +84，AI 产品化 本期匹配 1202 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- AI 基础设施与算力：本周 279，今日 +60，AI 基础设施与算力 本期匹配 865 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 237，今日 +50，成本管理与 FinOps 本期匹配 759 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI 改造传统领域：本周 120，今日 +16，AI 改造传统领域 本期匹配 374 篇文章，重点集中在 行业改造、评测/安全、Agent 工作流。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
 
 ## 内容分栏
 
