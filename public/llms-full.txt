@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-24
-Funnel: 12 sources, 3968 scanned, 7 picks
+Funnel: 12 sources, 4012 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1485 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+官方 AI 实验室与公司信号 本期匹配 1505 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
 
 ## Top Picks
 - [100] xai-org/grok-build, now open source (Simon Willison) https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 3968 scanned, 7 picks
   Summary: IT之家 7 月 23 日消息，AMD 将于当地时间周四在旧金山市中心的一场活动上发布一系列人工智能硬件产品，与英伟达展开正面竞争。 AMD 正试图在快速增长的数据中心芯片市场抢占更多份额，尤其是 AI 推理计算领域。所谓推理计算，是指用户向 ChatGPT 等聊天机器人发出请求后，系统进行数据处理和生成回答所需的计算过程。 预计 AMD 将在此次活动上展示多款数据中心硬件，其中包括公司首款服务器机架产品 Helios。AMD 将其定位为英伟达同类产品的竞争对手，而英伟达今年正在推出第二代相关产品。 此外，AMD 还预计将正式发布面向数据中心的 Venice 中央处理器（CPU）。 本周，英伟达也公布了大量关于 Vera CPU 的技术细节，试图证明这款芯片与 Rubin 图形处理器（GPU）搭配后，能够在相同电力消耗下，最大限度提升 AI 智能体（AI Agent）的计算能力。 据路透社记者现场观察，周三在旧金山 Moscone West 会展中心，数百名企业高管和工程师参加了技术演讲，并在展区进行了交流。 AMD 在展会上展示了 Helios 数据中心机架，其展位周围还有云计算服务商 Vultr 和 TensorWave 等企业，两家公司均运营着采用 AMD 硬件的数据中心。 AMD 周三还宣布，计划从 2027 年上半年开始，向 AI 公司 Anthropic 供应总规模最高达 2 吉瓦算力的 Instinct MI450 AI 芯片。双方达成的协议还包括 AMD 对 Anthropic 最高 50 亿美元（IT之家注：现汇率约合 339.08 亿元人民币）的投资。 去年 10 月，AMD 还宣布与 OpenAI 达成一项多年合作协议。根据协议，这项合作有望为 AMD 带来每年数百亿美元的收入，同时 OpenAI 还将获得购买 AMD 最多约 10% 股份的选择权。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1485 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
-- AI Agents: AI Agents 本期匹配 823 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 572 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。
-- 预训练: 预训练 本期匹配 457 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1505 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。
+- AI Agents: AI Agents 本期匹配 832 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 575 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。
+- 预训练: 预训练 本期匹配 459 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《蚂蚁集团发布百灵原生混合推理模型 Ling-3.0-flash：124B 总参数量，能力对标上一代旗舰 Ring-2.6-1T》。
 - 后训练与对齐: 后训练与对齐 本期匹配 291 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
 - 编程 Agent: 编程 Agent 本期匹配 118 篇文章，重点集中在 Agent 工作流、后训练/对齐、预训练/模型架构。建议先看《xai-org/grok-build, now open source》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1445 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1360 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化: AI 产品化 本期匹配 1263 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 914 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 793 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 386 篇文章，重点集中在 行业改造、评测/安全、产品发布。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
-- 科技圈动态: 科技圈动态 本期匹配 392 篇文章，重点集中在 Agent 工作流、后训练/对齐、科技圈动态。建议先看《xai-org/grok-build, now open source》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 81 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1450 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1372 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1265 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 916 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 797 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 科技圈动态: 科技圈动态 本期匹配 396 篇文章，重点集中在 Agent 工作流、后训练/对齐、数据与指标。建议先看《xai-org/grok-build, now open source》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 391 篇文章，重点集中在 行业改造、评测/安全、产品发布。建议先看《上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 82 篇文章，重点集中在 Agent 工作流、产品发布、评测/安全。建议先看《sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)》。

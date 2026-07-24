@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-07-24",
   "edition": "daily",
-  "generated_at": "2026-07-24T04:39:42.852619+00:00",
+  "generated_at": "2026-07-24T14:18:03.681141+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 3968,
+    "total_scanned": 4012,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 165.0
+    "est_saved_hours": 166.8
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1485 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1505 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1485 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1505 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1485 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1505 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 823 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。",
+        "text": "AI Agents 本期匹配 832 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 823 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 832 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《xai-org/grok-build, now open source》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 572 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。",
+        "text": "推理训练与强化学习 本期匹配 575 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 572 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 575 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,37 +118,37 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 438,
+        "articles_7d": 434,
         "direction": "up",
-        "today_count": 80
+        "today_count": 82
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 233,
+        "articles_7d": 236,
         "direction": "up",
-        "today_count": 45
+        "today_count": 50
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 172,
+        "articles_7d": 174,
         "direction": "up",
-        "today_count": 27
+        "today_count": 26
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 140,
+        "articles_7d": 141,
         "direction": "up",
-        "today_count": 30
+        "today_count": 31
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 97,
+        "articles_7d": 96,
         "direction": "up",
-        "today_count": 17
+        "today_count": 16
       },
       {
         "entity_id": "coding_agents",
@@ -160,16 +160,16 @@
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 455,
+        "articles_7d": 451,
         "direction": "up",
         "today_count": 88
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 413,
+        "articles_7d": 414,
         "direction": "up",
-        "today_count": 81
+        "today_count": 84
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-24",
-      "published_at": "2026-07-24T04:39:31.988478+00:00",
+      "published_at": "2026-07-24T14:17:53.086473+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-24",
-      "published_at": "2026-07-24T04:39:31.987925+00:00",
+      "published_at": "2026-07-24T14:17:53.085936+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -346,19 +346,19 @@
       "source_count": 5
     },
     {
-      "keyword": "abstract",
-      "mention_count": 3071,
-      "source_count": 3
-    },
-    {
       "keyword": "之家",
-      "mention_count": 3060,
+      "mention_count": 3118,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3040,
+      "mention_count": 3098,
       "source_count": 1
+    },
+    {
+      "keyword": "abstract",
+      "mention_count": 3071,
+      "source_count": 3
     },
     {
       "keyword": "arxiv",
@@ -397,13 +397,13 @@
     },
     {
       "keyword": "data",
-      "mention_count": 1888,
+      "mention_count": 1892,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1710,
-      "source_count": 7
+      "mention_count": 1712,
+      "source_count": 8
     },
     {
       "keyword": "learning",
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 531,
-    "must_read_count": 326,
-    "avg_score": 73.4
+    "scored": 532,
+    "must_read_count": 332,
+    "avg_score": 73.5
   }
 }
