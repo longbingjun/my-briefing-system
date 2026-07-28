@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-07-28",
   "edition": "daily",
-  "generated_at": "2026-07-28T04:31:35.555857+00:00",
+  "generated_at": "2026-07-28T14:45:35.033259+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4411,
+    "total_scanned": 4454,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 183.4
+    "est_saved_hours": 185.2
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 889 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。",
+        "text": "AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 889 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -118,23 +118,23 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 404,
-        "direction": "up",
-        "today_count": 82
+        "articles_7d": 397,
+        "direction": "down",
+        "today_count": 71
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 185,
+        "articles_7d": 188,
         "direction": "down",
-        "today_count": 44
+        "today_count": 45
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
         "articles_7d": 122,
         "direction": "down",
-        "today_count": 29
+        "today_count": 28
       },
       {
         "entity_id": "pretraining",
@@ -153,21 +153,21 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 41,
+        "articles_7d": 40,
         "direction": "up",
-        "today_count": 16
+        "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 413,
+        "articles_7d": 409,
         "direction": "up",
-        "today_count": 92
+        "today_count": 88
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 372,
+        "articles_7d": 375,
         "direction": "up",
         "today_count": 76
       }
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-28",
-      "published_at": "2026-07-28T04:31:24.213060+00:00",
+      "published_at": "2026-07-28T14:45:23.289183+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-07-28",
-      "published_at": "2026-07-28T04:31:24.208729+00:00",
+      "published_at": "2026-07-28T14:45:23.284990+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,67 +327,67 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4164,
+      "mention_count": 4163,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4028,
+      "mention_count": 4026,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 4008,
+      "mention_count": 4005,
       "source_count": 8
     },
     {
-      "keyword": "type",
-      "mention_count": 3567,
-      "source_count": 5
-    },
-    {
       "keyword": "之家",
-      "mention_count": 3528,
+      "mention_count": 3588,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3510,
+      "mention_count": 3570,
       "source_count": 1
     },
     {
+      "keyword": "type",
+      "mention_count": 3565,
+      "source_count": 5
+    },
+    {
       "keyword": "abstract",
-      "mention_count": 3483,
+      "mention_count": 3481,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3432,
+      "mention_count": 3430,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3419,
+      "mention_count": 3417,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3164,
+      "mention_count": 3163,
       "source_count": 6
     },
     {
       "keyword": "across",
-      "mention_count": 2635,
+      "mention_count": 2634,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2242,
+      "mention_count": 2240,
       "source_count": 5
     },
     {
       "keyword": "can",
-      "mention_count": 2228,
+      "mention_count": 2227,
       "source_count": 7
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "keyword": "data",
-      "mention_count": 2109,
+      "mention_count": 2111,
       "source_count": 10
     },
     {
@@ -407,12 +407,12 @@
     },
     {
       "keyword": "learning",
-      "mention_count": 1869,
+      "mention_count": 1868,
       "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1854,
+      "mention_count": 1852,
       "source_count": 6
     },
     {
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 540,
-    "must_read_count": 327,
+    "scored": 546,
+    "must_read_count": 331,
     "avg_score": 73.1
   }
 }
