@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-27
+# My Briefing · 2026-07-28
 
-12 个活跃信源 -> 4281 条扫描 -> 7 条今日值得看
-预计阅读 21 分钟，节省约 178.0 小时。
+12 个活跃信源 -> 4411 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 183.4 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1627 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- **AI Agents**：AI Agents 本期匹配 863 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 597 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- **AI Agents**：AI Agents 本期匹配 889 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
 
 ## 今日值得看
 
@@ -28,18 +28,18 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 402，今日 +68，官方 AI 实验室与公司信号 本期匹配 1627 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI Agents：本周 186，今日 +32，AI Agents 本期匹配 863 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
-- 推理训练与强化学习：本周 129，今日 +21，推理训练与强化学习 本期匹配 597 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 预训练：本周 118，今日 +20，预训练 本期匹配 477 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 后训练与对齐：本周 72，今日 +9，后训练与对齐 本期匹配 298 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 37，今日 +9，编程 Agent 本期匹配 127 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 400，今日 +61，AI 评测与安全 本期匹配 1527 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系：本周 360，今日 +52，数据分析与指标体系 本期匹配 1448 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 339，今日 +60，AI 产品化 本期匹配 1310 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力：本周 263，今日 +36，AI 基础设施与算力 本期匹配 953 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 209，今日 +42，成本管理与 FinOps 本期匹配 834 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI 改造传统领域：本周 110，今日 +19，AI 改造传统领域 本期匹配 423 篇文章，重点集中在 评测/安全、行业改造、AI 改造传统领域。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 官方 AI 实验室与公司信号：本周 404，今日 +82，官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI Agents：本周 185，今日 +44，AI Agents 本期匹配 889 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
+- 推理训练与强化学习：本周 122，今日 +29，推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
+- 预训练：本周 121，今日 +26，预训练 本期匹配 500 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 后训练与对齐：本周 70，今日 +16，后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 41，今日 +16，编程 Agent 本期匹配 134 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 413，今日 +92，AI 评测与安全 本期匹配 1601 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 数据分析与指标体系：本周 372，今日 +76，数据分析与指标体系 本期匹配 1506 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 340，今日 +81，AI 产品化 本期匹配 1366 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力：本周 261，今日 +64，AI 基础设施与算力 本期匹配 1004 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 209，今日 +54，成本管理与 FinOps 本期匹配 868 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- AI 改造传统领域：本周 106，今日 +18，AI 改造传统领域 本期匹配 432 篇文章，重点集中在 评测/安全、行业改造、AI 改造传统领域。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
 
 ## 内容分栏
 
