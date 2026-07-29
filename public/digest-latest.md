@@ -1,20 +1,20 @@
-# My Briefing · 2026-07-28
+# My Briefing · 2026-07-29
 
-12 个活跃信源 -> 4454 条扫描 -> 7 条今日值得看
-预计阅读 21 分钟，节省约 185.2 小时。
+12 个活跃信源 -> 4571 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 190.1 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- **AI Agents**：AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- **AI Agents**：AI Agents 本期匹配 917 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- **预训练**：预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
 
 ## 今日值得看
 
-- [100] [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) · Simon Willison · 2 min
-  On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and mistakenly deletes $HOME instead. &mdash; Thibault Sottiaux , describing a pretty gnarly Codex bug Tags: codex , coding-agents , generative-ai , ai , llms
 - [100] [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) · Simon Willison · 3 min
   Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned "ruff" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0 , the number of rules in Ruff has grown from 708 to 968. Many of these rules catch severe issues, including syntax errors and immediate runtime errors but were not previously enabled by default. With the new rule set, Ruff will bring these issues and many others to your attention without any Ruff configuration. Here's a one-liner for trying it on any Python project: uvx ruff@latest check . I ran the latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it found hundreds of minor issues that breached the new default rules. All three projects have very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so upgrades like this are pretty safe. The following command did the bulk of the upgrades: uvx ruff@latest check . --fix --unsafe-fixes Against sqlite-utils , that command reported: Found 1618 errors (1538 fixed, 80 remaining). As an illustrative example, here are three of the remaining issues. Ruff does a nice job of explaining each one: DTZ005 `datetime.datetime.now()` called without a `tz` argument --&gt; tests/test_duplicate.py:17:10 | 15 | "datetime_col" TEXT)""") 16 | # Insert one row of mock data: 17 | dt = datetime.datetime.now() | ^^^^^^^^^^^^^^^^^^^^^^^ 18 | data = { 19 | "text_col": "Cleo", | help: Pass a `datetime.timezone` object to the `tz` parameter BLE001 Do not catch blind exception: `Exception` --&gt; tests/test_plugins.py:16:12 | 14 | db.execute("select * from pragma_function_list()") 15 | return True 16 | except Exception: | ^^^^^^^^^ 17 | return False 18 | finally: | B018 Found useless attribute access. Either assign it to a variable or remove it. --&gt; tests/test_update.py:46:5 | 44 | def test_update_invalid_pk(fresh_db, pk, update_pk): 45 | table = fresh_db["table"] 46 | table.insert({"id1": 5, "id2": 3, "v": 1}, pk=pk).last_pk | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 47 | with pytest.raises(NotFoundError): 48 | table.update(update_pk, {"v": 2}) | Unsurprisingly, given Astral's new home at OpenAI , this output provides everything a coding agent would need to fix the problems. I had Codex (GPT-5.6 Sol high) upgrade LLM and sqlite-utils , and Claude Code (with Opus 5) upgrade Datasette . Tags: python , ruff , astral
+- [100] [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) · Simon Willison · 2 min
+  On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and mistakenly deletes $HOME instead. &mdash; Thibault Sottiaux , describing a pretty gnarly Codex bug Tags: codex , coding-agents , generative-ai , ai , llms
 - [100] [韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制](https://www.ithome.com/0/982/241.htm) · IT之家 · 2 min
   IT之家 7 月 27 日消息，随着韩国企业加快将海外大模型引入业务流程，它们正面临 AI 词元（Token）使用成本快速攀升的挑战。 自 ChatGPT 于近四年前引爆全球 AI 热潮以来，韩国企业整体在 AI 应用方面一直较为落后，许多公司要么推进缓慢，要么出于数据安全考虑直接禁止员工使用相关工具。 不过，近期这一局面开始发生变化。包括三星、SK 集团在内的韩国大型企业，正通过企业版合同，陆续向员工开放 Anthropic 的 Claude、谷歌 Gemini 以及 OpenAI ChatGPT 等美国 AI 模型。 然而，这一转变不仅成本高昂，对于半导体等对数据安全极为敏感的行业来说，推广过程依然十分谨慎。包括三星在内的企业，如今正研究如何限制员工的 Token 使用额度，以在提升生产效率和控制运营成本之间取得平衡。 企业应用成本高企，Token 成为新负担 相比普通消费者，企业工作流程通常涉及复杂、高容量的任务，因此 Token 消耗也远高于个人用户。 其中，Claude 的 Token 成本已成为韩国企业关注的新问题。虽然 Claude 进入主流市场的时间并不长，但凭借出色的编程和任务执行能力，其迅速成为韩国最受开发者等重度用户欢迎的 AI 工具之一。 为了控制成本，三星在向员工开放 Claude、Gemini 和 ChatGPT 三款美国大模型时，同时实施了严格的 Token 配额制度。员工根据不同等级获得不同的使用额度，基础等级仅能完成简单任务。如果希望提升额度，则必须证明 AI 确实提高了自己的工作效率。 一位不愿透露姓名的三星员工表示：“额度提升并不是自动完成的。如果你想提高额度，就必须拿出成果，证明自己确实把 AI 用到了工作中。” 这一制度也在公司内部引发了一些不满。一些员工认为，目前的 Token 限额过于严格，根本不足以充分发挥 AI 的作用。 根据 Anthropic 发布的《Anthropic Economic Index》，韩国在全球 121 个国家和地区中，Claude 使用量排名第 14 位，人均使用量超过全球平均水平的 3.5 倍。 目前，Claude 在软件开发领域的渗透率最高。 Naver 已在整个工程研发团队全面部署 Claude Code，并称这是亚洲规模最大的同类部署之一。游戏公司 Nexon 也有数千名开发者在游戏开发全过程中使用 Claude Code，包括策划、编程、代码审查以及在线运营版本部署等环节。 对于大型企业而言，AI 的应用范围正进一步扩展至任务自动化和系统集成。 三星 SDS 已为三星电子员工推出 Claude Cowork 和 Claude Code，用于日常办公、基于 AI Agent 的任务自动化以及软件开发。LG CNS 也正分阶段向数千名员工部署 Claude，用于软件开发和客户技术解决方案，并计划未来推广至整个 LG 集团。 相比之下，许多中小企业缺乏完善的管理体系，只能通过一些“隐性方式”提醒员工不要过度使用 AI。 一位大型生物科技制造企业的员工表示：“有一天，公司公布了 AI Token 消耗排名，第一名员工一个人就花掉了约 600 万韩元（IT之家注：现汇率约合 27624 元人民币）。管理层希望大家使用 AI，但如果你用得太多，就会明显感觉到他们一直在盯着成本。” 还有一些企业采取团队共享 Token 配额的方式，几十名员工共同使用一份额度，这也限制了大家使用 Fable 等高消耗模型。 另一位制造业员工表示：“目前 GPT 和 Claude 仍然是最受欢迎的选择，但额度限制太严格，所以大多数人更愿意使用 Codex，因为它在编程任务上的 Token 消耗更低。” 半导体行业依然保持谨慎 AI 在韩国各行业的普及程度并不一致，其中半导体行业尤其谨慎。 据知情人士透露，即便是在三星电子内部，不同事业部的推进速度也存在明显差异。一些部门已经可以自由使用 AI，但半导体业务目前仍基本禁止使用外部大模型。 该人士表示：“芯片部门的员工一直在等待审批，但短期内看不到获批的迹象。” SK 集团内部的差异则更加明显。一些子公司已经通过企业版合同部署了 Claude、Gemini 和 ChatGPT 三大美国模型，并积极培养员工日常使用 AI 的习惯，而 SK 海力士目前仍主要依赖自研 AI 模型。 就在三星宣布开放美国 AI 模型几天后，SK 海力士首席执行官郭鲁正（Kwak Noh-jung）在京畿道利川举行的一场员工座谈会上表示，公司正在“评估引入 Microsoft 365 和 Copilot，同时也在研究采用 ChatGPT Enterprise 的可能性”。 不过，目前这些计划仍停留在评估阶段，尚未正式落地。
 - [100] [xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) · Simon Willison · 5 min
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 397，今日 +71，官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- AI Agents：本周 188，今日 +45，AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。
-- 推理训练与强化学习：本周 122，今日 +28，推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
-- 预训练：本周 121，今日 +26，预训练 本期匹配 500 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
-- 后训练与对齐：本周 70，今日 +16，后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 40，今日 +13，编程 Agent 本期匹配 134 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 409，今日 +88，AI 评测与安全 本期匹配 1607 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 数据分析与指标体系：本周 375，今日 +76，数据分析与指标体系 本期匹配 1515 篇文章，重点集中在 后训练/对齐、数据与指标、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 341，今日 +80，AI 产品化 本期匹配 1376 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力：本周 259，今日 +64，AI 基础设施与算力 本期匹配 1007 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 209，今日 +54，成本管理与 FinOps 本期匹配 872 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 科技圈动态：本周 103，今日 +21，科技圈动态 本期匹配 431 篇文章，重点集中在 官方/科技圈信号、Agent 工作流、后训练/对齐。建议先看《DeepSeek被曝主动叫停了第二轮融资签约》。
+- 官方 AI 实验室与公司信号：本周 404，今日 +79，官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI Agents：本周 181，今日 +42，AI Agents 本期匹配 917 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 预训练：本周 120，今日 +35，预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 推理训练与强化学习：本周 113，今日 +22，推理训练与强化学习 本期匹配 637 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
+- 后训练与对齐：本周 66，今日 +18，后训练与对齐 本期匹配 321 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 38，今日 +9，编程 Agent 本期匹配 136 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 390，今日 +90，AI 评测与安全 本期匹配 1664 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 数据分析与指标体系：本周 334，今日 +64，数据分析与指标体系 本期匹配 1542 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 325，今日 +89，AI 产品化 本期匹配 1421 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力：本周 247，今日 +65，AI 基础设施与算力 本期匹配 1043 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 195，今日 +58，成本管理与 FinOps 本期匹配 901 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 改造传统领域：本周 99，今日 +14，AI 改造传统领域 本期匹配 445 篇文章，重点集中在 评测/安全、行业改造、成本与效率。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：46 篇
+- 做啥：47 篇
 - 忽略：0 篇

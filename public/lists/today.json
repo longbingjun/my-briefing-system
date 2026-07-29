@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "edition": "daily",
-  "generated_at": "2026-07-28T14:45:35.033259+00:00",
+  "generated_at": "2026-07-29T04:37:05.841856+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4454,
+    "total_scanned": 4571,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 185.2
+    "est_saved_hours": 190.1
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。",
+        "text": "AI Agents 本期匹配 917 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 894 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Quoting Thibault Sottiaux》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 917 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -42,15 +42,15 @@
         }
       },
       {
-        "lead": "推理训练与强化学习",
-        "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。",
+        "lead": "预训练",
+        "entity": "pretraining",
+        "text": "预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。",
         "xhs_caption": {
-          "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 622 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "title": "预训练 本期值得关注",
+          "body": "预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
-            "推理训练与强化学习",
+            "预训练",
             "科技趋势"
           ]
         }
@@ -59,19 +59,19 @@
     "citations": [
       {
         "n": 1,
-        "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-        "title": "Quoting Thibault Sottiaux",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 2
-      },
-      {
-        "n": 2,
         "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
         "title": "Ruff v0.16.0",
         "source": "Simon Willison",
         "score": 100,
         "minutes": 3
+      },
+      {
+        "n": 2,
+        "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+        "title": "Quoting Thibault Sottiaux",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 2
       },
       {
         "n": 3,
@@ -118,64 +118,85 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 397,
-        "direction": "down",
-        "today_count": 71
+        "articles_7d": 404,
+        "direction": "up",
+        "today_count": 79
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 188,
+        "articles_7d": 181,
         "direction": "down",
-        "today_count": 45
-      },
-      {
-        "entity_id": "reasoning_training",
-        "display": "推理训练与强化学习",
-        "articles_7d": 122,
-        "direction": "down",
-        "today_count": 28
+        "today_count": 42
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 121,
-        "direction": "up",
-        "today_count": 26
+        "articles_7d": 120,
+        "direction": "down",
+        "today_count": 35
+      },
+      {
+        "entity_id": "reasoning_training",
+        "display": "推理训练与强化学习",
+        "articles_7d": 113,
+        "direction": "down",
+        "today_count": 22
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 70,
+        "articles_7d": 66,
         "direction": "down",
-        "today_count": 16
+        "today_count": 18
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 40,
+        "articles_7d": 38,
         "direction": "up",
-        "today_count": 13
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 409,
-        "direction": "up",
-        "today_count": 88
+        "articles_7d": 390,
+        "direction": "down",
+        "today_count": 90
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 375,
-        "direction": "up",
-        "today_count": 76
+        "articles_7d": 334,
+        "direction": "down",
+        "today_count": 64
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 328
+    "word_count": 421
   },
   "picks": [
+    {
+      "id": "a02ae9d4c60d0d9e",
+      "title": "Ruff v0.16.0",
+      "title_original": "Ruff v0.16.0",
+      "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0 , the number of rules in Ruff has grown from 708 to 968. Many of these rules catch severe issues, including syntax errors and immediate runtime errors but were not previously enabled by default. With the new rule set, Ruff will bring these issues and many others to your attention without any Ruff configuration. Here's a one-liner for trying it on any Python project: uvx ruff@latest check . I ran the latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it found hundreds of minor issues that breached the new default rules. All three projects have very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so upgrades like this are pretty safe. The following command did the bulk of the upgrades: uvx ruff@latest check . --fix --unsafe-fixes Against sqlite-utils , that command reported: Found 1618 errors (1538 fixed, 80 remaining). As an illustrative example, here are three of the remaining issues. Ruff does a nice job of explaining each one: DTZ005 `datetime.datetime.now()` called without a `tz` argument --&gt; tests/test_duplicate.py:17:10 | 15 | \"datetime_col\" TEXT)\"\"\") 16 | # Insert one row of mock data: 17 | dt = datetime.datetime.now() | ^^^^^^^^^^^^^^^^^^^^^^^ 18 | data = { 19 | \"text_col\": \"Cleo\", | help: Pass a `datetime.timezone` object to the `tz` parameter BLE001 Do not catch blind exception: `Exception` --&gt; tests/test_plugins.py:16:12 | 14 | db.execute(\"select * from pragma_function_list()\") 15 | return True 16 | except Exception: | ^^^^^^^^^ 17 | return False 18 | finally: | B018 Found useless attribute access. Either assign it to a variable or remove it. --&gt; tests/test_update.py:46:5 | 44 | def test_update_invalid_pk(fresh_db, pk, update_pk): 45 | table = fresh_db[\"table\"] 46 | table.insert({\"id1\": 5, \"id2\": 3, \"v\": 1}, pk=pk).last_pk | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 47 | with pytest.raises(NotFoundError): 48 | table.update(update_pk, {\"v\": 2}) | Unsurprisingly, given Astral's new home at OpenAI , this output provides everything a coding agent would need to fix the problems. I had Codex (GPT-5.6 Sol high) upgrade LLM and sqlite-utils , and Claude Code (with Opus 5) upgrade Datasette . Tags: python , ruff , astral",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-29",
+      "published_at": "2026-07-29T04:36:54.713968+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 3,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "80fe564255e9ef00",
       "title": "Quoting Thibault Sottiaux",
@@ -195,27 +216,6 @@
       "kind": "read",
       "actionability": 35,
       "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "a02ae9d4c60d0d9e",
-      "title": "Ruff v0.16.0",
-      "title_original": "Ruff v0.16.0",
-      "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0 , the number of rules in Ruff has grown from 708 to 968. Many of these rules catch severe issues, including syntax errors and immediate runtime errors but were not previously enabled by default. With the new rule set, Ruff will bring these issues and many others to your attention without any Ruff configuration. Here's a one-liner for trying it on any Python project: uvx ruff@latest check . I ran the latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it found hundreds of minor issues that breached the new default rules. All three projects have very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so upgrades like this are pretty safe. The following command did the bulk of the upgrades: uvx ruff@latest check . --fix --unsafe-fixes Against sqlite-utils , that command reported: Found 1618 errors (1538 fixed, 80 remaining). As an illustrative example, here are three of the remaining issues. Ruff does a nice job of explaining each one: DTZ005 `datetime.datetime.now()` called without a `tz` argument --&gt; tests/test_duplicate.py:17:10 | 15 | \"datetime_col\" TEXT)\"\"\") 16 | # Insert one row of mock data: 17 | dt = datetime.datetime.now() | ^^^^^^^^^^^^^^^^^^^^^^^ 18 | data = { 19 | \"text_col\": \"Cleo\", | help: Pass a `datetime.timezone` object to the `tz` parameter BLE001 Do not catch blind exception: `Exception` --&gt; tests/test_plugins.py:16:12 | 14 | db.execute(\"select * from pragma_function_list()\") 15 | return True 16 | except Exception: | ^^^^^^^^^ 17 | return False 18 | finally: | B018 Found useless attribute access. Either assign it to a variable or remove it. --&gt; tests/test_update.py:46:5 | 44 | def test_update_invalid_pk(fresh_db, pk, update_pk): 45 | table = fresh_db[\"table\"] 46 | table.insert({\"id1\": 5, \"id2\": 3, \"v\": 1}, pk=pk).last_pk | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 47 | with pytest.raises(NotFoundError): 48 | table.update(update_pk, {\"v\": 2}) | Unsurprisingly, given Astral's new home at OpenAI , this output provides everything a coding agent would need to fix the problems. I had Codex (GPT-5.6 Sol high) upgrade LLM and sqlite-utils , and Claude Code (with Opus 5) upgrade Datasette . Tags: python , ruff , astral",
-      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-07-28",
-      "published_at": "2026-07-28T14:45:23.284990+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 3,
       "topic": "Agent 工作流"
     },
     {
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4163,
+      "mention_count": 4310,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4026,
+      "mention_count": 4133,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 4005,
+      "mention_count": 4109,
       "source_count": 8
     },
     {
+      "keyword": "type",
+      "mention_count": 3661,
+      "source_count": 5
+    },
+    {
       "keyword": "之家",
-      "mention_count": 3588,
+      "mention_count": 3650,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3570,
+      "mention_count": 3630,
       "source_count": 1
     },
     {
-      "keyword": "type",
-      "mention_count": 3565,
-      "source_count": 5
-    },
-    {
       "keyword": "abstract",
-      "mention_count": 3481,
+      "mention_count": 3573,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3430,
+      "mention_count": 3522,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3417,
+      "mention_count": 3509,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3163,
+      "mention_count": 3248,
       "source_count": 6
     },
     {
       "keyword": "across",
-      "mention_count": 2634,
+      "mention_count": 2722,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2240,
+      "mention_count": 2331,
       "source_count": 5
     },
     {
-      "keyword": "can",
-      "mention_count": 2227,
-      "source_count": 7
-    },
-    {
       "keyword": "while",
-      "mention_count": 2227,
+      "mention_count": 2294,
       "source_count": 4
     },
     {
+      "keyword": "can",
+      "mention_count": 2279,
+      "source_count": 7
+    },
+    {
       "keyword": "data",
-      "mention_count": 2111,
+      "mention_count": 2152,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1906,
+      "mention_count": 1967,
       "source_count": 8
     },
     {
-      "keyword": "learning",
-      "mention_count": 1868,
-      "source_count": 6
-    },
-    {
       "keyword": "which",
-      "mention_count": 1852,
+      "mention_count": 1903,
       "source_count": 6
     },
     {
-      "keyword": "reasoning",
-      "mention_count": 1780,
-      "source_count": 5
+      "keyword": "learning",
+      "mention_count": 1897,
+      "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1771,
+      "mention_count": 1826,
+      "source_count": 5
+    },
+    {
+      "keyword": "reasoning",
+      "mention_count": 1814,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 546,
-    "must_read_count": 331,
-    "avg_score": 73.1
+    "scored": 543,
+    "must_read_count": 335,
+    "avg_score": 73.2
   }
 }
