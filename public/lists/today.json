@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "edition": "daily",
-  "generated_at": "2026-07-29T14:35:38.276256+00:00",
+  "generated_at": "2026-07-30T04:24:06.937619+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4607,
+    "total_scanned": 4596,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 191.6
+    "est_saved_hours": 191.2
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1743 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1746 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1743 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1746 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1743 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1746 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 921 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
+        "text": "AI Agents 本期匹配 923 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 921 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 923 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -42,15 +42,15 @@
         }
       },
       {
-        "lead": "预训练",
-        "entity": "pretraining",
-        "text": "预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。",
+        "lead": "推理训练与强化学习",
+        "entity": "reasoning_training",
+        "text": "推理训练与强化学习 本期匹配 625 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。",
         "xhs_caption": {
-          "title": "预训练 本期值得关注",
-          "body": "预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "title": "推理训练与强化学习 本期值得关注",
+          "body": "推理训练与强化学习 本期匹配 625 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
-            "预训练",
+            "推理训练与强化学习",
             "科技趋势"
           ]
         }
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 395,
+        "articles_7d": 385,
         "direction": "down",
-        "today_count": 83
+        "today_count": 85
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 175,
+        "articles_7d": 179,
         "direction": "down",
-        "today_count": 41
-      },
-      {
-        "entity_id": "pretraining",
-        "display": "预训练",
-        "articles_7d": 120,
-        "direction": "flat",
-        "today_count": 35
+        "today_count": 53
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 114,
+        "articles_7d": 111,
         "direction": "down",
-        "today_count": 23
+        "today_count": 29
+      },
+      {
+        "entity_id": "pretraining",
+        "display": "预训练",
+        "articles_7d": 103,
+        "direction": "down",
+        "today_count": 20
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 66,
+        "articles_7d": 58,
         "direction": "down",
-        "today_count": 18
+        "today_count": 19
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
         "articles_7d": 35,
         "direction": "up",
-        "today_count": 9
+        "today_count": 11
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 394,
+        "articles_7d": 369,
         "direction": "down",
-        "today_count": 93
+        "today_count": 94
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 335,
+        "articles_7d": 311,
         "direction": "down",
-        "today_count": 66
+        "today_count": 63
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 421
+    "word_count": 365
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-07-29",
-      "published_at": "2026-07-29T14:35:26.958970+00:00",
+      "date": "2026-07-30",
+      "published_at": "2026-07-30T04:23:56.016615+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4310,
+      "mention_count": 4200,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4133,
+      "mention_count": 4060,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 4107,
+      "mention_count": 4036,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3710,
+      "mention_count": 3718,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3690,
+      "mention_count": 3698,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3661,
+      "mention_count": 3569,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3573,
+      "mention_count": 3481,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3522,
+      "mention_count": 3436,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3509,
+      "mention_count": 3423,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3246,
+      "mention_count": 3193,
       "source_count": 6
     },
     {
       "keyword": "across",
-      "mention_count": 2722,
+      "mention_count": 2650,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2331,
+      "mention_count": 2265,
       "source_count": 5
     },
     {
       "keyword": "while",
-      "mention_count": 2294,
+      "mention_count": 2260,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2275,
+      "mention_count": 2254,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 2152,
+      "mention_count": 2094,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1967,
+      "mention_count": 1935,
       "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1903,
+      "mention_count": 1877,
       "source_count": 6
     },
     {
       "keyword": "learning",
-      "mention_count": 1897,
+      "mention_count": 1860,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1824,
+      "mention_count": 1799,
       "source_count": 5
     },
     {
-      "keyword": "reasoning",
-      "mention_count": 1814,
-      "source_count": 5
+      "keyword": "our",
+      "mention_count": 1774,
+      "source_count": 6
     }
   ],
   "quality": {
-    "scored": 537,
-    "must_read_count": 328,
-    "avg_score": 73.2
+    "scored": 543,
+    "must_read_count": 329,
+    "avg_score": 73.1
   }
 }

@@ -1,13 +1,13 @@
-# My Briefing · 2026-07-29
+# My Briefing · 2026-07-30
 
-12 个活跃信源 -> 4607 条扫描 -> 7 条今日值得看
-预计阅读 21 分钟，节省约 191.6 小时。
+12 个活跃信源 -> 4596 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 191.2 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1743 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- **AI Agents**：AI Agents 本期匹配 921 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- **预训练**：预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1746 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- **AI Agents**：AI Agents 本期匹配 923 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 625 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 395，今日 +83，官方 AI 实验室与公司信号 本期匹配 1743 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI Agents：本周 175，今日 +41，AI Agents 本期匹配 921 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 预训练：本周 120，今日 +35，预训练 本期匹配 518 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
-- 推理训练与强化学习：本周 114，今日 +23，推理训练与强化学习 本期匹配 637 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
-- 后训练与对齐：本周 66，今日 +18，后训练与对齐 本期匹配 321 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 35，今日 +9，编程 Agent 本期匹配 135 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 394，今日 +93，AI 评测与安全 本期匹配 1671 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 数据分析与指标体系：本周 335，今日 +66，数据分析与指标体系 本期匹配 1549 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 321，今日 +82，AI 产品化 本期匹配 1420 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力：本周 242，今日 +63，AI 基础设施与算力 本期匹配 1044 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
-- 成本管理与 FinOps：本周 199，今日 +58，成本管理与 FinOps 本期匹配 906 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 科技圈动态：本周 100，今日 +28，科技圈动态 本期匹配 447 篇文章，重点集中在 官方/科技圈信号、Agent 工作流、后训练/对齐。建议先看《DeepSeek被曝主动叫停了第二轮融资签约》。
+- 官方 AI 实验室与公司信号：本周 385，今日 +85，官方 AI 实验室与公司信号 本期匹配 1746 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI Agents：本周 179，今日 +53，AI Agents 本期匹配 923 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 推理训练与强化学习：本周 111，今日 +29，推理训练与强化学习 本期匹配 625 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《Not All LLM Reasoning is Visible in the Chain-of-Thought》。
+- 预训练：本周 103，今日 +20，预训练 本期匹配 501 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 后训练与对齐：本周 58，今日 +19，后训练与对齐 本期匹配 319 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 35，今日 +11，编程 Agent 本期匹配 140 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 369，今日 +94，AI 评测与安全 本期匹配 1652 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 数据分析与指标体系：本周 311，今日 +63，数据分析与指标体系 本期匹配 1532 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 294，今日 +72，AI 产品化 本期匹配 1411 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力：本周 228，今日 +55，AI 基础设施与算力 本期匹配 1035 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 成本管理与 FinOps：本周 190，今日 +57，成本管理与 FinOps 本期匹配 900 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 科技圈动态：本周 92，今日 +30，科技圈动态 本期匹配 446 篇文章，重点集中在 官方/科技圈信号、后训练/对齐、Agent 工作流。建议先看《DeepSeek被曝主动叫停了第二轮融资签约》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：48 篇
+- 做啥：50 篇
 - 忽略：0 篇
