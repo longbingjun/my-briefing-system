@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-07-31
-Funnel: 12 sources, 4598 scanned, 7 picks
+Funnel: 12 sources, 4586 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1747 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+官方 AI 实验室与公司信号 本期匹配 1739 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
 
 ## Top Picks
 - [100] Ruff v0.16.0 (Simon Willison) https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4598 scanned, 7 picks
   Summary: Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and "forgot to free" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop . A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite . This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from "this is worth trying" to "I'm going to merge this". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai , rust , zig , generative-ai , llms , ai-assisted-programming , anthropic , bun , conformance-suites , agentic-engineering , claude-mythos-fable
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1747 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1739 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
 - AI Agents: AI Agents 本期匹配 942 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 626 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
-- 预训练: 预训练 本期匹配 505 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 625 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、Agent 工作流。建议先看《Kimi K3, and what we can still learn from the pelican benchmark》。
+- 预训练: 预训练 本期匹配 506 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
 - 后训练与对齐: 后训练与对齐 本期匹配 327 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 148 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1656 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1535 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化: AI 产品化 本期匹配 1406 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1044 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 901 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 科技圈动态: 科技圈动态 本期匹配 443 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 450 篇文章，重点集中在 评测/安全、行业改造、成本与效率。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 93 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
+- 编程 Agent: 编程 Agent 本期匹配 146 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1658 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1531 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1398 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1046 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 899 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 科技圈动态: 科技圈动态 本期匹配 446 篇文章，重点集中在 Agent 工作流、后训练/对齐、数据与指标。建议先看《米哈游蔡浩宇AI创业生变》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 448 篇文章，重点集中在 评测/安全、行业改造、产品发布。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 94 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
