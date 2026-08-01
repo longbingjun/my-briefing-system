@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-01",
   "edition": "daily",
-  "generated_at": "2026-08-01T04:42:52.628713+00:00",
+  "generated_at": "2026-08-01T14:02:56.792905+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4493,
+    "total_scanned": 4497,
     "picks_count": 7,
     "est_read_minutes": 20,
-    "est_saved_hours": 186.9
+    "est_saved_hours": 187.0
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 603 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+        "text": "推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 603 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 387,
+        "articles_7d": 385,
         "direction": "down",
-        "today_count": 69
+        "today_count": 66
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 204,
+        "articles_7d": 199,
         "direction": "up",
-        "today_count": 31
+        "today_count": 24
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 114,
+        "articles_7d": 115,
         "direction": "down",
-        "today_count": 3
+        "today_count": 4
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
         "articles_7d": 98,
         "direction": "down",
-        "today_count": 1
+        "today_count": 0
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 67,
+        "articles_7d": 68,
         "direction": "down",
-        "today_count": 8
+        "today_count": 9
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 42,
+        "articles_7d": 39,
         "direction": "up",
         "today_count": 8
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 371,
+        "articles_7d": 369,
         "direction": "down",
-        "today_count": 20
+        "today_count": 16
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 303,
+        "articles_7d": 299,
         "direction": "down",
-        "today_count": 33
+        "today_count": 31
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-01",
-      "published_at": "2026-08-01T04:42:43.814610+00:00",
+      "published_at": "2026-08-01T14:02:46.350906+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-01",
-      "published_at": "2026-08-01T04:42:43.813622+00:00",
+      "published_at": "2026-08-01T14:02:46.349594+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4056,
+      "mention_count": 4110,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 3908,
+      "mention_count": 3951,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3873,
+      "mention_count": 3912,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3700,
+      "mention_count": 3712,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3686,
+      "mention_count": 3698,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3377,
+      "mention_count": 3419,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3295,
+      "mention_count": 3335,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3254,
+      "mention_count": 3294,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3243,
+      "mention_count": 3283,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3031,
+      "mention_count": 3072,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 2551,
+      "mention_count": 2582,
       "source_count": 6
     },
     {
       "keyword": "while",
-      "mention_count": 2194,
+      "mention_count": 2220,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2147,
+      "mention_count": 2171,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2133,
+      "mention_count": 2156,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 2009,
+      "mention_count": 2027,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1816,
+      "mention_count": 1836,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1780,
+      "mention_count": 1795,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1762,
+      "mention_count": 1784,
       "source_count": 6
     },
     {
       "keyword": "reasoning",
-      "mention_count": 1740,
+      "mention_count": 1758,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1717,
+      "mention_count": 1734,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 542,
-    "must_read_count": 338,
-    "avg_score": 73.5
+    "scored": 541,
+    "must_read_count": 339,
+    "avg_score": 73.4
   }
 }

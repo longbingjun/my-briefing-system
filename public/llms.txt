@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-08-01
-Funnel: 12 sources, 4493 scanned, 7 picks
+Funnel: 12 sources, 4497 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 
 ## Top Picks
 - [100] Ruff v0.16.0 (Simon Willison) https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
@@ -14,11 +14,11 @@ Funnel: 12 sources, 4493 scanned, 7 picks
 - [100] OpenAI 推出 OpenAI Presence，布局企业软件赛道 (IT之家) https://www.ithome.com/0/980/300.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 - AI Agents: AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 603 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 预训练: 预训练 本期匹配 490 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《蚂蚁集团发布百灵原生混合推理模型 Ling-3.0-flash：124B 总参数量，能力对标上一代旗舰 Ring-2.6-1T》。
-- 后训练与对齐: 后训练与对齐 本期匹配 317 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 预训练: 预训练 本期匹配 489 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐: 后训练与对齐 本期匹配 318 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
 - 编程 Agent: 编程 Agent 本期匹配 144 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1595 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1487 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1594 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1485 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。

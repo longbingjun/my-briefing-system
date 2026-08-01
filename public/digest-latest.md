@@ -1,13 +1,13 @@
 # My Briefing · 2026-08-01
 
-12 个活跃信源 -> 4493 条扫描 -> 7 条今日值得看
-预计阅读 20 分钟，节省约 186.9 小时。
+12 个活跃信源 -> 4497 条扫描 -> 7 条今日值得看
+预计阅读 20 分钟，节省约 187.0 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 - **AI Agents**：AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 603 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 
 ## 今日值得看
 
@@ -28,17 +28,17 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 387，今日 +69，官方 AI 实验室与公司信号 本期匹配 1725 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI Agents：本周 204，今日 +31，AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。
-- 推理训练与强化学习：本周 114，今日 +3，推理训练与强化学习 本期匹配 603 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 预训练：本周 98，今日 +1，预训练 本期匹配 490 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《蚂蚁集团发布百灵原生混合推理模型 Ling-3.0-flash：124B 总参数量，能力对标上一代旗舰 Ring-2.6-1T》。
-- 后训练与对齐：本周 67，今日 +8，后训练与对齐 本期匹配 317 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 42，今日 +8，编程 Agent 本期匹配 144 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 371，今日 +20，AI 评测与安全 本期匹配 1595 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 数据分析与指标体系：本周 303，今日 +33，数据分析与指标体系 本期匹配 1487 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 288，今日 +24，AI 产品化 本期匹配 1355 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力：本周 223，今日 +16，AI 基础设施与算力 本期匹配 1020 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps：本周 191，今日 +22，成本管理与 FinOps 本期匹配 882 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 官方 AI 实验室与公司信号：本周 385，今日 +66，官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI Agents：本周 199，今日 +24，AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。
+- 推理训练与强化学习：本周 115，今日 +4，推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 预训练：本周 98，今日 +0，预训练 本期匹配 489 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 后训练与对齐：本周 68，今日 +9，后训练与对齐 本期匹配 318 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 39，今日 +8，编程 Agent 本期匹配 144 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 369，今日 +16，AI 评测与安全 本期匹配 1594 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 数据分析与指标体系：本周 299，今日 +31，数据分析与指标体系 本期匹配 1485 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 291，今日 +27，AI 产品化 本期匹配 1357 篇文章，重点集中在 后训练/对齐、Agent 工作流、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力：本周 224，今日 +16，AI 基础设施与算力 本期匹配 1018 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps：本周 192，今日 +23，成本管理与 FinOps 本期匹配 881 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
 - 科技圈动态：本周 99，今日 +13，科技圈动态 本期匹配 436 篇文章，重点集中在 Agent 工作流、后训练/对齐、数据与指标。建议先看《米哈游蔡浩宇AI创业生变》。
 
 ## 内容分栏
