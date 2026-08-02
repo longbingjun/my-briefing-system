@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "edition": "daily",
-  "generated_at": "2026-08-01T14:02:56.792905+00:00",
+  "generated_at": "2026-08-02T04:44:04.938319+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4497,
+    "total_scanned": 4392,
     "picks_count": 7,
-    "est_read_minutes": 20,
-    "est_saved_hours": 187.0
+    "est_read_minutes": 19,
+    "est_saved_hours": 182.7
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1709 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1709 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1709 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。",
+        "text": "AI Agents 本期匹配 884 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Ruff v0.16.0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 884 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+        "text": "推理训练与强化学习 本期匹配 566 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 601 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 566 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,16 +59,16 @@
     "citations": [
       {
         "n": 1,
-        "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-        "title": "Ruff v0.16.0",
+        "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
         "source": "Simon Willison",
         "score": 100,
         "minutes": 3
       },
       {
         "n": 2,
-        "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+        "title": "Ruff v0.16.0",
         "source": "Simon Willison",
         "score": 100,
         "minutes": 3
@@ -107,75 +107,96 @@
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/0/984/365.htm",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+        "link": "https://www.ithome.com/0/984/716.htm",
+        "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
         "source": "IT之家",
         "score": 97,
-        "minutes": 2
+        "minutes": 1
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 385,
+        "articles_7d": 387,
         "direction": "down",
-        "today_count": 66
+        "today_count": 59
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 199,
+        "articles_7d": 208,
         "direction": "up",
-        "today_count": 24
+        "today_count": 28
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 115,
+        "articles_7d": 114,
         "direction": "down",
-        "today_count": 4
+        "today_count": 5
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 98,
+        "articles_7d": 99,
         "direction": "down",
-        "today_count": 0
+        "today_count": 1
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
         "articles_7d": 68,
         "direction": "down",
-        "today_count": 9
+        "today_count": 7
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 40,
         "direction": "up",
         "today_count": 8
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 369,
+        "articles_7d": 366,
         "direction": "down",
-        "today_count": 16
+        "today_count": 14
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 299,
+        "articles_7d": 302,
         "direction": "down",
-        "today_count": 31
+        "today_count": 24
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 373
+    "word_count": 398
   },
   "picks": [
+    {
+      "id": "af24295e08664332",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "title_original": "Advancing the price-performance frontier with GPT‑5.6",
+      "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-08-02",
+      "published_at": "2026-08-02T04:43:56.101967+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 3,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "a02ae9d4c60d0d9e",
       "title": "Ruff v0.16.0",
@@ -189,27 +210,6 @@
       "language": "en",
       "date": "2026-08-01",
       "published_at": "2026-08-01T14:02:46.350906+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "af24295e08664332",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-08-01",
-      "published_at": "2026-08-01T14:02:46.349594+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -303,132 +303,132 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "acf102270a6e5e64",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "summary": "IT之家 7 月 31 日消息，据央视新闻今日报道，欧盟委员会 7 月 31 日宣布，自 8 月 2 日起，欧盟委员会人工智能办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定。同时，新的人工智能透明度要求也将正式生效， 要求部分人工智能系统明确告知用户其正在与人工智能互动 ，以及相关内容是否由人工智能生成或修改。 IT之家从报道中获悉，根据新规，聊天机器人等交互式人工智能系统必须向用户明确表明其人工智能身份，而非真人。利用人工智能生成或编辑的深度伪造图片、视频和音频等内容 必须进行标识 ，由人工智能生成或修改的内容还需添加机器可识别标记，以便识别和追踪。欧盟委员会表示，这些措施旨在减少欺骗和操纵行为，帮助公众作出更加知情的判断，同时为企业提供更加明确的合规要求和实施路径。 欧盟委员会当天还公布了首批签署《人工智能生成内容透明度行为准则》的 180 多家机构名单。该准则旨在推动落实《人工智能法》关于人工智能生成内容透明度的相关规定。 相关阅读： 《 欧盟 AI 透明度准则 8 月 2 日起生效：聊天机器人需“自报身份”，深度伪造内容须带有机读标签 》 《 谷歌签署欧盟 AI 生成内容透明度行为准则，并呼吁避免监管复杂化 》 延伸阅读 《人工智能法》草案最早由欧盟委员会于 2021 年 4 月提出。2024 年 3 月 13 日，欧洲议会以 523 票赞成、46 票反对的投票结果正式通过该法案，同年 6 月签署，7 月 12 日在欧盟官方公报发布，并于 8 月 1 日正式生效，是全球首部全面性人工智能监管法律。 该法案采用分阶段实施机制：2025 年 2 月 2 日起，禁止社会信用评分、公共场所实时生物识别监控等不可接受风险的人工智能实践；2026 年 8 月 2 日起，即本次生效的透明度规则；2027 年 12 月 2 日起，独立高风险人工智能系统（如涉及生物识别、关键基础设施、教育、就业等领域）的相关义务正式适用；2028 年 8 月 2 日起，作为安全组件并受欧盟部门立法管辖的人工智能系统相关义务适用。 欧盟委员会于 2024 年 5 月 29 日宣布成立人工智能办公室，由约 140 名技术专家、律师和经济学家组成，负责协调《人工智能法》的实施，包括对 AI 模型进行评估、要求提供商提供信息以及实施制裁措施等。 根据《人工智能法》，违反透明度义务的行为，将面临最高 750 万欧元的行政罚款；若违规者为企业，则最高罚款额为其上一财政年度全球年营业总额的 1%，二者取较高值。违反禁止性人工智能实践条款的，最高可处 3500 万欧元或全球年营业额 7% 的罚款。 首批签署《人工智能生成内容透明度行为准则》的 180 多家机构中，包括谷歌、微软、OpenAI、亚马逊、Anthropic、Mistral AI、IBM 等主要科技公司，Meta 则拒绝加入该准则。此外，对于 2026 年 8 月 2 日前已投入使用的生成式 AI 系统，可获得至 2026 年 12 月 2 日的整改过渡期。",
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "link": "https://www.ithome.com/0/984/365.htm",
+      "id": "c3bfddc3bf63e3b4",
+      "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
+      "title_original": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
+      "summary": "IT之家 8 月 2 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（Thibault Sottiaux）曾在谷歌 DeepMind 人工智能实验室工作六年，研究过 AI 基础设施、机器学习工程等项目。 今天蒂博在 X 平台爆料称， DeepMind 曾在 ChatGPT 发布一年前做出类似产品 ， 当时名字叫 LMChat ，后来换过内部代号。 但最终，这款产品并没有发布。原因是公司担心该产品可能与谷歌搜索互相竞争，所以一直被雪藏。 并且谷歌也有规定 ， DeepMind 不能发布“可能颠覆 Google 现有业务”的产品 。 IT之家注意到，谷歌员工杰夫 · 迪恩（Jeff Dean）曾表示，谷歌曾在 ChatGPT 发布前研发过聊天机器人，但公司内部认为该产品并没有比谷歌搜索更好，所以没有推出。",
+      "url": "https://www.ithome.com/0/984/716.htm",
+      "link": "https://www.ithome.com/0/984/716.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-07-31",
-      "published_at": "2026-07-31T11:40:12+00:00",
+      "date": "2026-08-02",
+      "published_at": "2026-08-02T04:34:27+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
-      "actionability": 65,
-      "minutes": 2,
-      "topic": "评测/安全"
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4110,
+      "mention_count": 3986,
       "source_count": 7
     },
     {
-      "keyword": "new",
-      "mention_count": 3951,
-      "source_count": 9
+      "keyword": "model",
+      "mention_count": 3834,
+      "source_count": 8
     },
     {
-      "keyword": "model",
-      "mention_count": 3912,
+      "keyword": "new",
+      "mention_count": 3792,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3712,
+      "mention_count": 3690,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3698,
+      "mention_count": 3676,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3419,
+      "mention_count": 3269,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3335,
+      "mention_count": 3183,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3294,
+      "mention_count": 3144,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3283,
+      "mention_count": 3133,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3072,
+      "mention_count": 2941,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 2582,
+      "mention_count": 2479,
       "source_count": 6
     },
     {
       "keyword": "while",
-      "mention_count": 2220,
+      "mention_count": 2145,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2171,
+      "mention_count": 2128,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2156,
+      "mention_count": 2109,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 2027,
-      "source_count": 10
-    },
-    {
-      "keyword": "framework",
-      "mention_count": 1836,
-      "source_count": 7
+      "mention_count": 1947,
+      "source_count": 11
     },
     {
       "keyword": "which",
-      "mention_count": 1795,
+      "mention_count": 1739,
       "source_count": 5
     },
     {
+      "keyword": "framework",
+      "mention_count": 1730,
+      "source_count": 7
+    },
+    {
       "keyword": "learning",
-      "mention_count": 1784,
+      "mention_count": 1687,
+      "source_count": 6
+    },
+    {
+      "keyword": "our",
+      "mention_count": 1662,
       "source_count": 6
     },
     {
       "keyword": "reasoning",
-      "mention_count": 1758,
+      "mention_count": 1662,
       "source_count": 6
-    },
-    {
-      "keyword": "these",
-      "mention_count": 1734,
-      "source_count": 5
     }
   ],
   "quality": {
-    "scored": 541,
-    "must_read_count": 339,
-    "avg_score": 73.4
+    "scored": 538,
+    "must_read_count": 330,
+    "avg_score": 73.2
   }
 }
