@@ -5,9 +5,9 @@
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- **AI Agents**：AI Agents 本期匹配 870 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 570 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- **AI Agents**：AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 376，今日 +53，官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- AI Agents：本周 222，今日 +49，AI Agents 本期匹配 870 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
-- 推理训练与强化学习：本周 128，今日 +35，推理训练与强化学习 本期匹配 570 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 预训练：本周 105，今日 +25，预训练 本期匹配 465 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 官方 AI 实验室与公司信号：本周 368，今日 +72，官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- AI Agents：本周 219，今日 +51，AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
+- 推理训练与强化学习：本周 127，今日 +36，推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。
+- 预训练：本周 104，今日 +25，预训练 本期匹配 464 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
 - 后训练与对齐：本周 80，今日 +24，后训练与对齐 本期匹配 307 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 40，今日 +7，编程 Agent 本期匹配 138 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 389，今日 +78，AI 评测与安全 本期匹配 1539 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- AI 产品化：本周 315，今日 +75，AI 产品化 本期匹配 1304 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 数据分析与指标体系：本周 312，今日 +61，数据分析与指标体系 本期匹配 1419 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力：本周 245，今日 +54，AI 基础设施与算力 本期匹配 977 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps：本周 207，今日 +44，成本管理与 FinOps 本期匹配 850 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态：本周 113，今日 +27，科技圈动态 本期匹配 427 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
+- 编程 Agent：本周 37，今日 +8，编程 Agent 本期匹配 137 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 381，今日 +81，AI 评测与安全 本期匹配 1536 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系：本周 311，今日 +68，数据分析与指标体系 本期匹配 1414 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 309，今日 +79，AI 产品化 本期匹配 1299 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力：本周 242，今日 +56，AI 基础设施与算力 本期匹配 976 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps：本周 208，今日 +49，成本管理与 FinOps 本期匹配 850 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态：本周 113，今日 +30，科技圈动态 本期匹配 427 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：40 篇
+- 做啥：39 篇
 - 忽略：0 篇

@@ -4,7 +4,7 @@ Date: 2026-08-03
 Funnel: 12 sources, 4339 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
 
 ## Top Picks
 - [100] Advancing the price-performance frontier with GPT‑5.6 (Simon Willison) https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4339 scanned, 7 picks
   Summary: IT之家 8 月 2 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（Thibault Sottiaux）曾在谷歌 DeepMind 人工智能实验室工作六年，研究过 AI 基础设施、机器学习工程等项目。 今天蒂博在 X 平台爆料称， DeepMind 曾在 ChatGPT 发布一年前做出类似产品 ， 当时名字叫 LMChat ，后来换过内部代号。 但最终，这款产品并没有发布。原因是公司担心该产品可能与谷歌搜索互相竞争，所以一直被雪藏。 并且谷歌也有规定 ， DeepMind 不能发布“可能颠覆 Google 现有业务”的产品 。 IT之家注意到，谷歌员工杰夫 · 迪恩（Jeff Dean）曾表示，谷歌曾在 ChatGPT 发布前研发过聊天机器人，但公司内部认为该产品并没有比谷歌搜索更好，所以没有推出。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- AI Agents: AI Agents 本期匹配 870 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 570 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 预训练: 预训练 本期匹配 465 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- AI Agents: AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。
+- 预训练: 预训练 本期匹配 464 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
 - 后训练与对齐: 后训练与对齐 本期匹配 307 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 138 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1539 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- AI 产品化: AI 产品化 本期匹配 1304 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1419 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 977 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 编程 Agent: 编程 Agent 本期匹配 137 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1536 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1414 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1299 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 976 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
 - 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 850 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
 - 科技圈动态: 科技圈动态 本期匹配 427 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 430 篇文章，重点集中在 评测/安全、行业改造、产品发布。建议先看《山东：力争 3 年内集聚万名人工智能 OPC（一人公司）创新人才》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 92 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 427 篇文章，重点集中在 评测/安全、行业改造、产品发布。建议先看《山东：力争 3 年内集聚万名人工智能 OPC（一人公司）创新人才》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 94 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
