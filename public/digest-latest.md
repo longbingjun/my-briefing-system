@@ -1,13 +1,13 @@
 # My Briefing · 2026-08-04
 
-12 个活跃信源 -> 4409 条扫描 -> 7 条今日值得看
-预计阅读 19 分钟，节省约 183.4 小时。
+12 个活跃信源 -> 4423 条扫描 -> 7 条今日值得看
+预计阅读 19 分钟，节省约 184.0 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- **AI Agents**：AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1672 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- **AI Agents**：AI Agents 本期匹配 890 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 367，今日 +83，官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- AI Agents：本周 222，今日 +59，AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 推理训练与强化学习：本周 124，今日 +33，推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
-- 预训练：本周 111，今日 +20，预训练 本期匹配 479 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 官方 AI 实验室与公司信号：本周 368，今日 +85，官方 AI 实验室与公司信号 本期匹配 1672 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- AI Agents：本周 219，今日 +62，AI Agents 本期匹配 890 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 推理训练与强化学习：本周 124，今日 +33，推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
+- 预训练：本周 109，今日 +19，预训练 本期匹配 478 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
 - 后训练与对齐：本周 85，今日 +27，后训练与对齐 本期匹配 319 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 35，今日 +9，编程 Agent 本期匹配 139 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 377，今日 +84，AI 评测与安全 本期匹配 1581 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- 数据分析与指标体系：本周 319，今日 +77，数据分析与指标体系 本期匹配 1450 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 316，今日 +80，AI 产品化 本期匹配 1340 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力：本周 240，今日 +58，AI 基础设施与算力 本期匹配 1004 篇文章，重点集中在 Agent 工作流、预训练/模型架构、AI 基础设施。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps：本周 214，今日 +55，成本管理与 FinOps 本期匹配 876 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态：本周 120，今日 +27，科技圈动态 本期匹配 437 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
+- 编程 Agent：本周 34，今日 +9，编程 Agent 本期匹配 138 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 376，今日 +88，AI 评测与安全 本期匹配 1585 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系：本周 317，今日 +77，数据分析与指标体系 本期匹配 1454 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 308，今日 +81，AI 产品化 本期匹配 1339 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力：本周 240，今日 +62，AI 基础设施与算力 本期匹配 1008 篇文章，重点集中在 Agent 工作流、预训练/模型架构、AI 基础设施。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps：本周 207，今日 +52，成本管理与 FinOps 本期匹配 873 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态：本周 119，今日 +27，科技圈动态 本期匹配 435 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：39 篇
+- 做啥：38 篇
 - 忽略：0 篇
