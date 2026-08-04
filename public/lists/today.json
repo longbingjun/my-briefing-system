@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "edition": "daily",
-  "generated_at": "2026-08-03T15:22:02.404579+00:00",
+  "generated_at": "2026-08-04T04:34:30.797083+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4339,
+    "total_scanned": 4409,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 180.5
+    "est_saved_hours": 183.4
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。",
+        "text": "AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。",
+        "text": "推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -107,8 +107,8 @@
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/0/984/716.htm",
-        "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
+        "link": "https://www.ithome.com/0/985/380.htm",
+        "title": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
         "source": "IT之家",
         "score": 97,
         "minutes": 1
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 368,
+        "articles_7d": 367,
         "direction": "down",
-        "today_count": 72
+        "today_count": 83
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 219,
+        "articles_7d": 222,
         "direction": "up",
-        "today_count": 51
+        "today_count": 59
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 127,
-        "direction": "flat",
-        "today_count": 36
+        "articles_7d": 124,
+        "direction": "up",
+        "today_count": 33
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 104,
-        "direction": "down",
-        "today_count": 25
+        "articles_7d": 111,
+        "direction": "up",
+        "today_count": 20
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 80,
+        "articles_7d": 85,
         "direction": "up",
-        "today_count": 24
+        "today_count": 27
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 37,
+        "articles_7d": 35,
         "direction": "up",
-        "today_count": 8
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 381,
+        "articles_7d": 377,
         "direction": "down",
-        "today_count": 81
+        "today_count": 84
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 311,
+        "articles_7d": 319,
         "direction": "down",
-        "today_count": 68
+        "today_count": 77
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 337
+    "word_count": 369
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-08-03",
-      "published_at": "2026-08-03T15:21:48.033481+00:00",
+      "date": "2026-08-04",
+      "published_at": "2026-08-04T04:34:20.893753+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -303,41 +303,41 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "c3bfddc3bf63e3b4",
-      "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
-      "title_original": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
-      "summary": "IT之家 8 月 2 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（Thibault Sottiaux）曾在谷歌 DeepMind 人工智能实验室工作六年，研究过 AI 基础设施、机器学习工程等项目。 今天蒂博在 X 平台爆料称， DeepMind 曾在 ChatGPT 发布一年前做出类似产品 ， 当时名字叫 LMChat ，后来换过内部代号。 但最终，这款产品并没有发布。原因是公司担心该产品可能与谷歌搜索互相竞争，所以一直被雪藏。 并且谷歌也有规定 ， DeepMind 不能发布“可能颠覆 Google 现有业务”的产品 。 IT之家注意到，谷歌员工杰夫 · 迪恩（Jeff Dean）曾表示，谷歌曾在 ChatGPT 发布前研发过聊天机器人，但公司内部认为该产品并没有比谷歌搜索更好，所以没有推出。",
-      "url": "https://www.ithome.com/0/984/716.htm",
-      "link": "https://www.ithome.com/0/984/716.htm",
+      "id": "d6634f0e7d82b25e",
+      "title": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
+      "title_original": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
+      "summary": "IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。 IT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。” 一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。 在截止日期到来之前，这三家 AI 实验室已经就该框架草案向政府提供了反馈意见。 该框架旨在为 AI 开发商提供一套结构化流程，帮助它们与政府合作，判断正在研发中的模型是否属于监管范围。 据悉，该框架应明确规定，当政府在模型发布前最多提前 30 天获取相关模型时，需要遵守的保密要求、网络安全要求、内部风险管理要求、知识产权保护要求以及禁止披露规定。 此外，框架还应该明确哪些“可信合作伙伴”能够提前获得模型访问权限。 美国总统行政命令明确规定，用于评估 AI 模型高级网络攻击能力的基准测试流程将被列为机密。行政命令所规定的适用模型门槛同样属于机密信息，只会在“适当情况下”向 AI 开发者和研究人员披露。 不过，该行政命令并未将这项自愿性框架本身列为机密，因此政策制定者和其他观察人士此前预计能够看到相关细节。 AI 企业希望尽早获得明确指引，以便判断正在开发中的模型是否可能受到该框架约束。白宫官员表示：“即使某些信息不属于机密，也并不意味着我们会向所有人公开传播。” 据知情人士透露，白宫计划于当地时间周二与相关企业举行一次工作人员层面的会议，对这一框架进行审查。",
+      "url": "https://www.ithome.com/0/985/380.htm",
+      "link": "https://www.ithome.com/0/985/380.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-08-02",
-      "published_at": "2026-08-02T04:34:27+00:00",
+      "date": "2026-08-04",
+      "published_at": "2026-08-04T02:45:57+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
-      "actionability": 35,
+      "actionability": 65,
       "minutes": 1,
-      "topic": "Agent 工作流"
+      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 3972,
+      "mention_count": 4054,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3786,
+      "mention_count": 3880,
       "source_count": 8
     },
     {
       "keyword": "new",
-      "mention_count": 3725,
+      "mention_count": 3815,
       "source_count": 8
     },
     {
@@ -352,83 +352,83 @@
     },
     {
       "keyword": "type",
-      "mention_count": 3220,
+      "mention_count": 3304,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3141,
+      "mention_count": 3222,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3106,
+      "mention_count": 3186,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3093,
+      "mention_count": 3173,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 2877,
+      "mention_count": 2947,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 2447,
+      "mention_count": 2521,
       "source_count": 6
     },
     {
       "keyword": "while",
-      "mention_count": 2098,
+      "mention_count": 2152,
       "source_count": 4
     },
     {
       "keyword": "language",
-      "mention_count": 2093,
+      "mention_count": 2132,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2057,
+      "mention_count": 2100,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1934,
+      "mention_count": 1999,
       "source_count": 11
     },
     {
       "keyword": "framework",
-      "mention_count": 1707,
+      "mention_count": 1754,
       "source_count": 7
     },
     {
-      "keyword": "which",
-      "mention_count": 1689,
-      "source_count": 5
-    },
-    {
       "keyword": "learning",
-      "mention_count": 1655,
+      "mention_count": 1736,
       "source_count": 6
     },
     {
+      "keyword": "which",
+      "mention_count": 1726,
+      "source_count": 5
+    },
+    {
       "keyword": "our",
-      "mention_count": 1645,
+      "mention_count": 1687,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1639,
+      "mention_count": 1676,
       "source_count": 4
     }
   ],
   "quality": {
-    "scored": 549,
-    "must_read_count": 331,
-    "avg_score": 72.9
+    "scored": 553,
+    "must_read_count": 335,
+    "avg_score": 73.1
   }
 }

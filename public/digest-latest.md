@@ -1,13 +1,13 @@
-# My Briefing · 2026-08-03
+# My Briefing · 2026-08-04
 
-12 个活跃信源 -> 4339 条扫描 -> 7 条今日值得看
-预计阅读 19 分钟，节省约 180.5 小时。
+12 个活跃信源 -> 4409 条扫描 -> 7 条今日值得看
+预计阅读 19 分钟，节省约 183.4 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- **AI Agents**：AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- **AI Agents**：AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
 
 ## 今日值得看
 
@@ -23,23 +23,23 @@
   IT之家 7 月 22 日消息，OpenAI 推出了一款全新产品，希望借此进一步摆脱竞争日益激烈的大模型市场，向企业软件领域扩张。 这款产品名为 OpenAI Presence，旨在帮助企业更高效地部署和管理 AI 智能体（AI Agent）。它能够将 AI 智能体与企业内部数据、管理制度、现有软件以及业务流程连接起来，使 AI 更好地融入企业运营。 OpenAI 表示，Presence 旨在实现客户支持、销售等部分工作的自动化，比如解决账单问题、处理保险理赔或处理员工 IT 服务请求。 IT之家注意到，这是 OpenAI 近年来不断拓展业务版图的最新举措，该公司希望不再只是销售 AI 模型的使用权限，而是进一步进入企业软件市场。不过，这也意味着 OpenAI 未来可能会与部分原本使用其模型开发产品的客户形成直接竞争。 Presence 提供了一整套 AI 智能体管理工具。企业可以在正式部署前，对 AI 智能体进行模拟测试，并利用安全防护机制（Guardrails）、人工审核以及 AI 自动评分系统，对智能体执行任务的效果进行评估。 当 AI 智能体正式投入使用后，如果运行过程中出现问题，OpenAI 的 Codex 工具还能够帮助排查原因，并提出改进建议。 此外，Presence 还集成了 AI 驱动的语音和聊天技术，这可以帮助企业客户实现与现有及潜在客户互动的更多自动化。 目前，OpenAI 将根据具体情况向企业客户提供 Presence 服务。企业若希望使用该产品，需要与 OpenAI 工程团队或官方指定合作伙伴合作，才能完成部署和接入。 OpenAI 表示：“AI 智能体只会获得完成特定工作所需的知识和系统访问权限。企业可以自行制定相关规则，包括智能体能够执行哪些操作、哪些任务需要审批，以及何时应由人工接管。” OpenAI 透露，公司目前已经利用 Presence 运行面向英语用户的 AI 电话客服系统。 与此同时，AI 大模型市场的竞争正变得越来越激烈。Anthropic、谷歌、xAI、Meta、Mistral、DeepSeek 等竞争对手都在不断推出性能更强的新模型。本月，多款来自中国的开源权重 AI 模型再次证明，各家模型之间的性能差距正在迅速缩小，价格持续下降，越来越多企业客户也开始愿意在不同 AI 服务商之间切换。 这种趋势正在促使 OpenAI 加快向企业软件市场转型。相比单纯销售 AI 模型，企业软件通常拥有更高的客户黏性，企业购买的也不只是模型本身，而是一整套完整的业务解决方案。 从目前来看，Presence 正是这一战略的重要组成部分。OpenAI 不再要求企业自行搭建 AI 智能体系统，而是将部署 AI 所需的软件、安全机制以及管理能力打包成完整产品，帮助大型企业更安全、更高效地应用人工智能。 如果这一战略持续推进，那么 OpenAI 的定位将越来越不像一家单纯的大模型公司，而更像一家以 AI 为核心的企业软件服务商。
 - [100] [Better Models: Worse Tools](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything) · Simon Willison · 3 min
   Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace . OpenAI's Codex uses an apply_patch mechanism instead , and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher , ai , openai , generative-ai , llms , anthropic , llm-tool-use , coding-agents , pi
-- [97] [前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏](https://www.ithome.com/0/984/716.htm) · IT之家 · 1 min
-  IT之家 8 月 2 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（Thibault Sottiaux）曾在谷歌 DeepMind 人工智能实验室工作六年，研究过 AI 基础设施、机器学习工程等项目。 今天蒂博在 X 平台爆料称， DeepMind 曾在 ChatGPT 发布一年前做出类似产品 ， 当时名字叫 LMChat ，后来换过内部代号。 但最终，这款产品并没有发布。原因是公司担心该产品可能与谷歌搜索互相竞争，所以一直被雪藏。 并且谷歌也有规定 ， DeepMind 不能发布“可能颠覆 Google 现有业务”的产品 。 IT之家注意到，谷歌员工杰夫 · 迪恩（Jeff Dean）曾表示，谷歌曾在 ChatGPT 发布前研发过聊天机器人，但公司内部认为该产品并没有比谷歌搜索更好，所以没有推出。
+- [97] [美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开](https://www.ithome.com/0/985/380.htm) · IT之家 · 1 min
+  IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。 IT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。” 一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。 在截止日期到来之前，这三家 AI 实验室已经就该框架草案向政府提供了反馈意见。 该框架旨在为 AI 开发商提供一套结构化流程，帮助它们与政府合作，判断正在研发中的模型是否属于监管范围。 据悉，该框架应明确规定，当政府在模型发布前最多提前 30 天获取相关模型时，需要遵守的保密要求、网络安全要求、内部风险管理要求、知识产权保护要求以及禁止披露规定。 此外，框架还应该明确哪些“可信合作伙伴”能够提前获得模型访问权限。 美国总统行政命令明确规定，用于评估 AI 模型高级网络攻击能力的基准测试流程将被列为机密。行政命令所规定的适用模型门槛同样属于机密信息，只会在“适当情况下”向 AI 开发者和研究人员披露。 不过，该行政命令并未将这项自愿性框架本身列为机密，因此政策制定者和其他观察人士此前预计能够看到相关细节。 AI 企业希望尽早获得明确指引，以便判断正在开发中的模型是否可能受到该框架约束。白宫官员表示：“即使某些信息不属于机密，也并不意味着我们会向所有人公开传播。” 据知情人士透露，白宫计划于当地时间周二与相关企业举行一次工作人员层面的会议，对这一框架进行审查。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 368，今日 +72，官方 AI 实验室与公司信号 本期匹配 1664 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- AI Agents：本周 219，今日 +51，AI Agents 本期匹配 866 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《An opinionated guide to which AI to use to do stuff》。
-- 推理训练与强化学习：本周 127，今日 +36，推理训练与强化学习 本期匹配 569 篇文章，重点集中在 产品发布、后训练/对齐、推理训练/测试时计算。建议先看《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》。
-- 预训练：本周 104，今日 +25，预训练 本期匹配 464 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
-- 后训练与对齐：本周 80，今日 +24，后训练与对齐 本期匹配 307 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 37，今日 +8，编程 Agent 本期匹配 137 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全：本周 381，今日 +81，AI 评测与安全 本期匹配 1536 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- 数据分析与指标体系：本周 311，今日 +68，数据分析与指标体系 本期匹配 1414 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化：本周 309，今日 +79，AI 产品化 本期匹配 1299 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力：本周 242，今日 +56，AI 基础设施与算力 本期匹配 976 篇文章，重点集中在 Agent 工作流、预训练/模型架构、后训练/对齐。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps：本周 208，今日 +49，成本管理与 FinOps 本期匹配 850 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态：本周 113，今日 +30，科技圈动态 本期匹配 427 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
+- 官方 AI 实验室与公司信号：本周 367，今日 +83，官方 AI 实验室与公司信号 本期匹配 1673 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- AI Agents：本周 222，今日 +59，AI Agents 本期匹配 886 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 推理训练与强化学习：本周 124，今日 +33，推理训练与强化学习 本期匹配 586 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
+- 预训练：本周 111，今日 +20，预训练 本期匹配 479 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 后训练与对齐：本周 85，今日 +27，后训练与对齐 本期匹配 319 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 35，今日 +9，编程 Agent 本期匹配 139 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全：本周 377，今日 +84，AI 评测与安全 本期匹配 1581 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系：本周 319，今日 +77，数据分析与指标体系 本期匹配 1450 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化：本周 316，今日 +80，AI 产品化 本期匹配 1340 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力：本周 240，今日 +58，AI 基础设施与算力 本期匹配 1004 篇文章，重点集中在 Agent 工作流、预训练/模型架构、AI 基础设施。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps：本周 214，今日 +55，成本管理与 FinOps 本期匹配 876 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态：本周 120，今日 +27，科技圈动态 本期匹配 437 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
 
 ## 内容分栏
 
