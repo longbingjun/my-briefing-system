@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-05",
   "edition": "daily",
-  "generated_at": "2026-08-05T04:32:49.982856+00:00",
+  "generated_at": "2026-08-05T14:40:26.674855+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4532,
+    "total_scanned": 4542,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 188.5
+    "est_saved_hours": 188.9
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1693 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1690 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1693 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1690 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1693 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1690 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 917 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。",
+        "text": "AI Agents 本期匹配 922 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 917 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 922 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 616 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。",
+        "text": "推理训练与强化学习 本期匹配 615 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 616 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 615 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,14 +118,14 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 373,
+        "articles_7d": 366,
         "direction": "down",
-        "today_count": 76
+        "today_count": 75
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 233,
+        "articles_7d": 234,
         "direction": "up",
         "today_count": 50
       },
@@ -139,9 +139,9 @@
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 106,
+        "articles_7d": 108,
         "direction": "down",
-        "today_count": 22
+        "today_count": 24
       },
       {
         "entity_id": "post_training",
@@ -162,14 +162,14 @@
         "display": "AI 评测与安全",
         "articles_7d": 389,
         "direction": "up",
-        "today_count": 69
+        "today_count": 71
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 332,
+        "articles_7d": 331,
         "direction": "up",
-        "today_count": 67
+        "today_count": 65
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-05",
-      "published_at": "2026-08-05T04:32:38.188208+00:00",
+      "published_at": "2026-08-05T14:40:14.582298+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -342,12 +342,12 @@
     },
     {
       "keyword": "之家",
-      "mention_count": 3638,
+      "mention_count": 3628,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3622,
+      "mention_count": 3614,
       "source_count": 1
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "keyword": "data",
-      "mention_count": 2077,
+      "mention_count": 2075,
       "source_count": 11
     },
     {
@@ -427,8 +427,8 @@
     }
   ],
   "quality": {
-    "scored": 557,
-    "must_read_count": 340,
-    "avg_score": 73.1
+    "scored": 562,
+    "must_read_count": 349,
+    "avg_score": 73.2
   }
 }
