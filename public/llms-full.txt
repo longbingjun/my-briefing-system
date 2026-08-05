@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-08-04
-Funnel: 12 sources, 4423 scanned, 7 picks
+Date: 2026-08-05
+Funnel: 12 sources, 4532 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1672 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+官方 AI 实验室与公司信号 本期匹配 1693 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
 
 ## Top Picks
 - [100] Advancing the price-performance frontier with GPT‑5.6 (Simon Willison) https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4423 scanned, 7 picks
   Summary: IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。 IT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。” 一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。 在截止日期到来之前，这三家 AI 实验室已经就该框架草案向政府提供了反馈意见。 该框架旨在为 AI 开发商提供一套结构化流程，帮助它们与政府合作，判断正在研发中的模型是否属于监管范围。 据悉，该框架应明确规定，当政府在模型发布前最多提前 30 天获取相关模型时，需要遵守的保密要求、网络安全要求、内部风险管理要求、知识产权保护要求以及禁止披露规定。 此外，框架还应该明确哪些“可信合作伙伴”能够提前获得模型访问权限。 美国总统行政命令明确规定，用于评估 AI 模型高级网络攻击能力的基准测试流程将被列为机密。行政命令所规定的适用模型门槛同样属于机密信息，只会在“适当情况下”向 AI 开发者和研究人员披露。 不过，该行政命令并未将这项自愿性框架本身列为机密，因此政策制定者和其他观察人士此前预计能够看到相关细节。 AI 企业希望尽早获得明确指引，以便判断正在开发中的模型是否可能受到该框架约束。白宫官员表示：“即使某些信息不属于机密，也并不意味着我们会向所有人公开传播。” 据知情人士透露，白宫计划于当地时间周二与相关企业举行一次工作人员层面的会议，对这一框架进行审查。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1672 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
-- AI Agents: AI Agents 本期匹配 890 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
-- 预训练: 预训练 本期匹配 478 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
-- 后训练与对齐: 后训练与对齐 本期匹配 319 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 138 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1585 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1454 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化: AI 产品化 本期匹配 1339 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1008 篇文章，重点集中在 Agent 工作流、预训练/模型架构、AI 基础设施。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 873 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态: 科技圈动态 本期匹配 435 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 427 篇文章，重点集中在 评测/安全、预训练/模型架构、行业改造。建议先看《山东：力争 3 年内集聚万名人工智能 OPC（一人公司）创新人才》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 97 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1693 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。
+- AI Agents: AI Agents 本期匹配 917 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 616 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Verifier-Induced Support Reshaping in On-Policy Optimization》。
+- 预训练: 预训练 本期匹配 499 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning》。
+- 后训练与对齐: 后训练与对齐 本期匹配 332 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent: 编程 Agent 本期匹配 142 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Ruff v0.16.0》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1642 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1499 篇文章，重点集中在 后训练/对齐、Agent 工作流、数据与指标。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1387 篇文章，重点集中在 后训练/对齐、Agent 工作流、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1051 篇文章，重点集中在 Agent 工作流、预训练/模型架构、AI 基础设施。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 901 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态: 科技圈动态 本期匹配 447 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 429 篇文章，重点集中在 评测/安全、预训练/模型架构、行业改造。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 98 篇文章，重点集中在 产品发布、Agent 工作流、评测/安全。建议先看《CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因》。
