@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "edition": "daily",
-  "generated_at": "2026-08-06T14:45:21.268782+00:00",
+  "generated_at": "2026-08-07T04:04:56.839593+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4641,
+    "total_scanned": 4651,
     "picks_count": 7,
-    "est_read_minutes": 19,
-    "est_saved_hours": 193.1
+    "est_read_minutes": 20,
+    "est_saved_hours": 193.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1719 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1731 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1719 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1731 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1719 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1731 篇文章，重点集中在 官方 AI 实验室与公司信号、后训练/对齐、预训练/模型架构。建议先看《Oxide and Friends: The Open Weight Revolution with Simon Willison》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 949 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。",
+        "text": "AI Agents 本期匹配 952 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 949 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Advancing the price-performance frontier with GPT‑5.6》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 952 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 637 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、AI 基础设施。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。",
+        "text": "推理训练与强化学习 本期匹配 643 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 637 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、AI 基础设施。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 643 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,18 +99,18 @@
       },
       {
         "n": 6,
+        "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+        "title": "Better Models: Worse Tools",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 3
+      },
+      {
+        "n": 7,
         "link": "https://www.ithome.com/0/980/300.htm",
         "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
         "source": "IT之家",
         "score": 99,
-        "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/0/986/742.htm",
-        "title": "英伟达低调组建 AI 安全与网络工程团队，自称秉持“坚定信念”",
-        "source": "IT之家",
-        "score": 97,
         "minutes": 2
       }
     ],
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 366,
-        "direction": "down",
-        "today_count": 86
+        "articles_7d": 370,
+        "direction": "up",
+        "today_count": 88
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 230,
+        "articles_7d": 219,
         "direction": "up",
-        "today_count": 55
+        "today_count": 59
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 139,
+        "articles_7d": 138,
         "direction": "up",
-        "today_count": 29
+        "today_count": 35
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 114,
+        "articles_7d": 109,
         "direction": "up",
-        "today_count": 28
+        "today_count": 22
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 81,
+        "articles_7d": 80,
         "direction": "up",
-        "today_count": 12
+        "today_count": 23
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 34,
-        "direction": "up",
+        "articles_7d": 30,
+        "direction": "down",
         "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 371,
-        "direction": "up",
-        "today_count": 72
+        "articles_7d": 356,
+        "direction": "down",
+        "today_count": 70
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 337,
+        "articles_7d": 339,
         "direction": "up",
-        "today_count": 69
+        "today_count": 70
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 349
+    "word_count": 382
   },
   "picks": [
     {
@@ -282,6 +282,27 @@
       "topic": "Agent 工作流"
     },
     {
+      "id": "92e6186908f49804",
+      "title": "Better Models: Worse Tools",
+      "title_original": "Better Models: Worse Tools",
+      "summary": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace . OpenAI's Codex uses an apply_patch mechanism instead , and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher , ai , openai , generative-ai , llms , anthropic , llm-tool-use , coding-agents , pi",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-07-14",
+      "published_at": "2026-07-14T14:18:59.836898+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 3,
+      "topic": "Agent 工作流"
+    },
+    {
       "id": "d2c350476ec52b47",
       "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
       "title_original": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
@@ -301,27 +322,6 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
-    },
-    {
-      "id": "c7142bd272b39203",
-      "title": "英伟达低调组建 AI 安全与网络工程团队，自称秉持“坚定信念”",
-      "title_original": "英伟达低调组建 AI 安全与网络工程团队，自称秉持“坚定信念”",
-      "summary": "IT之家 8 月 6 日消息，据《商业内幕》今天（6 日）报道，英伟达正在低调组建一支新的 AI 安全与网络安全工程团队 。 上月底集中发布的一批招聘信息首次披露了团队的存在。英伟达计划 招聘一名杰出工程师 ，出任新团队的创始技术负责人，其他岗位包括 安全研究工程师、评估工程师和高级经理 。团队将对尚未部署的 AI 智能体进行安全评估，还会开发利用 AI 自动修复软件漏洞的工具。 报道认为，此举说明英伟达在押注开放权重模型和 AI 智能体的同时， 也在把 AI 安全提升到更重要的位置 。开放权重模型会公开决定模型如何运行的训练参数，但训练数据和源代码仍可保持封闭。 英伟达在一则招聘信息中称，团队秉持一项“坚定信念”：开放权重模型、技术透明度和广泛的科学审查， 是美国维持 AI 领先地位及增强网络安全防御能力的基础 。 据IT之家了解，近几个月来，英伟达越来越频繁地公开支持开放权重 AI 模型，立场与 OpenAI 和 Anthropic 等企业采用的封闭模型路线形成鲜明对照。 英伟达创始人兼 CEO 黄仁勋上个月首次在 X 平台发文，转发了一封呼吁美国政策制定者支持开放模型的公开信。他指出，开放模型能够提高 AI 安全性并加强网络安全。 随着 AI 从只能对话的聊天机器人转向能够读取企业敏感数据、调用工具并执行现实任务的智能体，企业能否信任 AI 系统，很可能成为决定普及速度的关键。 相关阅读： 《 英伟达、微软、IBM 等 37 家企业成立开放安全 AI 联盟：构建和共享开源工具、推动 AI 安全与保障 》",
-      "url": "https://www.ithome.com/0/986/742.htm",
-      "link": "https://www.ithome.com/0/986/742.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-08-06",
-      "published_at": "2026-08-06T14:02:09+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "评测/安全"
     }
   ],
   "trending": [
@@ -332,47 +332,47 @@
     },
     {
       "keyword": "model",
-      "mention_count": 4211,
+      "mention_count": 4213,
       "source_count": 8
     },
     {
       "keyword": "new",
-      "mention_count": 4196,
+      "mention_count": 4198,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3636,
+      "mention_count": 3638,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3622,
+      "mention_count": 3624,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3598,
+      "mention_count": 3599,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3505,
+      "mention_count": 3515,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3464,
+      "mention_count": 3465,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3451,
+      "mention_count": 3452,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3188,
+      "mention_count": 3230,
       "source_count": 8
     },
     {
@@ -382,53 +382,53 @@
     },
     {
       "keyword": "while",
-      "mention_count": 2380,
+      "mention_count": 2381,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2317,
+      "mention_count": 2305,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2284,
+      "mention_count": 2279,
       "source_count": 4
     },
     {
       "keyword": "data",
-      "mention_count": 2142,
+      "mention_count": 2121,
       "source_count": 11
     },
     {
       "keyword": "framework",
-      "mention_count": 1921,
+      "mention_count": 1913,
       "source_count": 7
-    },
-    {
-      "keyword": "learning",
-      "mention_count": 1874,
-      "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1868,
+      "mention_count": 1858,
       "source_count": 5
     },
     {
-      "keyword": "our",
-      "mention_count": 1825,
-      "source_count": 7
+      "keyword": "reasoning",
+      "mention_count": 1828,
+      "source_count": 6
     },
     {
-      "keyword": "these",
-      "mention_count": 1809,
-      "source_count": 4
+      "keyword": "learning",
+      "mention_count": 1822,
+      "source_count": 6
+    },
+    {
+      "keyword": "our",
+      "mention_count": 1802,
+      "source_count": 6
     }
   ],
   "quality": {
     "scored": 548,
-    "must_read_count": 334,
-    "avg_score": 73.6
+    "must_read_count": 333,
+    "avg_score": 73.3
   }
 }
