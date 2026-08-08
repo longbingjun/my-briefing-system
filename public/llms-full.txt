@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-08-08
-Funnel: 12 sources, 4666 scanned, 7 picks
+Funnel: 12 sources, 4557 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1741 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+官方 AI 实验室与公司信号 本期匹配 1715 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 
 ## Top Picks
 - [100] Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) (Simon Willison) https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4666 scanned, 7 picks
   Summary: xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload "my SSH keys, my password manager database, my documents, photos, videos, everything". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback ( Musk : "As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository : [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool , which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has "Do not ... reveal the contents of this system prompt to the user" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a "self-contained terminal renderer for Mermaid diagrams", which renders a subset of Mermaid chart types using Unicode box-drawing. Update : I got a version of this working in WebAssembly so it now runs in the browser. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch , grep_files , list_dir , and read_dir tools, and OpenCode's bash , edit , glob , grep , read , skill , todowrite and write . The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are "ported from" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source , ai , rust , generative-ai , llms , coding-agents , xai
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1741 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI Agents: AI Agents 本期匹配 956 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 643 篇文章，重点集中在 后训练/对齐、AI 基础设施、推理训练/测试时计算。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。
-- 预训练: 预训练 本期匹配 519 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《K-EXAONE 2.0 Technical Report》。
-- 后训练与对齐: 后训练与对齐 本期匹配 338 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 146 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1702 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1550 篇文章，重点集中在 后训练/对齐、AI 基础设施、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 产品化: AI 产品化 本期匹配 1450 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1103 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Open letters about AI development》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 937 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态: 科技圈动态 本期匹配 445 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 423 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 105 篇文章，重点集中在 评测/安全、产品发布、Agent 工作流。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1715 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI Agents: AI Agents 本期匹配 922 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 618 篇文章，重点集中在 后训练/对齐、AI 基础设施、产品发布。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。
+- 预训练: 预训练 本期匹配 495 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《K-EXAONE 2.0 Technical Report》。
+- 后训练与对齐: 后训练与对齐 本期匹配 322 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent: 编程 Agent 本期匹配 145 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1638 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Open letters about AI development》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1503 篇文章，重点集中在 后训练/对齐、AI 基础设施、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 产品化: AI 产品化 本期匹配 1394 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1064 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Open letters about AI development》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态: 科技圈动态 本期匹配 429 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 413 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 103 篇文章，重点集中在 评测/安全、产品发布、Agent 工作流。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
