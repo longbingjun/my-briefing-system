@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
 Date: 2026-08-09
-Funnel: 12 sources, 4548 scanned, 7 picks
+Funnel: 12 sources, 4450 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1718 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
+官方 AI 实验室与公司信号 本期匹配 1697 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
 
 ## Top Picks
 - [100] Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) (Simon Willison) https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything
 - [100] Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式 (IT之家) https://www.ithome.com/0/987/249.htm
 - [100] Advancing the price-performance frontier with GPT‑5.6 (Simon Willison) https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything
-- [100] 消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权 (IT之家) https://www.ithome.com/0/986/413.htm
 - [100] Ruff v0.16.0 (Simon Willison) https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
+- [100] 韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制 (IT之家) https://www.ithome.com/0/982/241.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1718 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
-- AI Agents: AI Agents 本期匹配 919 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 618 篇文章，重点集中在 后训练/对齐、AI 基础设施、产品发布。建议先看《阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募》。
-- 预训练: 预训练 本期匹配 496 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《K-EXAONE 2.0 Technical Report》。
-- 后训练与对齐: 后训练与对齐 本期匹配 321 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 144 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1638 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Open letters about AI development》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1507 篇文章，重点集中在 评测/安全、后训练/对齐、AI 基础设施。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1697 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
+- AI Agents: AI Agents 本期匹配 889 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 591 篇文章，重点集中在 后训练/对齐、AI 基础设施、产品发布。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 预训练: 预训练 本期匹配 470 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《K-EXAONE 2.0 Technical Report》。
+- 后训练与对齐: 后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent: 编程 Agent 本期匹配 140 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1585 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Open letters about AI development》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1462 篇文章，重点集中在 评测/安全、后训练/对齐、AI 基础设施。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
