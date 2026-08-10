@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-10",
   "edition": "daily",
-  "generated_at": "2026-08-10T03:20:13.358706+00:00",
+  "generated_at": "2026-08-10T13:49:56.480100+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4445,
+    "total_scanned": 4462,
     "picks_count": 7,
     "est_read_minutes": 16,
-    "est_saved_hours": 184.9
+    "est_saved_hours": 185.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1698 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1698 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1698 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 883 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。",
+        "text": "AI Agents 本期匹配 882 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 883 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 882 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 590 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
+        "text": "推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、产品发布。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 590 篇文章，重点集中在 后训练/对齐、产品发布、推理训练/测试时计算。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、产品发布。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,77 +99,77 @@
       },
       {
         "n": 6,
+        "link": "https://www.ithome.com/0/988/007.htm",
+        "title": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
+        "source": "IT之家",
+        "score": 99,
+        "minutes": 2
+      },
+      {
+        "n": 7,
         "link": "https://www.ithome.com/0/987/256.htm",
         "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
         "source": "IT之家",
         "score": 99,
         "minutes": 1
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/0/986/413.htm",
-        "title": "消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权",
-        "source": "IT之家",
-        "score": 99,
-        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 398,
+        "articles_7d": 401,
         "direction": "up",
-        "today_count": 59
+        "today_count": 68
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 210,
+        "articles_7d": 224,
         "direction": "up",
-        "today_count": 23
+        "today_count": 47
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 145,
+        "articles_7d": 146,
         "direction": "up",
-        "today_count": 9
+        "today_count": 28
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 108,
+        "articles_7d": 106,
         "direction": "up",
-        "today_count": 3
+        "today_count": 21
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 78,
-        "direction": "up",
-        "today_count": 2
-      },
-      {
-        "entity_id": "coding_agents",
-        "display": "编程 Agent",
-        "articles_7d": 32,
-        "direction": "down",
-        "today_count": 8
-      },
-      {
-        "entity_id": "ai_evaluation_safety",
-        "display": "AI 评测与安全",
-        "articles_7d": 358,
+        "articles_7d": 84,
         "direction": "up",
         "today_count": 18
       },
       {
+        "entity_id": "coding_agents",
+        "display": "编程 Agent",
+        "articles_7d": 33,
+        "direction": "flat",
+        "today_count": 10
+      },
+      {
+        "entity_id": "ai_evaluation_safety",
+        "display": "AI 评测与安全",
+        "articles_7d": 385,
+        "direction": "up",
+        "today_count": 83
+      },
+      {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 349,
+        "articles_7d": 365,
         "direction": "up",
-        "today_count": 31
+        "today_count": 73
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-10",
-      "published_at": "2026-08-10T03:20:02.330403+00:00",
+      "published_at": "2026-08-10T13:49:46.397048+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -282,6 +282,27 @@
       "topic": "Agent 工作流"
     },
     {
+      "id": "c529721a7bee2017",
+      "title": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
+      "title_original": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
+      "summary": "IT之家 8 月 10 日消息，Meta 今日发布 AI 模型 Muse Glimmer，并在 Apache 2.0 许可协议下开源该模型权重。Muse Glimmer 是一款拥有 300 亿参数（30B） 的模型，专为全天候常驻运行的本地智能体（Agent）工作流深度优化。 官方表示，Muse Glimmer 应用了 4bit 量化技术，使其可在 24GB/32GB 显存的 Mac 或 PC 上本地运行。实测验证这种压缩对智能体任务性能的影响微乎其微，几乎没有任何衰减。 Meta 在 MacBook M4 Max、M5 Max 以及 RTX 5090 平台上进行了测试。结果表明，该模型的运行速度可以胜任流畅的对话以及实时智能体交互，且所有计算均 100% 在本地设备上完成。 与 Gemma4-31B 和 Qwen3.6-27B 相比，Muse Glimmer 在多项主流大语言模型基准测试中， 均展现出了同尺寸级别模型中的强劲性能 。 IT之家附开源链接： https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "url": "https://www.ithome.com/0/988/007.htm",
+      "link": "https://www.ithome.com/0/988/007.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-10",
+      "published_at": "2026-08-10T10:52:38+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
       "id": "50a234d9c6e0e9d1",
       "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
       "title_original": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
@@ -301,134 +322,113 @@
       "actionability": 35,
       "minutes": 1,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "c990f80407aba3fb",
-      "title": "消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权",
-      "title_original": "消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权",
-      "summary": "IT之家 8 月 6 日消息，谷歌希望自己的人工智能在编程领域表现得更好，而该公司可能找到了一条捷径。 据 Business Insider 报道，四名知情人士透露，这家科技巨头最近几周一直在与旧金山初创公司 Mechanize 进行谈判，双方可能达成一项交易，内容包括谷歌聘用 Mechanize 的部分人才。 其中一些知情人士表示，这笔交易的价值可能超过 15 亿美元 （IT之家注：现汇率约合 101.43 亿元人民币） ，目前仍在推进过程中，具体细节可能发生变化。另一名知情人士称，作为交易的一部分，谷歌正在讨论与 Mechanize 达成一项非独家技术授权协议。谷歌可能收购的 Mechanize 员工将负责模型评估和开发工作。 这场谈判凸显了人工智能热潮背后的两个现实：编程已经成为 AI 最重要、也是最具商业价值的应用领域之一，而大型科技公司正在探索更加灵活的方式，以获取保持竞争力所需的人才和技术。 这并不是谷歌首次采用绕开传统收购方式获取人才和技术的交易模式。过去几年里，谷歌曾将一些收购设计成混合型交易，通过“人才收购”（acqui-hire）方式引入团队，同时通过技术授权等方式获得相关技术。企业有时会采用这种方式，以避免完整收购可能带来的反垄断审查。 去年，在 OpenAI 尝试收购 Windsurf 后，谷歌迅速出手，吸纳了该公司的核心人才，并获得其技术授权。Windsurf 首席执行官 Varun Mohan 目前负责领导谷歌的智能编程平台 Antigravity。2024 年，谷歌还重新聘用了 Character AI 联合创始人 Noam Shazeer，并支付费用获得该初创公司 AI 技术的非独家使用权。（Shazeer 最近已离开谷歌，加入 OpenAI。） Mechanize 于去年成立，目标是实现所有工作的自动化。该公司吸引了一批知名投资者，包括前 GitHub CEO Nat Friedman、Patrick Collison 以及播客主持人 Dwarkesh Patel。 今年早些时候，Mechanize 表示已完成一轮 910 万美元 （现汇率约合 6,153.6 万元人民币） 融资，公司估值达到 5 亿美元 （现汇率约合 33.81 亿元人民币） 。Mechanize CEO Tamay Besiroglu 此前还共同创办了 Epoch AI，该机构同样专注于人工智能模型测试。 Mechanize 的技术可以帮助科技公司提升 AI 模型在编程任务中的表现，而这正是谷歌目前面临压力的领域。与此同时，OpenAI 和 Anthropic 已经凭借 Codex 和 Claude Code 等产品吸引了大量开发者用户。 不过，Mechanize 的目标并不局限于编程领域。该公司官网写道：“我们目前专注于软件工程领域，但长期目标是实现整个经济体系中有价值工作的全面自动化。”",
-      "url": "https://www.ithome.com/0/986/413.htm",
-      "link": "https://www.ithome.com/0/986/413.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-08-06",
-      "published_at": "2026-08-06T03:50:14+00:00",
-      "score": 99,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 40,
-      "minutes": 2,
-      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4135,
+      "mention_count": 4185,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 3972,
+      "mention_count": 3970,
       "source_count": 8
     },
     {
       "keyword": "model",
-      "mention_count": 3934,
+      "mention_count": 3961,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3670,
+      "mention_count": 3642,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3658,
+      "mention_count": 3630,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3367,
+      "mention_count": 3388,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3284,
+      "mention_count": 3301,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3235,
+      "mention_count": 3274,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3226,
+      "mention_count": 3244,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3057,
+      "mention_count": 3076,
       "source_count": 8
     },
     {
       "keyword": "across",
-      "mention_count": 2585,
+      "mention_count": 2617,
       "source_count": 6
     },
     {
       "keyword": "while",
-      "mention_count": 2239,
+      "mention_count": 2295,
       "source_count": 4
     },
     {
       "keyword": "can",
-      "mention_count": 2207,
+      "mention_count": 2245,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2179,
+      "mention_count": 2190,
       "source_count": 4
     },
     {
       "keyword": "data",
-      "mention_count": 1987,
+      "mention_count": 1928,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1789,
-      "source_count": 7
+      "mention_count": 1806,
+      "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1723,
+      "mention_count": 1761,
       "source_count": 5
     },
     {
-      "keyword": "reasoning",
-      "mention_count": 1721,
-      "source_count": 6
-    },
-    {
       "keyword": "our",
-      "mention_count": 1703,
+      "mention_count": 1717,
       "source_count": 6
     },
     {
-      "keyword": "learning",
-      "mention_count": 1693,
+      "keyword": "these",
+      "mention_count": 1700,
+      "source_count": 5
+    },
+    {
+      "keyword": "not",
+      "mention_count": 1687,
       "source_count": 6
     }
   ],
   "quality": {
-    "scored": 529,
-    "must_read_count": 319,
-    "avg_score": 72.7
+    "scored": 531,
+    "must_read_count": 321,
+    "avg_score": 72.9
   }
 }
