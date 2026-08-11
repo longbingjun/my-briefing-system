@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-08-10
-Funnel: 12 sources, 4462 scanned, 7 picks
+Date: 2026-08-11
+Funnel: 12 sources, 4470 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
+官方 AI 实验室与公司信号 本期匹配 1678 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
 
 ## Top Picks
 - [100] Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) (Simon Willison) https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything
@@ -19,21 +19,21 @@ Funnel: 12 sources, 4462 scanned, 7 picks
   Summary: Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace . OpenAI's Codex uses an apply_patch mechanism instead , and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher , ai , openai , generative-ai , llms , anthropic , llm-tool-use , coding-agents , pi
 - [99] Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行 (IT之家) https://www.ithome.com/0/988/007.htm
   Summary: IT之家 8 月 10 日消息，Meta 今日发布 AI 模型 Muse Glimmer，并在 Apache 2.0 许可协议下开源该模型权重。Muse Glimmer 是一款拥有 300 亿参数（30B） 的模型，专为全天候常驻运行的本地智能体（Agent）工作流深度优化。 官方表示，Muse Glimmer 应用了 4bit 量化技术，使其可在 24GB/32GB 显存的 Mac 或 PC 上本地运行。实测验证这种压缩对智能体任务性能的影响微乎其微，几乎没有任何衰减。 Meta 在 MacBook M4 Max、M5 Max 以及 RTX 5090 平台上进行了测试。结果表明，该模型的运行速度可以胜任流畅的对话以及实时智能体交互，且所有计算均 100% 在本地设备上完成。 与 Gemma4-31B 和 Qwen3.6-27B 相比，Muse Glimmer 在多项主流大语言模型基准测试中， 均展现出了同尺寸级别模型中的强劲性能 。 IT之家附开源链接： https://huggingface.co/meta-models/Muse-Glimmer-30B
-- [99] Claude Code v2.1.224 现支持 AI 跨会话消息传递 (IT之家) https://www.ithome.com/0/987/256.htm
-  Summary: IT之家 8 月 8 日消息，Anthropic 旗下官方账号 @ClaudeDevs 今天（8 月 8 日）在 X 平台发布推文， 宣布从 Claude Code v2.1.224 开始，会话之间可以互相发送消息。 根据官方介绍，自该版本 Claude Code 开始，不同的会话可以互相发送消息，更新和其他相关信息，方便用户在多个会话中协同项目的各个部分。 IT之家翻译官方文档介绍如下： 跨会话消息传递功能支持 Claude 将消息从一个 Claude Code 会话传递到另一个会话。当一个会话中的更改破坏了另一个会话正在构建的内容后，Claude 可以在用户注意到之前发出警告。当一个会话解决了另一个会话遇到的问题后，Claude 可以将答案发送给另一个会话。 Anthropic 表示，这项新功能的最佳使用场景包括移交调查结果、协调并行工作树、获取长时间运行的工作的状态以及跨机器回复。
+- [99] 消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权 (IT之家) https://www.ithome.com/0/986/413.htm
+  Summary: IT之家 8 月 6 日消息，谷歌希望自己的人工智能在编程领域表现得更好，而该公司可能找到了一条捷径。 据 Business Insider 报道，四名知情人士透露，这家科技巨头最近几周一直在与旧金山初创公司 Mechanize 进行谈判，双方可能达成一项交易，内容包括谷歌聘用 Mechanize 的部分人才。 其中一些知情人士表示，这笔交易的价值可能超过 15 亿美元 （IT之家注：现汇率约合 101.43 亿元人民币） ，目前仍在推进过程中，具体细节可能发生变化。另一名知情人士称，作为交易的一部分，谷歌正在讨论与 Mechanize 达成一项非独家技术授权协议。谷歌可能收购的 Mechanize 员工将负责模型评估和开发工作。 这场谈判凸显了人工智能热潮背后的两个现实：编程已经成为 AI 最重要、也是最具商业价值的应用领域之一，而大型科技公司正在探索更加灵活的方式，以获取保持竞争力所需的人才和技术。 这并不是谷歌首次采用绕开传统收购方式获取人才和技术的交易模式。过去几年里，谷歌曾将一些收购设计成混合型交易，通过“人才收购”（acqui-hire）方式引入团队，同时通过技术授权等方式获得相关技术。企业有时会采用这种方式，以避免完整收购可能带来的反垄断审查。 去年，在 OpenAI 尝试收购 Windsurf 后，谷歌迅速出手，吸纳了该公司的核心人才，并获得其技术授权。Windsurf 首席执行官 Varun Mohan 目前负责领导谷歌的智能编程平台 Antigravity。2024 年，谷歌还重新聘用了 Character AI 联合创始人 Noam Shazeer，并支付费用获得该初创公司 AI 技术的非独家使用权。（Shazeer 最近已离开谷歌，加入 OpenAI。） Mechanize 于去年成立，目标是实现所有工作的自动化。该公司吸引了一批知名投资者，包括前 GitHub CEO Nat Friedman、Patrick Collison 以及播客主持人 Dwarkesh Patel。 今年早些时候，Mechanize 表示已完成一轮 910 万美元 （现汇率约合 6,153.6 万元人民币） 融资，公司估值达到 5 亿美元 （现汇率约合 33.81 亿元人民币） 。Mechanize CEO Tamay Besiroglu 此前还共同创办了 Epoch AI，该机构同样专注于人工智能模型测试。 Mechanize 的技术可以帮助科技公司提升 AI 模型在编程任务中的表现，而这正是谷歌目前面临压力的领域。与此同时，OpenAI 和 Anthropic 已经凭借 Codex 和 Claude Code 等产品吸引了大量开发者用户。 不过，Mechanize 的目标并不局限于编程领域。该公司官网写道：“我们目前专注于软件工程领域，但长期目标是实现整个经济体系中有价值工作的全面自动化。”
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Open letters about AI development》。
-- AI Agents: AI Agents 本期匹配 882 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 587 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、产品发布。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- 预训练: 预训练 本期匹配 466 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1678 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
+- AI Agents: AI Agents 本期匹配 883 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 588 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、产品发布。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 预训练: 预训练 本期匹配 465 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs》。
 - 后训练与对齐: 后训练与对齐 本期匹配 316 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 135 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1609 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Open letters about AI development》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1462 篇文章，重点集中在 评测/安全、后训练/对齐、数据与指标。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化: AI 产品化 本期匹配 1351 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- 编程 Agent: 编程 Agent 本期匹配 136 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1609 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1461 篇文章，重点集中在 评测/安全、后训练/对齐、数据与指标。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化: AI 产品化 本期匹配 1350 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
 - AI 基础设施与算力: AI 基础设施与算力 本期匹配 1043 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Open letters about AI development》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 890 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- 科技圈动态: 科技圈动态 本期匹配 422 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 415 篇文章，重点集中在 评测/安全、后训练/对齐、行业改造。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 888 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态: 科技圈动态 本期匹配 424 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 420 篇文章，重点集中在 评测/安全、后训练/对齐、行业改造。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
 - 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 97 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
