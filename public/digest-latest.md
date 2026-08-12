@@ -1,13 +1,13 @@
 # My Briefing · 2026-08-12
 
-12 个活跃信源 -> 4549 条扫描 -> 7 条今日值得看
-预计阅读 17 分钟，节省约 189.3 小时。
+12 个活跃信源 -> 4648 条扫描 -> 7 条今日值得看
+预计阅读 17 分钟，节省约 193.4 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
-- **AI Agents**：AI Agents 本期匹配 909 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 606 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1707 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
+- **AI Agents**：AI Agents 本期匹配 941 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 633 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 404，今日 +86，官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
-- AI Agents：本周 215，今日 +54，AI Agents 本期匹配 909 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
-- 推理训练与强化学习：本周 148，今日 +34，推理训练与强化学习 本期匹配 606 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。
-- 预训练：本周 110，今日 +24，预训练 本期匹配 481 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs》。
-- 后训练与对齐：本周 73，今日 +14，后训练与对齐 本期匹配 320 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 31，今日 +10，编程 Agent 本期匹配 137 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全：本周 378，今日 +84，AI 评测与安全 本期匹配 1660 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 353，今日 +72，数据分析与指标体系 本期匹配 1484 篇文章，重点集中在 评测/安全、后训练/对齐、数据与指标。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化：本周 333，今日 +72，AI 产品化 本期匹配 1389 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
-- AI 基础设施与算力：本周 266，今日 +57，AI 基础设施与算力 本期匹配 1074 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Open letters about AI development》。
-- 成本管理与 FinOps：本周 205，今日 +44，成本管理与 FinOps 本期匹配 907 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
-- AI 改造传统领域：本周 90，今日 +18，AI 改造传统领域 本期匹配 423 篇文章，重点集中在 评测/安全、后训练/对齐、行业改造。建议先看《韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制》。
+- 官方 AI 实验室与公司信号：本周 410，今日 +84，官方 AI 实验室与公司信号 本期匹配 1707 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。
+- AI Agents：本周 225，今日 +56，AI Agents 本期匹配 941 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 推理训练与强化学习：本周 148，今日 +38，推理训练与强化学习 本期匹配 633 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。
+- 预训练：本周 115，今日 +32，预训练 本期匹配 508 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、产品发布。建议先看《Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension》。
+- 后训练与对齐：本周 74，今日 +15，后训练与对齐 本期匹配 332 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 34，今日 +12，编程 Agent 本期匹配 141 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全：本周 375，今日 +75，AI 评测与安全 本期匹配 1715 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 353，今日 +73，数据分析与指标体系 本期匹配 1527 篇文章，重点集中在 评测/安全、后训练/对齐、数据与指标。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化：本周 337，今日 +71，AI 产品化 本期匹配 1435 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)》。
+- AI 基础设施与算力：本周 259，今日 +51，AI 基础设施与算力 本期匹配 1113 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Open letters about AI development》。
+- 成本管理与 FinOps：本周 207，今日 +52，成本管理与 FinOps 本期匹配 947 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《Advancing the price-performance frontier with GPT‑5.6》。
+- 科技圈动态：本周 90，今日 +18，科技圈动态 本期匹配 450 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Open letters about AI development》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：35 篇
+- 做啥：36 篇
 - 忽略：0 篇
