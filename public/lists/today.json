@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "edition": "daily",
-  "generated_at": "2026-08-11T13:49:07.323891+00:00",
+  "generated_at": "2026-08-12T03:30:56.033969+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4536,
+    "total_scanned": 4549,
     "picks_count": 7,
     "est_read_minutes": 17,
-    "est_saved_hours": 188.7
+    "est_saved_hours": 189.3
   },
   "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。",
   "daily_digest": {
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 603 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。",
+        "text": "推理训练与强化学习 本期匹配 606 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 603 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 606 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 402,
+        "articles_7d": 404,
         "direction": "up",
         "today_count": 86
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 219,
+        "articles_7d": 215,
         "direction": "up",
-        "today_count": 57
+        "today_count": 54
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 144,
+        "articles_7d": 148,
         "direction": "up",
-        "today_count": 33
+        "today_count": 34
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 107,
-        "direction": "down",
-        "today_count": 22
+        "articles_7d": 110,
+        "direction": "up",
+        "today_count": 24
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 74,
+        "articles_7d": 73,
         "direction": "down",
         "today_count": 14
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 32,
+        "articles_7d": 31,
         "direction": "up",
-        "today_count": 11
+        "today_count": 10
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 377,
+        "articles_7d": 378,
         "direction": "up",
         "today_count": 84
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 346,
+        "articles_7d": 353,
         "direction": "up",
-        "today_count": 68
+        "today_count": 72
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 430
+    "word_count": 433
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-08-11",
-      "published_at": "2026-08-11T13:48:56.288166+00:00",
+      "date": "2026-08-12",
+      "published_at": "2026-08-12T03:30:43.622607+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,67 +327,67 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4277,
+      "mention_count": 4284,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4056,
+      "mention_count": 4037,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 4043,
+      "mention_count": 3993,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3622,
+      "mention_count": 3626,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3610,
+      "mention_count": 3614,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3455,
+      "mention_count": 3451,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3373,
+      "mention_count": 3369,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3346,
+      "mention_count": 3340,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3316,
+      "mention_count": 3312,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3144,
-      "source_count": 8
+      "mention_count": 3151,
+      "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2704,
+      "mention_count": 2705,
       "source_count": 6
     },
     {
       "keyword": "while",
-      "mention_count": 2344,
-      "source_count": 4
+      "mention_count": 2342,
+      "source_count": 5
     },
     {
       "keyword": "can",
-      "mention_count": 2267,
+      "mention_count": 2268,
       "source_count": 8
     },
     {
@@ -397,38 +397,38 @@
     },
     {
       "keyword": "data",
-      "mention_count": 1933,
+      "mention_count": 1934,
       "source_count": 10
     },
     {
       "keyword": "framework",
-      "mention_count": 1861,
+      "mention_count": 1860,
       "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1787,
+      "mention_count": 1792,
       "source_count": 5
     },
     {
       "keyword": "our",
-      "mention_count": 1745,
+      "mention_count": 1748,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1736,
+      "mention_count": 1734,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1718,
-      "source_count": 6
+      "mention_count": 1725,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 529,
-    "must_read_count": 318,
+    "scored": 521,
+    "must_read_count": 311,
     "avg_score": 73.1
   }
 }
