@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "edition": "daily",
-  "generated_at": "2026-08-14T13:49:29.270847+00:00",
+  "generated_at": "2026-08-15T02:27:56.077697+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4693,
+    "total_scanned": 4704,
     "picks_count": 7,
     "est_read_minutes": 16,
-    "est_saved_hours": 195.3
+    "est_saved_hours": 195.7
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1737 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1759 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1737 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1759 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1737 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1759 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 950 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。",
+        "text": "AI Agents 本期匹配 949 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 950 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 949 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 628 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale》。",
+        "text": "推理训练与强化学习 本期匹配 629 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 628 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 629 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 435,
+        "articles_7d": 444,
         "direction": "up",
-        "today_count": 81
+        "today_count": 98
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
         "articles_7d": 237,
         "direction": "up",
-        "today_count": 45
+        "today_count": 47
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 161,
+        "articles_7d": 165,
         "direction": "up",
-        "today_count": 36
+        "today_count": 38
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 119,
+        "articles_7d": 121,
         "direction": "up",
-        "today_count": 20
+        "today_count": 21
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 85,
+        "articles_7d": 88,
         "direction": "up",
-        "today_count": 18
+        "today_count": 20
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 43,
+        "articles_7d": 44,
         "direction": "up",
-        "today_count": 9
+        "today_count": 12
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 409,
+        "articles_7d": 411,
         "direction": "up",
-        "today_count": 77
+        "today_count": 85
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 372,
+        "articles_7d": 370,
         "direction": "up",
         "today_count": 79
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 436
+    "word_count": 443
   },
   "picks": [
     {
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-08-14",
-      "published_at": "2026-08-14T13:49:18.291110+00:00",
+      "date": "2026-08-15",
+      "published_at": "2026-08-15T02:27:47.152049+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -274,8 +274,8 @@
       "date": "2026-08-06",
       "published_at": "2026-08-06T14:40:35.467920+00:00",
       "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
+      "entity_id": "ai_infra",
+      "entity": "AI 基础设施与算力",
       "kind": "read",
       "actionability": 35,
       "minutes": 3,
@@ -327,67 +327,67 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4556,
+      "mention_count": 4537,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4315,
+      "mention_count": 4306,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 4239,
+      "mention_count": 4236,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3604,
+      "mention_count": 3646,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3594,
+      "mention_count": 3636,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3587,
+      "mention_count": 3586,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3494,
+      "mention_count": 3493,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3472,
+      "mention_count": 3471,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3445,
+      "mention_count": 3444,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3340,
+      "mention_count": 3319,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2875,
+      "mention_count": 2874,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2450,
+      "mention_count": 2446,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2430,
+      "mention_count": 2426,
       "source_count": 5
     },
     {
@@ -396,19 +396,19 @@
       "source_count": 4
     },
     {
-      "keyword": "data",
-      "mention_count": 1909,
-      "source_count": 11
-    },
-    {
-      "keyword": "which",
-      "mention_count": 1906,
-      "source_count": 5
-    },
-    {
       "keyword": "framework",
       "mention_count": 1904,
       "source_count": 8
+    },
+    {
+      "keyword": "which",
+      "mention_count": 1903,
+      "source_count": 5
+    },
+    {
+      "keyword": "data",
+      "mention_count": 1901,
+      "source_count": 11
     },
     {
       "keyword": "these",
@@ -417,18 +417,18 @@
     },
     {
       "keyword": "not",
-      "mention_count": 1863,
+      "mention_count": 1857,
       "source_count": 7
     },
     {
       "keyword": "but",
-      "mention_count": 1807,
+      "mention_count": 1797,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 528,
-    "must_read_count": 327,
-    "avg_score": 73.6
+    "scored": 523,
+    "must_read_count": 326,
+    "avg_score": 73.8
   }
 }
