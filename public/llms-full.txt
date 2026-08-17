@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-08-17
-Funnel: 12 sources, 4517 scanned, 7 picks
+Funnel: 12 sources, 4562 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1702 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+官方 AI 实验室与公司信号 本期匹配 1696 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 
 ## Top Picks
 - [100] Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) (Simon Willison) https://simonwillison.net/2026/Aug/7/moonlight-mayhem/
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4517 scanned, 7 picks
   Summary: IT之家 7 月 22 日消息，OpenAI 推出了一款全新产品，希望借此进一步摆脱竞争日益激烈的大模型市场，向企业软件领域扩张。 这款产品名为 OpenAI Presence，旨在帮助企业更高效地部署和管理 AI 智能体（AI Agent）。它能够将 AI 智能体与企业内部数据、管理制度、现有软件以及业务流程连接起来，使 AI 更好地融入企业运营。 OpenAI 表示，Presence 旨在实现客户支持、销售等部分工作的自动化，比如解决账单问题、处理保险理赔或处理员工 IT 服务请求。 IT之家注意到，这是 OpenAI 近年来不断拓展业务版图的最新举措，该公司希望不再只是销售 AI 模型的使用权限，而是进一步进入企业软件市场。不过，这也意味着 OpenAI 未来可能会与部分原本使用其模型开发产品的客户形成直接竞争。 Presence 提供了一整套 AI 智能体管理工具。企业可以在正式部署前，对 AI 智能体进行模拟测试，并利用安全防护机制（Guardrails）、人工审核以及 AI 自动评分系统，对智能体执行任务的效果进行评估。 当 AI 智能体正式投入使用后，如果运行过程中出现问题，OpenAI 的 Codex 工具还能够帮助排查原因，并提出改进建议。 此外，Presence 还集成了 AI 驱动的语音和聊天技术，这可以帮助企业客户实现与现有及潜在客户互动的更多自动化。 目前，OpenAI 将根据具体情况向企业客户提供 Presence 服务。企业若希望使用该产品，需要与 OpenAI 工程团队或官方指定合作伙伴合作，才能完成部署和接入。 OpenAI 表示：“AI 智能体只会获得完成特定工作所需的知识和系统访问权限。企业可以自行制定相关规则，包括智能体能够执行哪些操作、哪些任务需要审批，以及何时应由人工接管。” OpenAI 透露，公司目前已经利用 Presence 运行面向英语用户的 AI 电话客服系统。 与此同时，AI 大模型市场的竞争正变得越来越激烈。Anthropic、谷歌、xAI、Meta、Mistral、DeepSeek 等竞争对手都在不断推出性能更强的新模型。本月，多款来自中国的开源权重 AI 模型再次证明，各家模型之间的性能差距正在迅速缩小，价格持续下降，越来越多企业客户也开始愿意在不同 AI 服务商之间切换。 这种趋势正在促使 OpenAI 加快向企业软件市场转型。相比单纯销售 AI 模型，企业软件通常拥有更高的客户黏性，企业购买的也不只是模型本身，而是一整套完整的业务解决方案。 从目前来看，Presence 正是这一战略的重要组成部分。OpenAI 不再要求企业自行搭建 AI 智能体系统，而是将部署 AI 所需的软件、安全机制以及管理能力打包成完整产品，帮助大型企业更安全、更高效地应用人工智能。 如果这一战略持续推进，那么 OpenAI 的定位将越来越不像一家单纯的大模型公司，而更像一家以 AI 为核心的企业软件服务商。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1702 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents: AI Agents 本期匹配 880 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 594 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
-- 预训练: 预训练 本期匹配 469 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 后训练与对齐: 后训练与对齐 本期匹配 318 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent: 编程 Agent 本期匹配 149 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1604 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1451 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 产品化: AI 产品化 本期匹配 1350 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1053 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 874 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 科技圈动态: 科技圈动态 本期匹配 420 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 402 篇文章，重点集中在 评测/安全、预训练/模型架构、AI 改造传统领域。建议先看《2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1696 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents: AI Agents 本期匹配 892 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 602 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
+- 预训练: 预训练 本期匹配 479 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 后训练与对齐: 后训练与对齐 本期匹配 324 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent: 编程 Agent 本期匹配 152 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1640 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1474 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 产品化: AI 产品化 本期匹配 1379 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1078 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 893 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 科技圈动态: 科技圈动态 本期匹配 430 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 394 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据》。
 - 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 99 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。

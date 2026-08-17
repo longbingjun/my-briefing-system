@@ -1,13 +1,13 @@
 # My Briefing · 2026-08-17
 
-12 个活跃信源 -> 4517 条扫描 -> 7 条今日值得看
-预计阅读 16 分钟，节省约 187.9 小时。
+12 个活跃信源 -> 4562 条扫描 -> 7 条今日值得看
+预计阅读 16 分钟，节省约 189.8 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1702 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- **AI Agents**：AI Agents 本期匹配 880 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 594 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1696 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- **AI Agents**：AI Agents 本期匹配 892 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 602 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
 
 ## 今日值得看
 
@@ -28,18 +28,18 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 435，今日 +56，官方 AI 实验室与公司信号 本期匹配 1702 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents：本周 234，今日 +18，AI Agents 本期匹配 880 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
-- 推理训练与强化学习：本周 156，今日 +8，推理训练与强化学习 本期匹配 594 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
-- 预训练：本周 116，今日 +3，预训练 本期匹配 469 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 后训练与对齐：本周 81，今日 +3，后训练与对齐 本期匹配 318 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 48，今日 +9，编程 Agent 本期匹配 149 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全：本周 393，今日 +16，AI 评测与安全 本期匹配 1604 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 353，今日 +29，数据分析与指标体系 本期匹配 1451 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 产品化：本周 343，今日 +23，AI 产品化 本期匹配 1350 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 基础设施与算力：本周 262，今日 +11，AI 基础设施与算力 本期匹配 1053 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 222，今日 +15，成本管理与 FinOps 本期匹配 874 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 科技圈动态：本周 103，今日 +6，科技圈动态 本期匹配 420 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
+- 官方 AI 实验室与公司信号：本周 438，今日 +70，官方 AI 实验室与公司信号 本期匹配 1696 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents：本周 235，今日 +40，AI Agents 本期匹配 892 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。
+- 推理训练与强化学习：本周 154，今日 +29，推理训练与强化学习 本期匹配 602 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude》。
+- 预训练：本周 118，今日 +23，预训练 本期匹配 479 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 后训练与对齐：本周 75，今日 +12，后训练与对齐 本期匹配 324 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 50，今日 +10，编程 Agent 本期匹配 152 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全：本周 392，今日 +77，AI 评测与安全 本期匹配 1640 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 349，今日 +75，数据分析与指标体系 本期匹配 1474 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 产品化：本周 338，今日 +72，AI 产品化 本期匹配 1379 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 基础设施与算力：本周 257，今日 +50，AI 基础设施与算力 本期匹配 1078 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 228，今日 +55，成本管理与 FinOps 本期匹配 893 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 科技圈动态：本周 103，今日 +21，科技圈动态 本期匹配 430 篇文章，重点集中在 后训练/对齐、评测/安全、预训练/模型架构。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
 
 ## 内容分栏
 
