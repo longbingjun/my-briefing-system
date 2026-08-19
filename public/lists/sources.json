@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T13:14:31.887376+00:00",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T02:33:37.961334+00:00",
   "today": {
-    "articles": 216,
+    "articles": 212,
     "active_sources": 12,
-    "avg_score": 70.7
+    "avg_score": 70.1
   },
   "pinned_sources": [
     {
@@ -16,11 +16,11 @@
       "enabled": true,
       "url": "https://openai.com/news/rss.xml",
       "weight": 0.98,
-      "scanned_30d": 52,
+      "scanned_30d": 56,
       "selected_30d": 11,
       "today_count": 1,
-      "avg_score": 73.5,
-      "quality_index": 73.4,
+      "avg_score": 72.9,
+      "quality_index": 73.0,
       "style_tags": [
         "official",
         "en",
@@ -103,8 +103,8 @@
       "scanned_30d": 25,
       "selected_30d": 10,
       "today_count": 0,
-      "avg_score": 57.3,
-      "quality_index": 60.1,
+      "avg_score": 57.0,
+      "quality_index": 59.9,
       "style_tags": [
         "official",
         "en"
@@ -172,6 +172,47 @@
           "actionability": 85,
           "minutes": 1,
           "topic": "开源动态"
+        }
+      ]
+    },
+    {
+      "id": "huggingface_blog",
+      "name": "Hugging Face Blog",
+      "group": "official",
+      "language": "en",
+      "enabled": true,
+      "url": "https://huggingface.co/blog/feed.xml",
+      "weight": 0.86,
+      "scanned_30d": 24,
+      "selected_30d": 1,
+      "today_count": 0,
+      "avg_score": 65.0,
+      "quality_index": 47.5,
+      "style_tags": [
+        "official",
+        "en"
+      ],
+      "top_articles": [
+        {
+          "id": "4afe09c40ad349c6",
+          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "summary": "",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "link": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_id": "huggingface_blog",
+          "source_group": "official",
+          "language": "en",
+          "date": "2026-08-18",
+          "published_at": "2026-08-18T00:00:00+00:00",
+          "score": 65,
+          "entity_id": "pretraining",
+          "entity": "预训练",
+          "kind": "read",
+          "actionability": 35,
+          "minutes": 1,
+          "topic": "预训练"
         }
       ]
     },
@@ -255,25 +296,6 @@
       "top_articles": []
     },
     {
-      "id": "huggingface_blog",
-      "name": "Hugging Face Blog",
-      "group": "official",
-      "language": "en",
-      "enabled": true,
-      "url": "https://huggingface.co/blog/feed.xml",
-      "weight": 0.86,
-      "scanned_30d": 22,
-      "selected_30d": 0,
-      "today_count": 0,
-      "avg_score": 0,
-      "quality_index": 0,
-      "style_tags": [
-        "official",
-        "en"
-      ],
-      "top_articles": []
-    },
-    {
       "id": "x_anthropic",
       "name": "X / Anthropic",
       "group": "x_official",
@@ -325,11 +347,11 @@
       "enabled": true,
       "url": "https://simonwillison.net/atom/everything/",
       "weight": 0.86,
-      "scanned_30d": 154,
-      "selected_30d": 70,
-      "today_count": 19,
-      "avg_score": 85.1,
-      "quality_index": 89.5,
+      "scanned_30d": 153,
+      "selected_30d": 67,
+      "today_count": 20,
+      "avg_score": 85.4,
+      "quality_index": 89.8,
       "style_tags": [
         "individual",
         "en"
@@ -346,8 +368,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.737694+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.342794+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -367,8 +389,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.737154+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.342265+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -388,8 +410,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.736176+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.341270+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -408,10 +430,10 @@
       "enabled": true,
       "url": "https://www.qbitai.com/feed",
       "weight": 0.82,
-      "scanned_30d": 257,
+      "scanned_30d": 255,
       "selected_30d": 51,
       "today_count": 3,
-      "avg_score": 76.7,
+      "avg_score": 76.6,
       "quality_index": 83.7,
       "style_tags": [
         "chinese_media",
@@ -491,10 +513,10 @@
       "enabled": true,
       "url": "https://www.ithome.com/rss/",
       "weight": 0.62,
-      "scanned_30d": 1833,
-      "selected_30d": 194,
-      "today_count": 18,
-      "avg_score": 73.2,
+      "scanned_30d": 1839,
+      "selected_30d": 198,
+      "today_count": 12,
+      "avg_score": 73.1,
       "quality_index": 81.2,
       "style_tags": [
         "chinese_media",
@@ -577,8 +599,8 @@
       "scanned_30d": 568,
       "selected_30d": 55,
       "today_count": 7,
-      "avg_score": 72.8,
-      "quality_index": 80.9,
+      "avg_score": 73.1,
+      "quality_index": 81.2,
       "style_tags": [
         "research",
         "en"
@@ -659,9 +681,9 @@
       "weight": 0.68,
       "scanned_30d": 374,
       "selected_30d": 19,
-      "today_count": 3,
-      "avg_score": 70.7,
-      "quality_index": 79.5,
+      "today_count": 2,
+      "avg_score": 70.2,
+      "quality_index": 79.1,
       "style_tags": [
         "chinese_media",
         "zh"
@@ -741,10 +763,10 @@
       "url": "http://export.arxiv.org/rss/cs.CL",
       "weight": 0.72,
       "scanned_30d": 660,
-      "selected_30d": 54,
-      "today_count": 6,
-      "avg_score": 67.9,
-      "quality_index": 77.6,
+      "selected_30d": 55,
+      "today_count": 7,
+      "avg_score": 68.3,
+      "quality_index": 77.8,
       "style_tags": [
         "research",
         "en"
@@ -824,10 +846,10 @@
       "url": "http://export.arxiv.org/rss/cs.LG",
       "weight": 0.72,
       "scanned_30d": 629,
-      "selected_30d": 56,
+      "selected_30d": 57,
       "today_count": 8,
       "avg_score": 67.8,
-      "quality_index": 77.5,
+      "quality_index": 77.4,
       "style_tags": [
         "research",
         "en"
@@ -906,11 +928,11 @@
       "enabled": true,
       "url": "https://openai.com/news/rss.xml",
       "weight": 0.98,
-      "scanned_30d": 52,
+      "scanned_30d": 56,
       "selected_30d": 11,
       "today_count": 1,
-      "avg_score": 73.5,
-      "quality_index": 73.4,
+      "avg_score": 72.9,
+      "quality_index": 73.0,
       "style_tags": [
         "official",
         "en",
@@ -996,11 +1018,11 @@
       "enabled": true,
       "url": "https://simonwillison.net/atom/everything/",
       "weight": 0.86,
-      "scanned_30d": 154,
-      "selected_30d": 70,
-      "today_count": 19,
-      "avg_score": 85.1,
-      "quality_index": 89.5,
+      "scanned_30d": 153,
+      "selected_30d": 67,
+      "today_count": 20,
+      "avg_score": 85.4,
+      "quality_index": 89.8,
       "style_tags": [
         "individual",
         "en"
@@ -1017,8 +1039,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.737694+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.342794+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -1038,8 +1060,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.737154+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.342265+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -1059,8 +1081,8 @@
           "source_id": "simon_willison",
           "source_group": "individual",
           "language": "en",
-          "date": "2026-08-18",
-          "published_at": "2026-08-18T13:14:19.736176+00:00",
+          "date": "2026-08-19",
+          "published_at": "2026-08-19T02:33:26.341270+00:00",
           "score": 100,
           "entity_id": "ai_agents",
           "entity": "AI Agents",
@@ -1079,10 +1101,10 @@
       "enabled": true,
       "url": "https://www.qbitai.com/feed",
       "weight": 0.82,
-      "scanned_30d": 257,
+      "scanned_30d": 255,
       "selected_30d": 51,
       "today_count": 3,
-      "avg_score": 76.7,
+      "avg_score": 76.6,
       "quality_index": 83.7,
       "style_tags": [
         "chinese_media",
@@ -1162,10 +1184,10 @@
       "enabled": true,
       "url": "https://www.ithome.com/rss/",
       "weight": 0.62,
-      "scanned_30d": 1833,
-      "selected_30d": 194,
-      "today_count": 18,
-      "avg_score": 73.2,
+      "scanned_30d": 1839,
+      "selected_30d": 198,
+      "today_count": 12,
+      "avg_score": 73.1,
       "quality_index": 81.2,
       "style_tags": [
         "chinese_media",
@@ -1248,8 +1270,8 @@
       "scanned_30d": 568,
       "selected_30d": 55,
       "today_count": 7,
-      "avg_score": 72.8,
-      "quality_index": 80.9,
+      "avg_score": 73.1,
+      "quality_index": 81.2,
       "style_tags": [
         "research",
         "en"
@@ -1330,9 +1352,9 @@
       "weight": 0.68,
       "scanned_30d": 374,
       "selected_30d": 19,
-      "today_count": 3,
-      "avg_score": 70.7,
-      "quality_index": 79.5,
+      "today_count": 2,
+      "avg_score": 70.2,
+      "quality_index": 79.1,
       "style_tags": [
         "chinese_media",
         "zh"
@@ -1412,10 +1434,10 @@
       "url": "http://export.arxiv.org/rss/cs.CL",
       "weight": 0.72,
       "scanned_30d": 660,
-      "selected_30d": 54,
-      "today_count": 6,
-      "avg_score": 67.9,
-      "quality_index": 77.6,
+      "selected_30d": 55,
+      "today_count": 7,
+      "avg_score": 68.3,
+      "quality_index": 77.8,
       "style_tags": [
         "research",
         "en"
@@ -1495,10 +1517,10 @@
       "url": "http://export.arxiv.org/rss/cs.LG",
       "weight": 0.72,
       "scanned_30d": 629,
-      "selected_30d": 56,
+      "selected_30d": 57,
       "today_count": 8,
       "avg_score": 67.8,
-      "quality_index": 77.5,
+      "quality_index": 77.4,
       "style_tags": [
         "research",
         "en"
@@ -1577,11 +1599,11 @@
       "enabled": true,
       "url": "https://openai.com/news/rss.xml",
       "weight": 0.98,
-      "scanned_30d": 52,
+      "scanned_30d": 56,
       "selected_30d": 11,
       "today_count": 1,
-      "avg_score": 73.5,
-      "quality_index": 73.4,
+      "avg_score": 72.9,
+      "quality_index": 73.0,
       "style_tags": [
         "official",
         "en",
@@ -1664,8 +1686,8 @@
       "scanned_30d": 25,
       "selected_30d": 10,
       "today_count": 0,
-      "avg_score": 57.3,
-      "quality_index": 60.1,
+      "avg_score": 57.0,
+      "quality_index": 59.9,
       "style_tags": [
         "official",
         "en"
@@ -1733,6 +1755,47 @@
           "actionability": 85,
           "minutes": 1,
           "topic": "开源动态"
+        }
+      ]
+    },
+    {
+      "id": "huggingface_blog",
+      "name": "Hugging Face Blog",
+      "group": "official",
+      "language": "en",
+      "enabled": true,
+      "url": "https://huggingface.co/blog/feed.xml",
+      "weight": 0.86,
+      "scanned_30d": 24,
+      "selected_30d": 1,
+      "today_count": 0,
+      "avg_score": 65.0,
+      "quality_index": 47.5,
+      "style_tags": [
+        "official",
+        "en"
+      ],
+      "top_articles": [
+        {
+          "id": "4afe09c40ad349c6",
+          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "summary": "",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "link": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_id": "huggingface_blog",
+          "source_group": "official",
+          "language": "en",
+          "date": "2026-08-18",
+          "published_at": "2026-08-18T00:00:00+00:00",
+          "score": 65,
+          "entity_id": "pretraining",
+          "entity": "预训练",
+          "kind": "read",
+          "actionability": 35,
+          "minutes": 1,
+          "topic": "预训练"
         }
       ]
     },
@@ -1846,25 +1909,6 @@
       "url": "https://blogs.microsoft.com/ai/feed/",
       "weight": 0.86,
       "scanned_30d": 0,
-      "selected_30d": 0,
-      "today_count": 0,
-      "avg_score": 0,
-      "quality_index": 0,
-      "style_tags": [
-        "official",
-        "en"
-      ],
-      "top_articles": []
-    },
-    {
-      "id": "huggingface_blog",
-      "name": "Hugging Face Blog",
-      "group": "official",
-      "language": "en",
-      "enabled": true,
-      "url": "https://huggingface.co/blog/feed.xml",
-      "weight": 0.86,
-      "scanned_30d": 22,
       "selected_30d": 0,
       "today_count": 0,
       "avg_score": 0,
