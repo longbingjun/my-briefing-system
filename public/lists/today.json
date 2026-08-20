@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "edition": "daily",
-  "generated_at": "2026-08-19T13:15:21.297849+00:00",
+  "generated_at": "2026-08-20T02:32:19.934165+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4683,
+    "total_scanned": 4715,
     "picks_count": 7,
     "est_read_minutes": 16,
-    "est_saved_hours": 194.9
+    "est_saved_hours": 196.2
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1717 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1717 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1717 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 913 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。",
+        "text": "AI Agents 本期匹配 916 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 913 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 916 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 434,
-        "direction": "up",
-        "today_count": 79
+        "articles_7d": 411,
+        "direction": "flat",
+        "today_count": 81
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 222,
-        "direction": "up",
+        "articles_7d": 210,
+        "direction": "down",
         "today_count": 44
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 151,
-        "direction": "up",
+        "articles_7d": 144,
+        "direction": "down",
         "today_count": 33
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 110,
+        "articles_7d": 105,
         "direction": "down",
         "today_count": 26
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 85,
+        "articles_7d": 83,
         "direction": "up",
-        "today_count": 21
+        "today_count": 20
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 50,
+        "articles_7d": 44,
         "direction": "up",
-        "today_count": 9
+        "today_count": 11
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 404,
+        "articles_7d": 398,
         "direction": "up",
-        "today_count": 91
+        "today_count": 86
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 367,
+        "articles_7d": 356,
         "direction": "up",
-        "today_count": 81
+        "today_count": 80
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 411
+    "word_count": 420
   },
   "picks": [
     {
@@ -327,52 +327,52 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4643,
+      "mention_count": 4638,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4304,
+      "mention_count": 4299,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 4251,
+      "mention_count": 4245,
       "source_count": 7
     },
     {
       "keyword": "type",
-      "mention_count": 3644,
+      "mention_count": 3633,
       "source_count": 5
     },
     {
       "keyword": "之家",
-      "mention_count": 3592,
+      "mention_count": 3628,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3586,
+      "mention_count": 3622,
       "source_count": 1
     },
     {
       "keyword": "abstract",
-      "mention_count": 3538,
+      "mention_count": 3533,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3527,
+      "mention_count": 3522,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3496,
+      "mention_count": 3491,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3321,
+      "mention_count": 3320,
       "source_count": 9
     },
     {
@@ -382,12 +382,12 @@
     },
     {
       "keyword": "can",
-      "mention_count": 2547,
+      "mention_count": 2556,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2476,
+      "mention_count": 2474,
       "source_count": 5
     },
     {
@@ -397,22 +397,22 @@
     },
     {
       "keyword": "these",
-      "mention_count": 1935,
+      "mention_count": 1932,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1888,
+      "mention_count": 1889,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1884,
+      "mention_count": 1886,
       "source_count": 11
     },
     {
       "keyword": "which",
-      "mention_count": 1846,
+      "mention_count": 1841,
       "source_count": 4
     },
     {
@@ -422,13 +422,13 @@
     },
     {
       "keyword": "but",
-      "mention_count": 1818,
+      "mention_count": 1815,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 529,
-    "must_read_count": 321,
-    "avg_score": 73.8
+    "scored": 530,
+    "must_read_count": 324,
+    "avg_score": 74.0
   }
 }
