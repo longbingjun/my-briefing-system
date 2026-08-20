@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-20",
   "edition": "daily",
-  "generated_at": "2026-08-20T02:32:19.934165+00:00",
+  "generated_at": "2026-08-20T13:17:28.256569+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4715,
+    "total_scanned": 4702,
     "picks_count": 7,
     "est_read_minutes": 16,
-    "est_saved_hours": 196.2
+    "est_saved_hours": 195.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1724 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1724 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1729 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1724 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 625 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
+        "text": "推理训练与强化学习 本期匹配 616 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 625 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 616 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,16 +99,16 @@
       },
       {
         "n": 6,
-        "link": "https://www.ithome.com/0/982/241.htm",
-        "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
+        "link": "https://www.ithome.com/0/992/339.htm",
+        "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
         "source": "IT之家",
         "score": 99,
         "minutes": 2
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/0/980/300.htm",
-        "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
+        "link": "https://www.ithome.com/0/982/241.htm",
+        "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
         "source": "IT之家",
         "score": 99,
         "minutes": 2
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 411,
-        "direction": "flat",
-        "today_count": 81
+        "articles_7d": 402,
+        "direction": "down",
+        "today_count": 82
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 210,
+        "articles_7d": 201,
         "direction": "down",
         "today_count": 44
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 144,
+        "articles_7d": 145,
         "direction": "down",
-        "today_count": 33
+        "today_count": 30
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 105,
+        "articles_7d": 103,
         "direction": "down",
-        "today_count": 26
+        "today_count": 23
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 83,
+        "articles_7d": 84,
         "direction": "up",
-        "today_count": 20
+        "today_count": 17
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 44,
-        "direction": "up",
-        "today_count": 11
+        "articles_7d": 39,
+        "direction": "down",
+        "today_count": 10
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 398,
+        "articles_7d": 394,
         "direction": "up",
-        "today_count": 86
+        "today_count": 74
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 356,
+        "articles_7d": 361,
         "direction": "up",
-        "today_count": 80
+        "today_count": 76
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -282,6 +282,27 @@
       "topic": "Agent 工作流"
     },
     {
+      "id": "3df9914e90fde596",
+      "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
+      "title_original": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
+      "summary": "IT之家 8 月 20 日消息，据《商业内幕》今天（20 日）报道，OpenAI 员工乐观估计，公司正 接近实现 从创立之初就设定的目标： 让 AI 智能体像人类一样熟练地操作电脑 ，尤其是使用浏览器。 自 2015 年成立以来，OpenAI 一直希望实现这一能力，最大的难题之一是获得足够的训练数据。经过多年开发，公司现在已经有信心开始向客户逐步开放电脑操作功能。 OpenAI 电脑操作团队经理阿里 · 韦恩斯坦指出：“一旦 ChatGPT 操作电脑和软件的速度超过你我， 就会改变人们默认与电脑交互的方式 。” OpenAI 最新模型从训练初期到后期的各个阶段，都加入了 专门提升电脑操作能力 的数据和训练流程。参与开发热门电脑操作智能体基准测试的哥伦比亚大学 AI 研究员周宇（音译）解释称，这些训练是在通用 AI 模型已有能力之上继续强化，让模型学会完成更多电脑任务。在最初的大规模基础训练阶段，OpenAI 很可能加入了逐帧屏幕截图，让模型提前接触 有助于电脑操作的信息 。 进入后续训练阶段后，开发人员会向模型展示 完成特定任务所需的正确操作 。例如，要得到填写完毕的税务表格，或者完成一个物体的 3D 模型，就需要让模型学习对应的一系列电脑操作。 其中一部分训练数据来自真人示范。OpenAI 公布 2025 年版电脑操作功能时曾透露，公司使用过由人类演示任务完成过程的数据集，但没有透露最新训练数据的具体情况。周宇指出，这类数据很昂贵，因为获取困难，整理成能够直接用于训练的形式 也需要大量工作 。 OpenAI 很可能还利用强化学习继续提高模型的电脑操作能力，让模型反复尝试虚拟任务，并奖励成功完成任务的行为。周宇认为，模型可以学会 更多执行这些“获得过奖励的操作” 。 OpenAI 也改变了模型实际操作电脑时获取信息的方式。韦恩斯坦表示，过去 ChatGPT 需要 反复截取屏幕、分析像素、发送操作指令，再重新截屏分析 。而目前在打开网站后，系统可以直接 快速读取网页的底层信息 ，从内存结构、无障碍信息到链接关系都能应对。 屏幕截图仍然是工作流程的一部分。用户开启电脑操作功能时，需要允许 ChatGPT 录屏，以便系统迅速识别当前显示的内容。韦恩斯坦表示，这些能力结合后，Codex 就能 自行测试生成的代码、发现问题并继续修改 ，形成“完整闭环”。 韦恩斯坦和负责 OpenAI 浏览器能力的詹姆斯 · 孙认为，电脑操作技术的一大价值，是让 ChatGPT 智能体能够进入互联网中 大量彼此独立的服务和“长尾”网站 。 从预约网站、企业内部库存系统到社媒平台，许多在线工具起初就是 为人类手动点击和输入而设计 的。两人透露，已经有用户利用电脑操作功能自动处理数据录入、合规任务和日程安排。 韦恩斯坦指出，OpenAI 模型能力提高后， 也越来越能主动发现错误并自行修正 ，因此更容易把任务做完，也更不容易在网络环境中被无关内容带偏。 周宇认为，目前电脑操作技术的速度 距离普通消费者期待的水平仍有明显差距 。“在训练数据非常充足的有限领域，电脑操作智能体确实可以表现得很好。想让它适应任何网页、任何应用程序和任何操作系统，仍然非常困难。” 目前，电脑操作功能 还不能迅速批量处理邮件回复 ，浏览社交媒体信息流时也显得较为迟缓。詹姆斯 · 孙和韦恩斯坦希望，随着 OpenAI 模型继续升级，电脑操作最终能够达到 AI 编程目前的效率，让 AI 直接操作网络工具比用户亲自动手更快。 詹姆斯 · 孙表示：“对很多工程师来说，现在已经是让智能体写代码比自己写更快。根本不用权衡，直接让它做就行。我认为电脑操作以后也会越来越接近这种状态。” 2025 年，OpenAI CEO 萨姆 · 奥尔特曼谈到早期电脑操作功能时曾公开示警：“实用价值很大， 潜在风险也同样不小 。我们建议只向智能体提供完成任务所必需的最低权限，以降低隐私和安全风险。” 詹姆斯 · 孙表示，OpenAI 一直在研究“确认策略”，也就是 AI 执行下一步操作前， 究竟应该在什么情况下向用户请求授权 。目前的原则是，只要智能体准备向外传输数据或者删除内容，就必须先征得用户同意。网络工作往往需要连续快速地做出决定，因此 OpenAI 仍在寻找易用性和安全性之间的平衡。 他坦言：“你可以把某个东西做到 100% 安全，但那样就非常非常难用了。也可以把它做得非常容易使用，但同时非常危险。所以我们真正想解决的问题，是如何做出 既有帮助、又容易使用 的产品。”",
+      "url": "https://www.ithome.com/0/992/339.htm",
+      "link": "https://www.ithome.com/0/992/339.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-20",
+      "published_at": "2026-08-20T12:29:27+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "推理训练/测试时计算"
+    },
+    {
       "id": "1e4ac995e9c2a044",
       "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
       "title_original": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
@@ -301,134 +322,113 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
-    },
-    {
-      "id": "d2c350476ec52b47",
-      "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
-      "title_original": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
-      "summary": "IT之家 7 月 22 日消息，OpenAI 推出了一款全新产品，希望借此进一步摆脱竞争日益激烈的大模型市场，向企业软件领域扩张。 这款产品名为 OpenAI Presence，旨在帮助企业更高效地部署和管理 AI 智能体（AI Agent）。它能够将 AI 智能体与企业内部数据、管理制度、现有软件以及业务流程连接起来，使 AI 更好地融入企业运营。 OpenAI 表示，Presence 旨在实现客户支持、销售等部分工作的自动化，比如解决账单问题、处理保险理赔或处理员工 IT 服务请求。 IT之家注意到，这是 OpenAI 近年来不断拓展业务版图的最新举措，该公司希望不再只是销售 AI 模型的使用权限，而是进一步进入企业软件市场。不过，这也意味着 OpenAI 未来可能会与部分原本使用其模型开发产品的客户形成直接竞争。 Presence 提供了一整套 AI 智能体管理工具。企业可以在正式部署前，对 AI 智能体进行模拟测试，并利用安全防护机制（Guardrails）、人工审核以及 AI 自动评分系统，对智能体执行任务的效果进行评估。 当 AI 智能体正式投入使用后，如果运行过程中出现问题，OpenAI 的 Codex 工具还能够帮助排查原因，并提出改进建议。 此外，Presence 还集成了 AI 驱动的语音和聊天技术，这可以帮助企业客户实现与现有及潜在客户互动的更多自动化。 目前，OpenAI 将根据具体情况向企业客户提供 Presence 服务。企业若希望使用该产品，需要与 OpenAI 工程团队或官方指定合作伙伴合作，才能完成部署和接入。 OpenAI 表示：“AI 智能体只会获得完成特定工作所需的知识和系统访问权限。企业可以自行制定相关规则，包括智能体能够执行哪些操作、哪些任务需要审批，以及何时应由人工接管。” OpenAI 透露，公司目前已经利用 Presence 运行面向英语用户的 AI 电话客服系统。 与此同时，AI 大模型市场的竞争正变得越来越激烈。Anthropic、谷歌、xAI、Meta、Mistral、DeepSeek 等竞争对手都在不断推出性能更强的新模型。本月，多款来自中国的开源权重 AI 模型再次证明，各家模型之间的性能差距正在迅速缩小，价格持续下降，越来越多企业客户也开始愿意在不同 AI 服务商之间切换。 这种趋势正在促使 OpenAI 加快向企业软件市场转型。相比单纯销售 AI 模型，企业软件通常拥有更高的客户黏性，企业购买的也不只是模型本身，而是一整套完整的业务解决方案。 从目前来看，Presence 正是这一战略的重要组成部分。OpenAI 不再要求企业自行搭建 AI 智能体系统，而是将部署 AI 所需的软件、安全机制以及管理能力打包成完整产品，帮助大型企业更安全、更高效地应用人工智能。 如果这一战略持续推进，那么 OpenAI 的定位将越来越不像一家单纯的大模型公司，而更像一家以 AI 为核心的企业软件服务商。",
-      "url": "https://www.ithome.com/0/980/300.htm",
-      "link": "https://www.ithome.com/0/980/300.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-07-22",
-      "published_at": "2026-07-22T12:16:57+00:00",
-      "score": 99,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4638,
+      "mention_count": 4646,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4299,
+      "mention_count": 4324,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 4245,
+      "mention_count": 4223,
       "source_count": 7
     },
     {
       "keyword": "type",
-      "mention_count": 3633,
+      "mention_count": 3632,
       "source_count": 5
     },
     {
       "keyword": "之家",
-      "mention_count": 3628,
+      "mention_count": 3598,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3622,
+      "mention_count": 3594,
       "source_count": 1
     },
     {
       "keyword": "abstract",
-      "mention_count": 3533,
+      "mention_count": 3532,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3522,
+      "mention_count": 3525,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3491,
+      "mention_count": 3494,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3320,
+      "mention_count": 3323,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2958,
+      "mention_count": 2973,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2556,
+      "mention_count": 2577,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2474,
+      "mention_count": 2459,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2400,
+      "mention_count": 2427,
       "source_count": 4
     },
     {
       "keyword": "these",
-      "mention_count": 1932,
+      "mention_count": 1927,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1889,
+      "mention_count": 1902,
       "source_count": 7
     },
     {
       "keyword": "data",
-      "mention_count": 1886,
+      "mention_count": 1877,
       "source_count": 11
     },
     {
       "keyword": "which",
-      "mention_count": 1841,
+      "mention_count": 1847,
       "source_count": 4
     },
     {
-      "keyword": "reasoning",
-      "mention_count": 1821,
-      "source_count": 6
+      "keyword": "but",
+      "mention_count": 1819,
+      "source_count": 5
     },
     {
-      "keyword": "but",
-      "mention_count": 1815,
-      "source_count": 5
+      "keyword": "framework",
+      "mention_count": 1757,
+      "source_count": 6
     }
   ],
   "quality": {
-    "scored": 530,
+    "scored": 538,
     "must_read_count": 324,
-    "avg_score": 74.0
+    "avg_score": 73.8
   }
 }
