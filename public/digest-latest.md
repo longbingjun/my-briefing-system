@@ -1,13 +1,13 @@
 # My Briefing · 2026-08-21
 
-12 个活跃信源 -> 4708 条扫描 -> 7 条今日值得看
-预计阅读 17 分钟，节省约 195.9 小时。
+12 个活跃信源 -> 4702 条扫描 -> 7 条今日值得看
+预计阅读 17 分钟，节省约 195.6 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1730 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 - **AI Agents**：AI Agents 本期匹配 915 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 614 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 409，今日 +83，官方 AI 实验室与公司信号 本期匹配 1730 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents：本周 202，今日 +44，AI Agents 本期匹配 915 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 推理训练与强化学习：本周 145，今日 +30，推理训练与强化学习 本期匹配 614 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。
-- 预训练：本周 102，今日 +22，预训练 本期匹配 497 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 后训练与对齐：本周 83，今日 +17，后训练与对齐 本期匹配 343 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《DUET: Dual-Teacher On-Policy Distillation via Same-Weight Disagreement for Prohibition Compliance》。
-- 编程 Agent：本周 40，今日 +10，编程 Agent 本期匹配 157 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全：本周 401，今日 +74，AI 评测与安全 本期匹配 1735 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 363，今日 +78，数据分析与指标体系 本期匹配 1540 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 产品化：本周 340，今日 +84，AI 产品化 本期匹配 1467 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 基础设施与算力：本周 255，今日 +49，AI 基础设施与算力 本期匹配 1133 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 219，今日 +37，成本管理与 FinOps 本期匹配 929 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 99，今日 +23，AI 改造传统领域 本期匹配 410 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据》。
+- 官方 AI 实验室与公司信号：本周 407，今日 +73，官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents：本周 215，今日 +42，AI Agents 本期匹配 915 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 推理训练与强化学习：本周 139，今日 +22，推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。
+- 预训练：本周 110，今日 +22，预训练 本期匹配 496 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 后训练与对齐：本周 88，今日 +16，后训练与对齐 本期匹配 343 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。
+- 编程 Agent：本周 45，今日 +13，编程 Agent 本期匹配 159 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全：本周 425，今日 +82，AI 评测与安全 本期匹配 1734 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 367，今日 +71，数据分析与指标体系 本期匹配 1541 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 产品化：本周 360，今日 +75，AI 产品化 本期匹配 1458 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 基础设施与算力：本周 263，今日 +54，AI 基础设施与算力 本期匹配 1120 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 227，今日 +42，成本管理与 FinOps 本期匹配 926 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 100，今日 +19，AI 改造传统领域 本期匹配 403 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：37 篇
+- 做啥：41 篇
 - 忽略：0 篇

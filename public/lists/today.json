@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-21",
   "edition": "daily",
-  "generated_at": "2026-08-21T02:38:36.112322+00:00",
+  "generated_at": "2026-08-21T13:16:18.220296+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4708,
+    "total_scanned": 4702,
     "picks_count": 7,
     "est_read_minutes": 17,
-    "est_saved_hours": 195.9
+    "est_saved_hours": 195.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1730 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1730 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1730 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 614 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
+        "text": "推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 614 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 409,
-        "direction": "down",
-        "today_count": 83
+        "articles_7d": 407,
+        "direction": "up",
+        "today_count": 73
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 202,
-        "direction": "down",
-        "today_count": 44
+        "articles_7d": 215,
+        "direction": "up",
+        "today_count": 42
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 145,
+        "articles_7d": 139,
         "direction": "down",
-        "today_count": 30
+        "today_count": 22
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 102,
+        "articles_7d": 110,
         "direction": "down",
         "today_count": 22
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 83,
+        "articles_7d": 88,
         "direction": "up",
-        "today_count": 17
+        "today_count": 16
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 40,
+        "articles_7d": 45,
         "direction": "up",
-        "today_count": 10
+        "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 401,
+        "articles_7d": 425,
         "direction": "up",
-        "today_count": 74
+        "today_count": 82
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 363,
+        "articles_7d": 367,
         "direction": "up",
-        "today_count": 78
+        "today_count": 71
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -327,57 +327,57 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4645,
+      "mention_count": 4538,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4327,
+      "mention_count": 4292,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 4217,
+      "mention_count": 4168,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3632,
+      "mention_count": 3602,
+      "source_count": 1
+    },
+    {
+      "keyword": "日消息",
+      "mention_count": 3596,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3629,
+      "mention_count": 3589,
       "source_count": 5
     },
     {
-      "keyword": "日消息",
-      "mention_count": 3626,
-      "source_count": 1
-    },
-    {
       "keyword": "abstract",
-      "mention_count": 3529,
+      "mention_count": 3493,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3522,
+      "mention_count": 3484,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3491,
+      "mention_count": 3455,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3318,
+      "mention_count": 3311,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2970,
+      "mention_count": 2914,
       "source_count": 6
     },
     {
@@ -387,48 +387,48 @@
     },
     {
       "keyword": "while",
-      "mention_count": 2452,
+      "mention_count": 2458,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2422,
+      "mention_count": 2366,
       "source_count": 4
     },
     {
       "keyword": "these",
-      "mention_count": 1930,
+      "mention_count": 1933,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1900,
+      "mention_count": 1926,
       "source_count": 6
-    },
-    {
-      "keyword": "data",
-      "mention_count": 1875,
-      "source_count": 10
     },
     {
       "keyword": "which",
-      "mention_count": 1855,
+      "mention_count": 1859,
       "source_count": 4
     },
     {
+      "keyword": "data",
+      "mention_count": 1853,
+      "source_count": 10
+    },
+    {
       "keyword": "but",
-      "mention_count": 1819,
+      "mention_count": 1806,
       "source_count": 5
     },
     {
-      "keyword": "framework",
-      "mention_count": 1757,
-      "source_count": 6
+      "keyword": "learning",
+      "mention_count": 1726,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 536,
-    "must_read_count": 324,
-    "avg_score": 73.9
+    "scored": 537,
+    "must_read_count": 325,
+    "avg_score": 73.8
   }
 }
