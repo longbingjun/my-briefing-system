@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-22",
   "edition": "daily",
-  "generated_at": "2026-08-22T02:29:39.720593+00:00",
+  "generated_at": "2026-08-22T13:05:24.193797+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4704,
+    "total_scanned": 4586,
     "picks_count": 7,
     "est_read_minutes": 15,
-    "est_saved_hours": 195.8
+    "est_saved_hours": 190.8
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 912 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。",
+        "text": "AI Agents 本期匹配 883 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 912 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 883 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 598 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
+        "text": "推理训练与强化学习 本期匹配 574 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Stealing Reasoning Traces from Proprietary LLM APIs》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 598 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 574 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《Stealing Reasoning Traces from Proprietary LLM APIs》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,81 +99,81 @@
       },
       {
         "n": 6,
-        "link": "https://www.ithome.com/0/980/300.htm",
-        "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
-        "source": "IT之家",
-        "score": 99,
-        "minutes": 2
-      },
-      {
-        "n": 7,
         "link": "https://www.ithome.com/0/989/082.htm",
         "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
         "source": "IT之家",
         "score": 98,
         "minutes": 1
+      },
+      {
+        "n": 7,
+        "link": "https://www.ithome.com/0/991/918.htm",
+        "title": "支付巨头 Stripe 确认将收购 AI 路由平台 OpenRouter，消息称交易价格达 75 亿美元",
+        "source": "IT之家",
+        "score": 97,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 403,
+        "articles_7d": 385,
         "direction": "down",
-        "today_count": 84
+        "today_count": 67
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 205,
+        "articles_7d": 193,
         "direction": "down",
-        "today_count": 37
+        "today_count": 15
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 139,
+        "articles_7d": 127,
         "direction": "down",
-        "today_count": 21
+        "today_count": 8
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 108,
+        "articles_7d": 102,
         "direction": "down",
-        "today_count": 21
+        "today_count": 2
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 85,
-        "direction": "up",
-        "today_count": 16
+        "articles_7d": 79,
+        "direction": "flat",
+        "today_count": 1
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 37,
         "direction": "down",
-        "today_count": 13
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 420,
+        "articles_7d": 395,
         "direction": "up",
-        "today_count": 78
+        "today_count": 15
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 373,
+        "articles_7d": 351,
         "direction": "up",
-        "today_count": 72
+        "today_count": 28
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 367
+    "word_count": 333
   },
   "picks": [
     {
@@ -282,27 +282,6 @@
       "topic": "评测/安全"
     },
     {
-      "id": "d2c350476ec52b47",
-      "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
-      "title_original": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
-      "summary": "IT之家 7 月 22 日消息，OpenAI 推出了一款全新产品，希望借此进一步摆脱竞争日益激烈的大模型市场，向企业软件领域扩张。 这款产品名为 OpenAI Presence，旨在帮助企业更高效地部署和管理 AI 智能体（AI Agent）。它能够将 AI 智能体与企业内部数据、管理制度、现有软件以及业务流程连接起来，使 AI 更好地融入企业运营。 OpenAI 表示，Presence 旨在实现客户支持、销售等部分工作的自动化，比如解决账单问题、处理保险理赔或处理员工 IT 服务请求。 IT之家注意到，这是 OpenAI 近年来不断拓展业务版图的最新举措，该公司希望不再只是销售 AI 模型的使用权限，而是进一步进入企业软件市场。不过，这也意味着 OpenAI 未来可能会与部分原本使用其模型开发产品的客户形成直接竞争。 Presence 提供了一整套 AI 智能体管理工具。企业可以在正式部署前，对 AI 智能体进行模拟测试，并利用安全防护机制（Guardrails）、人工审核以及 AI 自动评分系统，对智能体执行任务的效果进行评估。 当 AI 智能体正式投入使用后，如果运行过程中出现问题，OpenAI 的 Codex 工具还能够帮助排查原因，并提出改进建议。 此外，Presence 还集成了 AI 驱动的语音和聊天技术，这可以帮助企业客户实现与现有及潜在客户互动的更多自动化。 目前，OpenAI 将根据具体情况向企业客户提供 Presence 服务。企业若希望使用该产品，需要与 OpenAI 工程团队或官方指定合作伙伴合作，才能完成部署和接入。 OpenAI 表示：“AI 智能体只会获得完成特定工作所需的知识和系统访问权限。企业可以自行制定相关规则，包括智能体能够执行哪些操作、哪些任务需要审批，以及何时应由人工接管。” OpenAI 透露，公司目前已经利用 Presence 运行面向英语用户的 AI 电话客服系统。 与此同时，AI 大模型市场的竞争正变得越来越激烈。Anthropic、谷歌、xAI、Meta、Mistral、DeepSeek 等竞争对手都在不断推出性能更强的新模型。本月，多款来自中国的开源权重 AI 模型再次证明，各家模型之间的性能差距正在迅速缩小，价格持续下降，越来越多企业客户也开始愿意在不同 AI 服务商之间切换。 这种趋势正在促使 OpenAI 加快向企业软件市场转型。相比单纯销售 AI 模型，企业软件通常拥有更高的客户黏性，企业购买的也不只是模型本身，而是一整套完整的业务解决方案。 从目前来看，Presence 正是这一战略的重要组成部分。OpenAI 不再要求企业自行搭建 AI 智能体系统，而是将部署 AI 所需的软件、安全机制以及管理能力打包成完整产品，帮助大型企业更安全、更高效地应用人工智能。 如果这一战略持续推进，那么 OpenAI 的定位将越来越不像一家单纯的大模型公司，而更像一家以 AI 为核心的企业软件服务商。",
-      "url": "https://www.ithome.com/0/980/300.htm",
-      "link": "https://www.ithome.com/0/980/300.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-07-22",
-      "published_at": "2026-07-22T12:16:57+00:00",
-      "score": 99,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "评测/安全"
-    },
-    {
       "id": "b7f1d9b05c6a2cbb",
       "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
       "title_original": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
@@ -322,113 +301,134 @@
       "actionability": 55,
       "minutes": 1,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "f20aeeff6c6d78dc",
+      "title": "支付巨头 Stripe 确认将收购 AI 路由平台 OpenRouter，消息称交易价格达 75 亿美元",
+      "title_original": "支付巨头 Stripe 确认将收购 AI 路由平台 OpenRouter，消息称交易价格达 75 亿美元",
+      "summary": "IT之家 8 月 20 日消息，在线支付服务商 Stripe 当地时间周三确认，公司将收购 OpenRouter。虽然 Stripe 没有公布这笔交易的具体金额，但知情人士告诉《纽约时报》，交易价格达到 75 亿美元 （IT之家注：现汇率约合 505.96 亿元人民币） 。 这一价格远高于 OpenRouter 今年 5 月获得融资时的 13 亿美元 （现汇率约合 87.7 亿元人民币） 估值。据报道，仅 OpenRouter 的创始人就将从这笔交易中获得 15 亿美元 （现汇率约合 101.19 亿元人民币） ，已经超过这家初创公司仅仅三个月前的整体估值。投资者将获得剩余的 60 亿美元 （现汇率约合 404.76 亿元人民币） 。Stripe 据称还需要击败包括 Databricks 在内的其他潜在买家，才能拿下这家快速增长的初创公司。 OpenRouter 可帮助企业动态评估每个请求，并根据任务复杂度、价格、速度和可靠性将其路由至最优模型。 但问题来了：一家支付巨头为什么要收购一家主要负责在不同 AI 模型之间路由提示词的初创公司？ 根据 Stripe 创始人写给投资者、随后遭到泄露的一封交易说明信，最简短、也最有趣的答案是：奇点（Singularity）。 “这是一个模糊、或许已经被过度使用的词，但我们决定将 1 月 1 日视为奇点的开始，并一直以此为基础开展业务。”Stripe 创始人在信中写道。这封信由 Eric Newcomer 发布，TechCrunch 已确认其真实性。 所谓“奇点”，通常是指人类与自己创造的技术发生融合，并最终形成一种新物种的那个时间点。当然，这显然是一种带有调侃意味的说法。Stripe 联合创始人帕特里克 · 科里森（Patrick Collison）今年 4 月在公司大会上使用这一说法时也承认了这一点。 不过，他们确实曾多次谈到 AI 为 Stripe 带来的经济增长。随着 AI 的发展，越来越多的公司正在成立，其中越来越多企业也开始使用 Stripe 的服务。Stripe 表示，《福布斯》AI 50 榜单中的 88% 企业都在使用其产品，其中包括 OpenAI 和 Anthropic；与此同时，Brex 增长最快的初创公司中也 100% 使用了 Stripe 产品。 没有人知道 AI 和 AI 智能体最终会如何改变未来经济，但几乎所有人都相信，这种改变将是巨大的。 不过，这仍然没有完全解释 Stripe 为什么想要收购一家主要以帮助开发者管理 AI 模型使用情况而闻名的公司。Stripe 创始人也承认，两家公司的客户群存在一定重叠。 “对于任何开发者来说，OpenRouter 都非常有用，而 Stripe 是全球最大的开发者平台之一。”Stripe 创始人在交易说明信中写道。 毫无疑问，仅仅在内部使用 OpenRouter，就可能给 Stripe 带来相当大的好处，同时也能让公司更容易推出未来与具体 AI 模型无关的智能体产品。 看起来，OpenRouter 在几周后交易完成后仍将保持独立运营。至少 OpenRouter 自己在一篇博客文章中是这么承诺的，并表示公司的“产品、使命以及当前承诺均保持不变”。 不过，到目前为止，Stripe 的大多数大型收购都与帮助用户收取和管理收入有关。收购 OpenRouter 则意味着 Stripe 开始把目光投向资金流动的另一端，也就是支出管理，而 AI 支出将成为切入点。 PitchBook 研究分析师 Franco Granda 表示，这笔收购是“Stripe 有意让自己嵌入 AI 时代资金流动核心环节的一次尝试”。",
+      "url": "https://www.ithome.com/0/991/918.htm",
+      "link": "https://www.ithome.com/0/991/918.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-20",
+      "published_at": "2026-08-20T01:45:04+00:00",
+      "score": 97,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 20,
+      "minutes": 2,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4540,
+      "mention_count": 4351,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4296,
+      "mention_count": 4139,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 4168,
+      "mention_count": 4046,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3628,
+      "mention_count": 3598,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3622,
+      "mention_count": 3592,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3589,
+      "mention_count": 3445,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3493,
+      "mention_count": 3357,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3484,
+      "mention_count": 3348,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3455,
+      "mention_count": 3321,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3311,
+      "mention_count": 3175,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2913,
+      "mention_count": 2813,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2566,
+      "mention_count": 2475,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2458,
+      "mention_count": 2371,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2366,
+      "mention_count": 2254,
       "source_count": 4
     },
     {
-      "keyword": "these",
-      "mention_count": 1935,
-      "source_count": 5
-    },
-    {
       "keyword": "not",
-      "mention_count": 1928,
+      "mention_count": 1887,
       "source_count": 6
     },
     {
+      "keyword": "these",
+      "mention_count": 1874,
+      "source_count": 5
+    },
+    {
       "keyword": "which",
-      "mention_count": 1859,
+      "mention_count": 1787,
       "source_count": 4
     },
     {
       "keyword": "data",
-      "mention_count": 1851,
+      "mention_count": 1782,
       "source_count": 10
     },
     {
       "keyword": "but",
-      "mention_count": 1812,
+      "mention_count": 1764,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1728,
+      "mention_count": 1679,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 536,
-    "must_read_count": 322,
-    "avg_score": 73.7
+    "scored": 535,
+    "must_read_count": 318,
+    "avg_score": 73.4
   }
 }
