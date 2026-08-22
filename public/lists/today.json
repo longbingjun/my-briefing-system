@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "edition": "daily",
-  "generated_at": "2026-08-21T13:16:18.220296+00:00",
+  "generated_at": "2026-08-22T02:29:39.720593+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4702,
+    "total_scanned": 4704,
     "picks_count": 7,
-    "est_read_minutes": 17,
-    "est_saved_hours": 195.6
+    "est_read_minutes": 15,
+    "est_saved_hours": 195.8
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1711 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1726 篇文章，重点集中在 预训练/模型架构、评测/安全、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 915 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。",
+        "text": "AI Agents 本期匹配 912 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 915 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 912 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
+        "text": "推理训练与强化学习 本期匹配 598 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 595 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 598 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -83,14 +83,6 @@
       },
       {
         "n": 4,
-        "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-        "title": "Advancing the price-performance frontier with GPT‑5.6",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 3
-      },
-      {
-        "n": 5,
         "link": "https://www.ithome.com/0/992/339.htm",
         "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
         "source": "IT之家",
@@ -98,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 5,
         "link": "https://www.ithome.com/0/982/241.htm",
         "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
         "source": "IT之家",
@@ -106,74 +98,82 @@
         "minutes": 2
       },
       {
-        "n": 7,
+        "n": 6,
         "link": "https://www.ithome.com/0/980/300.htm",
         "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
         "source": "IT之家",
         "score": 99,
         "minutes": 2
+      },
+      {
+        "n": 7,
+        "link": "https://www.ithome.com/0/989/082.htm",
+        "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
+        "source": "IT之家",
+        "score": 98,
+        "minutes": 1
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 407,
-        "direction": "up",
-        "today_count": 73
+        "articles_7d": 403,
+        "direction": "down",
+        "today_count": 84
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 215,
-        "direction": "up",
-        "today_count": 42
+        "articles_7d": 205,
+        "direction": "down",
+        "today_count": 37
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
         "articles_7d": 139,
         "direction": "down",
-        "today_count": 22
+        "today_count": 21
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 110,
+        "articles_7d": 108,
         "direction": "down",
-        "today_count": 22
+        "today_count": 21
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 88,
+        "articles_7d": 85,
         "direction": "up",
         "today_count": 16
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 45,
-        "direction": "up",
+        "articles_7d": 39,
+        "direction": "down",
         "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 425,
+        "articles_7d": 420,
         "direction": "up",
-        "today_count": 82
+        "today_count": 78
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 367,
+        "articles_7d": 373,
         "direction": "up",
-        "today_count": 71
+        "today_count": 72
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 420
+    "word_count": 367
   },
   "picks": [
     {
@@ -240,27 +240,6 @@
       "topic": "评测/安全"
     },
     {
-      "id": "af24295e08664332",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-08-06",
-      "published_at": "2026-08-06T14:40:35.467920+00:00",
-      "score": 100,
-      "entity_id": "ai_infra",
-      "entity": "AI 基础设施与算力",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "3df9914e90fde596",
       "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
       "title_original": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
@@ -322,17 +301,38 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
+    },
+    {
+      "id": "b7f1d9b05c6a2cbb",
+      "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
+      "title_original": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
+      "summary": "IT之家 8 月 13 日消息，微软昨日（8 月 12 日）发布公告，宣布推出 Visual Studio Code 1.133 更新， 调整 Agent 窗口的访问方式，并支持用户在会话进行期间切换模型提供商。 本次更新主要为开发者添加了实验性设置 chat.agentHost.allowSignedOutWhenUsable ，在用户不愿登录 GitHub 或者设备无法连接 github.com 情况下，也能打开 Agent 窗口。 启用该设置后，GitHub 身份验证不再关联整个 Agents 窗口，只会关联到单个智能体或模型。这项免登录行为目前仅支持 Claude，微软计划在后续版本中加入 Copilot 和 Codex 支持。 新版本还支持用户在会话进行期间切换模型提供商。此前 Claude 会话只能通过 GitHub Copilot 订阅或 Claude 自有配置运行，切换提供商需要重新配置智能体。现在，模型选择器会同时显示 Anthropic 与 Copilot 两组模型，用户可以在不同轮次之间切换。IT之家附上相关截图如下： 更新加入提示词固定滚动功能。用户浏览长对话时，已经滚过的提示词会固定在聊天顶部，并可点击该提示词返回原位置，也能使用旁边的上一个和下一个按钮逐条切换。 集成浏览器现在会在磁盘中的 HTML 文件发生变化后自动刷新，帮助开发者立即查看编辑结果。",
+      "url": "https://www.ithome.com/0/989/082.htm",
+      "link": "https://www.ithome.com/0/989/082.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-13",
+      "published_at": "2026-08-13T02:02:14+00:00",
+      "score": 98,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 1,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4538,
+      "mention_count": 4540,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4292,
+      "mention_count": 4296,
       "source_count": 10
     },
     {
@@ -342,12 +342,12 @@
     },
     {
       "keyword": "之家",
-      "mention_count": 3602,
+      "mention_count": 3628,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3596,
+      "mention_count": 3622,
       "source_count": 1
     },
     {
@@ -377,12 +377,12 @@
     },
     {
       "keyword": "across",
-      "mention_count": 2914,
+      "mention_count": 2913,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2567,
+      "mention_count": 2566,
       "source_count": 8
     },
     {
@@ -397,12 +397,12 @@
     },
     {
       "keyword": "these",
-      "mention_count": 1933,
+      "mention_count": 1935,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1926,
+      "mention_count": 1928,
       "source_count": 6
     },
     {
@@ -412,23 +412,23 @@
     },
     {
       "keyword": "data",
-      "mention_count": 1853,
+      "mention_count": 1851,
       "source_count": 10
     },
     {
       "keyword": "but",
-      "mention_count": 1806,
+      "mention_count": 1812,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1726,
+      "mention_count": 1728,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 537,
-    "must_read_count": 325,
-    "avg_score": 73.8
+    "scored": 536,
+    "must_read_count": 322,
+    "avg_score": 73.7
   }
 }
