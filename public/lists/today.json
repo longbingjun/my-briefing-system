@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-23",
   "edition": "daily",
-  "generated_at": "2026-08-23T02:38:53.356678+00:00",
+  "generated_at": "2026-08-23T13:09:07.666367+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4586,
+    "total_scanned": 4485,
     "picks_count": 7,
-    "est_read_minutes": 18,
-    "est_saved_hours": 190.8
+    "est_read_minutes": 19,
+    "est_saved_hours": 186.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 878 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。",
+        "text": "AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 878 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 578 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。",
+        "text": "推理训练与强化学习 本期匹配 556 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 578 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 556 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -83,14 +83,6 @@
       },
       {
         "n": 4,
-        "link": "https://www.ithome.com/0/992/339.htm",
-        "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
-        "source": "IT之家",
-        "score": 99,
-        "minutes": 2
-      },
-      {
-        "n": 5,
         "link": "https://www.ithome.com/0/987/249.htm",
         "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
         "source": "IT之家",
@@ -98,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 5,
         "link": "https://www.ithome.com/0/982/241.htm",
         "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
         "source": "IT之家",
@@ -106,70 +98,78 @@
         "minutes": 2
       },
       {
-        "n": 7,
+        "n": 6,
         "link": "https://www.ithome.com/0/989/082.htm",
         "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
         "source": "IT之家",
         "score": 98,
         "minutes": 1
+      },
+      {
+        "n": 7,
+        "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "source": "Simon Willison",
+        "score": 97,
+        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 388,
+        "articles_7d": 383,
         "direction": "down",
-        "today_count": 57
+        "today_count": 54
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
         "articles_7d": 192,
         "direction": "down",
-        "today_count": 13
+        "today_count": 15
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 129,
+        "articles_7d": 130,
         "direction": "down",
         "today_count": 10
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 103,
+        "articles_7d": 104,
         "direction": "down",
-        "today_count": 3
+        "today_count": 4
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 80,
-        "direction": "up",
+        "articles_7d": 79,
+        "direction": "flat",
         "today_count": 2
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 38,
         "direction": "down",
-        "today_count": 8
+        "today_count": 10
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 396,
+        "articles_7d": 391,
         "direction": "up",
-        "today_count": 15
+        "today_count": 11
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 354,
+        "articles_7d": 359,
         "direction": "up",
-        "today_count": 19
+        "today_count": 23
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -240,27 +240,6 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "3df9914e90fde596",
-      "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
-      "title_original": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
-      "summary": "IT之家 8 月 20 日消息，据《商业内幕》今天（20 日）报道，OpenAI 员工乐观估计，公司正 接近实现 从创立之初就设定的目标： 让 AI 智能体像人类一样熟练地操作电脑 ，尤其是使用浏览器。 自 2015 年成立以来，OpenAI 一直希望实现这一能力，最大的难题之一是获得足够的训练数据。经过多年开发，公司现在已经有信心开始向客户逐步开放电脑操作功能。 OpenAI 电脑操作团队经理阿里 · 韦恩斯坦指出：“一旦 ChatGPT 操作电脑和软件的速度超过你我， 就会改变人们默认与电脑交互的方式 。” OpenAI 最新模型从训练初期到后期的各个阶段，都加入了 专门提升电脑操作能力 的数据和训练流程。参与开发热门电脑操作智能体基准测试的哥伦比亚大学 AI 研究员周宇（音译）解释称，这些训练是在通用 AI 模型已有能力之上继续强化，让模型学会完成更多电脑任务。在最初的大规模基础训练阶段，OpenAI 很可能加入了逐帧屏幕截图，让模型提前接触 有助于电脑操作的信息 。 进入后续训练阶段后，开发人员会向模型展示 完成特定任务所需的正确操作 。例如，要得到填写完毕的税务表格，或者完成一个物体的 3D 模型，就需要让模型学习对应的一系列电脑操作。 其中一部分训练数据来自真人示范。OpenAI 公布 2025 年版电脑操作功能时曾透露，公司使用过由人类演示任务完成过程的数据集，但没有透露最新训练数据的具体情况。周宇指出，这类数据很昂贵，因为获取困难，整理成能够直接用于训练的形式 也需要大量工作 。 OpenAI 很可能还利用强化学习继续提高模型的电脑操作能力，让模型反复尝试虚拟任务，并奖励成功完成任务的行为。周宇认为，模型可以学会 更多执行这些“获得过奖励的操作” 。 OpenAI 也改变了模型实际操作电脑时获取信息的方式。韦恩斯坦表示，过去 ChatGPT 需要 反复截取屏幕、分析像素、发送操作指令，再重新截屏分析 。而目前在打开网站后，系统可以直接 快速读取网页的底层信息 ，从内存结构、无障碍信息到链接关系都能应对。 屏幕截图仍然是工作流程的一部分。用户开启电脑操作功能时，需要允许 ChatGPT 录屏，以便系统迅速识别当前显示的内容。韦恩斯坦表示，这些能力结合后，Codex 就能 自行测试生成的代码、发现问题并继续修改 ，形成“完整闭环”。 韦恩斯坦和负责 OpenAI 浏览器能力的詹姆斯 · 孙认为，电脑操作技术的一大价值，是让 ChatGPT 智能体能够进入互联网中 大量彼此独立的服务和“长尾”网站 。 从预约网站、企业内部库存系统到社媒平台，许多在线工具起初就是 为人类手动点击和输入而设计 的。两人透露，已经有用户利用电脑操作功能自动处理数据录入、合规任务和日程安排。 韦恩斯坦指出，OpenAI 模型能力提高后， 也越来越能主动发现错误并自行修正 ，因此更容易把任务做完，也更不容易在网络环境中被无关内容带偏。 周宇认为，目前电脑操作技术的速度 距离普通消费者期待的水平仍有明显差距 。“在训练数据非常充足的有限领域，电脑操作智能体确实可以表现得很好。想让它适应任何网页、任何应用程序和任何操作系统，仍然非常困难。” 目前，电脑操作功能 还不能迅速批量处理邮件回复 ，浏览社交媒体信息流时也显得较为迟缓。詹姆斯 · 孙和韦恩斯坦希望，随着 OpenAI 模型继续升级，电脑操作最终能够达到 AI 编程目前的效率，让 AI 直接操作网络工具比用户亲自动手更快。 詹姆斯 · 孙表示：“对很多工程师来说，现在已经是让智能体写代码比自己写更快。根本不用权衡，直接让它做就行。我认为电脑操作以后也会越来越接近这种状态。” 2025 年，OpenAI CEO 萨姆 · 奥尔特曼谈到早期电脑操作功能时曾公开示警：“实用价值很大， 潜在风险也同样不小 。我们建议只向智能体提供完成任务所必需的最低权限，以降低隐私和安全风险。” 詹姆斯 · 孙表示，OpenAI 一直在研究“确认策略”，也就是 AI 执行下一步操作前， 究竟应该在什么情况下向用户请求授权 。目前的原则是，只要智能体准备向外传输数据或者删除内容，就必须先征得用户同意。网络工作往往需要连续快速地做出决定，因此 OpenAI 仍在寻找易用性和安全性之间的平衡。 他坦言：“你可以把某个东西做到 100% 安全，但那样就非常非常难用了。也可以把它做得非常容易使用，但同时非常危险。所以我们真正想解决的问题，是如何做出 既有帮助、又容易使用 的产品。”",
-      "url": "https://www.ithome.com/0/992/339.htm",
-      "link": "https://www.ithome.com/0/992/339.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-08-20",
-      "published_at": "2026-08-20T12:29:27+00:00",
-      "score": 99,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "推理训练/测试时计算"
-    },
-    {
       "id": "69cbad459b624da7",
       "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
       "title_original": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
@@ -322,113 +301,134 @@
       "actionability": 55,
       "minutes": 1,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "af24295e08664332",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "title_original": "Advancing the price-performance frontier with GPT‑5.6",
+      "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-08-06",
+      "published_at": "2026-08-06T14:40:35.467920+00:00",
+      "score": 97,
+      "entity_id": "ai_infra",
+      "entity": "AI 基础设施与算力",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 3,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4418,
+      "mention_count": 4291,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4186,
+      "mention_count": 4040,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 4110,
+      "mention_count": 4007,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3622,
+      "mention_count": 3600,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3616,
+      "mention_count": 3594,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3485,
+      "mention_count": 3343,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3397,
+      "mention_count": 3256,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3388,
+      "mention_count": 3249,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3361,
+      "mention_count": 3222,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3205,
+      "mention_count": 3101,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2850,
+      "mention_count": 2715,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2496,
+      "mention_count": 2446,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2393,
+      "mention_count": 2291,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2296,
+      "mention_count": 2208,
       "source_count": 4
     },
     {
       "keyword": "not",
-      "mention_count": 1897,
+      "mention_count": 1845,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1895,
+      "mention_count": 1843,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 1817,
+      "mention_count": 1730,
       "source_count": 10
     },
     {
-      "keyword": "which",
-      "mention_count": 1787,
-      "source_count": 4
-    },
-    {
       "keyword": "but",
-      "mention_count": 1787,
+      "mention_count": 1726,
       "source_count": 5
     },
     {
-      "keyword": "llm",
-      "mention_count": 1703,
-      "source_count": 6
+      "keyword": "which",
+      "mention_count": 1725,
+      "source_count": 4
+    },
+    {
+      "keyword": "pro",
+      "mention_count": 1682,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 533,
-    "must_read_count": 314,
-    "avg_score": 73.4
+    "scored": 528,
+    "must_read_count": 306,
+    "avg_score": 73.1
   }
 }
