@@ -1,13 +1,13 @@
-# My Briefing · 2026-08-23
+# My Briefing · 2026-08-24
 
-12 个活跃信源 -> 4485 条扫描 -> 7 条今日值得看
-预计阅读 19 分钟，节省约 186.6 小时。
+12 个活跃信源 -> 4434 条扫描 -> 7 条今日值得看
+预计阅读 19 分钟，节省约 184.4 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 - **AI Agents**：AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 556 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 559 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Self-Speculation for Faster Reasoning Models》。
 
 ## 今日值得看
 
@@ -23,27 +23,27 @@
   IT之家 7 月 27 日消息，随着韩国企业加快将海外大模型引入业务流程，它们正面临 AI 词元（Token）使用成本快速攀升的挑战。 自 ChatGPT 于近四年前引爆全球 AI 热潮以来，韩国企业整体在 AI 应用方面一直较为落后，许多公司要么推进缓慢，要么出于数据安全考虑直接禁止员工使用相关工具。 不过，近期这一局面开始发生变化。包括三星、SK 集团在内的韩国大型企业，正通过企业版合同，陆续向员工开放 Anthropic 的 Claude、谷歌 Gemini 以及 OpenAI ChatGPT 等美国 AI 模型。 然而，这一转变不仅成本高昂，对于半导体等对数据安全极为敏感的行业来说，推广过程依然十分谨慎。包括三星在内的企业，如今正研究如何限制员工的 Token 使用额度，以在提升生产效率和控制运营成本之间取得平衡。 企业应用成本高企，Token 成为新负担 相比普通消费者，企业工作流程通常涉及复杂、高容量的任务，因此 Token 消耗也远高于个人用户。 其中，Claude 的 Token 成本已成为韩国企业关注的新问题。虽然 Claude 进入主流市场的时间并不长，但凭借出色的编程和任务执行能力，其迅速成为韩国最受开发者等重度用户欢迎的 AI 工具之一。 为了控制成本，三星在向员工开放 Claude、Gemini 和 ChatGPT 三款美国大模型时，同时实施了严格的 Token 配额制度。员工根据不同等级获得不同的使用额度，基础等级仅能完成简单任务。如果希望提升额度，则必须证明 AI 确实提高了自己的工作效率。 一位不愿透露姓名的三星员工表示：“额度提升并不是自动完成的。如果你想提高额度，就必须拿出成果，证明自己确实把 AI 用到了工作中。” 这一制度也在公司内部引发了一些不满。一些员工认为，目前的 Token 限额过于严格，根本不足以充分发挥 AI 的作用。 根据 Anthropic 发布的《Anthropic Economic Index》，韩国在全球 121 个国家和地区中，Claude 使用量排名第 14 位，人均使用量超过全球平均水平的 3.5 倍。 目前，Claude 在软件开发领域的渗透率最高。 Naver 已在整个工程研发团队全面部署 Claude Code，并称这是亚洲规模最大的同类部署之一。游戏公司 Nexon 也有数千名开发者在游戏开发全过程中使用 Claude Code，包括策划、编程、代码审查以及在线运营版本部署等环节。 对于大型企业而言，AI 的应用范围正进一步扩展至任务自动化和系统集成。 三星 SDS 已为三星电子员工推出 Claude Cowork 和 Claude Code，用于日常办公、基于 AI Agent 的任务自动化以及软件开发。LG CNS 也正分阶段向数千名员工部署 Claude，用于软件开发和客户技术解决方案，并计划未来推广至整个 LG 集团。 相比之下，许多中小企业缺乏完善的管理体系，只能通过一些“隐性方式”提醒员工不要过度使用 AI。 一位大型生物科技制造企业的员工表示：“有一天，公司公布了 AI Token 消耗排名，第一名员工一个人就花掉了约 600 万韩元（IT之家注：现汇率约合 27624 元人民币）。管理层希望大家使用 AI，但如果你用得太多，就会明显感觉到他们一直在盯着成本。” 还有一些企业采取团队共享 Token 配额的方式，几十名员工共同使用一份额度，这也限制了大家使用 Fable 等高消耗模型。 另一位制造业员工表示：“目前 GPT 和 Claude 仍然是最受欢迎的选择，但额度限制太严格，所以大多数人更愿意使用 Codex，因为它在编程任务上的 Token 消耗更低。” 半导体行业依然保持谨慎 AI 在韩国各行业的普及程度并不一致，其中半导体行业尤其谨慎。 据知情人士透露，即便是在三星电子内部，不同事业部的推进速度也存在明显差异。一些部门已经可以自由使用 AI，但半导体业务目前仍基本禁止使用外部大模型。 该人士表示：“芯片部门的员工一直在等待审批，但短期内看不到获批的迹象。” SK 集团内部的差异则更加明显。一些子公司已经通过企业版合同部署了 Claude、Gemini 和 ChatGPT 三大美国模型，并积极培养员工日常使用 AI 的习惯，而 SK 海力士目前仍主要依赖自研 AI 模型。 就在三星宣布开放美国 AI 模型几天后，SK 海力士首席执行官郭鲁正（Kwak Noh-jung）在京畿道利川举行的一场员工座谈会上表示，公司正在“评估引入 Microsoft 365 和 Copilot，同时也在研究采用 ChatGPT Enterprise 的可能性”。 不过，目前这些计划仍停留在评估阶段，尚未正式落地。
 - [98] [微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商](https://www.ithome.com/0/989/082.htm) · IT之家 · 1 min
   IT之家 8 月 13 日消息，微软昨日（8 月 12 日）发布公告，宣布推出 Visual Studio Code 1.133 更新， 调整 Agent 窗口的访问方式，并支持用户在会话进行期间切换模型提供商。 本次更新主要为开发者添加了实验性设置 chat.agentHost.allowSignedOutWhenUsable ，在用户不愿登录 GitHub 或者设备无法连接 github.com 情况下，也能打开 Agent 窗口。 启用该设置后，GitHub 身份验证不再关联整个 Agents 窗口，只会关联到单个智能体或模型。这项免登录行为目前仅支持 Claude，微软计划在后续版本中加入 Copilot 和 Codex 支持。 新版本还支持用户在会话进行期间切换模型提供商。此前 Claude 会话只能通过 GitHub Copilot 订阅或 Claude 自有配置运行，切换提供商需要重新配置智能体。现在，模型选择器会同时显示 Anthropic 与 Copilot 两组模型，用户可以在不同轮次之间切换。IT之家附上相关截图如下： 更新加入提示词固定滚动功能。用户浏览长对话时，已经滚过的提示词会固定在聊天顶部，并可点击该提示词返回原位置，也能使用旁边的上一个和下一个按钮逐条切换。 集成浏览器现在会在磁盘中的 HTML 文件发生变化后自动刷新，帮助开发者立即查看编辑结果。
-- [97] [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) · Simon Willison · 3 min
-  Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing
+- [97] [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) · Simon Willison · 3 min
+  Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend $100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 383，今日 +54，官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents：本周 192，今日 +15，AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。
-- 推理训练与强化学习：本周 130，今日 +10，推理训练与强化学习 本期匹配 556 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...》。
-- 预训练：本周 104，今日 +4，预训练 本期匹配 450 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 后训练与对齐：本周 79，今日 +2，后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- 编程 Agent：本周 38，今日 +10，编程 Agent 本期匹配 151 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全：本周 391，今日 +11，AI 评测与安全 本期匹配 1591 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 359，今日 +23，数据分析与指标体系 本期匹配 1427 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 产品化：本周 340，今日 +17，AI 产品化 本期匹配 1335 篇文章，重点集中在 评测/安全、后训练/对齐、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 基础设施与算力：本周 249，今日 +11，AI 基础设施与算力 本期匹配 1025 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 220，今日 +15，成本管理与 FinOps 本期匹配 856 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 104，今日 +16，AI 改造传统领域 本期匹配 388 篇文章，重点集中在 产品发布、评测/安全、Agent 工作流。建议先看《Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性》。
+- 官方 AI 实验室与公司信号：本周 386，今日 +68，官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents：本周 197，今日 +42，AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。
+- 推理训练与强化学习：本周 135，今日 +32，推理训练与强化学习 本期匹配 559 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Self-Speculation for Faster Reasoning Models》。
+- 预训练：本周 106，今日 +23，预训练 本期匹配 444 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 后训练与对齐：本周 78，今日 +11，后训练与对齐 本期匹配 305 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- 编程 Agent：本周 39，今日 +13，编程 Agent 本期匹配 152 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 评测与安全：本周 379，今日 +60，AI 评测与安全 本期匹配 1567 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 348，今日 +55，数据分析与指标体系 本期匹配 1400 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 产品化：本周 345，今日 +77，AI 产品化 本期匹配 1329 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力：本周 242，今日 +43，AI 基础设施与算力 本期匹配 1011 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 208，今日 +38，成本管理与 FinOps 本期匹配 854 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 104，今日 +12，AI 改造传统领域 本期匹配 377 篇文章，重点集中在 产品发布、评测/安全、Agent 工作流。建议先看《Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：44 篇
+- 做啥：38 篇
 - 忽略：0 篇
