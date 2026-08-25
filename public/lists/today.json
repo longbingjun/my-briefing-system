@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-25",
   "edition": "daily",
-  "generated_at": "2026-08-25T02:33:18.667802+00:00",
+  "generated_at": "2026-08-25T13:16:45.483274+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4443,
+    "total_scanned": 4497,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 184.8
+    "est_saved_hours": 187.1
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1640 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1653 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1640 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1653 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1640 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1653 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 853 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "AI Agents 本期匹配 869 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 853 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 869 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 560 篇文章，重点集中在 成本与效率、推理训练/测试时计算、评测/安全。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。",
+        "text": "推理训练与强化学习 本期匹配 571 篇文章，重点集中在 成本与效率、推理训练/测试时计算、评测/安全。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 560 篇文章，重点集中在 成本与效率、推理训练/测试时计算、评测/安全。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 571 篇文章，重点集中在 成本与效率、推理训练/测试时计算、评测/安全。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 383,
+        "articles_7d": 379,
         "direction": "down",
-        "today_count": 82
+        "today_count": 85
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 194,
+        "articles_7d": 188,
         "direction": "down",
-        "today_count": 44
+        "today_count": 36
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 136,
+        "articles_7d": 122,
         "direction": "down",
-        "today_count": 35
+        "today_count": 24
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 105,
+        "articles_7d": 101,
         "direction": "down",
-        "today_count": 23
+        "today_count": 19
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 78,
-        "direction": "up",
-        "today_count": 11
-      },
-      {
-        "entity_id": "coding_agents",
-        "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 73,
         "direction": "down",
         "today_count": 14
       },
       {
+        "entity_id": "coding_agents",
+        "display": "编程 Agent",
+        "articles_7d": 35,
+        "direction": "down",
+        "today_count": 9
+      },
+      {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 380,
-        "direction": "flat",
-        "today_count": 64
+        "articles_7d": 360,
+        "direction": "down",
+        "today_count": 68
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 347,
-        "direction": "up",
-        "today_count": 60
+        "articles_7d": 339,
+        "direction": "down",
+        "today_count": 83
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -314,7 +314,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-25",
-      "published_at": "2026-08-25T02:33:09.044420+00:00",
+      "published_at": "2026-08-25T13:16:35.034287+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4193,
+      "mention_count": 4308,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 3989,
+      "mention_count": 4099,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 3958,
-      "source_count": 7
+      "mention_count": 4057,
+      "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3550,
+      "mention_count": 3524,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3546,
+      "mention_count": 3518,
       "source_count": 2
     },
     {
       "keyword": "type",
-      "mention_count": 3301,
+      "mention_count": 3395,
       "source_count": 5
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3217,
+      "mention_count": 3309,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3212,
+      "mention_count": 3304,
       "source_count": 3
     },
     {
       "keyword": "announce",
-      "mention_count": 3180,
+      "mention_count": 3272,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3033,
+      "mention_count": 3111,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2667,
+      "mention_count": 2729,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2403,
+      "mention_count": 2441,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2274,
+      "mention_count": 2328,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2145,
+      "mention_count": 2215,
       "source_count": 4
     },
     {
       "keyword": "these",
-      "mention_count": 1824,
+      "mention_count": 1868,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1820,
+      "mention_count": 1854,
       "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1736,
+      "mention_count": 1788,
       "source_count": 4
     },
     {
       "keyword": "but",
-      "mention_count": 1708,
+      "mention_count": 1750,
       "source_count": 5
     },
     {
-      "keyword": "pro",
-      "mention_count": 1680,
-      "source_count": 7
+      "keyword": "data",
+      "mention_count": 1695,
+      "source_count": 10
     },
     {
-      "keyword": "data",
-      "mention_count": 1627,
-      "source_count": 10
+      "keyword": "pro",
+      "mention_count": 1692,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 528,
-    "must_read_count": 308,
+    "scored": 530,
+    "must_read_count": 312,
     "avg_score": 73.5
   }
 }
