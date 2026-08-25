@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-08-24
-Funnel: 12 sources, 4434 scanned, 7 picks
+Date: 2026-08-25
+Funnel: 12 sources, 4443 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+官方 AI 实验室与公司信号 本期匹配 1640 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 
 ## Top Picks
 - [100] IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身... (IT之家) https://www.ithome.com/0/993/129.htm
@@ -23,17 +23,17 @@ Funnel: 12 sources, 4434 scanned, 7 picks
   Summary: Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend $100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents: AI Agents 本期匹配 857 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《alchemy-utils 0.1a0》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 559 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Self-Speculation for Faster Reasoning Models》。
-- 预训练: 预训练 本期匹配 444 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1640 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents: AI Agents 本期匹配 853 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 560 篇文章，重点集中在 成本与效率、推理训练/测试时计算、评测/安全。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。
+- 预训练: 预训练 本期匹配 443 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 - 后训练与对齐: 后训练与对齐 本期匹配 305 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
 - 编程 Agent: 编程 Agent 本期匹配 152 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 - AI 评测与安全: AI 评测与安全 本期匹配 1567 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1400 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 产品化: AI 产品化 本期匹配 1329 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1011 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1398 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 产品化: AI 产品化 本期匹配 1337 篇文章，重点集中在 后训练/对齐、评测/安全、Agent 工作流。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1010 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 - 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 854 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 377 篇文章，重点集中在 产品发布、评测/安全、Agent 工作流。建议先看《Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性》。
-- 科技圈动态: 科技圈动态 本期匹配 403 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 110 篇文章，重点集中在 评测/安全、后训练/对齐、产品发布。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 382 篇文章，重点集中在 产品发布、评测/安全、Agent 工作流。建议先看《Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性》。
+- 科技圈动态: 科技圈动态 本期匹配 404 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 111 篇文章，重点集中在 评测/安全、后训练/对齐、数据与指标。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
