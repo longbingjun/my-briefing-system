@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-08-29",
   "edition": "daily",
-  "generated_at": "2026-08-29T07:55:22.141957+00:00",
+  "generated_at": "2026-08-29T16:47:55.308159+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4513,
+    "total_scanned": 4494,
     "picks_count": 7,
-    "est_read_minutes": 23,
-    "est_saved_hours": 187.7
+    "est_read_minutes": 22,
+    "est_saved_hours": 186.9
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1661 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1661 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1661 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 877 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "AI Agents 本期匹配 878 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 877 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 878 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 570 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。",
+        "text": "推理训练与强化学习 本期匹配 571 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 570 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 571 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -67,6 +67,14 @@
       },
       {
         "n": 2,
+        "link": "https://www.ithome.com/0/996/041.htm",
+        "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+        "source": "IT之家",
+        "score": 99,
+        "minutes": 2
+      },
+      {
+        "n": 3,
         "link": "https://www.ithome.com/0/987/249.htm",
         "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
         "source": "IT之家",
@@ -74,7 +82,7 @@
         "minutes": 2
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
         "title": "Conceptual integrity and counting lines of code",
         "source": "Simon Willison",
@@ -82,7 +90,7 @@
         "minutes": 5
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
         "title": "More than just code review",
         "source": "Simon Willison",
@@ -90,7 +98,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
         "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "source": "Simon Willison",
@@ -98,43 +106,35 @@
         "minutes": 3
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://www.ithome.com/0/993/129.htm",
         "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
         "source": "IT之家",
         "score": 97,
         "minutes": 5
-      },
-      {
-        "n": 7,
-        "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-        "title": "Advancing the price-performance frontier with GPT‑5.6",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 360,
+        "articles_7d": 365,
         "direction": "down",
-        "today_count": 67
+        "today_count": 65
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 159,
+        "articles_7d": 162,
         "direction": "down",
-        "today_count": 38
+        "today_count": 39
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 105,
+        "articles_7d": 107,
         "direction": "down",
-        "today_count": 16
+        "today_count": 19
       },
       {
         "entity_id": "pretraining",
@@ -146,34 +146,34 @@
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 52,
+        "articles_7d": 53,
         "direction": "down",
-        "today_count": 5
+        "today_count": 6
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 37,
+        "articles_7d": 39,
         "direction": "up",
-        "today_count": 11
+        "today_count": 13
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 302,
+        "articles_7d": 303,
         "direction": "down",
-        "today_count": 43
+        "today_count": 36
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 292,
+        "articles_7d": 293,
         "direction": "down",
-        "today_count": 31
+        "today_count": 33
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 375
+    "word_count": 371
   },
   "picks": [
     {
@@ -195,6 +195,27 @@
       "kind": "read",
       "actionability": 55,
       "minutes": 3,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "d39c38861dd99deb",
+      "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "title_original": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "summary": "IT之家 8 月 29 日消息，据外媒 TechCrunch 今天（29 日）报道，英伟达有望完成本周最受瞩目的一笔科技交易。市场正等待公司确认一项据称价值 130 亿美元 （IT之家注：现汇率约合 876.47 亿元人民币） 的收购案，目标是开放权重 AI 模型平台 Hugging Face。 Hugging Face 承担着“AI 时代的 GitHub”这一角色，为不依附于头部 AI 实验室的模型提供开发、分享和部署生态。 英伟达近期连续把巨额资金投入这一领域。此前，该公司就与开放权重模型公司 Poolside 达成 60 亿美元 （现汇率约合 404.52 亿元人民币） 协议，后者大部分员工将转投英伟达。 两周前，Stripe 又以超过 70 亿美元 （现汇率约合 471.94 亿元人民币） 收购 OpenRouter，而后者主要帮助企业接入开放权重模型。 一个以开放和免费分享成果为基础的领域突然 吸引如此庞大的资本 ，背后反映的是 AI 产业格局的变化。 英伟达需要降低对大型云服务商和头部 AI 实验室的依赖。OpenAI 和谷歌等模型厂商反过来也开始自研推理芯片，本周早些时候，OpenAI 就详细介绍了 Jalapeño。 模型公司大举进入芯片领域之际，英伟达也希望进入模型市场，从中分一杯羹。 英伟达自己拥有 Nemotron 开放权重模型系列，但目前采用规模有限。如果 130 亿美元 （现汇率约合 876.47 亿元人民币） 收购 Hugging Face 的交易成真，英伟达就能直接掌握 美国最大的开放模型开发者平台之一 ，接触庞大的用户群，并进一步推动开发者使用英伟达芯片和技术标准。 AI 推理越来越昂贵，也让更多企业开始寻找成本更低的替代方案，月之暗面、DeepSeek 和阿里巴巴等中国公司推出的模型受到的关注与日俱增。 报道指出，开放权重模型目前仍不是主流，但采用率正在上升。Ramp 根据企业支出数据统计，约 6% 的公司使用开放权重模型；Jellyfish 的数据则显示，软件工程师中的使用比例只有 2%。 Jellyfish AI 产品负责人尼克 · 阿尔巴兰告诉 TechCrunch，开放权重模型特别适合 客服聊天等需要大量重复推理的业务 。因为任务量大、问题高度重复，企业可以 针对自己的场景调整模型 ，用更低成本处理这些请求。 Stripe 收购 OpenRouter 时也强调了成本和算力效率。Stripe 联合创始人兼 CEO 帕特里克 · 科里森表示：“词元是企业利用 AI 开发产品时的核心货币，现实世界中的经济潜力能否释放，关键在于如何高效利用稀缺的算力资源。” 编程和智能体任务 的情况有所不同。这类任务变化更大，也需要更复杂的推理，因此 头部闭源模型通常仍占优势 。专有模型厂商不仅接入方式更方便，有时还会补贴部分词元成本。 阿尔巴兰认为，等企业把自己的 AI 工作流程打磨得更成熟，采用开放模型会变得容易得多。目前企业考虑开放模型，首要原因仍是希望获得更强的控制权和可配置性，而不是单纯为了省钱。“目前真正达到这种状态的公司还不多…… 但如果头部 AI 实验室继续涨价，越来越多企业 至少会被迫考虑开放模型 。等企业的 AI 工作流程成熟得多之后，自托管模型才值得投入。” Fireworks CEO 林乔也押注开放模型的发展。Fireworks 为企业提供开放权重模型的路由和托管服务，经常被认为可能成为科技巨头的收购目标。当前，Fireworks 每天处理 40 万亿词元，处理量超过 Gemini 和 OpenAI 各自的 API。 Fireworks 看好的是 模型越来越多元化 。随着大语言模型数量增加、能力不断提升，企业可以更容易地针对自己的业务训练专用模型。 林乔上周指出：“每一家应用公司都应该考虑聘请内部研究员。他们可以利用自己的产品和产品数据构建专属模型。未来真正属于专业化智能。每家公司最终都应该针对不同应用场景拥有自己的模型，而且这个过程会逐渐实现自动化。” 报道分析称，AI 无论作为工具还是商业模式，其实仍处于非常早期的发展阶段。OpenAI 和 Anthropic 目前占据领先位置，并不意味着这种格局会一直持续。科技巨头开始避免把全部资源押在少数头部 AI 实验室身上，开放技术因此显得越来越有吸引力。 相关阅读： 《 曝英伟达洽谈超 130 亿美元收购 Hugging Face，微软也想插一脚 》",
+      "url": "https://www.ithome.com/0/996/041.htm",
+      "link": "https://www.ithome.com/0/996/041.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-29",
+      "published_at": "2026-08-29T13:39:19+00:00",
+      "score": 99,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
       "topic": "Agent 工作流"
     },
     {
@@ -230,7 +251,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-29",
-      "published_at": "2026-08-29T07:55:11.811336+00:00",
+      "published_at": "2026-08-29T16:47:44.477217+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -251,7 +272,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-29",
-      "published_at": "2026-08-29T07:55:11.810733+00:00",
+      "published_at": "2026-08-29T16:47:44.476695+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -272,7 +293,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-08-29",
-      "published_at": "2026-08-29T07:55:11.810522+00:00",
+      "published_at": "2026-08-29T16:47:44.476513+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -301,43 +322,22 @@
       "actionability": 40,
       "minutes": 5,
       "topic": "评测/安全"
-    },
-    {
-      "id": "af24295e08664332",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into next-token predictions. Even when individual operations are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs idle. To avoid this, GPT‑5.6 Sol found work that could be precomputed, avoided, or parallelized. With Codex, GPT‑5.6 Sol autonomously rewrote and optimized our production kernels, the core code that executes the mathematical operations that make up the model. This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠ and Gluon⁠ , two open-source GPU programming languages maintained by OpenAI. These efforts, combined with broader kernel advancements from GPT‑5.6 Sol, reduced end-to-end serving costs by 20%. That Luna price drop completely changes the landscape with respect to lower priced models. At $0.20/million tokens for input and $1.20/million for output Luna is now cheaper than Google's Gemini 3.1 Flash-Lite ($.025/$1.50). Anthropic's cheapest current model is Claude Haiku 4.5, and that's $1/$5 - Luna is now 1/5th of that for input, previously it cost the same. My agent.datasette.io demo site was running on Gemini 3.1 Flash-Lite. I've switched it over to Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , gemini , llm-pricing",
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-08-06",
-      "published_at": "2026-08-06T14:40:35.467920+00:00",
-      "score": 97,
-      "entity_id": "ai_infra",
-      "entity": "AI 基础设施与算力",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 3,
-      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4412,
+      "mention_count": 4444,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4140,
+      "mention_count": 4160,
       "source_count": 10
     },
     {
       "keyword": "model",
-      "mention_count": 3959,
+      "mention_count": 3963,
       "source_count": 8
     },
     {
@@ -352,83 +352,83 @@
     },
     {
       "keyword": "type",
-      "mention_count": 3427,
+      "mention_count": 3444,
       "source_count": 6
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3347,
+      "mention_count": 3366,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3335,
+      "mention_count": 3354,
       "source_count": 3
     },
     {
       "keyword": "announce",
-      "mention_count": 3304,
+      "mention_count": 3323,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3133,
+      "mention_count": 3149,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2782,
+      "mention_count": 2797,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2500,
-      "source_count": 8
+      "mention_count": 2507,
+      "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2327,
+      "mention_count": 2335,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2174,
+      "mention_count": 2192,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1881,
+      "mention_count": 1894,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1862,
+      "mention_count": 1875,
       "source_count": 5
     },
     {
       "keyword": "which",
-      "mention_count": 1800,
+      "mention_count": 1805,
       "source_count": 4
     },
     {
       "keyword": "but",
-      "mention_count": 1791,
+      "mention_count": 1798,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1750,
+      "mention_count": 1756,
       "source_count": 6
     },
     {
-      "keyword": "pro",
-      "mention_count": 1704,
-      "source_count": 7
+      "keyword": "data",
+      "mention_count": 1707,
+      "source_count": 10
     }
   ],
   "quality": {
-    "scored": 533,
-    "must_read_count": 318,
+    "scored": 527,
+    "must_read_count": 313,
     "avg_score": 73.4
   }
 }
