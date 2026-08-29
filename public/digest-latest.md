@@ -1,13 +1,13 @@
-# My Briefing · 2026-08-28
+# My Briefing · 2026-08-29
 
-12 个活跃信源 -> 4611 条扫描 -> 7 条今日值得看
-预计阅读 23 分钟，节省约 191.7 小时。
+12 个活跃信源 -> 4513 条扫描 -> 7 条今日值得看
+预计阅读 23 分钟，节省约 187.7 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- **AI Agents**：AI Agents 本期匹配 887 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 578 篇文章，重点集中在 后训练/对齐、成本与效率、推理训练/测试时计算。建议先看《TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1661 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- **AI Agents**：AI Agents 本期匹配 877 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 570 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。
 
 ## 今日值得看
 
@@ -28,18 +28,18 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 369，今日 +80，官方 AI 实验室与公司信号 本期匹配 1682 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents：本周 157，今日 +43，AI Agents 本期匹配 887 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 推理训练与强化学习：本周 103，今日 +24，推理训练与强化学习 本期匹配 578 篇文章，重点集中在 后训练/对齐、成本与效率、推理训练/测试时计算。建议先看《TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack》。
-- 预训练：本周 97，今日 +21，预训练 本期匹配 487 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
-- 后训练与对齐：本周 51，今日 +14，后训练与对齐 本期匹配 332 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack》。
-- 编程 Agent：本周 36，今日 +10，编程 Agent 本期匹配 153 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 数据分析与指标体系：本周 310，今日 +78，数据分析与指标体系 本期匹配 1495 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全：本周 296，今日 +68，AI 评测与安全 本期匹配 1642 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化：本周 290，今日 +80，AI 产品化 本期匹配 1427 篇文章，重点集中在 后训练/对齐、评测/安全、产品发布。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
-- AI 基础设施与算力：本周 192，今日 +51，AI 基础设施与算力 本期匹配 1073 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 171，今日 +45，成本管理与 FinOps 本期匹配 907 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 100，今日 +28，AI 改造传统领域 本期匹配 397 篇文章，重点集中在 评测/安全、产品发布、Agent 工作流。建议先看《中汽协倡议：坚决抵制非理性竞争，切实防范“浮躁”心态，杜绝“伪创新”》。
+- 官方 AI 实验室与公司信号：本周 360，今日 +67，官方 AI 实验室与公司信号 本期匹配 1661 篇文章，重点集中在 预训练/模型架构、Agent 工作流、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents：本周 159，今日 +38，AI Agents 本期匹配 877 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 推理训练与强化学习：本周 105，今日 +16，推理训练与强化学习 本期匹配 570 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。
+- 预训练：本周 99，今日 +12，预训练 本期匹配 463 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
+- 后训练与对齐：本周 52，今日 +5，后训练与对齐 本期匹配 323 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack》。
+- 编程 Agent：本周 37，今日 +11，编程 Agent 本期匹配 154 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 数据分析与指标体系：本周 302，今日 +43，数据分析与指标体系 本期匹配 1456 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 评测与安全：本周 292，今日 +31，AI 评测与安全 本期匹配 1595 篇文章，重点集中在 评测/安全、后训练/对齐、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化：本周 285，今日 +50，AI 产品化 本期匹配 1378 篇文章，重点集中在 后训练/对齐、评测/安全、产品发布。建议先看《A Fireside Chat with Cat and Thariq from the Claude Code team》。
+- AI 基础设施与算力：本周 191，今日 +20，AI 基础设施与算力 本期匹配 1036 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 175，今日 +24，成本管理与 FinOps 本期匹配 885 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 97，今日 +23，AI 改造传统领域 本期匹配 392 篇文章，重点集中在 评测/安全、预训练/模型架构、产品发布。建议先看《中汽协倡议：坚决抵制非理性竞争，切实防范“浮躁”心态，杜绝“伪创新”》。
 
 ## 内容分栏
 
