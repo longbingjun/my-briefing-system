@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "edition": "daily",
-  "generated_at": "2026-08-30T16:48:31.935049+00:00",
+  "generated_at": "2026-08-31T07:05:34.016837+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4370,
+    "total_scanned": 4341,
     "picks_count": 7,
-    "est_read_minutes": 19,
-    "est_saved_hours": 181.8
+    "est_read_minutes": 18,
+    "est_saved_hours": 180.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1634 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1631 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1634 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1631 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1634 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1631 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 840 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。",
+        "text": "AI Agents 本期匹配 818 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 840 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 818 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 548 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。",
+        "text": "推理训练与强化学习 本期匹配 532 篇文章，重点集中在 预训练/模型架构、成本与效率、推理训练/测试时计算。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 548 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 532 篇文章，重点集中在 预训练/模型架构、成本与效率、推理训练/测试时计算。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,6 +59,14 @@
     "citations": [
       {
         "n": 1,
+        "link": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article",
+        "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
+        "source": "InfoQ 中文",
+        "score": 100,
+        "minutes": 1
+      },
+      {
+        "n": 2,
         "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
         "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
         "source": "Simon Willison",
@@ -66,7 +74,7 @@
         "minutes": 3
       },
       {
-        "n": 2,
+        "n": 3,
         "link": "https://www.ithome.com/0/996/097.htm",
         "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
         "source": "IT之家",
@@ -74,7 +82,7 @@
         "minutes": 2
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://www.ithome.com/0/996/041.htm",
         "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
         "source": "IT之家",
@@ -82,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://www.ithome.com/0/987/249.htm",
         "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
         "source": "IT之家",
@@ -90,20 +98,12 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
         "title": "Conceptual integrity and counting lines of code",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 5
-      },
-      {
-        "n": 6,
-        "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-        "title": "More than just code review",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 2
       },
       {
         "n": 7,
@@ -118,64 +118,85 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 371,
+        "articles_7d": 386,
         "direction": "up",
-        "today_count": 59
+        "today_count": 72
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 162,
+        "articles_7d": 155,
         "direction": "down",
-        "today_count": 16
+        "today_count": 34
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 105,
+        "articles_7d": 99,
         "direction": "down",
-        "today_count": 7
+        "today_count": 19
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 97,
+        "articles_7d": 95,
         "direction": "down",
-        "today_count": 3
+        "today_count": 17
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 55,
-        "direction": "down",
-        "today_count": 4
-      },
-      {
-        "entity_id": "coding_agents",
-        "display": "编程 Agent",
-        "articles_7d": 37,
-        "direction": "up",
-        "today_count": 10
-      },
-      {
-        "entity_id": "data_analytics",
-        "display": "数据分析与指标体系",
-        "articles_7d": 301,
+        "articles_7d": 65,
         "direction": "down",
         "today_count": 21
       },
       {
+        "entity_id": "coding_agents",
+        "display": "编程 Agent",
+        "articles_7d": 35,
+        "direction": "up",
+        "today_count": 13
+      },
+      {
+        "entity_id": "data_analytics",
+        "display": "数据分析与指标体系",
+        "articles_7d": 305,
+        "direction": "down",
+        "today_count": 43
+      },
+      {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 292,
+        "articles_7d": 300,
         "direction": "down",
-        "today_count": 10
+        "today_count": 54
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 371
+    "word_count": 362
   },
   "picks": [
+    {
+      "id": "d482743d310d74d2",
+      "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
+      "title_original": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
+      "summary": "点击查看原文>",
+      "url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article",
+      "link": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article",
+      "source": "InfoQ 中文",
+      "source_id": "infoq_cn",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-31",
+      "published_at": "2026-08-31T15:03:08+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "2f06e2f7d5f79e65",
       "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
@@ -271,35 +292,14 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-08-30",
-      "published_at": "2026-08-30T16:48:23.224551+00:00",
+      "date": "2026-08-31",
+      "published_at": "2026-08-31T07:05:25.330724+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 35,
       "minutes": 5,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "011eff8d645b6de2",
-      "title": "More than just code review",
-      "title_original": "More than just code review",
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-08-30",
-      "published_at": "2026-08-30T16:48:23.223852+00:00",
-      "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 65,
-      "minutes": 2,
       "topic": "Agent 工作流"
     },
     {
@@ -313,8 +313,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-08-30",
-      "published_at": "2026-08-30T16:48:23.223599+00:00",
+      "date": "2026-08-31",
+      "published_at": "2026-08-31T07:05:25.330032+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -327,88 +327,83 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4281,
+      "mention_count": 4130,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4051,
+      "mention_count": 3960,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3850,
+      "mention_count": 3848,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3448,
+      "mention_count": 3446,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3448,
+      "mention_count": 3446,
       "source_count": 2
     },
     {
       "keyword": "type",
-      "mention_count": 3338,
+      "mention_count": 3267,
       "source_count": 6
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3259,
+      "mention_count": 3189,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3249,
+      "mention_count": 3179,
       "source_count": 3
     },
     {
       "keyword": "announce",
-      "mention_count": 3218,
+      "mention_count": 3148,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3031,
+      "mention_count": 3015,
       "source_count": 8
     },
     {
       "keyword": "across",
-      "mention_count": 2732,
+      "mention_count": 2695,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2457,
+      "mention_count": 2469,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2245,
+      "mention_count": 2209,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 2130,
+      "mention_count": 2074,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1856,
+      "mention_count": 1815,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1803,
+      "mention_count": 1776,
       "source_count": 5
-    },
-    {
-      "keyword": "which",
-      "mention_count": 1758,
-      "source_count": 4
     },
     {
       "keyword": "but",
@@ -417,18 +412,23 @@
     },
     {
       "keyword": "learning",
-      "mention_count": 1723,
+      "mention_count": 1743,
       "source_count": 6
     },
     {
+      "keyword": "which",
+      "mention_count": 1742,
+      "source_count": 4
+    },
+    {
       "keyword": "pro",
-      "mention_count": 1688,
+      "mention_count": 1682,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 519,
-    "must_read_count": 305,
-    "avg_score": 73.2
+    "scored": 521,
+    "must_read_count": 312,
+    "avg_score": 73.4
   }
 }

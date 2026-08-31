@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
-Date: 2026-08-30
-Funnel: 12 sources, 4370 scanned, 7 picks
+Date: 2026-08-31
+Funnel: 12 sources, 4341 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1634 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+官方 AI 实验室与公司信号 本期匹配 1631 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
 
 ## Top Picks
+- [100] 坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了 (InfoQ 中文) https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article
 - [100] Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) (Simon Willison) https://simonwillison.net/2026/Aug/7/moonlight-mayhem/
 - [99] 9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25% (IT之家) https://www.ithome.com/0/996/097.htm
 - [99] 英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标 (IT之家) https://www.ithome.com/0/996/041.htm
 - [99] Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式 (IT之家) https://www.ithome.com/0/987/249.htm
-- [97] Conceptual integrity and counting lines of code (Simon Willison) https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1634 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI Agents: AI Agents 本期匹配 840 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 548 篇文章，重点集中在 预训练/模型架构、后训练/对齐、成本与效率。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。
-- 预训练: 预训练 本期匹配 444 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
-- 后训练与对齐: 后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 147 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1415 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1516 篇文章，重点集中在 评测/安全、后训练/对齐、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1631 篇文章，重点集中在 预训练/模型架构、Agent 工作流、后训练/对齐。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI Agents: AI Agents 本期匹配 818 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 532 篇文章，重点集中在 预训练/模型架构、成本与效率、推理训练/测试时计算。建议先看《国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%》。
+- 预训练: 预训练 本期匹配 434 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
+- 后训练与对齐: 后训练与对齐 本期匹配 308 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent: 编程 Agent 本期匹配 144 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1393 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Understanding ChatGPT Work》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1489 篇文章，重点集中在 评测/安全、后训练/对齐、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
