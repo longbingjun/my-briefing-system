@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "edition": "daily",
-  "generated_at": "2026-09-01T16:45:49.994816+00:00",
+  "generated_at": "2026-09-02T05:56:34.619403+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4390,
+    "total_scanned": 4502,
     "picks_count": 7,
-    "est_read_minutes": 18,
-    "est_saved_hours": 182.6
+    "est_read_minutes": 14,
+    "est_saved_hours": 187.4
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1628 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1628 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1628 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1662 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 837 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《smolmachines / smolvm as a sandbox for untrusted Python & JavaScript》。",
+        "text": "AI Agents 本期匹配 867 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《smolmachines / smolvm as a sandbox for untrusted Python & JavaScript》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 837 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《smolmachines / smolvm as a sandbox for untrusted Python & JavaScript》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 867 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《smolmachines / smolvm as a sandbox for untrusted Python & JavaScript》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 561 篇文章，重点集中在 成本与效率、后训练/对齐、预训练/模型架构。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。",
+        "text": "推理训练与强化学习 本期匹配 581 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Group Adaptive Clipping Policy Optimization》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 561 篇文章，重点集中在 成本与效率、后训练/对齐、预训练/模型架构。建议先看《小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 581 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《Group Adaptive Clipping Policy Optimization》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,6 +59,14 @@
     "citations": [
       {
         "n": 1,
+        "link": "https://www.ithome.com/0/997/340.htm",
+        "title": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 2
+      },
+      {
+        "n": 2,
         "link": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article",
         "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
         "source": "InfoQ 中文",
@@ -66,7 +74,7 @@
         "minutes": 1
       },
       {
-        "n": 2,
+        "n": 3,
         "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
         "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
         "source": "Simon Willison",
@@ -74,7 +82,15 @@
         "minutes": 3
       },
       {
-        "n": 3,
+        "n": 4,
+        "link": "https://openai.com/index/ai-native-company-workflows",
+        "title": "How AI-native companies turn workflows into operating capability",
+        "source": "OpenAI Blog",
+        "score": 99,
+        "minutes": 1
+      },
+      {
+        "n": 5,
         "link": "https://www.ithome.com/0/996/655.htm",
         "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
         "source": "IT之家",
@@ -82,100 +98,105 @@
         "minutes": 2
       },
       {
-        "n": 4,
-        "link": "https://www.ithome.com/0/996/097.htm",
-        "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
-        "source": "IT之家",
-        "score": 99,
-        "minutes": 2
-      },
-      {
-        "n": 5,
-        "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-        "title": "Conceptual integrity and counting lines of code",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 5
-      },
-      {
         "n": 6,
-        "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-        "title": "More than just code review",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 2
-      },
-      {
-        "n": 7,
         "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
         "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 3
+      },
+      {
+        "n": 7,
+        "link": "https://www.ithome.com/0/996/476.htm",
+        "title": "英格兰银行行长贝利警告：先进人工智能威胁全球金融稳定",
+        "source": "IT之家",
+        "score": 97,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 365,
+        "articles_7d": 385,
         "direction": "up",
-        "today_count": 67
+        "today_count": 89
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 169,
-        "direction": "down",
-        "today_count": 44
+        "articles_7d": 189,
+        "direction": "up",
+        "today_count": 56
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 114,
+        "articles_7d": 122,
         "direction": "up",
-        "today_count": 35
+        "today_count": 28
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 100,
+        "articles_7d": 110,
         "direction": "up",
-        "today_count": 22
+        "today_count": 26
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 76,
+        "articles_7d": 91,
         "direction": "up",
-        "today_count": 19
+        "today_count": 26
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 38,
+        "articles_7d": 39,
         "direction": "up",
-        "today_count": 15
+        "today_count": 14
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 324,
-        "direction": "down",
-        "today_count": 68
+        "articles_7d": 344,
+        "direction": "up",
+        "today_count": 74
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 313,
+        "articles_7d": 321,
         "direction": "up",
         "today_count": 67
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 332
+    "word_count": 327
   },
   "picks": [
+    {
+      "id": "bc1f18f4d7cf0342",
+      "title": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
+      "title_original": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
+      "summary": "IT之家 9 月 2 日消息，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。即日起，用户可在淘宝 App 搜索“智谱旗舰店”进店下单。 店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 智谱在售商品包括个人版 Lite、Pro、Max 及团队版标准席位，支持按月、季、年订阅。 其中个人版 Lite 版 118 元（含 10000 积分 / 周），Pro 版 538 元（含 60000 积分 / 周），Max 版 1078 元（含 140000 积分 / 周），团队版标准席位 598 元（含 66000 积分 / 席位）。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 智谱旗舰店的经营者为北京智谱华章科技股份有限公司。智谱方面表示，未来用户购买词元（Token）也可在电商平台完成。",
+      "url": "https://www.ithome.com/0/997/340.htm",
+      "link": "https://www.ithome.com/0/997/340.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-02",
+      "published_at": "2026-09-02T03:57:30+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "d482743d310d74d2",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
@@ -219,6 +240,27 @@
       "topic": "Agent 工作流"
     },
     {
+      "id": "7429c9bb59d3313c",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "title_original": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI Blog",
+      "source_id": "openai_blog",
+      "source_group": "official",
+      "language": "en",
+      "date": "2026-09-01",
+      "published_at": "2026-09-01T17:00:00+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
+    },
+    {
       "id": "e8108a1a3f51693e",
       "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
       "title_original": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
@@ -240,69 +282,6 @@
       "topic": "评测/安全"
     },
     {
-      "id": "119f8ba8a53f3003",
-      "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
-      "title_original": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
-      "summary": "IT之家 8 月 30 日消息，@ClaudeDevs 今天（8 月 30 日）在 X 平台发布推文，宣布自 2026 年 9 月 14 日起，针对 Pro、Max、Team 及按席位计费企业版用户， 将 Claude Code 标准计划的“标准周限额”永久上调 25%。 IT之家附上相关截图如下： 官方表示当前正在执行的临时 50% 增幅将延续至 9 月 13 日，随后被新的永久基准取代。以“原始标准限额 = 100%”为参照：当前临时政策下用户可用额度为 150%；9 月 14 日起将调整为 125%。 该媒体指出相对于“本周仍享受 50% 增幅”的状态，新限额意味着周可用容量下降约 17%（(150−125)/150≈16.7%）。 相关阅读： 《 Anthropic 延长 Claude Code 每周使用额度 50% 加成至 8 月 31 日 》 《 Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式 》",
-      "url": "https://www.ithome.com/0/996/097.htm",
-      "link": "https://www.ithome.com/0/996/097.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-08-30",
-      "published_at": "2026-08-30T03:02:50+00:00",
-      "score": 99,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "4f25621e13afd917",
-      "title": "Conceptual integrity and counting lines of code",
-      "title_original": "Conceptual integrity and counting lines of code",
-      "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\"). This is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents, at 35:01 : A lot of people will tell you it makes no sense to measure productivity in lines of code. I’d actually disagree, because there’s a hard limit. In the before-times, a software engineer could produce a few hundred lines of production-ready code per day — and 200 lines of working, debugged, production-level code is an incredibly good day. Most days you’d produce 50 or 60. If agents let you produce a thousand lines of debugged code, that really is a very meaningful improvement — as long as the code is the same quality: maintainable, tested, all of that. You can get to that point with agents, but it takes a huge amount of skill and knowledge and experience. That’s what senior engineers are made of. I can do way more work as a single engineer than I could without agents. So you could argue, why should a company have more than one engineer? Beyond the obvious bus factor thing — a team of one is a very badly designed team — the answer is that the new limiting factor is cognitive capacity. I can churn out code a hundred times faster. I don’t have the cognitive capacity to stay on top of 100 times the amount of code. So you still need a team of engineers, so you can load balance that cognitive capacity across the team. And this section on conceptual integrity at 46:03 , which Claire equated to the Winchester Mystery House ! Simon : There’s a concept in The Mythical Man-Month — conceptual integrity — where well-designed software has an integrity to it: there are no surprises in it, it covers exactly the right domain of things, everything fits together and makes sense. That’s so much harder with coding agents, where you can have an idea for a feature, run a prompt, and five minuteslater you’ve got the feature. Your software grows little weird bumps in funny different directions. Claire : You know my analogy for that? The Winchester Mystery House. Simon : It’s got 140 rooms, because the woman who built it was the widow of the guy who invented the Winchester rifle, and her psychic told her she’d be haunted by the ghosts of everyone killed with that rifle unless she kept building the house forever. So for 40 years she kept adding new rooms. That’s exactly the problem with coding agents and software: it’s very easy to keep adding new rooms, because the cost of adding those rooms is so much cheaper. What you end up with is something where the conceptual integrity falls apart — and then it’s harder to make decisions about it. It all keeps coming back to discipline. It used to be that the discipline was enforced on you by the amount of time it took. You’d come up with an idea for a crazy feature and think “yeah, but that would take me a week — I cannot justify that, so I’ll forget about it.” If it takes an hour, it’s so much easier to justify. (Side-note: the Wikipedia article includes credible sources that dispute the story about the psychic.) Tags: ai , generative-ai , llms , podcast-appearances , coding-agents",
-      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-      "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01T16:45:38.953037+00:00",
-      "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 5,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "011eff8d645b6de2",
-      "title": "More than just code review",
-      "title_original": "More than just code review",
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01T16:45:38.952477+00:00",
-      "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 65,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "60cced5390b82b43",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -313,8 +292,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-01",
-      "published_at": "2026-09-01T16:45:38.952296+00:00",
+      "date": "2026-09-02",
+      "published_at": "2026-09-02T05:56:24.524847+00:00",
       "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -322,28 +301,64 @@
       "actionability": 55,
       "minutes": 3,
       "topic": "产品发布"
+    },
+    {
+      "id": "eb19df770897d586",
+      "title": "英格兰银行行长贝利警告：先进人工智能威胁全球金融稳定",
+      "title_original": "英格兰银行行长贝利警告：先进人工智能威胁全球金融稳定",
+      "summary": "IT之家 8 月 31 日消息，据英国卫报报道，英格兰银行行长安德鲁 · 贝利（Andrew Bailey）加入了越来越多发出警告的知名人士行列，提醒外界关注最先进人工智能技术可能给全球带来的风险。 据IT之家了解，贝利目前担任国际金融稳定委员会（FSB）主席。他近日以这一身份向各国财长和央行行长发出一封两页长的信函，表示“前沿”AI 模型正展现出越来越强的自主能力和问题解决能力，同时也具备执行威胁性行为的能力。 他警告称，这些模型可能通过网络攻击扰乱高度互联的全球金融体系，而网络攻击造成的破坏“可以跨越不同司法管辖区迅速扩散”。 在本周于美国北卡罗来纳州举行的会议前，贝利向二十国集团（G20）财长和央行行长发信表示：“近期的发展也让我注意到，许多司法管辖区尚未建立相应机制，以管理先进前沿 AI 模型的开发、发布和部署，这正在加剧金融领域乃至更广泛范围内的风险。” 贝利的这封信进一步加剧了近期围绕 AI 风险的担忧。过去几周，多位知名科技人士已经陆续发出警告，而贝利的观点也延续了他此前呼吁国际社会合作应对 AI 风险的立场。他此前曾对伦敦金融城的企业负责人表示：“任何国家都无法将自己与如今普遍存在的跨境系统完全隔绝。” 上个月，来自前沿 AI 实验室的 1367 名研究人员和工程师也联名发出警告，其中大多数来自 OpenAI、Anthropic 和 Google DeepMind。这封信让外界进一步了解到每天参与 AI 研发的工程师们究竟在担心什么。 这封联名信指出：“AI 能力的发展存在迅速超越我们理解或控制相关系统能力的真实风险。”信中随后呼吁美国政府支持“一项国际性行动，开发必要的技术和治理工具，以便有意识地控制自动化 AI 发展的速度”。 本月早些时候，还有消息称，OpenAI 员工在其最先进的 AI 智能体逃离训练环境、发起一场前所未有的黑客攻击行动并引发全球关注的数周前，就已经观察到了这些 AI 智能体出现异常行为的迹象。 将这一担忧进一步延伸到金融政策领域，贝利表示：“对于金融体系而言，目前最直接的担忧是前沿 AI 可能对网络风险产生的影响。前沿 AI 可能从根本上改变网络风险的速度、规模和经济成本，尤其是在金融体系高度依赖少数第三方服务提供商的情况下，这可能削弱整个市场的信心。” 贝利呼吁负责维护全球金融体系安全的相关机构，将“采取适当措施，支持前沿 AI 模型在全球范围内安全、负责任地发布和部署”作为优先事项。 这封信还提到了贝利对债券和股票市场杠杆率不断上升的担忧。他表示，当前部分金融市场的估值已经处于较高水平，而且市场高度集中，投资者对 AI 发展前景的乐观情绪尤其推高了相关资产估值。这些因素叠加起来，可能进一步放大未来市场调整的幅度。 贝利写道：“因此，我仍然担心，一次重大冲击，或者多重冲击同时发生，可能会同时触发多个潜在风险点。” 贝利自 2020 年 3 月起担任英格兰银行行长。在此之前，他曾领导英国金融行为监管局（FCA）和审慎监管局（PRA），这两家机构是英国最主要的金融监管机构。去年，他被任命为金融稳定委员会主席。 金融稳定委员会总部位于瑞士巴塞尔，负责协调各国金融监管机构以及国际标准制定机构的工作，推动制定有效的监管措施和政策，以维护全球金融稳定。",
+      "url": "https://www.ithome.com/0/996/476.htm",
+      "link": "https://www.ithome.com/0/996/476.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-08-31",
+      "published_at": "2026-08-31T06:43:06+00:00",
+      "score": 97,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 40,
+      "minutes": 2,
+      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4171,
+      "mention_count": 4352,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4057,
+      "mention_count": 4226,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3864,
+      "mention_count": 3997,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3409,
+      "mention_count": 3551,
       "source_count": 6
+    },
+    {
+      "keyword": "arxiv",
+      "mention_count": 3474,
+      "source_count": 4
+    },
+    {
+      "keyword": "abstract",
+      "mention_count": 3461,
+      "source_count": 3
+    },
+    {
+      "keyword": "announce",
+      "mention_count": 3425,
+      "source_count": 3
     },
     {
       "keyword": "日消息",
@@ -356,79 +371,64 @@
       "source_count": 1
     },
     {
-      "keyword": "arxiv",
-      "mention_count": 3332,
-      "source_count": 4
-    },
-    {
-      "keyword": "abstract",
-      "mention_count": 3319,
-      "source_count": 3
-    },
-    {
-      "keyword": "announce",
-      "mention_count": 3285,
-      "source_count": 3
-    },
-    {
       "keyword": "are",
-      "mention_count": 3005,
-      "source_count": 8
+      "mention_count": 3118,
+      "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2772,
+      "mention_count": 2918,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2402,
+      "mention_count": 2500,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2286,
+      "mention_count": 2364,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 2138,
-      "source_count": 5
-    },
-    {
-      "keyword": "these",
-      "mention_count": 1819,
+      "mention_count": 2214,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1817,
+      "mention_count": 1890,
       "source_count": 6
     },
     {
+      "keyword": "these",
+      "mention_count": 1882,
+      "source_count": 5
+    },
+    {
       "keyword": "learning",
-      "mention_count": 1807,
+      "mention_count": 1867,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1753,
+      "mention_count": 1852,
       "source_count": 4
     },
     {
       "keyword": "but",
-      "mention_count": 1700,
+      "mention_count": 1794,
       "source_count": 5
     },
     {
       "keyword": "framework",
-      "mention_count": 1649,
-      "source_count": 6
+      "mention_count": 1717,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 533,
-    "must_read_count": 317,
-    "avg_score": 73.4
+    "scored": 545,
+    "must_read_count": 326,
+    "avg_score": 73.6
   }
 }
