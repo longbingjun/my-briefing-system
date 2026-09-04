@@ -1,13 +1,13 @@
-# My Briefing · 2026-09-03
+# My Briefing · 2026-09-04
 
-12 个活跃信源 -> 4574 条扫描 -> 7 条今日值得看
-预计阅读 10 分钟，节省约 190.4 小时。
+12 个活跃信源 -> 4583 条扫描 -> 7 条今日值得看
+预计阅读 10 分钟，节省约 190.8 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1694 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
-- **AI Agents**：AI Agents 本期匹配 883 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 595 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
+- **AI Agents**：AI Agents 本期匹配 878 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 593 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 376，今日 +79，官方 AI 实验室与公司信号 本期匹配 1694 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
-- AI Agents：本周 200，今日 +50，AI Agents 本期匹配 883 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- 推理训练与强化学习：本周 133，今日 +37，推理训练与强化学习 本期匹配 595 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。
-- 预训练：本周 103，今日 +22，预训练 本期匹配 477 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
-- 后训练与对齐：本周 91，今日 +17，后训练与对齐 本期匹配 350 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 45，今日 +21，编程 Agent 本期匹配 162 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全：本周 344，今日 +70，AI 评测与安全 本期匹配 1629 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 327，今日 +70，数据分析与指标体系 本期匹配 1503 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 293，今日 +62，AI 产品化 本期匹配 1404 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力：本周 239，今日 +57，AI 基础设施与算力 本期匹配 1079 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 203，今日 +43，成本管理与 FinOps 本期匹配 903 篇文章，重点集中在 预训练/模型架构、后训练/对齐、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 112，今日 +16，AI 改造传统领域 本期匹配 418 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 官方 AI 实验室与公司信号：本周 399，今日 +85，官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
+- AI Agents：本周 222，今日 +55，AI Agents 本期匹配 878 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- 推理训练与强化学习：本周 148，今日 +34，推理训练与强化学习 本期匹配 593 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。
+- 预训练：本周 110，今日 +22，预训练 本期匹配 477 篇文章，重点集中在 预训练/模型架构、开源动态、后训练/对齐。建议先看《Qwen3.8-Flash-Next》。
+- 后训练与对齐：本周 90，今日 +11，后训练与对齐 本期匹配 338 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent：本周 46，今日 +16，编程 Agent 本期匹配 162 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 评测与安全：本周 366，今日 +65，AI 评测与安全 本期匹配 1611 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 349，今日 +71，数据分析与指标体系 本期匹配 1497 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Understanding ChatGPT Work》。
+- AI 产品化：本周 308，今日 +69，AI 产品化 本期匹配 1391 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力：本周 251，今日 +54，AI 基础设施与算力 本期匹配 1079 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 215，今日 +49，成本管理与 FinOps 本期匹配 899 篇文章，重点集中在 预训练/模型架构、后训练/对齐、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 113，今日 +12，AI 改造传统领域 本期匹配 415 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：44 篇
+- 做啥：40 篇
 - 忽略：0 篇
