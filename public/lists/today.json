@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-04",
   "edition": "daily",
-  "generated_at": "2026-09-04T06:01:58.950258+00:00",
+  "generated_at": "2026-09-04T16:28:47.965577+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4583,
+    "total_scanned": 4571,
     "picks_count": 7,
     "est_read_minutes": 10,
-    "est_saved_hours": 190.8
+    "est_saved_hours": 190.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1692 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1692 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1695 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1692 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 878 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
+        "text": "AI Agents 本期匹配 873 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 878 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 873 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 593 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。",
+        "text": "推理训练与强化学习 本期匹配 593 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 593 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度未跳跃增长》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 593 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,28 +118,28 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 399,
+        "articles_7d": 394,
         "direction": "up",
-        "today_count": 85
+        "today_count": 79
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 222,
+        "articles_7d": 220,
         "direction": "up",
-        "today_count": 55
+        "today_count": 51
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 148,
+        "articles_7d": 149,
         "direction": "up",
-        "today_count": 34
+        "today_count": 33
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 110,
+        "articles_7d": 111,
         "direction": "up",
         "today_count": 22
       },
@@ -153,27 +153,27 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 46,
+        "articles_7d": 48,
         "direction": "up",
-        "today_count": 16
+        "today_count": 15
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 366,
+        "articles_7d": 371,
         "direction": "up",
-        "today_count": 65
+        "today_count": 70
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 349,
+        "articles_7d": 344,
         "direction": "up",
-        "today_count": 71
+        "today_count": 72
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 288
+    "word_count": 296
   },
   "picks": [
     {
@@ -314,7 +314,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-04",
-      "published_at": "2026-09-04T06:01:49.423610+00:00",
+      "published_at": "2026-09-04T16:28:36.922945+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,52 +327,52 @@
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4361,
+      "mention_count": 4357,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4321,
+      "mention_count": 4308,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3976,
+      "mention_count": 3974,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3588,
+      "mention_count": 3587,
       "source_count": 6
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3520,
+      "mention_count": 3521,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3513,
+      "mention_count": 3512,
       "source_count": 3
     },
     {
       "keyword": "announce",
-      "mention_count": 3473,
+      "mention_count": 3472,
       "source_count": 3
     },
     {
       "keyword": "日消息",
-      "mention_count": 3440,
+      "mention_count": 3438,
       "source_count": 2
     },
     {
       "keyword": "之家",
-      "mention_count": 3438,
+      "mention_count": 3436,
       "source_count": 1
     },
     {
       "keyword": "are",
-      "mention_count": 3186,
+      "mention_count": 3177,
       "source_count": 9
     },
     {
@@ -382,37 +382,37 @@
     },
     {
       "keyword": "can",
-      "mention_count": 2607,
+      "mention_count": 2601,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2451,
-      "source_count": 6
+      "mention_count": 2452,
+      "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2234,
+      "mention_count": 2233,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1933,
+      "mention_count": 1923,
       "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1912,
+      "mention_count": 1910,
       "source_count": 4
     },
     {
       "keyword": "these",
-      "mention_count": 1896,
+      "mention_count": 1894,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1864,
+      "mention_count": 1862,
       "source_count": 5
     },
     {
@@ -422,12 +422,12 @@
     },
     {
       "keyword": "data",
-      "mention_count": 1702,
+      "mention_count": 1701,
       "source_count": 10
     }
   ],
   "quality": {
-    "scored": 539,
+    "scored": 542,
     "must_read_count": 326,
     "avg_score": 73.8
   }
