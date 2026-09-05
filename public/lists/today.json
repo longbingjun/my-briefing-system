@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-05",
   "edition": "daily",
-  "generated_at": "2026-09-05T05:52:11.010311+00:00",
+  "generated_at": "2026-09-05T15:21:08.185304+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4481,
+    "total_scanned": 4459,
     "picks_count": 7,
-    "est_read_minutes": 12,
-    "est_saved_hours": 186.5
+    "est_read_minutes": 10,
+    "est_saved_hours": 185.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1687 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1687 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1687 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 855 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
+        "text": "AI Agents 本期匹配 850 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 855 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 850 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 570 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。",
+        "text": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 570 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,6 +59,14 @@
     "citations": [
       {
         "n": 1,
+        "link": "https://www.ithome.com/0/998/822.htm",
+        "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 1
+      },
+      {
+        "n": 2,
         "link": "https://www.ithome.com/0/997/852.htm",
         "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
         "source": "IT之家",
@@ -66,7 +74,7 @@
         "minutes": 1
       },
       {
-        "n": 2,
+        "n": 3,
         "link": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article",
         "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
         "source": "InfoQ 中文",
@@ -74,7 +82,7 @@
         "minutes": 1
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://www.ithome.com/0/998/195.htm",
         "title": "ChatGPT、Grok、Claude、Cursor 集体突发故障",
         "source": "IT之家",
@@ -82,7 +90,7 @@
         "minutes": 1
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://www.ithome.com/0/997/340.htm",
         "title": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
         "source": "IT之家",
@@ -90,7 +98,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://www.ithome.com/0/987/249.htm",
         "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
         "source": "IT之家",
@@ -98,76 +106,68 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
         "title": "More than just code review",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 405,
+        "articles_7d": 391,
         "direction": "up",
-        "today_count": 68
+        "today_count": 66
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 207,
+        "articles_7d": 200,
         "direction": "up",
-        "today_count": 25
+        "today_count": 24
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 142,
+        "articles_7d": 138,
         "direction": "up",
         "today_count": 11
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 103,
+        "articles_7d": 102,
         "direction": "up",
-        "today_count": 4
+        "today_count": 3
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 87,
+        "articles_7d": 88,
         "direction": "up",
-        "today_count": 2
+        "today_count": 4
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 50,
+        "articles_7d": 48,
         "direction": "up",
         "today_count": 16
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 357,
+        "articles_7d": 354,
         "direction": "up",
-        "today_count": 23
+        "today_count": 19
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 330,
+        "articles_7d": 331,
         "direction": "up",
         "today_count": 26
       }
@@ -176,6 +176,27 @@
     "word_count": 295
   },
   "picks": [
+    {
+      "id": "751f2c565934961d",
+      "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+      "title_original": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+      "summary": "IT之家 9 月 5 日消息，上海证券报今天（5 日）独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。用户可在淘宝 App 搜索“智谱旗舰店”进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为 品牌官方旗舰店 ，剩余三家目前为代理模式。",
+      "url": "https://www.ithome.com/0/998/822.htm",
+      "link": "https://www.ithome.com/0/998/822.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-05",
+      "published_at": "2026-09-05T12:52:13+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "510fe8a9d08167c6",
       "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
@@ -293,7 +314,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-05",
-      "published_at": "2026-09-05T05:52:00.363540+00:00",
+      "published_at": "2026-09-05T15:20:58.873362+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -301,133 +322,112 @@
       "actionability": 65,
       "minutes": 2,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "60cced5390b82b43",
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable",
-      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05T05:52:00.363312+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 3,
-      "topic": "产品发布"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4212,
+      "mention_count": 4257,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4163,
+      "mention_count": 4194,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3847,
+      "mention_count": 3874,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3442,
+      "mention_count": 3482,
       "source_count": 6
     },
     {
       "keyword": "日消息",
-      "mention_count": 3438,
+      "mention_count": 3442,
       "source_count": 2
     },
     {
       "keyword": "之家",
-      "mention_count": 3436,
+      "mention_count": 3440,
       "source_count": 1
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3386,
+      "mention_count": 3426,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3377,
+      "mention_count": 3420,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3335,
+      "mention_count": 3375,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 3099,
+      "mention_count": 3132,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2833,
+      "mention_count": 2871,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2523,
+      "mention_count": 2537,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2344,
+      "mention_count": 2377,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2149,
+      "mention_count": 2179,
       "source_count": 5
     },
     {
       "keyword": "not",
-      "mention_count": 1871,
+      "mention_count": 1877,
       "source_count": 6
     },
     {
       "keyword": "which",
-      "mention_count": 1854,
+      "mention_count": 1873,
       "source_count": 4
     },
     {
       "keyword": "these",
-      "mention_count": 1835,
+      "mention_count": 1845,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1805,
+      "mention_count": 1822,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1775,
+      "mention_count": 1784,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 1676,
+      "mention_count": 1668,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 534,
+    "scored": 531,
     "must_read_count": 315,
     "avg_score": 73.7
   }
