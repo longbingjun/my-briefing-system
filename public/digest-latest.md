@@ -1,49 +1,49 @@
-# My Briefing · 2026-09-04
+# My Briefing · 2026-09-05
 
-12 个活跃信源 -> 4571 条扫描 -> 7 条今日值得看
-预计阅读 10 分钟，节省约 190.3 小时。
+12 个活跃信源 -> 4481 条扫描 -> 7 条今日值得看
+预计阅读 12 分钟，节省约 186.5 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1692 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
-- **AI Agents**：AI Agents 本期匹配 873 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 593 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1687 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
+- **AI Agents**：AI Agents 本期匹配 855 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 570 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
 
 ## 今日值得看
 
 - [100] [Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac](https://www.ithome.com/0/997/852.htm) · IT之家 · 1 min
   IT之家 9 月 3 日消息，Anthropic 今天（9 月 3 日）在 X 平台发布推文， 宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，可以在后台操控用户 Mac。 在适配要求方面，官方要求使用 macOS 15 以及更高系统版本，桌面必须保持唤醒状态，Claude Desktop 应用需保持打开。IT之家附上相关截图如下： 在本次更新之后，在 macOS 平台上，用户在处理其它工作的同时，Claude 可以在后台通过屏幕交互完成点击、输入和导航操作。如需 Claude 接管全屏，可在设置中调整为“完全控制”模式。 该功能同时服务于 Claude Cowork 和 Claude Code 两个产品。Cowork 面向文档处理、文件整理、研究综合等知识工作，Code 专注开发任务。 目前仅限 Pro 和 Max 个人订阅用户，Team 和 Enterprise 计划尚未开放。Linux 版本处于测试阶段，暂不支持电脑控制功能。
-- [100] [智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起](https://www.ithome.com/0/997/340.htm) · IT之家 · 2 min
-  IT之家 9 月 2 日消息，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。即日起，用户可在淘宝 App 搜索“智谱旗舰店”进店下单。 店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 智谱在售商品包括个人版 Lite、Pro、Max 及团队版标准席位，支持按月、季、年订阅。 其中个人版 Lite 版 118 元（含 10000 积分 / 周），Pro 版 538 元（含 60000 积分 / 周），Max 版 1078 元（含 140000 积分 / 周），团队版标准席位 598 元（含 66000 积分 / 席位）。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 智谱旗舰店的经营者为北京智谱华章科技股份有限公司。智谱方面表示，未来用户购买词元（Token）也可在电商平台完成。
 - [100] [坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了](https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_medium=article) · InfoQ 中文 · 1 min
   点击查看原文>
 - [99] [ChatGPT、Grok、Claude、Cursor 集体突发故障](https://www.ithome.com/0/998/195.htm) · IT之家 · 1 min
   IT之家 9 月 3 日消息，据IT之家网友投稿反馈，ChatGPT、Grok、Claude、Cursor 等多款 AI 模型今晚突发故障。此外，用户请求 Codex 会出现“404 Not Found”错误。 IT之家查询 Downdetector 报告获悉，美国用户使用 OpenAI、Claude、Grok、Cursor 服务时均出现问题。目前已有超过 12,000 份用户报告指出 OpenAI 存在问题，关于 Claude 的问题报告约有 1,200 份，关于 Grok 的问题报告约有 1,000 份。 各方回应： OpenAI：ChatGPT 和 Codex 目前正出现问题。 Anthropic：正在调查 Claude 出现的错误，将致力于修复工作。 SpaceXAI：Grok 目前出现故障，正在调查服务中断。
-- [99] [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) · OpenAI Blog · 1 min
-  Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
+- [99] [智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起](https://www.ithome.com/0/997/340.htm) · IT之家 · 2 min
+  IT之家 9 月 2 日消息，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。即日起，用户可在淘宝 App 搜索“智谱旗舰店”进店下单。 店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 智谱在售商品包括个人版 Lite、Pro、Max 及团队版标准席位，支持按月、季、年订阅。 其中个人版 Lite 版 118 元（含 10000 积分 / 周），Pro 版 538 元（含 60000 积分 / 周），Max 版 1078 元（含 140000 积分 / 周），团队版标准席位 598 元（含 66000 积分 / 席位）。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 智谱旗舰店的经营者为北京智谱华章科技股份有限公司。智谱方面表示，未来用户购买词元（Token）也可在电商平台完成。
 - [99] [Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式](https://www.ithome.com/0/987/249.htm) · IT之家 · 2 min
   IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户， 调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。 IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操作，自动拦截破坏性、不可逆或越权行为。 在覆盖范围方面，Claude Enterprise、Claude API、Claude Platform on AWS、Amazon Bedrock、Google Cloud's Agent Platform 和 Microsoft Foundry 目前仍保持可选，Anthropic 计划在未来 1 个月内在上述平台推进调整，把自动模式设为默认选项，并取消相应开销。 在测试推行方面，Anthropic 邀请 1,053 名付费测试者测试，发现在传统人工审批模式，只识别出 13.6% 的危险命令；而自动模式能够识别 89% 的危险命令。 在提示词注入评估中，Trajectory Labs 用 72 个场景、每个场景 10 次测试，共 720 次攻击尝试，覆盖 Claude Code v2.1.205 和 Codex v0.144.5。 Claude Fable 5、Opus 5 和 Sonnet 5 在自动模式下全部拦截，0 次成功；GPT-5.6 Sol 在 Codex 的 Auto-review（自动审阅）模式下成功率为 5.83%，在 Full Access（完全访问）模式下为 19.03%。 Anthropic 还指出，未加额外防护的 bypassPermissions 模式平均攻击成功率为 0.09%，而 OpenAI 上周发布的新 Auto-review 版本可能改变结果。 自动模式可防止工具调用和浏览器 GUI 使用过程中出现提示注入攻击。第三方评估显示，OpenAI 模型在浏览器任务上的攻击成功率更高。
 - [97] [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) · Simon Willison · 2 min
   The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms
+- [97] [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) · Simon Willison · 3 min
+  Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend $100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 394，今日 +79，官方 AI 实验室与公司信号 本期匹配 1692 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
-- AI Agents：本周 220，今日 +51，AI Agents 本期匹配 873 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- 推理训练与强化学习：本周 149，今日 +33，推理训练与强化学习 本期匹配 593 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
-- 预训练：本周 111，今日 +22，预训练 本期匹配 478 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、开源动态。建议先看《Qwen3.8-Flash-Next》。
-- 后训练与对齐：本周 90，今日 +11，后训练与对齐 本期匹配 337 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 48，今日 +15，编程 Agent 本期匹配 164 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全：本周 371，今日 +70，AI 评测与安全 本期匹配 1614 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 344，今日 +72，数据分析与指标体系 本期匹配 1498 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 307，今日 +66，AI 产品化 本期匹配 1391 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力：本周 253，今日 +56，AI 基础设施与算力 本期匹配 1079 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 221，今日 +52，成本管理与 FinOps 本期匹配 905 篇文章，重点集中在 预训练/模型架构、后训练/对齐、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 113，今日 +22，AI 改造传统领域 本期匹配 422 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 官方 AI 实验室与公司信号：本周 405，今日 +68，官方 AI 实验室与公司信号 本期匹配 1687 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。
+- AI Agents：本周 207，今日 +25，AI Agents 本期匹配 855 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- 推理训练与强化学习：本周 142，今日 +11，推理训练与强化学习 本期匹配 570 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
+- 预训练：本周 103，今日 +4，预训练 本期匹配 459 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、开源动态。建议先看《Qwen3.8-Flash-Next》。
+- 后训练与对齐：本周 87，今日 +2，后训练与对齐 本期匹配 325 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent：本周 50，今日 +16，编程 Agent 本期匹配 163 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 评测与安全：本周 357，今日 +23，AI 评测与安全 本期匹配 1564 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 330，今日 +26，数据分析与指标体系 本期匹配 1457 篇文章，重点集中在 推理训练/测试时计算、产品发布、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
+- AI 产品化：本周 285，今日 +24，AI 产品化 本期匹配 1351 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力：本周 248，今日 +16，AI 基础设施与算力 本期匹配 1035 篇文章，重点集中在 预训练/模型架构、Agent 工作流、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 211，今日 +17，成本管理与 FinOps 本期匹配 873 篇文章，重点集中在 预训练/模型架构、后训练/对齐、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 109，今日 +18，AI 改造传统领域 本期匹配 416 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：41 篇
+- 做啥：37 篇
 - 忽略：0 篇
