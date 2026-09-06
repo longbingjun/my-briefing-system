@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "edition": "daily",
-  "generated_at": "2026-09-05T15:21:08.185304+00:00",
+  "generated_at": "2026-09-06T06:03:49.770302+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4459,
+    "total_scanned": 4362,
     "picks_count": 7,
-    "est_read_minutes": 10,
-    "est_saved_hours": 185.6
+    "est_read_minutes": 12,
+    "est_saved_hours": 181.6
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1685 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《llm-anthropic 0.27》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 850 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
+        "text": "AI Agents 本期匹配 824 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 850 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 824 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。",
+        "text": "推理训练与强化学习 本期匹配 546 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 569 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 546 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -59,16 +59,16 @@
     "citations": [
       {
         "n": 1,
-        "link": "https://www.ithome.com/0/998/822.htm",
-        "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
-        "source": "IT之家",
+        "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+        "title": "Using Blender with coding agents on macOS",
+        "source": "Simon Willison",
         "score": 100,
-        "minutes": 1
+        "minutes": 2
       },
       {
         "n": 2,
-        "link": "https://www.ithome.com/0/997/852.htm",
-        "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
+        "link": "https://www.ithome.com/0/998/822.htm",
+        "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
         "source": "IT之家",
         "score": 100,
         "minutes": 1
@@ -107,39 +107,39 @@
       },
       {
         "n": 7,
-        "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-        "title": "More than just code review",
+        "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "source": "Simon Willison",
         "score": 97,
-        "minutes": 2
+        "minutes": 3
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 391,
+        "articles_7d": 388,
         "direction": "up",
-        "today_count": 66
+        "today_count": 53
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 200,
+        "articles_7d": 198,
         "direction": "up",
-        "today_count": 24
+        "today_count": 21
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 138,
+        "articles_7d": 136,
         "direction": "up",
-        "today_count": 11
+        "today_count": 9
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 102,
+        "articles_7d": 103,
         "direction": "up",
         "today_count": 3
       },
@@ -155,27 +155,48 @@
         "display": "编程 Agent",
         "articles_7d": 48,
         "direction": "up",
-        "today_count": 16
+        "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 354,
+        "articles_7d": 355,
         "direction": "up",
-        "today_count": 19
+        "today_count": 15
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 331,
+        "articles_7d": 327,
         "direction": "up",
-        "today_count": 26
+        "today_count": 22
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
     "word_count": 295
   },
   "picks": [
+    {
+      "id": "f656452e8ce84b14",
+      "title": "Using Blender with coding agents on macOS",
+      "title_original": "Using Blender with coding agents on macOS",
+      "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts: OK add a background and a lot of flair Then: OK make it a whole lot better And got this image, generated using Blender's Python API : Tags: ai , generative-ai , llms , blender , pelican-riding-a-bicycle , coding-agents , gpt-6-astra",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-09-06",
+      "published_at": "2026-09-06T06:03:40.057887+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
     {
       "id": "751f2c565934961d",
       "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
@@ -192,27 +213,6 @@
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 1,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "510fe8a9d08167c6",
-      "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "title_original": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "summary": "IT之家 9 月 3 日消息，Anthropic 今天（9 月 3 日）在 X 平台发布推文， 宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，可以在后台操控用户 Mac。 在适配要求方面，官方要求使用 macOS 15 以及更高系统版本，桌面必须保持唤醒状态，Claude Desktop 应用需保持打开。IT之家附上相关截图如下： 在本次更新之后，在 macOS 平台上，用户在处理其它工作的同时，Claude 可以在后台通过屏幕交互完成点击、输入和导航操作。如需 Claude 接管全屏，可在设置中调整为“完全控制”模式。 该功能同时服务于 Claude Cowork 和 Claude Code 两个产品。Cowork 面向文档处理、文件整理、研究综合等知识工作，Code 专注开发任务。 目前仅限 Pro 和 Max 个人订阅用户，Team 和 Enterprise 计划尚未开放。Linux 版本处于测试阶段，暂不支持电脑控制功能。",
-      "url": "https://www.ithome.com/0/997/852.htm",
-      "link": "https://www.ithome.com/0/997/852.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03T03:49:55+00:00",
-      "score": 100,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
       "actionability": 35,
       "minutes": 1,
@@ -303,132 +303,132 @@
       "topic": "评测/安全"
     },
     {
-      "id": "011eff8d645b6de2",
-      "title": "More than just code review",
-      "title_original": "More than just code review",
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , agentic-engineering , ai , llms",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "id": "60cced5390b82b43",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "title_original": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison",
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05T15:20:58.873362+00:00",
+      "date": "2026-09-06",
+      "published_at": "2026-09-06T06:03:40.061500+00:00",
       "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
-      "actionability": 65,
-      "minutes": 2,
-      "topic": "Agent 工作流"
+      "actionability": 55,
+      "minutes": 3,
+      "topic": "产品发布"
     }
   ],
   "trending": [
     {
       "keyword": "models",
-      "mention_count": 4257,
+      "mention_count": 4108,
       "source_count": 7
     },
     {
       "keyword": "new",
-      "mention_count": 4194,
+      "mention_count": 4036,
       "source_count": 9
     },
     {
       "keyword": "model",
-      "mention_count": 3874,
+      "mention_count": 3708,
       "source_count": 8
     },
     {
-      "keyword": "type",
-      "mention_count": 3482,
-      "source_count": 6
-    },
-    {
       "keyword": "日消息",
-      "mention_count": 3442,
+      "mention_count": 3446,
       "source_count": 2
     },
     {
       "keyword": "之家",
-      "mention_count": 3440,
+      "mention_count": 3444,
       "source_count": 1
     },
     {
+      "keyword": "type",
+      "mention_count": 3332,
+      "source_count": 6
+    },
+    {
       "keyword": "arxiv",
-      "mention_count": 3426,
+      "mention_count": 3280,
       "source_count": 4
     },
     {
       "keyword": "abstract",
-      "mention_count": 3420,
+      "mention_count": 3268,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3375,
+      "mention_count": 3229,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 3132,
+      "mention_count": 3010,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2871,
+      "mention_count": 2737,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2537,
+      "mention_count": 2450,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2377,
+      "mention_count": 2254,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 2179,
+      "mention_count": 2080,
       "source_count": 5
     },
     {
-      "keyword": "not",
-      "mention_count": 1877,
-      "source_count": 6
-    },
-    {
       "keyword": "which",
-      "mention_count": 1873,
+      "mention_count": 1832,
       "source_count": 4
     },
     {
+      "keyword": "not",
+      "mention_count": 1799,
+      "source_count": 6
+    },
+    {
       "keyword": "these",
-      "mention_count": 1845,
+      "mention_count": 1776,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1822,
+      "mention_count": 1763,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1784,
+      "mention_count": 1699,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 1668,
+      "mention_count": 1660,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 531,
-    "must_read_count": 315,
-    "avg_score": 73.7
+    "scored": 535,
+    "must_read_count": 318,
+    "avg_score": 73.3
   }
 }
