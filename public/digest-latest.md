@@ -1,13 +1,13 @@
 # My Briefing · 2026-09-07
 
-12 个活跃信源 -> 4371 条扫描 -> 7 条今日值得看
-预计阅读 14 分钟，节省约 181.9 小时。
+12 个活跃信源 -> 4363 条扫描 -> 7 条今日值得看
+预计阅读 14 分钟，节省约 181.6 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1650 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
-- **AI Agents**：AI Agents 本期匹配 822 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 551 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1652 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
+- **AI Agents**：AI Agents 本期匹配 820 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 552 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 390，今日 +62，官方 AI 实验室与公司信号 本期匹配 1650 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
-- AI Agents：本周 218，今日 +50，AI Agents 本期匹配 822 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- 推理训练与强化学习：本周 149，今日 +33，推理训练与强化学习 本期匹配 551 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
-- 预训练：本周 110，今日 +23，预训练 本期匹配 440 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《Qwen3.8-Flash-Next》。
+- 官方 AI 实验室与公司信号：本周 379，今日 +65，官方 AI 实验室与公司信号 本期匹配 1652 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
+- AI Agents：本周 211，今日 +52，AI Agents 本期匹配 820 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
+- 推理训练与强化学习：本周 150，今日 +33，推理训练与强化学习 本期匹配 552 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
+- 预训练：本周 109，今日 +23，预训练 本期匹配 440 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《Qwen3.8-Flash-Next》。
 - 后训练与对齐：本周 79，今日 +11，后训练与对齐 本期匹配 315 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 57，今日 +20，编程 Agent 本期匹配 166 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全：本周 372，今日 +70，AI 评测与安全 本期匹配 1527 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 359，今日 +77，数据分析与指标体系 本期匹配 1426 篇文章，重点集中在 推理训练/测试时计算、产品发布、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 299，今日 +68，AI 产品化 本期匹配 1311 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力：本周 261，今日 +60，AI 基础设施与算力 本期匹配 1020 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 223，今日 +49，成本管理与 FinOps 本期匹配 856 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域：本周 107，今日 +17，AI 改造传统领域 本期匹配 414 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 编程 Agent：本周 56，今日 +18，编程 Agent 本期匹配 166 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 评测与安全：本周 367，今日 +68，AI 评测与安全 本期匹配 1527 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 357，今日 +70，数据分析与指标体系 本期匹配 1425 篇文章，重点集中在 推理训练/测试时计算、产品发布、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
+- AI 产品化：本周 292，今日 +70，AI 产品化 本期匹配 1302 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力：本周 259，今日 +60，AI 基础设施与算力 本期匹配 1019 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 218，今日 +39，成本管理与 FinOps 本期匹配 856 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域：本周 102，今日 +13，AI 改造传统领域 本期匹配 415 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：42 篇
+- 做啥：40 篇
 - 忽略：0 篇
