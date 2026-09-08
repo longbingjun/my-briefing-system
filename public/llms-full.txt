@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-09-07
-Funnel: 12 sources, 4363 scanned, 7 picks
+Date: 2026-09-08
+Funnel: 12 sources, 4341 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1652 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
+官方 AI 实验室与公司信号 本期匹配 1649 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 
 ## Top Picks
 - [100] Using Blender with coding agents on macOS (Simon Willison) https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/
@@ -17,23 +17,23 @@ Funnel: 12 sources, 4363 scanned, 7 picks
   Summary: 点击查看原文>
 - [99] 智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起 (IT之家) https://www.ithome.com/0/997/340.htm
   Summary: IT之家 9 月 2 日消息，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。即日起，用户可在淘宝 App 搜索“智谱旗舰店”进店下单。 店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 智谱在售商品包括个人版 Lite、Pro、Max 及团队版标准席位，支持按月、季、年订阅。 其中个人版 Lite 版 118 元（含 10000 积分 / 周），Pro 版 538 元（含 60000 积分 / 周），Max 版 1078 元（含 140000 积分 / 周），团队版标准席位 598 元（含 66000 积分 / 席位）。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 智谱旗舰店的经营者为北京智谱华章科技股份有限公司。智谱方面表示，未来用户购买词元（Token）也可在电商平台完成。
-- [99] Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式 (IT之家) https://www.ithome.com/0/987/249.htm
-  Summary: IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户， 调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。 IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操作，自动拦截破坏性、不可逆或越权行为。 在覆盖范围方面，Claude Enterprise、Claude API、Claude Platform on AWS、Amazon Bedrock、Google Cloud's Agent Platform 和 Microsoft Foundry 目前仍保持可选，Anthropic 计划在未来 1 个月内在上述平台推进调整，把自动模式设为默认选项，并取消相应开销。 在测试推行方面，Anthropic 邀请 1,053 名付费测试者测试，发现在传统人工审批模式，只识别出 13.6% 的危险命令；而自动模式能够识别 89% 的危险命令。 在提示词注入评估中，Trajectory Labs 用 72 个场景、每个场景 10 次测试，共 720 次攻击尝试，覆盖 Claude Code v2.1.205 和 Codex v0.144.5。 Claude Fable 5、Opus 5 和 Sonnet 5 在自动模式下全部拦截，0 次成功；GPT-5.6 Sol 在 Codex 的 Auto-review（自动审阅）模式下成功率为 5.83%，在 Full Access（完全访问）模式下为 19.03%。 Anthropic 还指出，未加额外防护的 bypassPermissions 模式平均攻击成功率为 0.09%，而 OpenAI 上周发布的新 Auto-review 版本可能改变结果。 自动模式可防止工具调用和浏览器 GUI 使用过程中出现提示注入攻击。第三方评估显示，OpenAI 模型在浏览器任务上的攻击成功率更高。
+- [97] OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元 (IT之家) https://www.ithome.com/0/999/488.htm
+  Summary: IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。 从结果来看，这对大语言模型而言无疑是极具突破性的进步，也是对多模态“AI 智能”的一次颇具说服力的展示。不久之前，AI 甚至还会在 Atari 2600 国际象棋游戏中输掉比赛，而如今已经能够自主通关整个 3D 解谜游戏。 这次《传送门》通关过程共进行了 3336 次工具调用，按照 API 价格计算，成本达 571.18 美元 （IT之家注：现汇率约合 3,838 元人民币） 。 实验发起者 CozyBlaze 随后澄清称，这些成本实际上由其每月 200 美元 （现汇率约合 1,344 元人民币） 的 Codex Pro 订阅服务覆盖。 CozyBlaze 解释称：“模型通过 MCP，也就是 Model Context Protocol，以及经过修改的 SourcePauseTool 来控制《传送门》。模型思考时，游戏会保持暂停状态；当模型发送一组输入指令后，SPT 会解除暂停并执行这些操作。” 在 AI 进行思考期间，系统会向其提供游戏截图以及玩家角色所在位置等信息。随后，游戏恢复运行，GPT-6 Astra 按照自己规划好的步骤执行移动和其他操作。 这也解释了为什么经过剪辑的精彩视频长度约为 2 小时，但 GPT-6 Astra 游玩《传送门》的完整视频直播记录加起来却长达约 24 小时。 对于这次实验成果，CozyBlaze 的态度相当务实。他承认，目前仍然存在许多需要解决的问题，这次通关过程也不应该被视为 AI 能力的标准化基准测试。 不过，他表示：“但看到一个通用型智能体能够自主探索游戏世界，并最终一路完成整个游戏，会让人感觉最初的愿景正在逐渐成为现实。” CozyBlaze 所说的“最初愿景”，指的是 OpenAI 早在 2016 年提出的一项长期目标。当时，OpenAI 曾设想，未来能够打造一个单一 AI 智能体，让它解决各种不同类型的游戏任务。 GPT-6 Astra 于本月早些时候成为 OpenAI 的新旗舰模型。OpenAI 表示，新模型代表了“新一代智能”，并且在计算机操作、网页浏览、软件工程、网络安全、科学研究以及专业工作等领域达到了当前最先进水平。 预计在未来几天里，会看到 Astra 大展其强大的智能能力。
 - [97] Anthropic’s best AI model struggles to attract users as cheaper tools thrive (Simon Willison) https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/
   Summary: Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend $100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year". This article also introduced me to the Ramp AI index , which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai , openai , generative-ai , llms , anthropic , claude , claude-mythos-fable
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1652 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《llm-anthropic 0.27》。
-- AI Agents: AI Agents 本期匹配 820 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Breaking Claude Code Opus 5 Auto Mode》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 552 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
-- 预训练: 预训练 本期匹配 440 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《Qwen3.8-Flash-Next》。
-- 后训练与对齐: 后训练与对齐 本期匹配 315 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 166 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1527 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1425 篇文章，重点集中在 推理训练/测试时计算、产品发布、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
-- AI 产品化: AI 产品化 本期匹配 1302 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1019 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 856 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 415 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1649 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- AI Agents: AI Agents 本期匹配 818 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Understanding ChatGPT Work》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 544 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、成本与效率。建议先看《机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理》。
+- 预训练: 预训练 本期匹配 434 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《Qwen3.8-Flash-Next》。
+- 后训练与对齐: 后训练与对齐 本期匹配 307 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent: 编程 Agent 本期匹配 165 篇文章，重点集中在 预训练/模型架构、评测/安全、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1414 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、产品发布。建议先看《Understanding ChatGPT Work》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1505 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化: AI 产品化 本期匹配 1287 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 1007 篇文章，重点集中在 预训练/模型架构、Agent 工作流、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 849 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 415 篇文章，重点集中在 Agent 工作流、评测/安全、产品发布。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 - 科技圈动态: 科技圈动态 本期匹配 365 篇文章，重点集中在 评测/安全、后训练/对齐、产品发布。建议先看《科技巨头密集更新 AI 模型，“模型疲劳”问题凸显》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 112 篇文章，重点集中在 评测/安全、产品发布、预训练/模型架构。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 111 篇文章，重点集中在 评测/安全、产品发布、预训练/模型架构。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
