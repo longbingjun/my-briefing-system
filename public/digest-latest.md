@@ -5,9 +5,9 @@
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
 - **AI Agents**：AI Agents 本期匹配 836 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 545 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 546 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、AI 基础设施。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 359，今日 +91，官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
-- AI Agents：本周 178，今日 +62，AI Agents 本期匹配 836 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。
-- 推理训练与强化学习：本周 98，今日 +29，推理训练与强化学习 本期匹配 545 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练：本周 68，今日 +24，预训练 本期匹配 438 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 编程 Agent：本周 48，今日 +16，编程 Agent 本期匹配 174 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 官方 AI 实验室与公司信号：本周 359，今日 +87，官方 AI 实验室与公司信号 本期匹配 1659 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI Agents：本周 174，今日 +56，AI Agents 本期匹配 836 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。
+- 推理训练与强化学习：本周 97，今日 +30，推理训练与强化学习 本期匹配 546 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、AI 基础设施。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练：本周 67，今日 +24，预训练 本期匹配 438 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 编程 Agent：本周 44，今日 +11，编程 Agent 本期匹配 173 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
 - 后训练与对齐：本周 40，今日 +12，后训练与对齐 本期匹配 304 篇文章，重点集中在 后训练/对齐、预训练/模型架构、Agent 工作流。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 数据分析与指标体系：本周 269，今日 +80，数据分析与指标体系 本期匹配 1423 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
-- AI 评测与安全：本周 264，今日 +77，AI 评测与安全 本期匹配 1503 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化：本周 237，今日 +76，AI 产品化 本期匹配 1297 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
-- AI 基础设施与算力：本周 182，今日 +53，AI 基础设施与算力 本期匹配 994 篇文章，重点集中在 预训练/模型架构、AI 基础设施、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 146，今日 +35，成本管理与 FinOps 本期匹配 843 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 改造传统领域：本周 75，今日 +14，AI 改造传统领域 本期匹配 402 篇文章，重点集中在 Agent 工作流、AI 基础设施、评测/安全。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 数据分析与指标体系：本周 262，今日 +71，数据分析与指标体系 本期匹配 1418 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
+- AI 评测与安全：本周 261，今日 +75，AI 评测与安全 本期匹配 1505 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化：本周 236，今日 +74，AI 产品化 本期匹配 1297 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 基础设施与算力：本周 181，今日 +56，AI 基础设施与算力 本期匹配 997 篇文章，重点集中在 预训练/模型架构、AI 基础设施、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 141，今日 +34，成本管理与 FinOps 本期匹配 844 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 改造传统领域：本周 68，今日 +14，AI 改造传统领域 本期匹配 401 篇文章，重点集中在 Agent 工作流、AI 基础设施、评测/安全。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：47 篇
+- 做啥：48 篇
 - 忽略：0 篇
