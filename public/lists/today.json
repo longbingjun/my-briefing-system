@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "edition": "daily",
-  "generated_at": "2026-09-10T16:32:27.826375+00:00",
+  "generated_at": "2026-09-11T06:08:08.263542+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4344,
+    "total_scanned": 4352,
     "picks_count": 7,
-    "est_read_minutes": 13,
-    "est_saved_hours": 180.8
+    "est_read_minutes": 12,
+    "est_saved_hours": 181.1
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1656 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1656 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1656 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1666 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 831 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。",
+        "text": "AI Agents 本期匹配 836 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 831 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 836 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Using Blender with coding agents on macOS》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 549 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
+        "text": "推理训练与强化学习 本期匹配 545 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 549 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 545 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -67,6 +67,14 @@
       },
       {
         "n": 2,
+        "link": "https://openai.com/index/introducing-the-agents-api",
+        "title": "Introducing the Agents API",
+        "source": "OpenAI Blog",
+        "score": 100,
+        "minutes": 1
+      },
+      {
+        "n": 3,
         "link": "https://www.ithome.com/0/998/822.htm",
         "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
         "source": "IT之家",
@@ -74,7 +82,7 @@
         "minutes": 1
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://www.ithome.com/1/001/015.htm",
         "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
         "source": "IT之家",
@@ -82,20 +90,12 @@
         "minutes": 2
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://www.ithome.com/0/999/036.htm",
         "title": "科技巨头密集更新 AI 模型，“模型疲劳”问题凸显",
         "source": "IT之家",
         "score": 97,
         "minutes": 3
-      },
-      {
-        "n": 5,
-        "link": "https://www.ithome.com/0/997/852.htm",
-        "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 1
       },
       {
         "n": 6,
@@ -107,69 +107,69 @@
       },
       {
         "n": 7,
-        "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
-        "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-        "source": "Simon Willison",
-        "score": 97,
-        "minutes": 3
+        "link": "https://www.ithome.com/1/001/219.htm",
+        "title": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
+        "source": "IT之家",
+        "score": 95,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 351,
+        "articles_7d": 359,
         "direction": "down",
-        "today_count": 87
+        "today_count": 91
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 168,
+        "articles_7d": 178,
         "direction": "down",
-        "today_count": 59
+        "today_count": 62
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 101,
+        "articles_7d": 98,
         "direction": "down",
-        "today_count": 36
+        "today_count": 29
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 64,
+        "articles_7d": 68,
         "direction": "down",
-        "today_count": 20
+        "today_count": 24
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 44,
+        "articles_7d": 48,
         "direction": "up",
         "today_count": 16
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 38,
+        "articles_7d": 40,
         "direction": "down",
-        "today_count": 16
+        "today_count": 12
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 259,
+        "articles_7d": 269,
         "direction": "down",
-        "today_count": 70
+        "today_count": 80
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 255,
+        "articles_7d": 264,
         "direction": "down",
-        "today_count": 84
+        "today_count": 77
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -187,14 +187,35 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-10",
-      "published_at": "2026-09-10T16:32:16.520968+00:00",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11T06:07:59.323159+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 55,
       "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "04ee07e2da3c9590",
+      "title": "Introducing the Agents API",
+      "title_original": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI Blog",
+      "source_id": "openai_blog",
+      "source_group": "official",
+      "language": "en",
+      "date": "2026-09-10",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 1,
       "topic": "Agent 工作流"
     },
     {
@@ -261,27 +282,6 @@
       "topic": "评测/安全"
     },
     {
-      "id": "510fe8a9d08167c6",
-      "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "title_original": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "summary": "IT之家 9 月 3 日消息，Anthropic 今天（9 月 3 日）在 X 平台发布推文， 宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，可以在后台操控用户 Mac。 在适配要求方面，官方要求使用 macOS 15 以及更高系统版本，桌面必须保持唤醒状态，Claude Desktop 应用需保持打开。IT之家附上相关截图如下： 在本次更新之后，在 macOS 平台上，用户在处理其它工作的同时，Claude 可以在后台通过屏幕交互完成点击、输入和导航操作。如需 Claude 接管全屏，可在设置中调整为“完全控制”模式。 该功能同时服务于 Claude Cowork 和 Claude Code 两个产品。Cowork 面向文档处理、文件整理、研究综合等知识工作，Code 专注开发任务。 目前仅限 Pro 和 Max 个人订阅用户，Team 和 Enterprise 计划尚未开放。Linux 版本处于测试阶段，暂不支持电脑控制功能。",
-      "url": "https://www.ithome.com/0/997/852.htm",
-      "link": "https://www.ithome.com/0/997/852.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-03",
-      "published_at": "2026-09-03T03:49:55+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 1,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "d482743d310d74d2",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
       "title_original": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
@@ -303,132 +303,132 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "2f06e2f7d5f79e65",
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "title_original": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "summary": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago . I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do. It produced a much better game! Here's Moonlight &amp; Mayhem - GitHub repository here , including the textures and prompts it generated using gpt-image-2 . Your browser does not support HTML5 video. The original GPT-3 generated game description included: In “Raccoon Heist”, you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew. Fable's version had you as a single raccoon running around a back yard collecting coins and fish. GPT-5.6 Sol has you in a museum, rescuing your two other raccoon crewmates in order to stack on top of each other and bust the golden sardine out of its case. Much more heisty! There was one catch though: the version produced from the one-shot prompt had a bug where each raccoon had an eyeball that was enlarged to the size of a giant sphere floating over their head! You can play that version here . Despite reviewing screenshots during development Codex failed to spot and correct this bug. I fixed it by prompting: Why do the raccoons have huge black spheres on them? And then: Fix it Which resulted in this fix . I shared the full Codex transcript in the repository - I wish Claude Code had the same \"copy as Markdown\" feature. Codex spent 52 minutes on the project. Here's the AgentsView cost estimate for that session if I had been paying full API prices as opposed to using my monthly Codex subscription: Tags: game-design , ai , openai , generative-ai , llms , coding-agents , codex , gpt",
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
-      "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-08-19",
-      "published_at": "2026-08-19T13:15:09.742029+00:00",
-      "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
+      "id": "e248181e73a15540",
+      "title": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
+      "title_original": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
+      "summary": "北京时间 9 月 11 日，据彭博社报道，OpenAI 正在考虑放缓尖端 AI 的开发速度，该公司 CEO 萨姆 · 奥尔特曼 (Sam Altman) 希望其他 AI 公司也能采取同样的做法。 据多名知情人士透露，奥尔特曼本周在一次全体员工会议上告诉员工，OpenAI 可能会放慢 AI 开发节奏，或许会与其他几家 AI 实验室协同行动，但也有一些公司可能不会同意这么做。 近几周，头部 AI 公司的员工纷纷公开表达对先进 AI 系统风险上升的担忧，加剧了这些公司内部的焦虑。今年早些时候，OpenAI 及其竞争对手 Anthropic 都已秘密提交上市文件。 OpenAI 首席科学家雅库布 · 帕乔基 (Jakub Pachocki) 最近发表文章，警告 AI 带来的危险，认为 AI 公司应该“在必要时协调行动，放缓未来的开发进程”。帕乔基还表示，他希望“在共同的安全标准建立之前，自愿放缓开发能够成为行业惯例”。 OpenAI 已表示，出于安全方面的担忧，公司近期已经放缓了部分模型的开发，并暂停了特定内部 AI 训练。奥尔特曼曾在 7 月表示，他已与白宫官员讨论了放缓 AI 开发的“必要性”问题。 周二，Anthropic AI 研究员雅各布 · 考克森 (Jacob Coxon) 辞职，并指控他的两家前雇主 Anthropic 和 OpenAI 在竞相迈向超级智能 AI 的过程中“拿我们的生命赌博”。考克森在社交媒体帖子中表示，开发 AI 的人相信它可能“在这个十年结束前杀死我们所有人”。这些言论迅速传播，获得超过 1.5 亿次浏览，并引起知名议员和公众人物的关注。 截至发稿，OpenAI 不予置评。",
+      "url": "https://www.ithome.com/1/001/219.htm",
+      "link": "https://www.ithome.com/1/001/219.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-11",
+      "published_at": "2026-09-11T04:23:21+00:00",
+      "score": 95,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
-      "actionability": 55,
-      "minutes": 3,
-      "topic": "Agent 工作流"
+      "actionability": 35,
+      "minutes": 2,
+      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
-      "keyword": "models",
-      "mention_count": 4129,
-      "source_count": 7
-    },
-    {
       "keyword": "new",
-      "mention_count": 4124,
+      "mention_count": 4137,
       "source_count": 9
     },
     {
+      "keyword": "models",
+      "mention_count": 4100,
+      "source_count": 7
+    },
+    {
       "keyword": "model",
-      "mention_count": 3681,
+      "mention_count": 3667,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3390,
+      "mention_count": 3385,
       "source_count": 6
     },
     {
-      "keyword": "日消息",
-      "mention_count": 3378,
-      "source_count": 2
-    },
-    {
       "keyword": "之家",
-      "mention_count": 3376,
+      "mention_count": 3374,
       "source_count": 1
     },
     {
+      "keyword": "日消息",
+      "mention_count": 3372,
+      "source_count": 2
+    },
+    {
       "keyword": "abstract",
-      "mention_count": 3325,
+      "mention_count": 3330,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3322,
+      "mention_count": 3327,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3292,
+      "mention_count": 3297,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3072,
+      "mention_count": 3098,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2833,
+      "mention_count": 2792,
       "source_count": 6
     },
     {
       "keyword": "can",
-      "mention_count": 2464,
+      "mention_count": 2491,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2264,
-      "source_count": 7
+      "mention_count": 2243,
+      "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 2133,
+      "mention_count": 2101,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1851,
+      "mention_count": 1903,
       "source_count": 4
     },
     {
       "keyword": "not",
-      "mention_count": 1829,
+      "mention_count": 1848,
       "source_count": 7
     },
     {
+      "keyword": "learning",
+      "mention_count": 1814,
+      "source_count": 8
+    },
+    {
       "keyword": "these",
-      "mention_count": 1800,
+      "mention_count": 1801,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1775,
+      "mention_count": 1763,
       "source_count": 5
     },
     {
-      "keyword": "learning",
-      "mention_count": 1742,
-      "source_count": 8
-    },
-    {
       "keyword": "data",
-      "mention_count": 1677,
-      "source_count": 8
+      "mention_count": 1692,
+      "source_count": 7
     }
   ],
   "quality": {
-    "scored": 535,
+    "scored": 533,
     "must_read_count": 321,
-    "avg_score": 73.0
+    "avg_score": 73.2
   }
 }
