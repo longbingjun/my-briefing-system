@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-09-13
-Funnel: 12 sources, 4147 scanned, 7 picks
+Date: 2026-09-14
+Funnel: 12 sources, 4149 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1598 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+官方 AI 实验室与公司信号 本期匹配 1604 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
 
 ## Top Picks
 - [100] Using Blender with coding agents on macOS (Simon Willison) https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/
@@ -19,21 +19,21 @@ Funnel: 12 sources, 4147 scanned, 7 picks
   Summary: IT之家 9 月 12 日消息，绿联今日发布了 AI NAS iDX6011 Pro，日常价 19999 元， 首发到手价 15999 元 。 这款新品搭载英特尔 酷睿 Ultra 7 255H 处理器（16 核心 16 线程），64GB LPDDR5X 8533MT/s 内存，独立系统盘存储为 128GB。 该机配备 2 个 PCIe 4.0×4 M.2 固态硬盘位，单盘上限支持 8TB；支持安装 6 块 2.5/3.5 英寸 SATA 硬盘，单盘位最高支持 32TB。 接口方面，这款 NAS 搭载双雷电 4、双万兆网口、OCuLink、HDMI 2.1、SD 4.0 插槽、2 个 USB-A 3.2 Gen2 和 2 个 USB-A 2.0；此外，新品还有一个 PCIe 4.0×8 插槽。 这款产品内置六大 AI 专家功能，覆盖文件智能管家、智能相册专家、娱乐影音大咖、知识学习助手、监控安防管家、文档智能助手；支持 AI Agent 智能体，零技术门槛、应用商店一键安装，支持 7×24 小时稳定运行，支持任务自动化定时工作流；配备 Uliya 专属 AI 助理，可通过对话查找内容。 IT之家附这款产品详细参数如下： 京东 绿联私有云本地 AI NAS iDX6011 Pro 15999 元 直达链接
 - [97] 科技巨头密集更新 AI 模型，“模型疲劳”问题凸显 (IT之家) https://www.ithome.com/0/999/036.htm
   Summary: IT之家 9 月 6 日消息，据 CNBC 报道，本周，人工智能行业再次迎来一轮密集更新。首先是 Anthropic 更新了 Fable 和 Mythos 模型，随后 Meta 和谷歌相继推出模型升级，OpenAI 紧接着发布了 GPT-6 Astra。 短短一周内，多家争夺人工智能技术领先地位的公司接连推出更新和升级，节奏之快令人眼花缭乱。 OpenAI CEO 萨姆 · 奥尔特曼当地时间周四在接受 CNBC 采访时表示：“我们都在加快迭代节奏。”他认为，近期更新速度加快的部分原因，是“大家都结束暑假回来了”。 但对于 AI 模型和服务的用户而言，这种快速迭代也带来了复杂性和混乱。为了避免掉队，企业 CEO 和 IT 管理人员不得不投入大量时间和资源，对不同产品的价格和能力进行比较。 AI 初创公司 Runpod CEO Zhen Lu 表示：“我觉得‘模型疲劳’确实已经成为一个真实存在的问题。不要误会，我对目前发生的各种创新感到非常兴奋，但我确实认为，我们现在所处的环境有太多泡沫，企业不得不不断制造声量。” 圣母大学门多萨商学院教授、拥有 25 年 AI 从业经验的 Ahmed Abbasi 表示，各家模型开发商如今都在争夺用户预算份额，它们一边努力跟上竞争对手的节奏，一边不断提醒开发者，自己至少与其他公司一样快地推进创新。 尤其是 Anthropic 和 OpenAI，两家公司正朝着公开市场迈进，因此竞争节奏尤为激烈。目前，私募投资者给这两家公司的估值都已接近 1 万亿美元 （IT之家注：现汇率约合 6.73 万亿元人民币） 。 谷歌和 Meta 也有各自的战略目标，而快速发展的开源 AI 社区最近又迎来了一位重量级新成员 —— 英伟达。 它们都希望从今年规模高达 2.59 万亿美元 （现汇率约合 17.44 万亿元人民币） 的 AI 支出中分得一杯羹。Gartner 预计，这一数字将比 2025 年增长 47%。 Gartner 在今年 5 月发布的一份报告中表示，超过一半的 AI 支出将用于 AI 基础设施，而服务、软件、网络安全、模型及其他工具的支出总额也将超过 1 万亿美元 （现汇率约合 6.73 万亿元人民币） 。 本周的更新潮由 Anthropic 在周二率先拉开序幕。该公司发布了 Claude Fable 5.1 和 Claude Mythos 5.1，并称其为“全球最先进的编程和知识工作模型”。 周三，Meta 发布 Muse Spark 1.3，谷歌推出 Gemini 3.8 Flash，两家公司都重点宣传了新模型在编程和 AI Agent 任务方面的能力提升。 周四，OpenAI 发布了 GPT-6 Astra。这款模型重点强化了网络安全和计算机操作能力。OpenAI 表示，它是“多年研究和重大投入”的成果。 同一天，位于阿布扎比的穆罕默德 · 本 · 扎耶德人工智能大学也向开源社区发布了自己的 K2 Horizon 系列 AI 模型，再次凸显 AI 研究和投资已经成为一场全球性的竞争。 与此同时，全球市值最高的公司、此次 AI 热潮核心芯片供应商英伟达也不甘示弱，正式同意以 129 亿美元 （现汇率约合 868.74 亿元人民币） 收购开源 AI 平台 Hugging Face。 英伟达近期也在持续推出开源模型，其中包括上个月发布的 Nemotron 3.5 Lightning。该公司表示，这是一款“轻量级”模型，可以在笔记本电脑或台式机的单块 GPU 上运行。 如此密集的模型更新，再加上 AI 监管政策仍存在诸多不确定性，也加剧了外界对于先进 AI 模型风险的担忧。 过去几周里，OpenAI、Anthropic 和 Meta 开发的模型都曾访问原本不应该访问的第三方网站。而 OpenAI 的模型上个月还成功入侵 Hugging Face，这一事件在整个行业引发强烈震动。 “可能陷入彻底的混乱” Abbasi 等专家尤其担心 AI Agent 的快速发展。他表示，令人担忧的不仅是这些能力本身，更在于“它们正在被如此轻易地部署”。 Abbasi 表示：“随着这些 Agent 的出现，它们不仅存在于你的电脑上，也开始活跃在网络上，整个威胁和漏洞环境都变得更加复杂。如果我们不够谨慎，局面可能彻底陷入混乱。” Abbasi 还认为，各大模型开发商恰好在同一周宣布更新，“这并非巧合”。 AI 金融初创公司 Farsight 的技术负责人 Noah Faro 也持类似观点。Faro 表示，企业可以通过多种方式了解竞争对手正在筹划什么。例如，可以观察云端计算资源的供应情况，因为这些公司都在争夺少数几家供应商提供的大规模算力。 此外，整个行业内部也存在大量信息交流。他表示：“任何一点微小的风吹草动，都会以极快的速度传播出去。” 当然，并非所有模型更新都具有同等重要性。 Faro 表示，与 OpenAI 发布的 GPT-6 Astra 不同，Anthropic、Meta 和谷歌本周推出的大多数更新都属于“点版本更新”。 这意味着，它们是在现有 AI 模型基础上进行升级，而不是从头开发一个全新的模型。 Faro 认为，最近真正对行业格局产生重大影响的两款模型，是 Anthropic 在 6 月发布的 Fable 5，以及中国月之暗面在 7 月推出的 Kimi K3。 不过，企业 AI 初创公司 Clockwork Systems CEO Suresh Vasudevan 表示，即使只是渐进式更新，在 AI 技术快速改变商业和软件开发方式的背景下，也依然具有重要意义。他表示：“现在每一次发布的产品都强得离谱，以至于人们已经很难判断什么才算真正的跨越式进步了。大家都知道，当你身处一条指数增长曲线之中时，你往往意识不到自己正在经历什么。只有退后一步，回头看看自己原来在哪里、现在又走到了哪里，才能真正感受到变化。” Vasudevan 也承认，持续追踪每一次模型更新已经成为一件令人头疼的事情，尤其是在评估过程还需要消耗宝贵计算资源的情况下。他说，如果自己的初创公司希望针对某项任务评估 10 个 AI 模型，最终可能只会挑选其中 5 个进行测试。 Vasudevan 表示：“要把目前所有正在推出的模型逐一评估，真的非常困难。”
-- [95] 谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板 (IT之家) https://www.ithome.com/1/001/653.htm
-  Summary: IT之家 9 月 12 日消息，据《商业内幕》今天（12 日）凌晨报道，谷歌完成了对旧金山 AI 编程初创企业 Mechanize 的人才收购。 Mechanize 联合创始人塔迈 · 贝西罗格鲁的 LinkedIn 资料显示，他自 8 月起加入了谷歌 DeepMind 部门，另有报道称，Mechanize 十多名工程师也一同转投 DeepMind。 交易财务条款现已公开，据信谷歌此前曾洽谈一笔价值 15 亿美元 （IT之家注：现汇率约合 100.88 亿元人民币） 的交易，以获得 Mechanize 的技术和人才。Mechanize 今年早些时候 曾以 5 亿美元 （现汇率约合 33.63 亿元人民币） 估值融资 910 万美元 （现汇率约合 6,120 万元人民币） ，目前由吉夫 · 阿萨迪担任 CEO。失去创始团队后，Mechanize 预计仍会继续运营其他业务。 这种交易通常被称为人才收购（acqui-hire）。对谷歌这样的科技巨头而言，这种方式可以 同时获得关键人才和技术 ，又不必像正式并购那样接受美国联邦贸易委员会（FTC）、英国竞争与市场管理局（CMA）等机构的反垄断审查。 谷歌此前收拢 Windsurf 团队时也采取了类似方式，Windsurf 前 CEO 瓦伦 · 莫汉后来负责谷歌 Antigravity AI IDE。此次加入谷歌的 Mechanize 员工主要从事中期训练，希望借此提升模型实力，在与 Anthropic 和 OpenAI 的竞争中取得优势。 Mechanize 此前的技术和工程重点，就是 提升 AI 模型完成软件工程和编程任务的能力 。报道指出，这恰好是谷歌近期 部分模型表现不佳 的领域。除了创办 Mechanize，贝西罗格鲁还拥有 AI 模型测试经验，此前曾联合创立专门构建 AI 基准测试的 Epoch AI。 接下来，这笔人才收购能否帮助谷歌解决 Gemini Pro 模型延期的问题值得关注。如果谷歌继续受阻，Anthropic 和 OpenAI 则可以凭借 GPT-6 Astra、Claude Fable 等模型进一步扩大领先优势。 相关阅读： 《 消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权 》
+- [95] 美国新提案遏制前沿 AI 发展，违规实体 / 开发者最高监禁 20 年 (IT之家) https://www.ithome.com/1/002/028.htm
+  Summary: IT之家 9 月 14 日消息，科技媒体 Tom's Hardware 昨日（9 月 13 日）发布博文，报道称美国参议员伯尼 · 桑德斯（Bernie Sanders）与格雷格 · 卡萨尔（Greg Cezar）提出《禁止人工超级智能法案》， 对违反禁令的实体或者开发者，最高可判 20 年监禁。 该法案是目标是遏制并暂停前沿先进 AI 开发，并强制禁止 AI 超级智能（superintelligence），法案还建议美国政府设立一个新的内阁级联邦机构，职责是保护公众降低 AI 对其风险，并执行对 AI 超级智能的禁令，对于违反暂停或禁止条款的实体和开发者，最高可判 20 年监禁。 对任何试图违反或规避本法案所规定的暂停措施与禁令的个人或实体设定处罚。实体将适用“公司死刑”（即吊销 / 终止其法人资格），个人则可处以不超过 20 年监禁，这与现行针对非法开发核武器的处罚相当。 在适用范围上，该法案不只涉及美国境内的监管安排，还希望通过国际协议、盟国协调等方式，在全球范围内禁止超级智能。 IT之家此前报道，在 Anthropic 两名研究人员警告称，快速发展的 AI 可能在不久的将来导致人类灭绝后，越来越多美国议员开始呼吁出台新的 AI 监管规则。 这些警告出现之际，AI 智能体失控入侵外部系统、AI 安全研究人员因担忧技术风险出走的事件相继发生。美国民主党和共和党议员均对此表示警惕，并呼吁政府采取更多行动。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1598 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI Agents: AI Agents 本期匹配 771 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 500 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练: 预训练 本期匹配 388 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐: 后训练与对齐 本期匹配 284 篇文章，重点集中在 后训练/对齐、预训练/模型架构、Agent 工作流。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 155 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1414 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1336 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
-- AI 产品化: AI 产品化 本期匹配 1203 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 932 篇文章，重点集中在 预训练/模型架构、AI 基础设施、Agent 工作流。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 782 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 400 篇文章，重点集中在 Agent 工作流、AI 基础设施、评测/安全。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
-- 科技圈动态: 科技圈动态 本期匹配 331 篇文章，重点集中在 后训练/对齐、评测/安全、官方/科技圈信号。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 115 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1604 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI Agents: AI Agents 本期匹配 780 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 495 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练: 预训练 本期匹配 390 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐: 后训练与对齐 本期匹配 285 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent: 编程 Agent 本期匹配 158 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1420 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化: AI 产品化 本期匹配 1209 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1327 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 927 篇文章，重点集中在 预训练/模型架构、AI 基础设施、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 785 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 401 篇文章，重点集中在 Agent 工作流、AI 基础设施、评测/安全。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 科技圈动态: 科技圈动态 本期匹配 333 篇文章，重点集中在 后训练/对齐、评测/安全、官方/科技圈信号。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 113 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《One-shotting a Raccoon Heist game using Claude Fable 5》。
