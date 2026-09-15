@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "edition": "daily",
-  "generated_at": "2026-09-14T18:06:19.221385+00:00",
+  "generated_at": "2026-09-15T06:13:07.625925+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4144,
+    "total_scanned": 4205,
     "picks_count": 7,
     "est_read_minutes": 12,
-    "est_saved_hours": 172.5
+    "est_saved_hours": 175.0
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 777 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
+        "text": "AI Agents 本期匹配 797 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 777 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 797 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 496 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
+        "text": "推理训练与强化学习 本期匹配 508 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 496 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 508 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -91,6 +91,14 @@
       },
       {
         "n": 5,
+        "link": "https://www.ithome.com/1/002/526.htm",
+        "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+        "source": "IT之家",
+        "score": 97,
+        "minutes": 2
+      },
+      {
+        "n": 6,
         "link": "https://www.ithome.com/1/002/297.htm",
         "title": "微软发布 37 页人文主义 AI 行为准则：强调“人比 AI 重要”，拒绝追逐无边界超级智能",
         "source": "IT之家",
@@ -98,19 +106,11 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://www.ithome.com/1/001/625.htm",
         "title": "绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元",
         "source": "IT之家",
         "score": 97,
-        "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/1/002/315.htm",
-        "title": "英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放",
-        "source": "IT之家",
-        "score": 95,
         "minutes": 2
       }
     ],
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 369,
+        "articles_7d": 381,
         "direction": "up",
-        "today_count": 73
+        "today_count": 80
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 184,
-        "direction": "down",
-        "today_count": 41
+        "articles_7d": 217,
+        "direction": "up",
+        "today_count": 62
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 95,
+        "articles_7d": 118,
         "direction": "down",
-        "today_count": 15
+        "today_count": 29
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 62,
+        "articles_7d": 87,
         "direction": "down",
-        "today_count": 13
+        "today_count": 25
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 49,
-        "direction": "down",
-        "today_count": 12
+        "articles_7d": 61,
+        "direction": "flat",
+        "today_count": 14
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 36,
+        "articles_7d": 34,
         "direction": "down",
-        "today_count": 10
+        "today_count": 8
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 275,
-        "direction": "down",
-        "today_count": 55
+        "articles_7d": 350,
+        "direction": "up",
+        "today_count": 92
       },
       {
-        "entity_id": "ai_products",
-        "display": "AI 产品化",
-        "articles_7d": 250,
+        "entity_id": "data_analytics",
+        "display": "数据分析与指标体系",
+        "articles_7d": 299,
         "direction": "down",
-        "today_count": 57
+        "today_count": 74
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -250,8 +250,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-14",
-      "published_at": "2026-09-14T18:06:10.007511+00:00",
+      "date": "2026-09-15",
+      "published_at": "2026-09-15T06:12:57.084099+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -259,6 +259,27 @@
       "actionability": 35,
       "minutes": 2,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "e213186022771382",
+      "title": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+      "title_original": "微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试",
+      "summary": "IT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录，就 AI 行业是否发展过快发表看法。 他表示，AI 应保持在人类控制之下，支持更广泛的第三方测试，并警告公司必须花时间确保技术安全。“随着风险升高，人们应该需要多少时间就花多少时间。”“否则，你无论如何都会失去运营许可。” 此前，一些 AI 研究人员上周警告称，AI 技术可能杀死所有人。周末，Anthropic CEO 达里奥 · 阿莫代伊提议放缓 AI 开发，并表示公司会允许外部监控其模型进展。OpenAI CEO 萨姆 · 奥尔特曼同意第三方监控，并支持在必要时放缓部署，以确保对齐和安全。 微软周一还发布了 37 页的“人文主义”AI 模型行为准则草案。微软 AI 负责人穆斯塔法 · 苏莱曼写道：“我们长期在理论上担心的事情，已经变得非常真实。” 纳德拉在备忘录中提出三个重点领域。第一，明确设计目标：AI 必须处于人类控制之下，并广泛惠益社会。这意味着要打造一个能让开源和闭源模型都能繁荣的前沿生态，并在调整方向时谨慎把握节奏。 纳德拉将这种节奏类比为发布前的研发和测试。他表示，拥有更多外部或第三方测试和测试者是好事。随着风险升高，该花多少时间就花多少时间，否则最终将失去运营许可。 第二，对于客户，关键是确保他们控制自身独特和隐性知识，从而建立自己的持续学习循环，而不依赖任何单一模型提供商。Foundry 使长时间运行的智能体具备企业就绪能力，内置安全、安全护栏和 FinOps 等。 第三，微软必须确保本地居民能够切实感受到基础设施建设带来的好处，来获得建设相关基础设施的许可。纳德拉提到昆西数据中心是公司与社区长期共同成长的例子。 纳德拉总结称，这是一套贯穿三个层面的做法：如何在前沿构建，如何让客户保持控制，以及如何确保经济利益广泛扩散到社区和国家。他表示，作为一家公司，微软可以指向言语背后的实际行动。",
+      "url": "https://www.ithome.com/1/002/526.htm",
+      "link": "https://www.ithome.com/1/002/526.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-15",
+      "published_at": "2026-09-15T05:29:28+00:00",
+      "score": 97,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "后训练/对齐"
     },
     {
       "id": "e8c16567cd14742f",
@@ -301,39 +322,18 @@
       "actionability": 35,
       "minutes": 2,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "69681e70574c185b",
-      "title": "英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放",
-      "title_original": "英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放",
-      "summary": "IT之家 9 月 14 日消息，英伟达宣布，Perplexity 的本地智能体平台“Portable Computer”现已面向 Windows RTX PC 用户开放。 随着本地大模型能力持续增强，AI 智能体可以直接在个人电脑上处理更多任务，同时把敏感信息保留在本机设备内。 据介绍，Portable Computer 是智能体产品 Perplexity Computer 的本地版本，能够规划并执行多步骤任务。该产品依托英伟达 GPU 加速，借助本地模型分析数据、整合多份文件内的信息，处理重复性工作。敏感数据全部保存在本地设备，在本机完成的任务不会消耗 Perplexity Computer 的服务额度。用户也可以把任务交由云端模型处理，完成更高阶的调研与推理工作。 今日，Perplexity 在 Windows 版客户端中上线 Portable Computer 功能，支持搭载英伟达 GeForce RTX 显卡的兼容 PC 以及英伟达 RTX PRO 专业工作站，让更多 Windows 电脑用户可以使用高性能智能体 AI。本次发布，是在已支持英伟达 DGX Spark 系统与搭载 Linux 系统的 RTX PC 基础上的进一步拓展。 Perplexity 在一款应用内整合本地 AI 与云端 AI，用户可在个人电脑上处理敏感文件，还能调用 Computer 内置工具，例如内置浏览器以及自研的 SPACE 沙箱环境。遇到需要高阶推理的任务时，Portable Computer 能够自动识别该任务需要云端算力支持，在把数据传出本机前，会先向用户申请授权。 这款应用简化了本地模型部署流程，内置千问 Qwen 3.8 27B 模型；该模型经过二次微调适配 Perplexity Computer，并且针对英伟达 RTX GPU 做了优化。用户无需自行调研模型、配置运行本地 AI 所需的复杂软件环境，就能启用这套智能体。 产品提供微软 Outlook、OneDrive、Word、谷歌云盘、Gmail、Slack 以及 GitHub 的连接器，打通用户日常工作流里的各类文件与应用，拓展使用场景。 几个智能体可完成的任务示例： 工程领域：读取已接入 GitHub 项目的待合并代码提交请求，按状态分类整理并梳理后续工作。还能识别过时文档，生成修改提案提交审核。 金融领域：将两年的券商对账单、合并后的 1099 税表与纳税申报表交给它，智能体可以找出持续持仓中产生大量可规避手续费与税务损耗的资产，所有数据都标注到对应的文件与页码，全程文件不会上传至聊天机器人。 初创企业：向它询问用户激活量停滞的原因。智能体在本地分析转化漏斗导出数据，定位从安装应用到完成首个任务环节中新用户流失的节点，随后直接将核心分析结论发送至团队 Slack 频道。 IT之家注意到，Portable Computer 适用于显存 24GB 及以上的英伟达 GeForce RTX 与 RTX PRO 显卡设备。英伟达 DGX Station 工作站的支持功能预计很快上线。",
-      "url": "https://www.ithome.com/1/002/315.htm",
-      "link": "https://www.ithome.com/1/002/315.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-14",
-      "published_at": "2026-09-14T15:06:42+00:00",
-      "score": 95,
-      "entity_id": "ai_infra",
-      "entity": "AI 基础设施与算力",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "后训练/对齐"
     }
   ],
   "trending": [
     {
-      "keyword": "models",
-      "mention_count": 3738,
-      "source_count": 7
+      "keyword": "new",
+      "mention_count": 3809,
+      "source_count": 9
     },
     {
-      "keyword": "new",
-      "mention_count": 3720,
-      "source_count": 9
+      "keyword": "models",
+      "mention_count": 3808,
+      "source_count": 7
     },
     {
       "keyword": "之家",
@@ -347,88 +347,88 @@
     },
     {
       "keyword": "model",
-      "mention_count": 3301,
+      "mention_count": 3375,
       "source_count": 7
     },
     {
       "keyword": "type",
-      "mention_count": 3176,
+      "mention_count": 3258,
       "source_count": 6
     },
     {
       "keyword": "abstract",
-      "mention_count": 3126,
+      "mention_count": 3207,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3124,
+      "mention_count": 3204,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3090,
+      "mention_count": 3170,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 2817,
+      "mention_count": 2890,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2624,
+      "mention_count": 2707,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2208,
+      "mention_count": 2258,
       "source_count": 8
     },
     {
       "keyword": "while",
-      "mention_count": 2075,
+      "mention_count": 2140,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1912,
+      "mention_count": 1960,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1744,
-      "source_count": 4
+      "mention_count": 1775,
+      "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1687,
+      "mention_count": 1753,
       "source_count": 8
     },
     {
       "keyword": "not",
-      "mention_count": 1668,
-      "source_count": 6
-    },
-    {
-      "keyword": "data",
-      "mention_count": 1633,
+      "mention_count": 1696,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1629,
+      "mention_count": 1691,
       "source_count": 5
     },
     {
+      "keyword": "data",
+      "mention_count": 1686,
+      "source_count": 6
+    },
+    {
       "keyword": "but",
-      "mention_count": 1596,
+      "mention_count": 1652,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 534,
-    "must_read_count": 327,
-    "avg_score": 73.0
+    "scored": 532,
+    "must_read_count": 329,
+    "avg_score": 73.2
   }
 }

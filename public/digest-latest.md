@@ -1,13 +1,13 @@
-# My Briefing · 2026-09-14
+# My Briefing · 2026-09-15
 
-12 个活跃信源 -> 4144 条扫描 -> 7 条今日值得看
-预计阅读 12 分钟，节省约 172.5 小时。
+12 个活跃信源 -> 4205 条扫描 -> 7 条今日值得看
+预计阅读 12 分钟，节省约 175.0 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- **AI Agents**：AI Agents 本期匹配 777 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 496 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- **AI Agents**：AI Agents 本期匹配 797 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 508 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 
 ## 今日值得看
 
@@ -19,31 +19,31 @@
   IT之家 9 月 5 日消息，上海证券报今天（5 日）独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。用户可在淘宝 App 搜索“智谱旗舰店”进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为 品牌官方旗舰店 ，剩余三家目前为代理模式。
 - [97] [Feeling sad about AI](https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/) · Simon Willison · 2 min
   My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well , is to be very disheartened by it. Once you come to terms with the idea that translating an exact specification into decent code isn't a unique skill any more, you can start looking at the larger set of problems that you face as a software engineer and realize that there is so much left , and your existing skill and experience mean you can master these new tools, provide value, and execute at a level far greater than anyone who is just getting started building software using agents without any of your depth. If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon? These changes are happening a bit faster, but if you chose software development as a passion you've opted into pretty frequent radical change from the start. Tags: ai , generative-ai , llms , deep-blue
+- [97] [微软 CEO 纳德拉发布警告：AI 必须处于人类控制之下，支持更广泛的第三方测试](https://www.ithome.com/1/002/526.htm) · IT之家 · 2 min
+  IT之家 9 月 15 日消息，当地时间 9 月 14 日晚，微软 CEO 萨提亚 · 纳德拉在公司留言板发布内部备忘录，就 AI 行业是否发展过快发表看法。 他表示，AI 应保持在人类控制之下，支持更广泛的第三方测试，并警告公司必须花时间确保技术安全。“随着风险升高，人们应该需要多少时间就花多少时间。”“否则，你无论如何都会失去运营许可。” 此前，一些 AI 研究人员上周警告称，AI 技术可能杀死所有人。周末，Anthropic CEO 达里奥 · 阿莫代伊提议放缓 AI 开发，并表示公司会允许外部监控其模型进展。OpenAI CEO 萨姆 · 奥尔特曼同意第三方监控，并支持在必要时放缓部署，以确保对齐和安全。 微软周一还发布了 37 页的“人文主义”AI 模型行为准则草案。微软 AI 负责人穆斯塔法 · 苏莱曼写道：“我们长期在理论上担心的事情，已经变得非常真实。” 纳德拉在备忘录中提出三个重点领域。第一，明确设计目标：AI 必须处于人类控制之下，并广泛惠益社会。这意味着要打造一个能让开源和闭源模型都能繁荣的前沿生态，并在调整方向时谨慎把握节奏。 纳德拉将这种节奏类比为发布前的研发和测试。他表示，拥有更多外部或第三方测试和测试者是好事。随着风险升高，该花多少时间就花多少时间，否则最终将失去运营许可。 第二，对于客户，关键是确保他们控制自身独特和隐性知识，从而建立自己的持续学习循环，而不依赖任何单一模型提供商。Foundry 使长时间运行的智能体具备企业就绪能力，内置安全、安全护栏和 FinOps 等。 第三，微软必须确保本地居民能够切实感受到基础设施建设带来的好处，来获得建设相关基础设施的许可。纳德拉提到昆西数据中心是公司与社区长期共同成长的例子。 纳德拉总结称，这是一套贯穿三个层面的做法：如何在前沿构建，如何让客户保持控制，以及如何确保经济利益广泛扩散到社区和国家。他表示，作为一家公司，微软可以指向言语背后的实际行动。
 - [97] [微软发布 37 页人文主义 AI 行为准则：强调“人比 AI 重要”，拒绝追逐无边界超级智能](https://www.ithome.com/1/002/297.htm) · IT之家 · 2 min
   IT之家 9 月 14 日消息，随着各界对 AI 模型发展的安全担忧不断加剧，微软于今日发布了一份长达 37 页的“人文主义 AI 行为准则”。上周末，Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）呼吁各方协同放缓 AI 研发进度。此前已有研究人员发出警示：AI 模型迭代速度，可能快于人类安全部署日趋复杂系统、核验并管控 AI 智能体行为的能力。 微软这份 AI 行为准则明确提出，“人比 AI 更重要”；AI 模型并不具备意识，“不应被设计成模仿意识”。微软同时反对“赋予 AI 法人资格，或是认为模型应当享有福利、拥有权利”这类观点。 IT之家注意到，这一表述直接针对 AI 福利研究与模型意识相关理论，而 Anthropic 近期一直在大力推动相关方向。阿莫代伊今年早些时候曾表示，Anthropic 对“模型可能具备意识”这一猜想持开放态度，该公司似乎认为聊天机器人或许已经是能够思考、感知的实体。对此，微软 AI 事业部首席执行官穆斯塔法 · 苏莱曼（Mustafa Suleyman）在 6 月《Decoder》节目中评价，Anthropic 的这类猜想“极其、极其危险”。 虽然微软目前还不属于头部 AI 研发厂商，但苏莱曼今年早些时候在接受《The Verge》采访时表示，公司目标是“跻身全球四大 AI 实验室之列”。微软当前正在研发可对标谷歌、Anthropic 与 OpenAI 的模型。作为准则的一部分，微软承诺，其开发的模型不能超出人类管控范围。 微软称：“模型必须从属于人类，接受有效的人类监督与管控。”微软还要求，一旦 AI 模型面临会违反这份人文主义 AI 行为准则的任务，应当直接判定任务失败，而不是试图突破规则。 微软此举显然是对今年夏天 OpenAI 与 Hugging Face 的事件做出回应。在该事件中，一组智能体协同向目标发起攻击，甚至入侵用于评估它们表现的评分系统。这些 AI 智能体并未收到攻击指令，本次攻击行为和分配给它们的任务毫无关联。 该事件在 AI 行业引发巨大震动，凸显 AI 系统脱离人类管控、擅自行动的真实风险。OpenAI 近期也承认卷入了一起“维基事件”：另一组失控智能体劫持了一个德国维基站点。 包括上述两起在内的多起事件，促使部分研究人员呼吁放缓 AI 模型研发；但与此同时，行业仍在竞相攻克千禧年大奖难题、打造超级智能。微软表示：“【人文主义 AI 理念】反对一味竞速开发能够绕过安全防护的通用超级智能。我们要打造具备实用价值且安全可靠的产品，即便这需要在终极通用性、自主性或能力上限方面做出取舍。” 微软还承诺，自家模型在思考链路、以及和其他智能体或 AI 系统交互时，不会使用“超出普通人理解范围的表达形式”。模型在运算过程中可以展示推理过程，方便研究人员或自动化系统监控其行为。本月早些时候，已有研究人员对 OpenAI 最新的 GPT-6 Astra 模型提出监控层面的担忧，据报道该模型相比其他 AI 模型，展示出的推理信息更少。 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）上周末同样支持阿莫代伊提出的呼吁，即 AI 企业放缓高级模型研发。但他明确表示，他支持的是控制研发节奏，而非停止研发。奥尔特曼在 X 平台发文称：“管控研发节奏所付出的代价完全值得。无论美国面临多大的竞争压力，都不能成为鲁莽开发的理由，不能让模型能力走在对齐技术与监控手段前面。” 在微软发布这份 AI 行为准则之前，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）也加入呼吁行列，主张人类管控应当作为 AI 模型的核心原则。纳德拉在 X 平台发文表示：“任何超级智能的研发，都必须立足于一条核心准则：如果我们打造的 AI 无法造福人类、不受人类管控，那这项研发就不值得推进。”他还在一条回复中提到，增加第三方机构对 AI 模型的测试“是件好事”。“风险越高，就越要预留充足时间。如若不然，企业终将失去运营许可。这就是我们日常遵循的行事逻辑。” 除人类管控相关议题外，微软这份 AI 行为准则还承诺，自家模型将避免催生“造成用户过度依赖或情感依附的交互模式”，这明显针对 AI 的讨好症问题 —— 也就是聊天机器人优先取悦用户，而非给出真实、准确的回答。 微软表示，期待“与合作伙伴携手”，完善模型真实场景表现评估方案，结合真实使用者，研究“长期使用 AI 会给个人或机构带来的影响”。
 - [97] [绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元](https://www.ithome.com/1/001/625.htm) · IT之家 · 2 min
   IT之家 9 月 12 日消息，绿联今日发布了 AI NAS iDX6011 Pro，日常价 19999 元， 首发到手价 15999 元 。 这款新品搭载英特尔 酷睿 Ultra 7 255H 处理器（16 核心 16 线程），64GB LPDDR5X 8533MT/s 内存，独立系统盘存储为 128GB。 该机配备 2 个 PCIe 4.0×4 M.2 固态硬盘位，单盘上限支持 8TB；支持安装 6 块 2.5/3.5 英寸 SATA 硬盘，单盘位最高支持 32TB。 接口方面，这款 NAS 搭载双雷电 4、双万兆网口、OCuLink、HDMI 2.1、SD 4.0 插槽、2 个 USB-A 3.2 Gen2 和 2 个 USB-A 2.0；此外，新品还有一个 PCIe 4.0×8 插槽。 这款产品内置六大 AI 专家功能，覆盖文件智能管家、智能相册专家、娱乐影音大咖、知识学习助手、监控安防管家、文档智能助手；支持 AI Agent 智能体，零技术门槛、应用商店一键安装，支持 7×24 小时稳定运行，支持任务自动化定时工作流；配备 Uliya 专属 AI 助理，可通过对话查找内容。 IT之家附这款产品详细参数如下： 京东 绿联私有云本地 AI NAS iDX6011 Pro 15999 元 直达链接
-- [95] [英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放](https://www.ithome.com/1/002/315.htm) · IT之家 · 2 min
-  IT之家 9 月 14 日消息，英伟达宣布，Perplexity 的本地智能体平台“Portable Computer”现已面向 Windows RTX PC 用户开放。 随着本地大模型能力持续增强，AI 智能体可以直接在个人电脑上处理更多任务，同时把敏感信息保留在本机设备内。 据介绍，Portable Computer 是智能体产品 Perplexity Computer 的本地版本，能够规划并执行多步骤任务。该产品依托英伟达 GPU 加速，借助本地模型分析数据、整合多份文件内的信息，处理重复性工作。敏感数据全部保存在本地设备，在本机完成的任务不会消耗 Perplexity Computer 的服务额度。用户也可以把任务交由云端模型处理，完成更高阶的调研与推理工作。 今日，Perplexity 在 Windows 版客户端中上线 Portable Computer 功能，支持搭载英伟达 GeForce RTX 显卡的兼容 PC 以及英伟达 RTX PRO 专业工作站，让更多 Windows 电脑用户可以使用高性能智能体 AI。本次发布，是在已支持英伟达 DGX Spark 系统与搭载 Linux 系统的 RTX PC 基础上的进一步拓展。 Perplexity 在一款应用内整合本地 AI 与云端 AI，用户可在个人电脑上处理敏感文件，还能调用 Computer 内置工具，例如内置浏览器以及自研的 SPACE 沙箱环境。遇到需要高阶推理的任务时，Portable Computer 能够自动识别该任务需要云端算力支持，在把数据传出本机前，会先向用户申请授权。 这款应用简化了本地模型部署流程，内置千问 Qwen 3.8 27B 模型；该模型经过二次微调适配 Perplexity Computer，并且针对英伟达 RTX GPU 做了优化。用户无需自行调研模型、配置运行本地 AI 所需的复杂软件环境，就能启用这套智能体。 产品提供微软 Outlook、OneDrive、Word、谷歌云盘、Gmail、Slack 以及 GitHub 的连接器，打通用户日常工作流里的各类文件与应用，拓展使用场景。 几个智能体可完成的任务示例： 工程领域：读取已接入 GitHub 项目的待合并代码提交请求，按状态分类整理并梳理后续工作。还能识别过时文档，生成修改提案提交审核。 金融领域：将两年的券商对账单、合并后的 1099 税表与纳税申报表交给它，智能体可以找出持续持仓中产生大量可规避手续费与税务损耗的资产，所有数据都标注到对应的文件与页码，全程文件不会上传至聊天机器人。 初创企业：向它询问用户激活量停滞的原因。智能体在本地分析转化漏斗导出数据，定位从安装应用到完成首个任务环节中新用户流失的节点，随后直接将核心分析结论发送至团队 Slack 频道。 IT之家注意到，Portable Computer 适用于显存 24GB 及以上的英伟达 GeForce RTX 与 RTX PRO 显卡设备。英伟达 DGX Station 工作站的支持功能预计很快上线。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 369，今日 +73，官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI Agents：本周 184，今日 +41，AI Agents 本期匹配 777 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 推理训练与强化学习：本周 95，今日 +15，推理训练与强化学习 本期匹配 496 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练：本周 62，今日 +13，预训练 本期匹配 390 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 49，今日 +12，后训练与对齐 本期匹配 285 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 36，今日 +10，编程 Agent 本期匹配 156 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全：本周 275，今日 +55，AI 评测与安全 本期匹配 1422 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化：本周 250，今日 +57，AI 产品化 本期匹配 1208 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 数据分析与指标体系：本周 247，今日 +45，数据分析与指标体系 本期匹配 1324 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力：本周 171，今日 +34，AI 基础设施与算力 本期匹配 922 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 149，今日 +39，成本管理与 FinOps 本期匹配 786 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 改造传统领域：本周 72，今日 +10，AI 改造传统领域 本期匹配 400 篇文章，重点集中在 Agent 工作流、AI 基础设施、评测/安全。建议先看《Claude's new system prompt really doesn't want to reproduce song lyrics》。
+- 官方 AI 实验室与公司信号：本周 381，今日 +80，官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI Agents：本周 217，今日 +62，AI Agents 本期匹配 797 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 推理训练与强化学习：本周 118，今日 +29，推理训练与强化学习 本期匹配 508 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练：本周 87，今日 +25，预训练 本期匹配 407 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 61，今日 +14，后训练与对齐 本期匹配 288 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent：本周 34，今日 +8，编程 Agent 本期匹配 152 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全：本周 350，今日 +92，AI 评测与安全 本期匹配 1471 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- 数据分析与指标体系：本周 299，今日 +74，数据分析与指标体系 本期匹配 1367 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
+- AI 产品化：本周 299，今日 +75，AI 产品化 本期匹配 1246 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 基础设施与算力：本周 196，今日 +42，AI 基础设施与算力 本期匹配 939 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
+- 成本管理与 FinOps：本周 184，今日 +48，成本管理与 FinOps 本期匹配 810 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 改造传统领域：本周 79，今日 +15，AI 改造传统领域 本期匹配 408 篇文章，重点集中在 AI 基础设施、Agent 工作流、评测/安全。建议先看《比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：36 篇
+- 做啥：38 篇
 - 忽略：0 篇
