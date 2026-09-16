@@ -1,13 +1,13 @@
-# My Briefing · 2026-09-15
+# My Briefing · 2026-09-16
 
-12 个活跃信源 -> 4228 条扫描 -> 7 条今日值得看
-预计阅读 11 分钟，节省约 176.0 小时。
+12 个活跃信源 -> 4326 条扫描 -> 7 条今日值得看
+预计阅读 11 分钟，节省约 180.1 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1601 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- **AI Agents**：AI Agents 本期匹配 808 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 510 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、开源动态。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1618 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- **AI Agents**：AI Agents 本期匹配 833 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 535 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 397，今日 +78，官方 AI 实验室与公司信号 本期匹配 1601 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI Agents：本周 227，今日 +67，AI Agents 本期匹配 808 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 推理训练与强化学习：本周 122，今日 +30，推理训练与强化学习 本期匹配 510 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、开源动态。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练：本周 87，今日 +25，预训练 本期匹配 407 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 62，今日 +14，后训练与对齐 本期匹配 289 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 35，今日 +8，编程 Agent 本期匹配 152 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 评测与安全：本周 355，今日 +90，AI 评测与安全 本期匹配 1471 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- 数据分析与指标体系：本周 304，今日 +75，数据分析与指标体系 本期匹配 1360 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 304，今日 +78，AI 产品化 本期匹配 1246 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 基础设施与算力：本周 200，今日 +43，AI 基础设施与算力 本期匹配 941 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things》。
-- 成本管理与 FinOps：本周 186，今日 +46，成本管理与 FinOps 本期匹配 809 篇文章，重点集中在 评测/安全、预训练/模型架构、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI 改造传统领域：本周 81，今日 +14，AI 改造传统领域 本期匹配 402 篇文章，重点集中在 AI 基础设施、后训练/对齐、Agent 工作流。建议先看《比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思》。
+- 官方 AI 实验室与公司信号：本周 408，今日 +78，官方 AI 实验室与公司信号 本期匹配 1618 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI Agents：本周 252，今日 +60，AI Agents 本期匹配 833 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 推理训练与强化学习：本周 148，今日 +32，推理训练与强化学习 本期匹配 535 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练：本周 111，今日 +24，预训练 本期匹配 431 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 78，今日 +17，后训练与对齐 本期匹配 305 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent：本周 36，今日 +9，编程 Agent 本期匹配 154 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 评测与安全：本周 417，今日 +77，AI 评测与安全 本期匹配 1533 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化：本周 358，今日 +83，AI 产品化 本期匹配 1305 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 数据分析与指标体系：本周 350，今日 +68，数据分析与指标体系 本期匹配 1410 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力：本周 247，今日 +59，AI 基础设施与算力 本期匹配 987 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计》。
+- 成本管理与 FinOps：本周 219，今日 +45，成本管理与 FinOps 本期匹配 844 篇文章，重点集中在 评测/安全、Agent 工作流、预训练/模型架构。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 科技圈动态：本周 96，今日 +22，科技圈动态 本期匹配 356 篇文章，重点集中在 后训练/对齐、评测/安全、官方/科技圈信号。建议先看《IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：42 篇
+- 做啥：43 篇
 - 忽略：0 篇
