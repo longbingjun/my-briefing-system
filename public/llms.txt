@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-09-17
-Funnel: 12 sources, 4350 scanned, 7 picks
+Funnel: 12 sources, 4342 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1638 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+官方 AI 实验室与公司信号 本期匹配 1639 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
 
 ## Top Picks
 - [100] Claude Cowork and chat are now one Claude (Simon Willison) https://simonwillison.net/2026/Sep/16/one-claude/
@@ -14,11 +14,11 @@ Funnel: 12 sources, 4350 scanned, 7 picks
 - [97] “三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施 (IT之家) https://www.ithome.com/1/002/792.htm
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1638 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1639 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
 - AI Agents: AI Agents 本期匹配 848 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《.blend URL Viewer》。
 - 推理训练与强化学习: 推理训练与强化学习 本期匹配 542 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练: 预训练 本期匹配 425 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练: 预训练 本期匹配 426 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、预训练。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 - 后训练与对齐: 后训练与对齐 本期匹配 311 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 149 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude Cowork and chat are now one Claude》。
+- 编程 Agent: 编程 Agent 本期匹配 151 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude Cowork and chat are now one Claude》。
 - AI 评测与安全: AI 评测与安全 本期匹配 1526 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化: AI 产品化 本期匹配 1311 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI 产品化: AI 产品化 本期匹配 1314 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
