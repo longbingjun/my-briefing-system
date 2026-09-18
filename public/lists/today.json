@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-18",
   "edition": "daily",
-  "generated_at": "2026-09-18T06:02:50.500427+00:00",
+  "generated_at": "2026-09-18T16:33:32.012172+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4348,
+    "total_scanned": 4340,
     "picks_count": 7,
-    "est_read_minutes": 10,
-    "est_saved_hours": 181.0
+    "est_read_minutes": 11,
+    "est_saved_hours": 180.7
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《白帽黑客借 Anthropic Claude 成功入侵 OpenAI ChatGPT 账户，获 6500 美元赏金》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《白帽黑客借 Anthropic Claude 成功入侵 OpenAI ChatGPT 账户，获 6500 美元赏金》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1641 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《白帽黑客借 Anthropic Claude 成功入侵 OpenAI ChatGPT 账户，获 6500 美元赏金》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 544 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
+        "text": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 544 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,54 +99,54 @@
       },
       {
         "n": 6,
-        "link": "https://www.ithome.com/1/002/792.htm",
-        "title": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 1
-      },
-      {
-        "n": 7,
         "link": "https://www.qbitai.com/2026/09/490098.html",
         "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
         "source": "量子位",
         "score": 96,
         "minutes": 1
+      },
+      {
+        "n": 7,
+        "link": "https://www.ithome.com/1/004/334.htm",
+        "title": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
+        "source": "IT之家",
+        "score": 95,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 409,
+        "articles_7d": 410,
         "direction": "up",
-        "today_count": 84
+        "today_count": 87
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 256,
+        "articles_7d": 261,
         "direction": "up",
-        "today_count": 61
+        "today_count": 64
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 148,
+        "articles_7d": 147,
         "direction": "up",
-        "today_count": 31
+        "today_count": 29
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 105,
+        "articles_7d": 104,
         "direction": "up",
-        "today_count": 22
+        "today_count": 21
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 83,
+        "articles_7d": 82,
         "direction": "up",
         "today_count": 17
       },
@@ -160,20 +160,20 @@
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 406,
+        "articles_7d": 409,
         "direction": "up",
-        "today_count": 73
+        "today_count": 79
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 364,
+        "articles_7d": 363,
         "direction": "up",
-        "today_count": 81
+        "today_count": 77
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 350
+    "word_count": 328
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-18",
-      "published_at": "2026-09-18T06:02:40.852423+00:00",
+      "published_at": "2026-09-18T16:33:20.550473+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -282,27 +282,6 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "ac5f36ade364a3f2",
-      "title": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
-      "title_original": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
-      "summary": "IT之家 9 月 15 日消息，随着美国各界对 AI 可能威胁经济和国家安全的担忧不断升温，OpenAI 开始与主要竞争对手 Anthropic 和谷歌 DeepMind 合作研究 AI 安全措施，进一步推动行业共同应对潜在风险。 据彭博社今天（15 日）晚间报道，OpenAI 全球政策主管克里斯 · 莱恩透露，公司与 Anthropic 和谷歌围绕 AI 安全问题的接触持续了数周。OpenAI 认为，三家公司开展这类协调并不需要专门获得反垄断豁免。“ 尝试合作、优先保障安全，对大家都更好 。” 当地时间上周六，Anthropic CEO 达里奥 · 阿莫迪发表了一篇 3800 词的长文，呼吁放缓最先进 AI 系统的研发，让研究人员有更多时间了解潜在威胁，也让 AI 生存风险迅速进入公众讨论。OpenAI CEO 萨姆 · 奥尔特曼和 SpaceXAI 负责人埃隆 · 马斯克很快对阿莫迪的主张 表达支持 。 Anthropic、谷歌 DeepMind 的发言人没有立即回应置评请求。 莱恩认为，企业为了安全开展合作并不罕见，航空业就是一个例子。“长期以来，企业为了提高安全性而相互帮助的情况很多。” IT之家从报道中获悉，此次前往华盛顿期间，莱恩还计划与美国议员会面。他补充说，OpenAI 愿意支持两党提出、旨在防范 AI 潜在灾难性风险的方案。“ 只要能推动通过，我们都支持 。”",
-      "url": "https://www.ithome.com/1/002/792.htm",
-      "link": "https://www.ithome.com/1/002/792.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-15",
-      "published_at": "2026-09-15T14:41:26+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 1,
-      "topic": "评测/安全"
-    },
-    {
       "id": "d16cd11ecf4a3233",
       "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
       "title_original": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
@@ -322,113 +301,134 @@
       "actionability": 35,
       "minutes": 1,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "2c0e37f600cba1d8",
+      "title": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
+      "title_original": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
+      "summary": "IT之家 9 月 18 日消息，据路透社今天（18 日）报道，此前，阿莫迪、奥尔特曼和马斯克先后发出警告，能力不断增强的 AI 系统可能带来风险，故有必要 控制其发展节奏 ，但欧洲企业和官员对此表现出明显怀疑。 法国初创企业 Mistral 在声明中指出，这些风险早在几个月前就已十分明确了。“一些现有市场参与者开始 利用这一时机巩固市场地位 ，推动制定 更有利于自己、而不利于竞争对手 的监管规定。” 欧洲拥有的前沿 AI 开发商数量有限，成立仅 3 年的 Mistral 被视为欧洲自主打造前沿 AI 模型、挑战中美主导地位的最大希望。 现阶段，欧洲高度依赖 OpenAI、Anthropic 和微软开发的模型，因此不少企业和业内人士 对继续依赖美国科技公司保持警惕 。 瑞士隐私软件企业 Proton COO 拉斐尔 · 奥凡在巴黎一场科技活动上直言：“我认为，这完全是在为自己谋利。他们只是想继续维持外界对其服务的依赖。” 德国 AI 初创企业 Black Forest Labs 公共政策负责人本 · 布鲁克斯警告，如果依据人为设定的门槛，强行拉开大型 AI 实验室和新进入者之间的差距，“将会 打击前沿或接近前沿领域的开放创新 ”。 不过，同样身为美国企业的 Hugging Face CEO 克莱芒 · 德朗格表态反对为 AI 开发踩刹车。“现在不是放慢速度的时候，而是应该加速。”同时，他也赞同阿莫迪提出的另一项建议，即在 AI 企业内部设置“独立评估人员”。 德国达姆施塔特工业大学 AI 教授克里斯蒂安 · 克斯廷认为，阿莫迪提出的方案属于“监管俘获”。“如果少数几家大型企业 自行决定什么属于‘危险’，自己挑选检查人员 ，再要求获得竞争法豁免，那就不再是真正的监管。” IT之家从报道中获悉，欧洲政策制定者和行业团体也表达了类似担忧。当地时间 16 日，欧盟委员会主席乌尔苏拉 · 冯德莱恩指出，欧盟针对 AI 使用制定的标志性法规，使欧洲有能力影响全球如何应对 AI 风险。 当地时间 17 日，英国国王查尔斯三世则在苏格兰举行峰会，与科技和 AI 行业领袖讨论这些问题。 法国财政部长罗兰 · 莱斯屈尔直言：“ 让所有落在他们后面的人都放慢速度，好让他们继续保持第一 ，我当然看得出这里面的自身利益。” 德国数字事务部认为，考虑到欧洲争取数字主权的需求，停止 AI 发展并不现实。德国 AI 行业协会负责人丹尼尔 · 阿布也主张，欧洲眼下更应该集中精力缩小技术差距。“对欧洲企业而言，这场争论没有意义。我们首先需要 弥补技术上的落后 。”",
+      "url": "https://www.ithome.com/1/004/334.htm",
+      "link": "https://www.ithome.com/1/004/334.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T14:11:09+00:00",
+      "score": 95,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 2,
+      "topic": "行业改造"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3999,
+      "mention_count": 3996,
       "source_count": 9
     },
     {
       "keyword": "models",
-      "mention_count": 3933,
+      "mention_count": 3930,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3573,
+      "mention_count": 3565,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3400,
+      "mention_count": 3402,
       "source_count": 1
     },
     {
-      "keyword": "type",
-      "mention_count": 3396,
-      "source_count": 6
-    },
-    {
       "keyword": "日消息",
-      "mention_count": 3392,
+      "mention_count": 3394,
       "source_count": 2
     },
     {
+      "keyword": "type",
+      "mention_count": 3393,
+      "source_count": 6
+    },
+    {
       "keyword": "abstract",
-      "mention_count": 3350,
+      "mention_count": 3347,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3346,
+      "mention_count": 3343,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3313,
+      "mention_count": 3310,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3064,
+      "mention_count": 3058,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2800,
+      "mention_count": 2797,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2358,
+      "mention_count": 2355,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2256,
+      "mention_count": 2255,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1995,
+      "mention_count": 1994,
       "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1827,
-      "source_count": 6
-    },
-    {
-      "keyword": "not",
-      "mention_count": 1821,
+      "mention_count": 1824,
       "source_count": 6
     },
     {
       "keyword": "learning",
-      "mention_count": 1818,
+      "mention_count": 1817,
       "source_count": 8
     },
     {
+      "keyword": "not",
+      "mention_count": 1815,
+      "source_count": 6
+    },
+    {
       "keyword": "data",
-      "mention_count": 1788,
+      "mention_count": 1789,
       "source_count": 8
     },
     {
       "keyword": "these",
-      "mention_count": 1781,
+      "mention_count": 1780,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1778,
+      "mention_count": 1773,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 533,
-    "must_read_count": 344,
-    "avg_score": 73.9
+    "scored": 532,
+    "must_read_count": 343,
+    "avg_score": 74.0
   }
 }
