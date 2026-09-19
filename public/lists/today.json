@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "edition": "daily",
-  "generated_at": "2026-09-18T16:33:32.012172+00:00",
+  "generated_at": "2026-09-19T06:01:18.071721+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4340,
+    "total_scanned": 4253,
     "picks_count": 7,
-    "est_read_minutes": 11,
-    "est_saved_hours": 180.7
+    "est_read_minutes": 12,
+    "est_saved_hours": 177.0
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1637 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1637 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1637 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 864 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Claude Cowork and chat are now one Claude》。",
+        "text": "AI Agents 本期匹配 839 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Claude Cowork and chat are now one Claude》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 864 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 839 篇文章，重点集中在 Agent 工作流、评测/安全、推理训练/测试时计算。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
+        "text": "推理训练与强化学习 本期匹配 522 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 522 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -67,6 +67,14 @@
       },
       {
         "n": 2,
+        "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+        "title": "Quoting Thariq Shihipar",
+        "source": "Simon Willison",
+        "score": 100,
+        "minutes": 2
+      },
+      {
+        "n": 3,
         "link": "https://www.qbitai.com/2026/09/491711.html",
         "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
         "source": "量子位",
@@ -74,7 +82,7 @@
         "minutes": 1
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://www.ithome.com/0/998/822.htm",
         "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
         "source": "IT之家",
@@ -82,7 +90,7 @@
         "minutes": 1
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://www.ithome.com/1/004/056.htm",
         "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
         "source": "IT之家",
@@ -90,25 +98,17 @@
         "minutes": 2
       },
       {
-        "n": 5,
-        "link": "https://www.ithome.com/1/004/011.htm",
-        "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
+        "n": 6,
+        "link": "https://www.ithome.com/1/004/423.htm",
+        "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
         "source": "IT之家",
-        "score": 99,
+        "score": 97,
         "minutes": 2
       },
       {
-        "n": 6,
-        "link": "https://www.qbitai.com/2026/09/490098.html",
-        "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-        "source": "量子位",
-        "score": 96,
-        "minutes": 1
-      },
-      {
         "n": 7,
-        "link": "https://www.ithome.com/1/004/334.htm",
-        "title": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
+        "link": "https://www.ithome.com/1/004/420.htm",
+        "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
         "source": "IT之家",
         "score": 95,
         "minutes": 2
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 410,
+        "articles_7d": 401,
         "direction": "up",
-        "today_count": 87
+        "today_count": 75
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 261,
+        "articles_7d": 242,
         "direction": "up",
-        "today_count": 64
+        "today_count": 28
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 147,
+        "articles_7d": 137,
         "direction": "up",
-        "today_count": 29
+        "today_count": 8
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 104,
+        "articles_7d": 100,
         "direction": "up",
-        "today_count": 21
+        "today_count": 0
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 82,
+        "articles_7d": 76,
         "direction": "up",
-        "today_count": 17
+        "today_count": 4
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 36,
+        "articles_7d": 33,
         "direction": "down",
-        "today_count": 14
+        "today_count": 7
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 409,
+        "articles_7d": 388,
         "direction": "up",
-        "today_count": 79
+        "today_count": 20
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 363,
+        "articles_7d": 345,
         "direction": "up",
-        "today_count": 77
+        "today_count": 26
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 328
+    "word_count": 302
   },
   "picks": [
     {
@@ -187,8 +187,29 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-18",
-      "published_at": "2026-09-18T16:33:20.550473+00:00",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T06:01:09.113288+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "885e14e67407a1b9",
+      "title": "Quoting Thariq Shihipar",
+      "title_original": "Quoting Thariq Shihipar",
+      "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-shihipar , coding-agents , anthropic , claude-code , generative-ai , ai , llms",
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T06:01:09.112747+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -261,88 +282,67 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "ee3d8fe9c41b9256",
-      "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
-      "title_original": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
-      "summary": "IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。 活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。 在此基础上，Qoder 还推出每日登录奖励。每天 10:00 开放新一轮领取，至次日 10:00 前可领（每个账号每轮可领一次 100 通用 Credits，错过不补），每笔奖励自领取之日起 30 天有效。 值得一提的是，未到期的额度可以累积。奖励计入 Add-on Credits，可在 Qoder、Qoder IDE、Qoder JetBrains 插件、Qoder CLI、QoderWake、Qoder Cloud Agents、移动端及网页版使用。 参与资格覆盖国际版体验版、Pro 试用期、Pro、Pro+、Ultra 用户，以及 CN 体验版、专业版、高级版、旗舰版及会员卡用户，包含免费和试用期用户。 有需要的用户只需现在打开 Qoder 桌面端，点击左下角用量面板中的礼物图标即可。Qoder 表示，每日登录奖励暂时没有结束时间，领取不改变订阅等级、会员卡权益或功能权限。 据官方介绍，Qwen3.8-Flash 擅长代码编写、长文档处理、图像理解和工具调用。在 Qoder 上，该模型可用于现有项目功能升级、搭建网站或应用、数据可视化分析报告及课题研究等场景。 免费期间，套餐内额度和每日奖励可留给其他模型使用。Qoder 国际版与 Qoder CN 的新老个人用户均可参加。免费活动结束后，Qwen3.8-Flash 将按届时公示系数计费，其他模型或档位仍按各自规则执行。",
-      "url": "https://www.ithome.com/1/004/011.htm",
-      "link": "https://www.ithome.com/1/004/011.htm",
+      "id": "f31b29ede2e207ed",
+      "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
+      "title_original": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
+      "summary": "IT之家 9 月 19 日消息，美国加利福尼亚州北区联邦法院当地时间 9 月 18 日受理了一宗诉讼案，原告指控 Anthropic、OpenAI、SpaceXAI 和谷歌四大 AI 巨头共同非法协调以限制 AI 发展速度。 起诉书显示，案件名称为 Buist v. Anthropic PBC，编号为 3:26-cv-10693。原告为订阅上述公司 AI 服务的消费者，包括 Cheyenne Hunt、佛罗里达州律师 Charles Buist、Nick Spetsas 以及加利福尼亚州居民 Christine Bullock。原告方律师包括 Nick Rowley，Trial Lawyers for Justice 代表原告。原告寻求集体诉讼认证、针对被告的禁令，以及宣告被告违反联邦反垄断法的判决。 此次诉讼源于 Anthropic CEO 达里奥 · 阿莫代伊 9 月 12 日发表的文章。他呼吁“全行业协调”，以“为 AI 前沿设定节奏”并“限制不受约束的 AI 进展速度”，让安全评估和防护措施有时间跟上。 阿莫代伊强调，他所说的“放缓”并不意味着停止模型训练或技术进步，而是要求企业以更平衡的速度推进能力提升，并留出时间完成安全验证。他提出的方案包括企业引入第三方评估人员、推动行业协调以及进一步开展国际协调。 这一倡议随后获得多名 AI 行业高管公开响应。OpenAI CEO 萨姆 · 奥尔特曼表示认同其关于“控制前沿 AI 发展节奏”的观点，SpaceXAI 埃隆 · 马斯克以及谷歌 DeepMind 联合创始人德米斯 · 哈萨比斯也表达了支持。 原告认为，几家彼此竞争的 AI 公司高管公开支持相同的主张，已经构成企业之间协调产品改进速度的协议，违反《谢尔曼反垄断法》第一条（认为竞争者之间限制竞争的协调行为可能构成反垄断违法行为）。 原告进一步声称，如果竞争对手都放缓 AI 产品迭代速度，消费者将以相同价格获得更新速度更慢的产品，因此其利益受到损害。诉讼请求包括禁止相关企业继续实施被指控的协调行为，并要求法院确认相关行为违反美国联邦反垄断法。 原告律师 Nick Rowley 在声明中称，案件旨在确保“全球最有实力的‘营利性’科技公司之间的私下自利协议”不会导致 AI“迅速脱离人类控制”。他说，在核战争等灭绝事件威胁以及如今人类历史上最大风险面前，人类理应得到铁一般的保障，法治应由政府透明、合法地建立，并对公众负责。原告方表示，他们打算寻求将案件扩大为集体诉讼，代表因相关公司放缓决定而受影响的其他消费者。",
+      "url": "https://www.ithome.com/1/004/423.htm",
+      "link": "https://www.ithome.com/1/004/423.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-09-18",
-      "published_at": "2026-09-18T03:20:09+00:00",
-      "score": 99,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "d16cd11ecf4a3233",
-      "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-      "title_original": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-      "summary": "任务通过率提升24.2%，token成本最高下降45%",
-      "url": "https://www.qbitai.com/2026/09/490098.html",
-      "link": "https://www.qbitai.com/2026/09/490098.html",
-      "source": "量子位",
-      "source_id": "qbitai",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-16",
-      "published_at": "2026-09-16T02:27:20+00:00",
-      "score": 96,
-      "entity_id": "cost_management",
-      "entity": "成本管理与 FinOps",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 1,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "2c0e37f600cba1d8",
-      "title": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
-      "title_original": "美国 AI 巨头提议开发减速，欧洲同行和政界并不认同",
-      "summary": "IT之家 9 月 18 日消息，据路透社今天（18 日）报道，此前，阿莫迪、奥尔特曼和马斯克先后发出警告，能力不断增强的 AI 系统可能带来风险，故有必要 控制其发展节奏 ，但欧洲企业和官员对此表现出明显怀疑。 法国初创企业 Mistral 在声明中指出，这些风险早在几个月前就已十分明确了。“一些现有市场参与者开始 利用这一时机巩固市场地位 ，推动制定 更有利于自己、而不利于竞争对手 的监管规定。” 欧洲拥有的前沿 AI 开发商数量有限，成立仅 3 年的 Mistral 被视为欧洲自主打造前沿 AI 模型、挑战中美主导地位的最大希望。 现阶段，欧洲高度依赖 OpenAI、Anthropic 和微软开发的模型，因此不少企业和业内人士 对继续依赖美国科技公司保持警惕 。 瑞士隐私软件企业 Proton COO 拉斐尔 · 奥凡在巴黎一场科技活动上直言：“我认为，这完全是在为自己谋利。他们只是想继续维持外界对其服务的依赖。” 德国 AI 初创企业 Black Forest Labs 公共政策负责人本 · 布鲁克斯警告，如果依据人为设定的门槛，强行拉开大型 AI 实验室和新进入者之间的差距，“将会 打击前沿或接近前沿领域的开放创新 ”。 不过，同样身为美国企业的 Hugging Face CEO 克莱芒 · 德朗格表态反对为 AI 开发踩刹车。“现在不是放慢速度的时候，而是应该加速。”同时，他也赞同阿莫迪提出的另一项建议，即在 AI 企业内部设置“独立评估人员”。 德国达姆施塔特工业大学 AI 教授克里斯蒂安 · 克斯廷认为，阿莫迪提出的方案属于“监管俘获”。“如果少数几家大型企业 自行决定什么属于‘危险’，自己挑选检查人员 ，再要求获得竞争法豁免，那就不再是真正的监管。” IT之家从报道中获悉，欧洲政策制定者和行业团体也表达了类似担忧。当地时间 16 日，欧盟委员会主席乌尔苏拉 · 冯德莱恩指出，欧盟针对 AI 使用制定的标志性法规，使欧洲有能力影响全球如何应对 AI 风险。 当地时间 17 日，英国国王查尔斯三世则在苏格兰举行峰会，与科技和 AI 行业领袖讨论这些问题。 法国财政部长罗兰 · 莱斯屈尔直言：“ 让所有落在他们后面的人都放慢速度，好让他们继续保持第一 ，我当然看得出这里面的自身利益。” 德国数字事务部认为，考虑到欧洲争取数字主权的需求，停止 AI 发展并不现实。德国 AI 行业协会负责人丹尼尔 · 阿布也主张，欧洲眼下更应该集中精力缩小技术差距。“对欧洲企业而言，这场争论没有意义。我们首先需要 弥补技术上的落后 。”",
-      "url": "https://www.ithome.com/1/004/334.htm",
-      "link": "https://www.ithome.com/1/004/334.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-18",
-      "published_at": "2026-09-18T14:11:09+00:00",
-      "score": 95,
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T04:10:28+00:00",
+      "score": 97,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
       "actionability": 35,
       "minutes": 2,
-      "topic": "行业改造"
+      "topic": "评测/安全"
+    },
+    {
+      "id": "0da796cf87743c1c",
+      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
+      "title_original": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
+      "summary": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元 （IT之家注：现汇率约合 1.87 万亿元人民币） 负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元 （现汇率约合 5.75 万亿元人民币） 。 自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。 自由现金流为负， 通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。 根据该演示文稿，OpenAI 公司的支出将远远超过收入，存在较大的资金缺口，在未来 5 年需要通过融资不断“烧钱”。 收入方面，OpenAI 公司收入预估营收为 360 亿美元 （现汇率约合 2,417.07 亿元人民币） ，2030 年升至 3,500 亿美元 （现汇率约合 2.35 万亿元人民币） ，收入预计接近增长 10 倍，从 2026 年至 2030 年底累计营收预估为 8,400 亿美元 （现汇率约合 5.64 万亿元人民币） 。 尽管收入快速增长，但文稿显示 OpenAI 公司的支出增速更快，到 2030 年年底，用于计算能力和基础设施的单项 AI 基建支出累计投入需 8,560 亿美元 （现汇率约合 5.75 万亿元人民币） 。 OpenAI 需持续购置数据中心和计算资源，用于训练及运行模型。在竞争方面，为了应对开放权重模型，以及 Anthropic 公司，OpenAI 公司未来还需要下调部分产品价格，从而影响公司相关营收。 OpenAI 在 2026 年 3 月融资 1,220 亿美元 （现汇率约合 8,191.19 亿元人民币） 。演示文稿显示，按当前预测，公司将在 2028 年耗尽这笔资金。 融资方面，OpenAI 近期启动一轮大规模融资谈判。投资方曾讨论按 1.2 万亿美元 （现汇率约合 8.06 万亿元人民币） 估值注资，而接近公司的消息人士称，OpenAI 寻求更高估值。",
+      "url": "https://www.ithome.com/1/004/420.htm",
+      "link": "https://www.ithome.com/1/004/420.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T03:53:04+00:00",
+      "score": 95,
+      "entity_id": "official_ai_labs",
+      "entity": "官方 AI 实验室与公司信号",
+      "kind": "read",
+      "actionability": 20,
+      "minutes": 2,
+      "topic": "AI 基础设施"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3996,
+      "mention_count": 3817,
       "source_count": 9
     },
     {
       "keyword": "models",
-      "mention_count": 3930,
+      "mention_count": 3756,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3565,
+      "mention_count": 3430,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3402,
+      "mention_count": 3400,
       "source_count": 1
     },
     {
@@ -352,83 +352,83 @@
     },
     {
       "keyword": "type",
-      "mention_count": 3393,
+      "mention_count": 3255,
       "source_count": 6
     },
     {
       "keyword": "abstract",
-      "mention_count": 3347,
+      "mention_count": 3214,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3343,
+      "mention_count": 3207,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3310,
+      "mention_count": 3174,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3058,
+      "mention_count": 2931,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2797,
+      "mention_count": 2678,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2355,
+      "mention_count": 2255,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2255,
+      "mention_count": 2178,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1994,
+      "mention_count": 1898,
       "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1824,
+      "mention_count": 1770,
+      "source_count": 6
+    },
+    {
+      "keyword": "not",
+      "mention_count": 1745,
       "source_count": 6
     },
     {
       "keyword": "learning",
-      "mention_count": 1817,
+      "mention_count": 1731,
       "source_count": 8
     },
     {
-      "keyword": "not",
-      "mention_count": 1815,
-      "source_count": 6
-    },
-    {
       "keyword": "data",
-      "mention_count": 1789,
+      "mention_count": 1717,
       "source_count": 8
     },
     {
       "keyword": "these",
-      "mention_count": 1780,
+      "mention_count": 1715,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1773,
+      "mention_count": 1703,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 532,
-    "must_read_count": 343,
-    "avg_score": 74.0
+    "scored": 537,
+    "must_read_count": 338,
+    "avg_score": 73.7
   }
 }
