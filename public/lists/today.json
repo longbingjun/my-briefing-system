@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-20",
   "edition": "daily",
-  "generated_at": "2026-09-20T06:26:28.878207+00:00",
+  "generated_at": "2026-09-20T16:17:04.897348+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4146,
+    "total_scanned": 4145,
     "picks_count": 7,
     "est_read_minutes": 12,
-    "est_saved_hours": 172.6
+    "est_saved_hours": 172.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 811 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。",
+        "text": "AI Agents 本期匹配 808 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 811 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 808 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -83,16 +83,16 @@
       },
       {
         "n": 4,
-        "link": "https://www.ithome.com/0/998/822.htm",
-        "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+        "link": "https://www.ithome.com/1/004/056.htm",
+        "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
         "source": "IT之家",
-        "score": 100,
-        "minutes": 1
+        "score": 99,
+        "minutes": 2
       },
       {
         "n": 5,
-        "link": "https://www.ithome.com/1/004/056.htm",
-        "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
+        "link": "https://www.ithome.com/1/004/011.htm",
+        "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
         "source": "IT之家",
         "score": 99,
         "minutes": 2
@@ -107,27 +107,27 @@
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/1/004/420.htm",
-        "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-        "source": "IT之家",
-        "score": 95,
-        "minutes": 2
+        "link": "https://www.qbitai.com/2026/09/492912.html",
+        "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+        "source": "量子位",
+        "score": 96,
+        "minutes": 1
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 403,
+        "articles_7d": 404,
         "direction": "up",
         "today_count": 55
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 241,
+        "articles_7d": 242,
         "direction": "up",
-        "today_count": 22
+        "today_count": 21
       },
       {
         "entity_id": "reasoning_training",
@@ -139,37 +139,37 @@
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 101,
+        "articles_7d": 99,
         "direction": "up",
-        "today_count": 1
+        "today_count": 0
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 75,
+        "articles_7d": 73,
         "direction": "up",
-        "today_count": 5
+        "today_count": 4
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 30,
+        "articles_7d": 31,
         "direction": "down",
         "today_count": 6
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 391,
+        "articles_7d": 385,
         "direction": "up",
-        "today_count": 16
+        "today_count": 12
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 340,
+        "articles_7d": 338,
         "direction": "up",
-        "today_count": 21
+        "today_count": 23
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-20",
-      "published_at": "2026-09-20T06:26:18.216664+00:00",
+      "published_at": "2026-09-20T16:16:54.368858+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-20",
-      "published_at": "2026-09-20T06:26:18.216179+00:00",
+      "published_at": "2026-09-20T16:16:54.368356+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -240,27 +240,6 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "751f2c565934961d",
-      "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
-      "title_original": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
-      "summary": "IT之家 9 月 5 日消息，上海证券报今天（5 日）独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。用户可在淘宝 App 搜索“智谱旗舰店”进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为 品牌官方旗舰店 ，剩余三家目前为代理模式。",
-      "url": "https://www.ithome.com/0/998/822.htm",
-      "link": "https://www.ithome.com/0/998/822.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05T12:52:13+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 1,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "5729dd0367d0ba70",
       "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
       "title_original": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
@@ -273,6 +252,27 @@
       "language": "zh",
       "date": "2026-09-18",
       "published_at": "2026-09-18T04:12:53+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "ee3d8fe9c41b9256",
+      "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
+      "title_original": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
+      "summary": "IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。 活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。 在此基础上，Qoder 还推出每日登录奖励。每天 10:00 开放新一轮领取，至次日 10:00 前可领（每个账号每轮可领一次 100 通用 Credits，错过不补），每笔奖励自领取之日起 30 天有效。 值得一提的是，未到期的额度可以累积。奖励计入 Add-on Credits，可在 Qoder、Qoder IDE、Qoder JetBrains 插件、Qoder CLI、QoderWake、Qoder Cloud Agents、移动端及网页版使用。 参与资格覆盖国际版体验版、Pro 试用期、Pro、Pro+、Ultra 用户，以及 CN 体验版、专业版、高级版、旗舰版及会员卡用户，包含免费和试用期用户。 有需要的用户只需现在打开 Qoder 桌面端，点击左下角用量面板中的礼物图标即可。Qoder 表示，每日登录奖励暂时没有结束时间，领取不改变订阅等级、会员卡权益或功能权限。 据官方介绍，Qwen3.8-Flash 擅长代码编写、长文档处理、图像理解和工具调用。在 Qoder 上，该模型可用于现有项目功能升级、搭建网站或应用、数据可视化分析报告及课题研究等场景。 免费期间，套餐内额度和每日奖励可留给其他模型使用。Qoder 国际版与 Qoder CN 的新老个人用户均可参加。免费活动结束后，Qwen3.8-Flash 将按届时公示系数计费，其他模型或档位仍按各自规则执行。",
+      "url": "https://www.ithome.com/1/004/011.htm",
+      "link": "https://www.ithome.com/1/004/011.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T03:20:09+00:00",
       "score": 99,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -303,132 +303,132 @@
       "topic": "评测/安全"
     },
     {
-      "id": "0da796cf87743c1c",
-      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "title_original": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "summary": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元 （IT之家注：现汇率约合 1.87 万亿元人民币） 负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元 （现汇率约合 5.75 万亿元人民币） 。 自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。 自由现金流为负， 通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。 根据该演示文稿，OpenAI 公司的支出将远远超过收入，存在较大的资金缺口，在未来 5 年需要通过融资不断“烧钱”。 收入方面，OpenAI 公司收入预估营收为 360 亿美元 （现汇率约合 2,417.07 亿元人民币） ，2030 年升至 3,500 亿美元 （现汇率约合 2.35 万亿元人民币） ，收入预计接近增长 10 倍，从 2026 年至 2030 年底累计营收预估为 8,400 亿美元 （现汇率约合 5.64 万亿元人民币） 。 尽管收入快速增长，但文稿显示 OpenAI 公司的支出增速更快，到 2030 年年底，用于计算能力和基础设施的单项 AI 基建支出累计投入需 8,560 亿美元 （现汇率约合 5.75 万亿元人民币） 。 OpenAI 需持续购置数据中心和计算资源，用于训练及运行模型。在竞争方面，为了应对开放权重模型，以及 Anthropic 公司，OpenAI 公司未来还需要下调部分产品价格，从而影响公司相关营收。 OpenAI 在 2026 年 3 月融资 1,220 亿美元 （现汇率约合 8,191.19 亿元人民币） 。演示文稿显示，按当前预测，公司将在 2028 年耗尽这笔资金。 融资方面，OpenAI 近期启动一轮大规模融资谈判。投资方曾讨论按 1.2 万亿美元 （现汇率约合 8.06 万亿元人民币） 估值注资，而接近公司的消息人士称，OpenAI 寻求更高估值。",
-      "url": "https://www.ithome.com/1/004/420.htm",
-      "link": "https://www.ithome.com/1/004/420.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
+      "id": "ad7878f0254118ff",
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "title_original": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "summary": "亚马逊云科技给企业安全用Agent打了个样",
+      "url": "https://www.qbitai.com/2026/09/492912.html",
+      "link": "https://www.qbitai.com/2026/09/492912.html",
+      "source": "量子位",
+      "source_id": "qbitai",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-09-19",
-      "published_at": "2026-09-19T03:53:04+00:00",
-      "score": 95,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
+      "date": "2026-09-20",
+      "published_at": "2026-09-20T08:01:13+00:00",
+      "score": 96,
+      "entity_id": "ai_evaluation_safety",
+      "entity": "AI 评测与安全",
       "kind": "read",
-      "actionability": 20,
-      "minutes": 2,
-      "topic": "AI 基础设施"
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3673,
+      "mention_count": 3698,
       "source_count": 9
     },
     {
       "keyword": "models",
-      "mention_count": 3624,
+      "mention_count": 3657,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3402,
+      "mention_count": 3412,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3394,
+      "mention_count": 3398,
       "source_count": 2
     },
     {
       "keyword": "model",
-      "mention_count": 3342,
+      "mention_count": 3360,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3149,
+      "mention_count": 3179,
       "source_count": 6
     },
     {
       "keyword": "abstract",
-      "mention_count": 3110,
+      "mention_count": 3139,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3102,
+      "mention_count": 3131,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3068,
+      "mention_count": 3097,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 2857,
+      "mention_count": 2881,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2592,
+      "mention_count": 2628,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2156,
+      "mention_count": 2158,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2119,
+      "mention_count": 2134,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1802,
+      "mention_count": 1827,
       "source_count": 8
     },
     {
       "keyword": "which",
-      "mention_count": 1711,
+      "mention_count": 1729,
       "source_count": 6
     },
     {
       "keyword": "not",
-      "mention_count": 1694,
+      "mention_count": 1687,
       "source_count": 6
     },
     {
       "keyword": "but",
-      "mention_count": 1664,
+      "mention_count": 1673,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1654,
+      "mention_count": 1671,
       "source_count": 7
     },
     {
       "keyword": "these",
-      "mention_count": 1650,
+      "mention_count": 1662,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 1639,
+      "mention_count": 1658,
       "source_count": 8
     }
   ],
   "quality": {
-    "scored": 529,
-    "must_read_count": 338,
-    "avg_score": 73.4
+    "scored": 527,
+    "must_read_count": 329,
+    "avg_score": 73.3
   }
 }
