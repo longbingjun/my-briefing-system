@@ -1,39 +1,39 @@
 # My Briefing for LLMs
 
-Date: 2026-09-20
-Funnel: 12 sources, 4145 scanned, 7 picks
+Date: 2026-09-21
+Funnel: 12 sources, 4149 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。
+官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。
 
 ## Top Picks
 - [100] Claude Cowork and chat are now one Claude (Simon Willison) https://simonwillison.net/2026/Sep/16/one-claude/
   Summary: Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. I guess this means Claude is becoming a general agent in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago. On the one hand, this saves me some work, in that I was planning to finally figure out the boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , general-agents
 - [100] Quoting Thariq Shihipar (Simon Willison) https://simonwillison.net/2026/Sep/18/thariq-shihipar/
   Summary: We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-shihipar , coding-agents , anthropic , claude-code , generative-ai , ai , llms
-- [100] 刚刚，Claude Code大重构！内部3万Agent管理技术免费开放 (量子位) https://www.qbitai.com/2026/09/491711.html
-  Summary: Git白学了？？？
-- [99] 苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题 (IT之家) https://www.ithome.com/1/004/056.htm
-  Summary: IT之家 9 月 18 日消息，苹果公司昨日（9 月 17 日）更新 WebKit 博文，详细介绍了 Safari 27 系统带来的诸多新功能 / 新特性， 包括支持 MCP 协议，以及修复 844 个问题等。 对于开发者而言，Safari 27 浏览器最主要变化在于新增支持 MCP（Model Context Protocol）服务器支持，让 Claude Code、Codex 等 AI 工具能够控制浏览器窗口，读取 DOM 结构、网络请求、屏幕截图和控制台输出，从而帮助开发者更快地调试网站。 对于用户而言，Safari 27 新增滚动锚定（Scroll Anchoring）功能，当用户正在读文章时，页面上方延迟加载的图片、广告、评论或推荐模块，不会再把正在看的段落往下推。 IT之家翻译官方相关介绍如下： 许多网站会在用户阅读或浏览内容时向页面注入新内容。这些新内容通常会出现在用户当前视线上方，例如图片、广告或评论。过去这会导致用户正在阅读的内容突然被向下推移，造成页面跳转到随机位置，令人感到困惑。 现在 Safari 27.0 支持滚动锚定，它会调整滚动位置， 让内容保持在插入内容之前的位置。 滚动锚点由 CSS 属性 overflow-anchor 控制，默认值为 auto。如果开发者有特殊需求需要禁用滚动锚点，可以使用 overflow-anchor: none。 在实际场景中，用户在浏览新闻、论坛、长篇博客、带广告的网站时， 在启用该功能后，不会再出现读到一半，页面忽然“跳”到别处的体验问题。 在 Bug 修复方面，苹果表示在 WWDC 2026 活动中，官方为 Safari 27.0 修复了 525 个问题，而在博文中， 苹果公司宣布 Safari 27.0 最终修复 844 个问题，增幅 60.76%。
-- [99] Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits (IT之家) https://www.ithome.com/1/004/011.htm
-  Summary: IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。 活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。 在此基础上，Qoder 还推出每日登录奖励。每天 10:00 开放新一轮领取，至次日 10:00 前可领（每个账号每轮可领一次 100 通用 Credits，错过不补），每笔奖励自领取之日起 30 天有效。 值得一提的是，未到期的额度可以累积。奖励计入 Add-on Credits，可在 Qoder、Qoder IDE、Qoder JetBrains 插件、Qoder CLI、QoderWake、Qoder Cloud Agents、移动端及网页版使用。 参与资格覆盖国际版体验版、Pro 试用期、Pro、Pro+、Ultra 用户，以及 CN 体验版、专业版、高级版、旗舰版及会员卡用户，包含免费和试用期用户。 有需要的用户只需现在打开 Qoder 桌面端，点击左下角用量面板中的礼物图标即可。Qoder 表示，每日登录奖励暂时没有结束时间，领取不改变订阅等级、会员卡权益或功能权限。 据官方介绍，Qwen3.8-Flash 擅长代码编写、长文档处理、图像理解和工具调用。在 Qoder 上，该模型可用于现有项目功能升级、搭建网站或应用、数据可视化分析报告及课题研究等场景。 免费期间，套餐内额度和每日奖励可留给其他模型使用。Qoder 国际版与 Qoder CN 的新老个人用户均可参加。免费活动结束后，Qwen3.8-Flash 将按届时公示系数计费，其他模型或档位仍按各自规则执行。
+- [100] llm-keys-ui 0.1 (Simon Willison) https://simonwillison.net/2026/Sep/20/llm-keys-ui/
+  Summary: Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
+- [98] Introducing the Agents API (OpenAI Blog) https://openai.com/index/introducing-the-agents-api
+  Summary: Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
+- [97] Feeling sad about AI (Simon Willison) https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/
+  Summary: My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well , is to be very disheartened by it. Once you come to terms with the idea that translating an exact specification into decent code isn't a unique skill any more, you can start looking at the larger set of problems that you face as a software engineer and realize that there is so much left , and your existing skill and experience mean you can master these new tools, provide value, and execute at a level far greater than anyone who is just getting started building software using agents without any of your depth. If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon? These changes are happening a bit faster, but if you chose software development as a passion you've opted into pretty frequent radical change from the start. Tags: ai , generative-ai , llms , deep-blue
 - [97] 四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼 (IT之家) https://www.ithome.com/1/004/423.htm
   Summary: IT之家 9 月 19 日消息，美国加利福尼亚州北区联邦法院当地时间 9 月 18 日受理了一宗诉讼案，原告指控 Anthropic、OpenAI、SpaceXAI 和谷歌四大 AI 巨头共同非法协调以限制 AI 发展速度。 起诉书显示，案件名称为 Buist v. Anthropic PBC，编号为 3:26-cv-10693。原告为订阅上述公司 AI 服务的消费者，包括 Cheyenne Hunt、佛罗里达州律师 Charles Buist、Nick Spetsas 以及加利福尼亚州居民 Christine Bullock。原告方律师包括 Nick Rowley，Trial Lawyers for Justice 代表原告。原告寻求集体诉讼认证、针对被告的禁令，以及宣告被告违反联邦反垄断法的判决。 此次诉讼源于 Anthropic CEO 达里奥 · 阿莫代伊 9 月 12 日发表的文章。他呼吁“全行业协调”，以“为 AI 前沿设定节奏”并“限制不受约束的 AI 进展速度”，让安全评估和防护措施有时间跟上。 阿莫代伊强调，他所说的“放缓”并不意味着停止模型训练或技术进步，而是要求企业以更平衡的速度推进能力提升，并留出时间完成安全验证。他提出的方案包括企业引入第三方评估人员、推动行业协调以及进一步开展国际协调。 这一倡议随后获得多名 AI 行业高管公开响应。OpenAI CEO 萨姆 · 奥尔特曼表示认同其关于“控制前沿 AI 发展节奏”的观点，SpaceXAI 埃隆 · 马斯克以及谷歌 DeepMind 联合创始人德米斯 · 哈萨比斯也表达了支持。 原告认为，几家彼此竞争的 AI 公司高管公开支持相同的主张，已经构成企业之间协调产品改进速度的协议，违反《谢尔曼反垄断法》第一条（认为竞争者之间限制竞争的协调行为可能构成反垄断违法行为）。 原告进一步声称，如果竞争对手都放缓 AI 产品迭代速度，消费者将以相同价格获得更新速度更慢的产品，因此其利益受到损害。诉讼请求包括禁止相关企业继续实施被指控的协调行为，并要求法院确认相关行为违反美国联邦反垄断法。 原告律师 Nick Rowley 在声明中称，案件旨在确保“全球最有实力的‘营利性’科技公司之间的私下自利协议”不会导致 AI“迅速脱离人类控制”。他说，在核战争等灭绝事件威胁以及如今人类历史上最大风险面前，人类理应得到铁一般的保障，法治应由政府透明、合法地建立，并对公众负责。原告方表示，他们打算寻求将案件扩大为集体诉讼，代表因相关公司放缓决定而受影响的其他消费者。
 - [96] 谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！ (量子位) https://www.qbitai.com/2026/09/492912.html
   Summary: 亚马逊云科技给企业安全用Agent打了个样
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1603 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。
-- AI Agents: AI Agents 本期匹配 808 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 501 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。
-- 预训练: 预训练 本期匹配 387 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐: 后训练与对齐 本期匹配 274 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 147 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude Cowork and chat are now one Claude》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1408 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
-- AI 产品化: AI 产品化 本期匹配 1202 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1309 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、数据与指标。建议先看《Understanding ChatGPT Work》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 917 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 775 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 科技圈动态: 科技圈动态 本期匹配 346 篇文章，重点集中在 官方/科技圈信号、数据与指标、评测/安全。建议先看《How To Write With An LLM》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 388 篇文章，重点集中在 评测/安全、AI 基础设施、后训练/对齐。建议先看《北京发布“词元经济十条”：高标准建设词元工厂，推动关键核心技术攻关》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 107 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《OpenAI agents attacked RubyGems back in May》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。
+- AI Agents: AI Agents 本期匹配 814 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 513 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。
+- 预训练: 预训练 本期匹配 389 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐: 后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent: 编程 Agent 本期匹配 151 篇文章，重点集中在 Agent 工作流、评测/安全、预训练/模型架构。建议先看《Claude Cowork and chat are now one Claude》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1410 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Auto mode is now the default in Claude Code for Pro, Max, and Team plans》。
+- AI 产品化: AI 产品化 本期匹配 1203 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1307 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、数据与指标。建议先看《Understanding ChatGPT Work》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 905 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 771 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 科技圈动态: 科技圈动态 本期匹配 337 篇文章，重点集中在 官方/科技圈信号、数据与指标、评测/安全。建议先看《How To Write With An LLM》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 387 篇文章，重点集中在 产品发布、评测/安全、AI 基础设施。建议先看《IDC：2026 上半年全球四足机器人出货量同比增长 92.5%，宇树、云深处、智元三大国产厂商霸榜》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 105 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《OpenAI agents attacked RubyGems back in May》。
