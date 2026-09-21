@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-21",
   "edition": "daily",
-  "generated_at": "2026-09-21T06:32:28.671033+00:00",
+  "generated_at": "2026-09-21T18:14:18.930913+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4149,
+    "total_scanned": 4156,
     "picks_count": 7,
     "est_read_minutes": 12,
-    "est_saved_hours": 172.7
+    "est_saved_hours": 173.0
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1613 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1613 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1606 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1613 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 513 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。",
+        "text": "推理训练与强化学习 本期匹配 514 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 513 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 514 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,62 +118,62 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 406,
+        "articles_7d": 415,
         "direction": "up",
-        "today_count": 73
+        "today_count": 79
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 257,
+        "articles_7d": 255,
         "direction": "up",
         "today_count": 54
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 154,
+        "articles_7d": 153,
         "direction": "up",
-        "today_count": 32
+        "today_count": 31
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 107,
+        "articles_7d": 108,
         "direction": "up",
-        "today_count": 21
+        "today_count": 22
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 81,
+        "articles_7d": 80,
         "direction": "up",
         "today_count": 22
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 35,
+        "articles_7d": 33,
         "direction": "up",
-        "today_count": 13
+        "today_count": 12
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 410,
+        "articles_7d": 409,
         "direction": "up",
         "today_count": 79
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 348,
+        "articles_7d": 357,
         "direction": "up",
-        "today_count": 73
+        "today_count": 77
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 298
+    "word_count": 322
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-21",
-      "published_at": "2026-09-21T06:32:18.296270+00:00",
+      "published_at": "2026-09-21T18:14:05.655454+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-21",
-      "published_at": "2026-09-21T06:32:18.295846+00:00",
+      "published_at": "2026-09-21T18:14:05.654978+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-21",
-      "published_at": "2026-09-21T06:32:18.295570+00:00",
+      "published_at": "2026-09-21T18:14:05.654651+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -272,7 +272,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-21",
-      "published_at": "2026-09-21T06:32:18.297294+00:00",
+      "published_at": "2026-09-21T18:14:05.656568+00:00",
       "score": 97,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,67 +327,67 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3643,
+      "mention_count": 3635,
       "source_count": 9
     },
     {
       "keyword": "models",
-      "mention_count": 3613,
+      "mention_count": 3597,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3412,
+      "mention_count": 3408,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3400,
+      "mention_count": 3394,
       "source_count": 2
     },
     {
       "keyword": "model",
-      "mention_count": 3306,
+      "mention_count": 3286,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3135,
+      "mention_count": 3131,
       "source_count": 6
     },
     {
       "keyword": "abstract",
-      "mention_count": 3098,
+      "mention_count": 3094,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3091,
+      "mention_count": 3087,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3057,
+      "mention_count": 3053,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 2863,
+      "mention_count": 2845,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2612,
+      "mention_count": 2603,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2154,
+      "mention_count": 2145,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2110,
+      "mention_count": 2103,
       "source_count": 6
     },
     {
@@ -396,39 +396,39 @@
       "source_count": 8
     },
     {
-      "keyword": "which",
-      "mention_count": 1701,
-      "source_count": 6
-    },
-    {
       "keyword": "pro",
-      "mention_count": 1693,
+      "mention_count": 1767,
       "source_count": 7
     },
     {
-      "keyword": "these",
-      "mention_count": 1655,
-      "source_count": 5
+      "keyword": "which",
+      "mention_count": 1696,
+      "source_count": 6
     },
     {
-      "keyword": "but",
-      "mention_count": 1645,
+      "keyword": "these",
+      "mention_count": 1647,
       "source_count": 5
     },
     {
       "keyword": "learning",
-      "mention_count": 1642,
+      "mention_count": 1640,
       "source_count": 7
     },
     {
+      "keyword": "but",
+      "mention_count": 1632,
+      "source_count": 5
+    },
+    {
       "keyword": "not",
-      "mention_count": 1636,
+      "mention_count": 1630,
       "source_count": 6
     }
   ],
   "quality": {
-    "scored": 533,
-    "must_read_count": 329,
+    "scored": 536,
+    "must_read_count": 336,
     "avg_score": 73.3
   }
 }
