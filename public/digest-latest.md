@@ -1,13 +1,13 @@
-# My Briefing · 2026-09-21
+# My Briefing · 2026-09-22
 
-12 个活跃信源 -> 4156 条扫描 -> 7 条今日值得看
-预计阅读 12 分钟，节省约 173.0 小时。
+12 个活跃信源 -> 4229 条扫描 -> 7 条今日值得看
+预计阅读 13 分钟，节省约 176.0 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1613 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- **AI Agents**：AI Agents 本期匹配 814 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 514 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- **AI Agents**：AI Agents 本期匹配 835 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 522 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 
 ## 今日值得看
 
@@ -17,33 +17,33 @@
   We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-shihipar , coding-agents , anthropic , claude-code , generative-ai , ai , llms
 - [100] [llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) · Simon Willison · 2 min
   Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
+- [100] [MCP was always a bad idea?](https://simonwillison.net/2026/Sep/20/hn-49779718/) · Simon Willison · 2 min
+  My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol
 - [98] [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api) · OpenAI Blog · 1 min
   Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
-- [97] [Feeling sad about AI](https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/) · Simon Willison · 2 min
-  My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well , is to be very disheartened by it. Once you come to terms with the idea that translating an exact specification into decent code isn't a unique skill any more, you can start looking at the larger set of problems that you face as a software engineer and realize that there is so much left , and your existing skill and experience mean you can master these new tools, provide value, and execute at a level far greater than anyone who is just getting started building software using agents without any of your depth. If you don't want your profession to change at all then you're going to have a tough time with this - but that's surely been true for the history of software engineering? Has there ever been any stability to the tools and language we use beyond about a five year time horizon? These changes are happening a bit faster, but if you chose software development as a passion you've opted into pretty frequent radical change from the start. Tags: ai , generative-ai , llms , deep-blue
-- [97] [四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼](https://www.ithome.com/1/004/423.htm) · IT之家 · 2 min
-  IT之家 9 月 19 日消息，美国加利福尼亚州北区联邦法院当地时间 9 月 18 日受理了一宗诉讼案，原告指控 Anthropic、OpenAI、SpaceXAI 和谷歌四大 AI 巨头共同非法协调以限制 AI 发展速度。 起诉书显示，案件名称为 Buist v. Anthropic PBC，编号为 3:26-cv-10693。原告为订阅上述公司 AI 服务的消费者，包括 Cheyenne Hunt、佛罗里达州律师 Charles Buist、Nick Spetsas 以及加利福尼亚州居民 Christine Bullock。原告方律师包括 Nick Rowley，Trial Lawyers for Justice 代表原告。原告寻求集体诉讼认证、针对被告的禁令，以及宣告被告违反联邦反垄断法的判决。 此次诉讼源于 Anthropic CEO 达里奥 · 阿莫代伊 9 月 12 日发表的文章。他呼吁“全行业协调”，以“为 AI 前沿设定节奏”并“限制不受约束的 AI 进展速度”，让安全评估和防护措施有时间跟上。 阿莫代伊强调，他所说的“放缓”并不意味着停止模型训练或技术进步，而是要求企业以更平衡的速度推进能力提升，并留出时间完成安全验证。他提出的方案包括企业引入第三方评估人员、推动行业协调以及进一步开展国际协调。 这一倡议随后获得多名 AI 行业高管公开响应。OpenAI CEO 萨姆 · 奥尔特曼表示认同其关于“控制前沿 AI 发展节奏”的观点，SpaceXAI 埃隆 · 马斯克以及谷歌 DeepMind 联合创始人德米斯 · 哈萨比斯也表达了支持。 原告认为，几家彼此竞争的 AI 公司高管公开支持相同的主张，已经构成企业之间协调产品改进速度的协议，违反《谢尔曼反垄断法》第一条（认为竞争者之间限制竞争的协调行为可能构成反垄断违法行为）。 原告进一步声称，如果竞争对手都放缓 AI 产品迭代速度，消费者将以相同价格获得更新速度更慢的产品，因此其利益受到损害。诉讼请求包括禁止相关企业继续实施被指控的协调行为，并要求法院确认相关行为违反美国联邦反垄断法。 原告律师 Nick Rowley 在声明中称，案件旨在确保“全球最有实力的‘营利性’科技公司之间的私下自利协议”不会导致 AI“迅速脱离人类控制”。他说，在核战争等灭绝事件威胁以及如今人类历史上最大风险面前，人类理应得到铁一般的保障，法治应由政府透明、合法地建立，并对公众负责。原告方表示，他们打算寻求将案件扩大为集体诉讼，代表因相关公司放缓决定而受影响的其他消费者。
 - [96] [谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！](https://www.qbitai.com/2026/09/492912.html) · 量子位 · 1 min
   亚马逊云科技给企业安全用Agent打了个样
+- [95] [冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户](https://www.ithome.com/1/005/437.htm) · IT之家 · 3 min
+  IT之家 9 月 21 日消息，据彭博社报道，英国 AI 基础设施公司 Nscale 过去三年客户签约量激增千倍，主要归功于两家对人工智能算力如饥似渴的公司：微软和 Anthropic。 这两家公司贡献了该公司在首次公开募股（IPO）前夕披露的 1,030 亿美元 （IT之家注：现汇率约合 6,905.85 亿元人民币） 合同总额中的 85%。不过，Nscale 尚未为 Anthropic 的合作项目落实融资。 这些细节凸显了伴随 AI 热潮兴起的新兴行业所面临的风险。Nscale 专门开发为 AI 服务定制化的数据中心，与“新云”（neocloud）厂商 CoreWeave 和 Nebius 展开竞争。 这些公司都是 AI 开发商与半导体企业这个“圈子”的一部分，彼此之间频繁进行行业内交易。这种循环式的交易往来被批评者视为潜在泡沫的信号。各家新云公司一直强调自身客户群的多元化，以此回击“过度依赖少数硅谷巨头”的质疑。 而 Nscale 的业务结构几乎没有多元化可言。该公司在上周五提交的 S-1 招股说明书中坦言：“我们的收入在很大程度上由少数几家客户贡献。” 除了依赖两大客户之外，这家英国公司还与英伟达深度绑定 —— 英伟达既是其主要股东，也是计划装配进 Nscale 数据中心的芯片的主要开发商。招股书列出了英伟达与 Nscale 之间的一系列交易：英伟达参与了多轮融资、供应芯片，并为约 8.6 亿美元 （现汇率约合 57.66 亿元人民币） 的租赁义务提供了担保。上周英伟达还参与了 Nscale 31 亿美元 （现汇率约合 207.85 亿元人民币） 的融资方案，获得了价值 10 亿美元 （现汇率约合 67.05 亿元人民币） 的可转换债券或无表决权股份。 Nscale 表示，与英伟达的紧密关系“并不能消除供应链风险”—— 此类风险可能导致最新的 AI 加速器无法按时运抵其数据中心。 在业务快速扩张的同时，公司仍未实现盈利。今年上半年，其销售额为 1.406 亿美元 （现汇率约合 9.43 亿元人民币） ，净亏损却高达 10.2 亿美元 （现汇率约合 68.39 亿元人民币） 。与 1,030 亿美元 （现汇率约合 6,905.85 亿元人民币） 的合同总额形成鲜明对比的是，截至 8 月底，实际生效的合同金额仅为 26 亿美元 （现汇率约合 174.32 亿元人民币） 。 据英国《金融时报》（Financial Times）报道，Nscale 计划本周在纽约上市，目标估值最高达 350 亿美元 （现汇率约合 2,346.65 亿元人民币） 。 作为新云公司的重要靠山，微软推动了 Nscale 近期的增长。自 2025 年底以来，Nscale 已与微软签署了多份协议，到 2033 年的总价值约为 438 亿美元 （现汇率约合 2,936.66 亿元人民币） 。 今年 8 月，Nscale 还与 Anthropic 签署了价值 446 亿美元 （现汇率约合 2,990.3 亿元人民币） 的协议，向其出租算力。Nscale 计划在今年早些时候收购的西弗吉尼亚州一处场地，为这家 Claude 聊天机器人的开发商建造服务器机架及相关设备，该巨型设施的规模达 8 吉瓦。 不过招股书显示，这份 Anthropic 协议附带条件：Nscale 须达成特定里程碑，并满足对算力持续稳定供应的严苛要求，否则合同可能被终止。公司预计首批 2 吉瓦的设施将于 2028 年投入运营。 数据中心公司还披露，目前尚未获得为 Anthropic 项目融资的具有约束力的承诺。 至少一家大客户已经打退堂鼓。今年 4 月，OpenAI（开放人工智能公司）退出了与 Nscale 在挪威和英国合作开发“星际之门”（Stargate）基础设施项目的计划。微软同意接手 OpenAI 在挪威的数据中心；彭博社此前报道称，Alphabet Inc.旗下的谷歌计划在英国接替 OpenAI 的位置。 彭博社还报道过，Nscale 曾洽谈向 TikTok 母公司字节跳动提供算力。但在 S-1 文件中，Nscale 仅提到其在云计算市场与谷歌存在竞争关系，并未披露与谷歌的任何交易，也未提及字节跳动。 客户高度集中并非 Nscale 一家的问题。彭博行业研究（Bloomberg Intelligence）今年 3 月估计，微软和 Meta 合计约占 Nebius 年销售额的一半。2025 年微软约占 CoreWeave 销售额的 67%，不过这家新云公司已在推进客户多元化。 周一，Rothschild &amp; Co. Redburn 开始对 Nscale 的已上市同行给出覆盖评级，建议“卖出”。分析师指出，这些公司面临高昂的租赁成本，且高度依赖债务融资。分析师在报告中写道，销售增长“仍与融资的可获得性紧密挂钩，因此不能视为理所当然”。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 415，今日 +79，官方 AI 实验室与公司信号 本期匹配 1613 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- AI Agents：本周 255，今日 +54，AI Agents 本期匹配 814 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
-- 推理训练与强化学习：本周 153，今日 +31，推理训练与强化学习 本期匹配 514 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”》。
-- 预训练：本周 108，今日 +22，预训练 本期匹配 390 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 80，今日 +22，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent：本周 33，今日 +12，编程 Agent 本期匹配 147 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
-- AI 评测与安全：本周 409，今日 +79，AI 评测与安全 本期匹配 1409 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！》。
-- AI 产品化：本周 357，今日 +77，AI 产品化 本期匹配 1206 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 数据分析与指标体系：本周 343，今日 +59，数据分析与指标体系 本期匹配 1301 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
-- AI 基础设施与算力：本周 249，今日 +42，AI 基础设施与算力 本期匹配 910 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
-- 成本管理与 FinOps：本周 211，今日 +33，成本管理与 FinOps 本期匹配 768 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
-- 科技圈动态：本周 98，今日 +14，科技圈动态 本期匹配 335 篇文章，重点集中在 AI 基础设施、官方/科技圈信号、数据与指标。建议先看《冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户》。
+- 官方 AI 实验室与公司信号：本周 408，今日 +78，官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- AI Agents：本周 241，今日 +56，AI Agents 本期匹配 835 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
+- 推理训练与强化学习：本周 138，今日 +27，推理训练与强化学习 本期匹配 522 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练：本周 105，今日 +29，预训练 本期匹配 412 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 76，今日 +19，后训练与对齐 本期匹配 285 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent：本周 36，今日 +11，编程 Agent 本期匹配 150 篇文章，重点集中在 Agent 工作流、预训练/模型架构、评测/安全。建议先看《MCP was always a bad idea?》。
+- AI 评测与安全：本周 376，今日 +78，AI 评测与安全 本期匹配 1451 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！》。
+- AI 产品化：本周 341，今日 +81，AI 产品化 本期匹配 1242 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 数据分析与指标体系：本周 321，今日 +63，数据分析与指标体系 本期匹配 1328 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- AI 基础设施与算力：本周 249，今日 +51，AI 基础设施与算力 本期匹配 938 篇文章，重点集中在 后训练/对齐、预训练/模型架构、AI 基础设施。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
+- 成本管理与 FinOps：本周 202，今日 +42，成本管理与 FinOps 本期匹配 796 篇文章，重点集中在 评测/安全、预训练/模型架构、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 科技圈动态：本周 96，今日 +18，科技圈动态 本期匹配 341 篇文章，重点集中在 AI 基础设施、官方/科技圈信号、数据与指标。建议先看《冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：42 篇
+- 做啥：45 篇
 - 忽略：0 篇
