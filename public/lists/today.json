@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-22",
   "edition": "daily",
-  "generated_at": "2026-09-22T06:22:02.416224+00:00",
+  "generated_at": "2026-09-22T17:04:11.509346+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4229,
+    "total_scanned": 4236,
     "picks_count": 7,
     "est_read_minutes": 13,
-    "est_saved_hours": 176.0
+    "est_saved_hours": 176.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1616 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1616 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1616 篇文章，重点集中在 评测/安全、Agent 工作流、后训练/对齐。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 835 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。",
+        "text": "AI Agents 本期匹配 839 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Claude Cowork and chat are now one Claude》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 835 篇文章，重点集中在 Agent 工作流、后训练/对齐、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 839 篇文章，重点集中在 Agent 工作流、评测/安全、后训练/对齐。建议先看《Claude Cowork and chat are now one Claude》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 522 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
+        "text": "推理训练与强化学习 本期匹配 521 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 522 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 521 篇文章，重点集中在 预训练/模型架构、后训练/对齐、评测/安全。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -118,56 +118,56 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 408,
+        "articles_7d": 406,
         "direction": "up",
-        "today_count": 78
+        "today_count": 73
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 241,
+        "articles_7d": 238,
         "direction": "up",
-        "today_count": 56
+        "today_count": 59
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 138,
+        "articles_7d": 134,
         "direction": "up",
-        "today_count": 27
+        "today_count": 26
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 105,
+        "articles_7d": 106,
         "direction": "up",
-        "today_count": 29
+        "today_count": 30
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 76,
+        "articles_7d": 77,
         "direction": "up",
-        "today_count": 19
+        "today_count": 20
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 36,
+        "articles_7d": 34,
         "direction": "up",
-        "today_count": 11
+        "today_count": 10
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 376,
+        "articles_7d": 377,
         "direction": "up",
-        "today_count": 78
+        "today_count": 80
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 341,
+        "articles_7d": 342,
         "direction": "up",
         "today_count": 81
       }
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-22",
-      "published_at": "2026-09-22T06:21:51.324149+00:00",
+      "published_at": "2026-09-22T17:04:00.711751+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-22",
-      "published_at": "2026-09-22T06:21:51.323863+00:00",
+      "published_at": "2026-09-22T17:04:00.711269+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-22",
-      "published_at": "2026-09-22T06:21:51.323686+00:00",
+      "published_at": "2026-09-22T17:04:00.710997+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -251,7 +251,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-22",
-      "published_at": "2026-09-22T06:21:51.323651+00:00",
+      "published_at": "2026-09-22T17:04:00.710940+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -327,7 +327,7 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3733,
+      "mention_count": 3728,
       "source_count": 9
     },
     {
@@ -342,17 +342,17 @@
     },
     {
       "keyword": "日消息",
-      "mention_count": 3396,
+      "mention_count": 3392,
       "source_count": 2
     },
     {
       "keyword": "model",
-      "mention_count": 3375,
+      "mention_count": 3355,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3211,
+      "mention_count": 3217,
       "source_count": 6
     },
     {
@@ -372,23 +372,28 @@
     },
     {
       "keyword": "are",
-      "mention_count": 2967,
+      "mention_count": 2965,
       "source_count": 10
     },
     {
       "keyword": "across",
-      "mention_count": 2685,
+      "mention_count": 2683,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2216,
+      "mention_count": 2213,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2156,
+      "mention_count": 2154,
       "source_count": 6
+    },
+    {
+      "keyword": "pro",
+      "mention_count": 1843,
+      "source_count": 7
     },
     {
       "keyword": "language",
@@ -396,13 +401,8 @@
       "source_count": 8
     },
     {
-      "keyword": "pro",
-      "mention_count": 1827,
-      "source_count": 7
-    },
-    {
       "keyword": "which",
-      "mention_count": 1755,
+      "mention_count": 1751,
       "source_count": 6
     },
     {
@@ -422,13 +422,13 @@
     },
     {
       "keyword": "but",
-      "mention_count": 1673,
+      "mention_count": 1675,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 536,
-    "must_read_count": 340,
+    "scored": 540,
+    "must_read_count": 344,
     "avg_score": 73.6
   }
 }
