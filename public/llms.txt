@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
-Date: 2026-09-23
-Funnel: 12 sources, 4354 scanned, 7 picks
+Date: 2026-09-24
+Funnel: 12 sources, 4430 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1657 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
 
 ## Top Picks
 - [100] Claude Cowork and chat are now one Claude (Simon Willison) https://simonwillison.net/2026/Sep/16/one-claude/
@@ -14,11 +14,11 @@ Funnel: 12 sources, 4354 scanned, 7 picks
 - [100] Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war (Simon Willison) https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1657 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- AI Agents: AI Agents 本期匹配 877 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 547 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 预训练: 预训练 本期匹配 430 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐: 后训练与对齐 本期匹配 300 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 154 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1518 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Building standards for the next phase of AI》。
-- AI 产品化: AI 产品化 本期匹配 1301 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1675 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- AI Agents: AI Agents 本期匹配 889 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《Claude Cowork and chat are now one Claude》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 561 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 预训练: 预训练 本期匹配 428 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐: 后训练与对齐 本期匹配 303 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
+- 编程 Agent: 编程 Agent 本期匹配 151 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1546 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Building standards for the next phase of AI》。
+- AI 产品化: AI 产品化 本期匹配 1320 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《Some thoughts on the Navier–Stokes Millennium Prize Problem》。
