@@ -2,13 +2,13 @@
   "version": 1,
   "date": "2026-09-26",
   "edition": "daily",
-  "generated_at": "2026-09-26T06:12:05.325346+00:00",
+  "generated_at": "2026-09-26T16:31:38.498396+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4388,
+    "total_scanned": 4377,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 182.5
+    "est_saved_hours": 182.1
   },
   "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1650 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
   "daily_digest": {
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 901 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。",
+        "text": "AI Agents 本期匹配 897 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 901 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 897 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 561 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "推理训练与强化学习 本期匹配 564 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 561 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 564 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -99,81 +99,81 @@
       },
       {
         "n": 6,
-        "link": "https://www.ithome.com/1/006/475.htm",
-        "title": "SpaceXAI 智能体 Grok Bot 上线首月，周用户数突破 40 万",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 2
+        "link": "https://www.qbitai.com/2026/09/497425.html",
+        "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+        "source": "量子位",
+        "score": 96,
+        "minutes": 1
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/0/998/822.htm",
-        "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+        "link": "https://www.ithome.com/1/007/170.htm",
+        "title": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
         "source": "IT之家",
-        "score": 97,
-        "minutes": 1
+        "score": 95,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 388,
+        "articles_7d": 392,
         "direction": "up",
-        "today_count": 52
+        "today_count": 55
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 236,
+        "articles_7d": 234,
         "direction": "up",
-        "today_count": 19
+        "today_count": 17
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 140,
+        "articles_7d": 142,
         "direction": "up",
-        "today_count": 5
+        "today_count": 8
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 97,
+        "articles_7d": 98,
         "direction": "down",
-        "today_count": 1
+        "today_count": 2
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
         "articles_7d": 79,
         "direction": "up",
-        "today_count": 4
+        "today_count": 3
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 34,
+        "articles_7d": 33,
         "direction": "up",
-        "today_count": 11
+        "today_count": 9
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 375,
+        "articles_7d": 370,
         "direction": "down",
         "today_count": 10
       },
       {
         "entity_id": "ai_products",
         "display": "AI 产品化",
-        "articles_7d": 324,
+        "articles_7d": 325,
         "direction": "down",
-        "today_count": 21
+        "today_count": 20
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 339
+    "word_count": 338
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-26",
-      "published_at": "2026-09-26T06:11:56.283879+00:00",
+      "published_at": "2026-09-26T16:31:28.569655+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-26",
-      "published_at": "2026-09-26T06:11:56.283594+00:00",
+      "published_at": "2026-09-26T16:31:28.569449+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-26",
-      "published_at": "2026-09-26T06:11:56.283536+00:00",
+      "published_at": "2026-09-26T16:31:28.569409+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -251,7 +251,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-26",
-      "published_at": "2026-09-26T06:11:56.282779+00:00",
+      "published_at": "2026-09-26T16:31:28.568928+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -282,152 +282,152 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "954775bf1649d8cc",
-      "title": "SpaceXAI 智能体 Grok Bot 上线首月，周用户数突破 40 万",
-      "title_original": "SpaceXAI 智能体 Grok Bot 上线首月，周用户数突破 40 万",
-      "summary": "IT之家 9 月 23 日消息，据彭博社 22 日报道，SpaceXAI 的 AI 智能体 Grok Bot 上线约一个月，周用户数便已突破 40 万。 据伦敦一场活动的演示材料和与会人士透露，截至 9 月 14 日， Grok Bot 用户数达到 41.8 万 。彭博社看到的材料显示，用户数较前一周增加 24%。 SpaceX 的 AI 部门于 8 月中旬推出 Grok Bot，希望在不断扩大的 AI 智能体市场上跟上 Anthropic 和 OpenAI。Grok Bot 的定位更像一名 全天候待命的员工 ，而不只是聊天机器人，可以 回复邮件、更新销售数据库、处理发票、安排工作，以及提交软件错误报告 。 本周，Meta 的 Muse 登顶苹果 App Store 免费应用榜，令华尔街聚焦 AI 智能体的市场潜力。Muse 初期吸引用户的表现，让分析师联想到 ChatGPT 在 2022 年底迅速走红 的情形。 Muse 主要面向消费者，提供免费下载。SpaceXAI 则把 Grok Bot 定位为企业工具，搭配不同档位的 AI 订阅套餐提供，同时推出独立应用。据彭博行业研究，Muse 的下载量 比 SpaceXAI 的工具多 4 倍 。 过去三个月，SpaceXAI 积极争取在 AI 领域取得进展。斥资 600 亿美元 （IT之家注：现汇率约合 4,028.08 亿元人民币） 收购 AI 编程初创公司 Cursor 后，公司继续推进新模型和智能体的发布。 两家公司 7 月推出 Grok 4.5，主攻编程、金融和法律任务，使用成本低于其他竞品。SpaceXAI 又于本周早些时候发布 Grok 4.7，目标是让模型能够更持久地处理难度更高的任务。",
-      "url": "https://www.ithome.com/1/006/475.htm",
-      "link": "https://www.ithome.com/1/006/475.htm",
+      "id": "8d64bfa1b23be662",
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "title_original": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "summary": "vLLM人马创业公司团队出品",
+      "url": "https://www.qbitai.com/2026/09/497425.html",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "source": "量子位",
+      "source_id": "qbitai",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-26",
+      "published_at": "2026-09-26T07:12:05+00:00",
+      "score": 96,
+      "entity_id": "ai_infra",
+      "entity": "AI 基础设施与算力",
+      "kind": "read",
+      "actionability": 65,
+      "minutes": 1,
+      "topic": "AI 基础设施"
+    },
+    {
+      "id": "7d0222b319479bbf",
+      "title": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
+      "title_original": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
+      "summary": "IT之家 9 月 25 日消息，据彭博社今天（25 日）下午报道，纽约市议员希望通过经济奖励，鼓励举报人揭露危险的 AI 做法。 这是纽约市一揽子加强 AI 监管法案的一部分。纽约市议会即将审议的一项措施提出，举报人报告 AI 公司的违规行为后，可从最终 向当事公司收取的罚款或罚金中获得一定份额奖金 。另一项措施规定，在特定情况下，因 AI 系统受到伤害的人可以起诉系统开发者。 在 10 月 5 日 AI 风险及潜在保障措施听证会举行前，纽约市议会议长朱莉 · 梅宁公布了这批法案，届时纽约市议会全部 51 名成员都将参加。随着 AI 模型快速发展引发的担忧不断加剧，纽约市也在推动加强监管。Anthropic 前研究员雅各布 · 考克森本月辞职，并警告 AI“可能会在本世纪 20 年代结束前害死我们所有人”。 梅宁要求 Anthropic、OpenAI、谷歌、SpaceX 的 AI 部门和 Meta 的 CEO 参加 10 月 5 日的听证会，并称必要时市议会可以行使传票权。“纽约市正迅速成为全球科技和人工智能之都，我们希望鼓励这种发展。但这也意味着，我们承担着更大的责任，必须建立适当的保障措施，保护纽约市民免受意外后果影响。” 据IT之家了解，其他提案要求 AI 系统在纽约市进行营销、销售或部署前通过第三方验证，同时 必须配备由人控制的“紧急关闭开关” 。另一项提案则要求聊天机器人提供商 遵守数据隐私、安全和透明度规定 ，并允许纽约市根据这些要求执法。",
+      "url": "https://www.ithome.com/1/007/170.htm",
+      "link": "https://www.ithome.com/1/007/170.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-09-23",
-      "published_at": "2026-09-23T14:01:26+00:00",
-      "score": 97,
+      "date": "2026-09-25",
+      "published_at": "2026-09-25T09:53:14+00:00",
+      "score": 95,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
       "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "751f2c565934961d",
-      "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
-      "title_original": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
-      "summary": "IT之家 9 月 5 日消息，上海证券报今天（5 日）独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。用户可在淘宝 App 搜索“智谱旗舰店”进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为 品牌官方旗舰店 ，剩余三家目前为代理模式。",
-      "url": "https://www.ithome.com/0/998/822.htm",
-      "link": "https://www.ithome.com/0/998/822.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-05",
-      "published_at": "2026-09-05T12:52:13+00:00",
-      "score": 97,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
       "actionability": 35,
-      "minutes": 1,
-      "topic": "Agent 工作流"
+      "minutes": 2,
+      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3908,
+      "mention_count": 3948,
       "source_count": 9
     },
     {
       "keyword": "models",
-      "mention_count": 3891,
+      "mention_count": 3934,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3517,
+      "mention_count": 3552,
       "source_count": 8
     },
     {
       "keyword": "之家",
-      "mention_count": 3474,
+      "mention_count": 3472,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3448,
+      "mention_count": 3446,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3345,
+      "mention_count": 3384,
       "source_count": 6
     },
     {
       "keyword": "abstract",
-      "mention_count": 3327,
+      "mention_count": 3366,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3304,
+      "mention_count": 3341,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3274,
+      "mention_count": 3313,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3097,
+      "mention_count": 3120,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2798,
+      "mention_count": 2830,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2372,
+      "mention_count": 2394,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2249,
+      "mention_count": 2278,
       "source_count": 6
     },
     {
       "keyword": "pro",
-      "mention_count": 2087,
+      "mention_count": 2093,
       "source_count": 7
     },
     {
       "keyword": "language",
-      "mention_count": 1890,
+      "mention_count": 1914,
       "source_count": 8
     },
     {
-      "keyword": "which",
-      "mention_count": 1786,
-      "source_count": 6
-    },
-    {
       "keyword": "these",
-      "mention_count": 1776,
+      "mention_count": 1798,
       "source_count": 5
     },
     {
+      "keyword": "which",
+      "mention_count": 1796,
+      "source_count": 6
+    },
+    {
       "keyword": "learning",
-      "mention_count": 1769,
+      "mention_count": 1781,
       "source_count": 8
     },
     {
       "keyword": "data",
-      "mention_count": 1758,
+      "mention_count": 1770,
       "source_count": 10
     },
     {
       "keyword": "not",
-      "mention_count": 1750,
+      "mention_count": 1766,
       "source_count": 6
     }
   ],
   "quality": {
-    "scored": 545,
+    "scored": 542,
     "must_read_count": 324,
     "avg_score": 73.2
   }
