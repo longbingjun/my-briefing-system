@@ -1,13 +1,13 @@
-# My Briefing · 2026-09-25
+# My Briefing · 2026-09-26
 
-12 个活跃信源 -> 4455 条扫描 -> 7 条今日值得看
-预计阅读 19 分钟，节省约 185.3 小时。
+12 个活跃信源 -> 4388 条扫描 -> 7 条今日值得看
+预计阅读 19 分钟，节省约 182.5 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1670 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- **AI Agents**：AI Agents 本期匹配 915 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 572 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1650 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- **AI Agents**：AI Agents 本期匹配 901 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 561 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
 
 ## 今日值得看
 
@@ -28,22 +28,22 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 401，今日 +81，官方 AI 实验室与公司信号 本期匹配 1670 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- AI Agents：本周 235，今日 +56，AI Agents 本期匹配 915 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。
-- 推理训练与强化学习：本周 142，今日 +28，推理训练与强化学习 本期匹配 572 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- 预训练：本周 97，今日 +17，预训练 本期匹配 430 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 79，今日 +25，后训练与对齐 本期匹配 319 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Pistis Technical Report》。
-- 编程 Agent：本周 33，今日 +12，编程 Agent 本期匹配 154 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
-- AI 评测与安全：本周 378，今日 +69，AI 评测与安全 本期匹配 1574 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models》。
-- AI 产品化：本周 324，今日 +69，AI 产品化 本期匹配 1326 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- 数据分析与指标体系：本周 321，今日 +72，数据分析与指标体系 本期匹配 1407 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
-- AI 基础设施与算力：本周 245，今日 +47，AI 基础设施与算力 本期匹配 1023 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《2026 骁龙峰会高通高管群访：双旗舰策略、行业首超 5GHz、和小米合作关系、AI 手机未来...》。
-- 成本管理与 FinOps：本周 211，今日 +45，成本管理与 FinOps 本期匹配 869 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- AI 改造传统领域：本周 98，今日 +14，AI 改造传统领域 本期匹配 403 篇文章，重点集中在 行业改造、评测/安全、产品发布。建议先看《国际货币基金组织：今年全球 AI 投资规模或突破 2 万亿美元》。
+- 官方 AI 实验室与公司信号：本周 388，今日 +52，官方 AI 实验室与公司信号 本期匹配 1650 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- AI Agents：本周 236，今日 +19，AI Agents 本期匹配 901 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《Quoting Thariq Shihipar》。
+- 推理训练与强化学习：本周 140，今日 +5，推理训练与强化学习 本期匹配 561 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- 预训练：本周 97，今日 +1，预训练 本期匹配 416 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 79，今日 +4，后训练与对齐 本期匹配 310 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Pistis Technical Report》。
+- 编程 Agent：本周 34，今日 +11，编程 Agent 本期匹配 151 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
+- AI 评测与安全：本周 375，今日 +10，AI 评测与安全 本期匹配 1529 篇文章，重点集中在 评测/安全、推理训练/测试时计算、后训练/对齐。建议先看《Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models》。
+- AI 产品化：本周 324，今日 +21，AI 产品化 本期匹配 1298 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- 数据分析与指标体系：本周 316，今日 +18，数据分析与指标体系 本期匹配 1364 篇文章，重点集中在 评测/安全、推理训练/测试时计算、预训练/模型架构。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- AI 基础设施与算力：本周 247，今日 +11，AI 基础设施与算力 本期匹配 994 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《2026 骁龙峰会高通高管群访：双旗舰策略、行业首超 5GHz、和小米合作关系、AI 手机未来...》。
+- 成本管理与 FinOps：本周 210，今日 +14，成本管理与 FinOps 本期匹配 849 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- AI 改造传统领域：本周 98，今日 +9，AI 改造传统领域 本期匹配 396 篇文章，重点集中在 行业改造、评测/安全、产品发布。建议先看《国际货币基金组织：今年全球 AI 投资规模或突破 2 万亿美元》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：48 篇
+- 做啥：50 篇
 - 忽略：0 篇
