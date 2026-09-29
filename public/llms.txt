@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
 Date: 2026-09-29
-Funnel: 12 sources, 4302 scanned, 7 picks
+Funnel: 12 sources, 4310 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
 
 ## Top Picks
 - [100] llm-keys-ui 0.1 (Simon Willison) https://simonwillison.net/2026/Sep/20/llm-keys-ui/
 - [100] MCP was always a bad idea? (Simon Willison) https://simonwillison.net/2026/Sep/20/hn-49779718/
 - [100] Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war (Simon Willison) https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
+- [100] OpenAI Codex CLI 升级支持语音对话，更新终端界面 (IT之家) https://www.ithome.com/1/008/526.htm
 - [100] Quoting Thariq Shihipar (Simon Willison) https://simonwillison.net/2026/Sep/18/thariq-shihipar/
-- [100] Claude Cowork and chat are now one Claude (Simon Willison) https://simonwillison.net/2026/Sep/16/one-claude/
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- AI Agents: AI Agents 本期匹配 884 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 545 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、AI 基础设施。建议先看《2026 in LLMs (so far)》。
-- 预训练: 预训练 本期匹配 389 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐: 后训练与对齐 本期匹配 293 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快》。
-- 编程 Agent: 编程 Agent 本期匹配 150 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1493 篇文章，重点集中在 推理训练/测试时计算、评测/安全、后训练/对齐。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1311 篇文章，重点集中在 评测/安全、推理训练/测试时计算、数据与指标。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- AI Agents: AI Agents 本期匹配 891 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 542 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 预训练: 预训练 本期匹配 388 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐: 后训练与对齐 本期匹配 294 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Self-generated prompt injections in compaction summaries》。
+- 编程 Agent: 编程 Agent 本期匹配 155 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《MCP was always a bad idea?》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1489 篇文章，重点集中在 推理训练/测试时计算、评测/安全、后训练/对齐。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1312 篇文章，重点集中在 推理训练/测试时计算、评测/安全、数据与指标。建议先看《Understanding ChatGPT Work》。

@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-09-29",
   "edition": "daily",
-  "generated_at": "2026-09-29T07:01:33.950099+00:00",
+  "generated_at": "2026-09-29T18:08:48.655077+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4302,
+    "total_scanned": 4310,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 178.9
+    "est_saved_hours": 179.3
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1643 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 884 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。",
+        "text": "AI Agents 本期匹配 891 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 884 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 891 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 545 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、AI 基础设施。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 545 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、AI 基础设施。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -83,6 +83,14 @@
       },
       {
         "n": 4,
+        "link": "https://www.ithome.com/1/008/526.htm",
+        "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 1
+      },
+      {
+        "n": 5,
         "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
         "title": "Quoting Thariq Shihipar",
         "source": "Simon Willison",
@@ -90,7 +98,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
         "title": "Claude Cowork and chat are now one Claude",
         "source": "Simon Willison",
@@ -98,19 +106,11 @@
         "minutes": 2
       },
       {
-        "n": 6,
-        "link": "https://www.qbitai.com/2026/09/497425.html",
-        "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-        "source": "量子位",
-        "score": 96,
-        "minutes": 1
-      },
-      {
         "n": 7,
-        "link": "https://www.ithome.com/1/007/481.htm",
-        "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
+        "link": "https://www.ithome.com/1/008/506.htm",
+        "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
         "source": "IT之家",
-        "score": 95,
+        "score": 99,
         "minutes": 2
       }
     ],
@@ -118,21 +118,21 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 385,
-        "direction": "down",
-        "today_count": 71
+        "articles_7d": 392,
+        "direction": "up",
+        "today_count": 76
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 209,
+        "articles_7d": 213,
         "direction": "down",
-        "today_count": 37
+        "today_count": 48
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 124,
+        "articles_7d": 125,
         "direction": "down",
         "today_count": 19
       },
@@ -146,34 +146,34 @@
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 61,
+        "articles_7d": 62,
         "direction": "down",
-        "today_count": 6
+        "today_count": 8
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 33,
+        "articles_7d": 41,
         "direction": "up",
-        "today_count": 14
+        "today_count": 20
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 331,
+        "articles_7d": 327,
         "direction": "down",
-        "today_count": 62
+        "today_count": 60
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 287,
+        "articles_7d": 291,
         "direction": "down",
-        "today_count": 53
+        "today_count": 59
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 291
+    "word_count": 288
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-29",
-      "published_at": "2026-09-29T07:01:23.774143+00:00",
+      "published_at": "2026-09-29T18:08:38.712215+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-29",
-      "published_at": "2026-09-29T07:01:23.774090+00:00",
+      "published_at": "2026-09-29T18:08:38.712172+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-09-29",
-      "published_at": "2026-09-29T07:01:23.773430+00:00",
+      "published_at": "2026-09-29T18:08:38.711658+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -238,6 +238,27 @@
       "actionability": 55,
       "minutes": 8,
       "topic": "推理训练/测试时计算"
+    },
+    {
+      "id": "2394093f5ff36d9a",
+      "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+      "title_original": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+      "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。 Codex CLI 现已支持语音对话 ，用户可以直接与 Codex 对话来启动任务并引导任务推进。 借助全新的 /agents 视图， 用户可以将工作分配给多个智能体 ，并轻松跟踪多项任务的进度。 OpenAI 还改进了日常工作流程，包括编辑提示词、恢复会话以及新增内置工作树支持， 同时更新了终端界面 ，让界面更简洁、长会话更易读。 IT之家获悉，本次更新适用于所有套餐。",
+      "url": "https://www.ithome.com/1/008/526.htm",
+      "link": "https://www.ithome.com/1/008/526.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-29",
+      "published_at": "2026-09-29T17:56:00+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
     },
     {
       "id": "885e14e67407a1b9",
@@ -282,153 +303,132 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "8d64bfa1b23be662",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "title_original": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "summary": "vLLM人马创业公司团队出品",
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "source": "量子位",
-      "source_id": "qbitai",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-26",
-      "published_at": "2026-09-26T07:12:05+00:00",
-      "score": 96,
-      "entity_id": "ai_infra",
-      "entity": "AI 基础设施与算力",
-      "kind": "read",
-      "actionability": 65,
-      "minutes": 1,
-      "topic": "AI 基础设施"
-    },
-    {
-      "id": "745fce089ec4b6b2",
-      "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
-      "title_original": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
-      "summary": "IT之家 9 月 27 日消息，据卫报报道，澳大利亚政界和商界人士认为，当地民众对 AI 数据中心日益增长的不满情绪，很大程度上是从美国“输入”而来的，并不能完全反映澳大利亚本土的实际情况。 IT之家注意到，与美国类似，随着大规模 AI 数据中心建设加速，澳大利亚一些社区对这类项目的抵触情绪也在不断增加。不过，支持数据中心建设的政府官员和企业高管认为，澳大利亚的数据中心建设规模更小，监管也更加严格，因此对当地环境和社会造成的影响远低于美国。他们表示，美国国内围绕数据中心展开的激烈争论，通过社交媒体传播到澳大利亚，正在加剧当地的负面情绪。 去年美国开始出现针对数据中心的大规模反对浪潮时，这股情绪在澳大利亚还比较有限。但到了 2026 年，相关争议已经迅速演变成全国性话题，并引发了要求暂停全国数据中心建设的呼声、社区抗议活动以及 3 项政府调查。与此同时，澳大利亚各州正在制定相关框架，联邦政府也开始着手制定数据中心建设以及能源、水资源使用方面的规则。 澳大利亚各州政府都在寻求经济增长，因此总体上对新数据中心带来的投资持欢迎态度。有些项目规模巨大，甚至促使州政府绕过地方议会原本的审批流程。 今年 7 月，时任维多利亚州经济增长部长史蒂夫 · 迪莫普洛斯（Steve Dimopoulos）曾表示，从数据中心数量来看，维多利亚州仅次于新南威尔士州，而且新数据中心的增长速度已经超过澳大利亚人口最多的新南威尔士州。他表示，民众对新开发项目的不满情绪日益高涨，这是受美国社交媒体影响的结果。 他说：“我们看到美国一些州正在考虑禁止新的大型数据中心，而美国当地的相关运动以及大型项目正在影响澳大利亚的公众舆论。因为当这些内容出现在你的手机上时，你会觉得它就在身边，或者认为类似情况可能很快就会来到这里。” 这位部长还表示：“我们不是美国。我们的规划、能源和水资源体系受到更加严格的监测、管理和监管。” 数据中心行业的负责人同样对这股反弹情绪表示不满，认为相关讨论存在误导性，而且缺乏事实依据。 数据中心行业主要游说组织 Data Centres Australia 负责人贝琳达 · 丹尼特（Belinda Dennett）今年 3 月在一次演讲中表示：“澳大利亚的数据中心争论，是建立在美国数据基础上的。” 丹尼特称，普通民众对数据中心的反应从好奇、困惑到恐惧不等，而媒体对这一行业的报道“令人担忧”。她说：“这个行业被描述成能源吸血鬼、用水大户和就业杀手。问题在于，其中大多数新闻标题都源自美国，而美国的数据中心行业规模完全不同，所处的市场规则也完全不同。这些说法被原封不动地移植到澳大利亚的讨论中，仿佛两国的情况完全可以相互比较。” 丹尼特表示，美国拥有 5400 座数据中心，总容量达到 53.7GW；相比之下，澳大利亚拥有 252 座数据中心，总容量为 1.4GW。不过，美国数据中心数量的统计结果在不同来源之间存在差异。 她说：“当人们看到数据中心给电网带来压力、推高电费并消耗大量水资源的报道时，他们看到的是美国面临的问题，却未经分析就将这些问题套用到了澳大利亚市场，而两者几乎没有可比性。” 不过，丹尼特没有提到的是，澳大利亚人口约 2800 万，目前平均每 10 万人拥有不到 1 座数据中心；美国人口约 3.427 亿，平均每 10 万人拥有约 1.5 座数据中心。 与此同时，澳大利亚的数据中心建设正在迅速提速。目前已有多个容量达到 1GW 甚至更高的大型数据中心处于规划阶段。 TikTok 和 Instagram 上的热门视频也开始集中讨论当地社区对这些项目的担忧，其中包括计划建设在墨尔本外围、容量达到 2.4GW 的数据中心，以及位于北领地、计划采用燃气供电、容量达到 2GW 的数据中心。 悉尼大学数字政策教授兼高级研究员罗布 · 尼科尔斯（Rob Nicholls）表示，2GW 相当于约 200 万户家庭一年的用电量。而北领地总人口仅略高于 26.5 万人。 澳大利亚政府注意到了美国因数据中心电力需求增长而带动天然气行业扩张的情况，因此计划绕过州政府权限，禁止使用天然气为数据中心供电。 根据拟议的新规则，数据中心运营商必须向电力系统新增相当于其自身用电量的可再生能源供应。 不过，也有一些专家认为，澳大利亚民众参考美国的情况对数据中心提出质疑是合理的。 尼科尔斯表示：“来自美国社交媒体的声音非常强烈，而且背后有合理的逻辑：‘它会提高电价，也会提高水价，而我得不到任何好处。’这是一种合理的立场。” 尼科尔斯认为，澳大利亚政府面临的难题，是向民众解释美国所面对的问题与澳大利亚当地的问题究竟存在怎样的差异。 相关监管框架的立法工作预计要到明年才会推进，这也促使一些人呼吁澳大利亚效仿纽约州，在正式规则出台之前暂停新的数据中心项目。 在此之前，澳大利亚目前已经有两项州级调查和一项联邦调查正在审查数据中心行业，同时新的项目申请仍在不断增加，并持续引发当地居民的反对。 澳大利亚许多数据中心由美国企业所有。澳大利亚联邦政府技术助理部长安德鲁 · 查尔顿（Andrew Charlton）表示，由于运营这些设施的许多企业并非澳大利亚公司，当地民众可能因此对数据中心项目持怀疑态度。 微软和亚马逊已经运营多个数据中心，而 OpenAI 和 Anthropic 也正在考虑在澳大利亚建设自己的数据中心。 查尔顿本周在一次演讲中表示：“仅仅在澳大利亚建设数据中心，并不意味着澳大利亚就能获得 AI 产业带来的经济利益。我们可以提供土地，可以提供电力，可以托管这些机器，但最终仍可能发现，大部分价值以及大量经济收益都流向了海外。” 查尔顿呼吁，希望在澳大利亚建设数据中心的企业能够以优惠条件，为澳大利亚初创企业、研究人员和非营利组织提供计算资源。他还提出，澳大利亚可以基于开放权重模型打造本土 AI 能力。 查尔顿警告称：“我们可能最终会变得依赖进口的智能本身。”",
-      "url": "https://www.ithome.com/1/007/481.htm",
-      "link": "https://www.ithome.com/1/007/481.htm",
+      "id": "b8284d393147495d",
+      "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
+      "title_original": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
+      "summary": "IT之家 9 月 29 日消息，根据 Qoder 官方公告，阿里 Qwen3.8-Flash 限时免费活动已延期 —— 原定 2026 年 9 月 30 日 23:59:59 结束，现改为 10 月 1 日起继续免费（结束时间未定）。 该活动自 2026 年 9 月 18 日 10:00 起面向 Qoder 新老个人用户开放。活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，调用不消耗 Credits，自动生效，无需领取。 IT之家注：Credits 是 Qoder 平台用于模型调用的计费点数。免费账号及 Credits 余额为 0 的账号也可参与，已领取的每日 100 通用 Credits 不会被该模型扣减。 适用产品包括 Qoder、Qoder IDE、Qoder JetBrains 插件、Qoder CLI、QoderWake、Qoder Cloud Agents、Qoder Mobile 和 Qoder 网页版。 阿里云 Qwen3.8-Flash 被描述为兼顾响应速度与使用成本的多模态模型，支持代码编写、长文档处理和图像理解，并具备工具调用能力。",
+      "url": "https://www.ithome.com/1/008/506.htm",
+      "link": "https://www.ithome.com/1/008/506.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-09-27",
-      "published_at": "2026-09-27T02:47:05+00:00",
-      "score": 95,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
+      "date": "2026-09-29",
+      "published_at": "2026-09-29T14:51:10+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
       "kind": "read",
-      "actionability": 65,
+      "actionability": 55,
       "minutes": 2,
-      "topic": "数据与指标"
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3813,
-      "source_count": 9
+      "mention_count": 3812,
+      "source_count": 10
     },
     {
       "keyword": "models",
-      "mention_count": 3666,
+      "mention_count": 3662,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3530,
+      "mention_count": 3526,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3504,
+      "mention_count": 3498,
       "source_count": 1
     },
     {
       "keyword": "model",
-      "mention_count": 3436,
+      "mention_count": 3426,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3229,
+      "mention_count": 3224,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3218,
+      "mention_count": 3213,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3195,
+      "mention_count": 3190,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3167,
+      "mention_count": 3162,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3037,
+      "mention_count": 3035,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2695,
+      "mention_count": 2689,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2304,
+      "mention_count": 2302,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2245,
+      "mention_count": 2243,
       "source_count": 6
     },
     {
       "keyword": "pro",
-      "mention_count": 2169,
+      "mention_count": 2203,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1791,
+      "mention_count": 1788,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1788,
+      "mention_count": 1786,
       "source_count": 7
     },
     {
       "keyword": "these",
-      "mention_count": 1771,
+      "mention_count": 1768,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1751,
+      "mention_count": 1748,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 1742,
-      "source_count": 10
+      "mention_count": 1744,
+      "source_count": 11
     },
     {
       "keyword": "not",
-      "mention_count": 1734,
+      "mention_count": 1736,
       "source_count": 6
     }
   ],
   "quality": {
-    "scored": 523,
-    "must_read_count": 320,
-    "avg_score": 73.4
+    "scored": 528,
+    "must_read_count": 324,
+    "avg_score": 73.6
   }
 }
