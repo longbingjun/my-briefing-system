@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "edition": "daily",
-  "generated_at": "2026-09-29T18:08:48.655077+00:00",
+  "generated_at": "2026-09-30T06:51:20.589586+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4310,
+    "total_scanned": 4410,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 179.3
+    "est_saved_hours": 183.4
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1665 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1665 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1646 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1665 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 891 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。",
+        "text": "AI Agents 本期匹配 919 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 891 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 919 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《llm-keys-ui 0.1》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 558 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 542 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 558 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -83,6 +83,14 @@
       },
       {
         "n": 4,
+        "link": "https://www.ithome.com/1/008/690.htm",
+        "title": "“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 2
+      },
+      {
+        "n": 5,
         "link": "https://www.ithome.com/1/008/526.htm",
         "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
         "source": "IT之家",
@@ -90,7 +98,7 @@
         "minutes": 1
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
         "title": "Quoting Thariq Shihipar",
         "source": "Simon Willison",
@@ -98,19 +106,11 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
         "title": "Claude Cowork and chat are now one Claude",
         "source": "Simon Willison",
         "score": 100,
-        "minutes": 2
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/1/008/506.htm",
-        "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
-        "source": "IT之家",
-        "score": 99,
         "minutes": 2
       }
     ],
@@ -118,37 +118,37 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 392,
-        "direction": "up",
-        "today_count": 76
+        "articles_7d": 389,
+        "direction": "down",
+        "today_count": 89
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
         "articles_7d": 213,
         "direction": "down",
-        "today_count": 48
+        "today_count": 63
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 125,
+        "articles_7d": 118,
         "direction": "down",
-        "today_count": 19
+        "today_count": 22
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 72,
+        "articles_7d": 64,
         "direction": "down",
-        "today_count": 15
+        "today_count": 12
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 62,
+        "articles_7d": 63,
         "direction": "down",
-        "today_count": 8
+        "today_count": 15
       },
       {
         "entity_id": "coding_agents",
@@ -160,16 +160,16 @@
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 327,
+        "articles_7d": 331,
         "direction": "down",
-        "today_count": 60
+        "today_count": 86
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 291,
+        "articles_7d": 292,
         "direction": "down",
-        "today_count": 59
+        "today_count": 73
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-29",
-      "published_at": "2026-09-29T18:08:38.712215+00:00",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T06:51:09.175806+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-29",
-      "published_at": "2026-09-29T18:08:38.712172+00:00",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T06:51:09.175764+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -229,8 +229,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-29",
-      "published_at": "2026-09-29T18:08:38.711658+00:00",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T06:51:09.175266+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -238,6 +238,27 @@
       "actionability": 55,
       "minutes": 8,
       "topic": "推理训练/测试时计算"
+    },
+    {
+      "id": "bd5b449f8981d07b",
+      "title": "“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易",
+      "title_original": "“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易",
+      "summary": "IT之家 9 月 30 日消息，“美国散户大本营”线上券商 Robinhood 当地时间周二于休斯敦乔治 ·R· 布朗会议中心举办年度活动，高管团队集中揭晓了一系列重磅新工具与服务。 其中最引人注目的是一款应用内人工智能助手 ——Robinhood Agents，它不仅能解答行情疑问、从零搭建定制化投资策略， 并最终能在你入睡、工作或远离屏幕时，自动替你盯盘并执行交易。 Robinhood 首席执行官 Vlad Tenev 表示，这类所谓的智能体交易工具，将把以往对冲基金及华尔街专业机构专属的高阶操盘能力，真正普及给普通散户。 此外，Robinhood 还将上线多款新产品，其中包括加密货币永续期货合约、财报挂钩期权，同时还计划推出周末股票交易服务。 IT之家注意到，早在今年五月，Robinhood 就已经在交易平台中接入人工智能功能，允许用户将外部 AI 智能体连接至这家线上券商的交易底层系统。该公司称，自那时起大约已有 15 万名用户开设过智能体交易账户。 这一次更新的版本把整套操作体验整合进 Robinhood Markets 自身的应用内部，以此降低使用上的阻碍。 用户可以下达指令，让 AI 智能体监控市场并执行交易，其中也包括依照预设条件运行的重复交易策略。 系统默认开启逐笔交易确认机制，不过用户可以手动关闭确认权限，允许 AI 智能体自主开展交易。AI 智能体只能动用转入独立代理账户内的资金。 Robinhood Markets 初期将向用户提供由 Anthropic 与 OpenAI 开发的大模型。Robinhood Markets 会通过自身平台向用户收取模型使用费；该公司同时说明，其中一款名为 Luna 的 OpenAI 模型在 2026 年剩余时间内可以免费使用。公司并未透露自身是否和这些 AI 服务商签订了收益分成协议。 Robinhood Markets 提示， 用户需要为 AI 智能体完成的所有交易自行承担后果 。同时该公司表示，目前还没有开展相关统计，尚未对比开设代理账户的用户与采用其他非自动化交易策略用户的投资收益情况。 Robinhood 认为，用户在逐步熟悉这项新技术的过程当中，一开始只会把一小部分资金投入代理账户。",
+      "url": "https://www.ithome.com/1/008/690.htm",
+      "link": "https://www.ithome.com/1/008/690.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T04:05:03+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
     },
     {
       "id": "2394093f5ff36d9a",
@@ -301,134 +322,113 @@
       "actionability": 35,
       "minutes": 2,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "b8284d393147495d",
-      "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
-      "title_original": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
-      "summary": "IT之家 9 月 29 日消息，根据 Qoder 官方公告，阿里 Qwen3.8-Flash 限时免费活动已延期 —— 原定 2026 年 9 月 30 日 23:59:59 结束，现改为 10 月 1 日起继续免费（结束时间未定）。 该活动自 2026 年 9 月 18 日 10:00 起面向 Qoder 新老个人用户开放。活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，调用不消耗 Credits，自动生效，无需领取。 IT之家注：Credits 是 Qoder 平台用于模型调用的计费点数。免费账号及 Credits 余额为 0 的账号也可参与，已领取的每日 100 通用 Credits 不会被该模型扣减。 适用产品包括 Qoder、Qoder IDE、Qoder JetBrains 插件、Qoder CLI、QoderWake、Qoder Cloud Agents、Qoder Mobile 和 Qoder 网页版。 阿里云 Qwen3.8-Flash 被描述为兼顾响应速度与使用成本的多模态模型，支持代码编写、长文档处理和图像理解，并具备工具调用能力。",
-      "url": "https://www.ithome.com/1/008/506.htm",
-      "link": "https://www.ithome.com/1/008/506.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-09-29",
-      "published_at": "2026-09-29T14:51:10+00:00",
-      "score": 99,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3812,
+      "mention_count": 3960,
       "source_count": 10
     },
     {
       "keyword": "models",
-      "mention_count": 3662,
+      "mention_count": 3782,
       "source_count": 7
     },
     {
+      "keyword": "model",
+      "mention_count": 3551,
+      "source_count": 8
+    },
+    {
       "keyword": "之家",
-      "mention_count": 3526,
+      "mention_count": 3532,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3498,
+      "mention_count": 3500,
       "source_count": 1
     },
     {
-      "keyword": "model",
-      "mention_count": 3426,
-      "source_count": 8
-    },
-    {
       "keyword": "type",
-      "mention_count": 3224,
+      "mention_count": 3366,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3213,
+      "mention_count": 3353,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3190,
+      "mention_count": 3331,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3162,
+      "mention_count": 3302,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3035,
-      "source_count": 9
+      "mention_count": 3156,
+      "source_count": 8
     },
     {
       "keyword": "across",
-      "mention_count": 2689,
+      "mention_count": 2807,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2302,
+      "mention_count": 2412,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2243,
+      "mention_count": 2340,
       "source_count": 6
     },
     {
       "keyword": "pro",
-      "mention_count": 2203,
+      "mention_count": 2211,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1788,
+      "mention_count": 1868,
       "source_count": 6
     },
     {
+      "keyword": "but",
+      "mention_count": 1852,
+      "source_count": 5
+    },
+    {
       "keyword": "language",
-      "mention_count": 1786,
+      "mention_count": 1848,
       "source_count": 7
     },
     {
       "keyword": "these",
-      "mention_count": 1768,
+      "mention_count": 1834,
       "source_count": 5
-    },
-    {
-      "keyword": "but",
-      "mention_count": 1748,
-      "source_count": 5
-    },
-    {
-      "keyword": "data",
-      "mention_count": 1744,
-      "source_count": 11
     },
     {
       "keyword": "not",
-      "mention_count": 1736,
+      "mention_count": 1833,
       "source_count": 6
+    },
+    {
+      "keyword": "data",
+      "mention_count": 1831,
+      "source_count": 11
     }
   ],
   "quality": {
-    "scored": 528,
-    "must_read_count": 324,
-    "avg_score": 73.6
+    "scored": 535,
+    "must_read_count": 333,
+    "avg_score": 73.7
   }
 }
