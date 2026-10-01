@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-10-01",
   "edition": "daily",
-  "generated_at": "2026-10-01T07:15:33.020929+00:00",
+  "generated_at": "2026-10-01T18:28:39.917379+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4428,
+    "total_scanned": 4412,
     "picks_count": 7,
     "est_read_minutes": 19,
-    "est_saved_hours": 184.2
+    "est_saved_hours": 183.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1669 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1671 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1669 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1671 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1669 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1671 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 935 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "AI Agents 本期匹配 924 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 935 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 924 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、后训练/对齐。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -118,23 +118,23 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 380,
+        "articles_7d": 383,
         "direction": "down",
-        "today_count": 76
+        "today_count": 71
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 195,
+        "articles_7d": 188,
         "direction": "down",
-        "today_count": 54
+        "today_count": 44
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 99,
+        "articles_7d": 98,
         "direction": "down",
-        "today_count": 25
+        "today_count": 23
       },
       {
         "entity_id": "post_training",
@@ -146,34 +146,34 @@
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 60,
+        "articles_7d": 61,
         "direction": "down",
-        "today_count": 17
+        "today_count": 18
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 38,
         "direction": "up",
-        "today_count": 12
+        "today_count": 10
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 315,
+        "articles_7d": 312,
         "direction": "down",
         "today_count": 78
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 275,
+        "articles_7d": 278,
         "direction": "down",
-        "today_count": 68
+        "today_count": 73
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 336
+    "word_count": 337
   },
   "picks": [
     {
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-01",
-      "published_at": "2026-10-01T07:15:22.701623+00:00",
+      "published_at": "2026-10-01T18:28:28.859175+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -327,12 +327,12 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3930,
+      "mention_count": 3926,
       "source_count": 10
     },
     {
       "keyword": "models",
-      "mention_count": 3757,
+      "mention_count": 3753,
       "source_count": 7
     },
     {
@@ -347,57 +347,57 @@
     },
     {
       "keyword": "model",
-      "mention_count": 3456,
+      "mention_count": 3452,
       "source_count": 8
     },
     {
       "keyword": "type",
-      "mention_count": 3338,
+      "mention_count": 3334,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3328,
+      "mention_count": 3324,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3304,
+      "mention_count": 3300,
       "source_count": 4
     },
     {
       "keyword": "announce",
-      "mention_count": 3275,
+      "mention_count": 3271,
       "source_count": 4
     },
     {
       "keyword": "are",
       "mention_count": 3111,
-      "source_count": 8
+      "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2803,
+      "mention_count": 2798,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 2428,
+      "mention_count": 2424,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2293,
+      "mention_count": 2290,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 2235,
+      "mention_count": 2257,
       "source_count": 7
     },
     {
       "keyword": "which",
-      "mention_count": 1875,
+      "mention_count": 1874,
       "source_count": 6
     },
     {
@@ -407,28 +407,28 @@
     },
     {
       "keyword": "language",
-      "mention_count": 1839,
+      "mention_count": 1836,
       "source_count": 7
     },
     {
       "keyword": "not",
-      "mention_count": 1834,
+      "mention_count": 1833,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1833,
+      "mention_count": 1832,
       "source_count": 5
     },
     {
       "keyword": "but",
-      "mention_count": 1825,
+      "mention_count": 1823,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 538,
-    "must_read_count": 335,
-    "avg_score": 73.7
+    "scored": 548,
+    "must_read_count": 340,
+    "avg_score": 73.6
   }
 }
