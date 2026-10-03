@@ -1,13 +1,13 @@
-# My Briefing · 2026-10-02
+# My Briefing · 2026-10-03
 
-12 个活跃信源 -> 4398 条扫描 -> 7 条今日值得看
-预计阅读 19 分钟，节省约 182.9 小时。
+12 个活跃信源 -> 4323 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 179.8 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1669 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- **AI Agents**：AI Agents 本期匹配 927 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1642 篇文章，重点集中在 推理训练/测试时计算、评测/安全、产品发布。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- **AI Agents**：AI Agents 本期匹配 901 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 530 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《2026 in LLMs (so far)》。
 
 ## 今日值得看
 
@@ -17,33 +17,33 @@
   Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
 - [100] [MCP was always a bad idea?](https://simonwillison.net/2026/Sep/20/hn-49779718/) · Simon Willison · 2 min
   My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol
-- [100] [“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易](https://www.ithome.com/1/008/690.htm) · IT之家 · 2 min
-  IT之家 9 月 30 日消息，“美国散户大本营”线上券商 Robinhood 当地时间周二于休斯敦乔治 ·R· 布朗会议中心举办年度活动，高管团队集中揭晓了一系列重磅新工具与服务。 其中最引人注目的是一款应用内人工智能助手 ——Robinhood Agents，它不仅能解答行情疑问、从零搭建定制化投资策略， 并最终能在你入睡、工作或远离屏幕时，自动替你盯盘并执行交易。 Robinhood 首席执行官 Vlad Tenev 表示，这类所谓的智能体交易工具，将把以往对冲基金及华尔街专业机构专属的高阶操盘能力，真正普及给普通散户。 此外，Robinhood 还将上线多款新产品，其中包括加密货币永续期货合约、财报挂钩期权，同时还计划推出周末股票交易服务。 IT之家注意到，早在今年五月，Robinhood 就已经在交易平台中接入人工智能功能，允许用户将外部 AI 智能体连接至这家线上券商的交易底层系统。该公司称，自那时起大约已有 15 万名用户开设过智能体交易账户。 这一次更新的版本把整套操作体验整合进 Robinhood Markets 自身的应用内部，以此降低使用上的阻碍。 用户可以下达指令，让 AI 智能体监控市场并执行交易，其中也包括依照预设条件运行的重复交易策略。 系统默认开启逐笔交易确认机制，不过用户可以手动关闭确认权限，允许 AI 智能体自主开展交易。AI 智能体只能动用转入独立代理账户内的资金。 Robinhood Markets 初期将向用户提供由 Anthropic 与 OpenAI 开发的大模型。Robinhood Markets 会通过自身平台向用户收取模型使用费；该公司同时说明，其中一款名为 Luna 的 OpenAI 模型在 2026 年剩余时间内可以免费使用。公司并未透露自身是否和这些 AI 服务商签订了收益分成协议。 Robinhood Markets 提示， 用户需要为 AI 智能体完成的所有交易自行承担后果 。同时该公司表示，目前还没有开展相关统计，尚未对比开设代理账户的用户与采用其他非自动化交易策略用户的投资收益情况。 Robinhood 认为，用户在逐步熟悉这项新技术的过程当中，一开始只会把一小部分资金投入代理账户。
-- [100] [OpenAI Codex CLI 升级支持语音对话，更新终端界面](https://www.ithome.com/1/008/526.htm) · IT之家 · 1 min
-  IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。 Codex CLI 现已支持语音对话 ，用户可以直接与 Codex 对话来启动任务并引导任务推进。 借助全新的 /agents 视图， 用户可以将工作分配给多个智能体 ，并轻松跟踪多项任务的进度。 OpenAI 还改进了日常工作流程，包括编辑提示词、恢复会话以及新增内置工作树支持， 同时更新了终端界面 ，让界面更简洁、长会话更易读。 IT之家获悉，本次更新适用于所有套餐。
 - [100] [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/) · Simon Willison · 2 min
   We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-shihipar , coding-agents , anthropic , claude-code , generative-ai , ai , llms
 - [100] [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) · Simon Willison · 2 min
   Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. I guess this means Claude is becoming a general agent in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago. On the one hand, this saves me some work, in that I was planning to finally figure out the boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , general-agents
+- [97] [路透社：AI 正竞相在资金耗尽之前改变世界](https://www.ithome.com/1/009/439.htm) · IT之家 · 3 min
+  IT之家 10 月 3 日消息，路透社今天（3 日）发表题为《人工智能竞相在资金耗尽之前改变世界（AI's race to transform the world before the money runs out）》的长篇文章，其中提到，从未有何种新技术像 AI 这样吸引如此巨额的资金。铁路建设和互联网兴起都曾掀起资本热潮，但当年的投入规模 已被 AI 超过 。 普华永道预计，到 2050 年，全球仅数据中心的累计投入就可能超过 30 万亿美元 （IT之家注：现汇率约合 201.43 万亿元人民币） ，几乎相当于美国国债余额。即使扣除通胀影响，AI 基础设施的投入规模也远远超过铁路建设热潮和互联网泡沫时期。 与此同时，作为 AI 竞赛主要参与者之一，Anthropic 未来几年计划投入 5,180 亿美元 （现汇率约合 3.48 万亿元人民币） 。IPO 招股书显示，这笔钱超过 Anthropic 2025 年营收的 100 倍。支持者认为，AI 带来的变革甚至会 超过蒸汽机问世及其推动的工业化 。 经济学家指出，AI 企业令人目眩的投资计划、巨额支出和高企估值，都建立在生产率大幅提高和未来获得丰厚利润的预期之上。到目前为止，几乎没有证据或历史先例能够证明这些预期一定可以兑现。 摩根大通 8 月指出，在 AI 竞赛中领先的美国， 广泛的生产率提升“仍未出现” ，因此 AI 企业目前的估值能否长期维持也受到质疑。 贝恩公司上月发布的一项研究认为，仅靠现有市场提高生产率，不足以支撑目前如此庞大的投入， 必须出现全新的市场 ，才能填补资金缺口。这些市场可能从 AI 控制的机器人，一直延伸到利用 AI 研发电池和半导体新材料。 贝恩估算，包括谷歌、亚马逊和微软在内，在全球大举建设基础设施的美国超大规模云服务商，以及 AI 领域的其他企业，未来 5 年需要增加 超过 4.2 万亿美元 （现汇率约合 28.2 万亿元人民币） 收入 ，才能负担这轮基础设施扩张。研究指出，问题在于能够赚回这些投入的应用能不能及时出现。 几乎没人怀疑 AI 具有改变各行各业的潜力，从办公室到科研实验室都可能受到影响。过去的技术革命曾把需要几天的旅程缩短到几小时，也曾让人轻敲键盘便能连接世界。 投资终究要计算回报，贷款也有偿还期限。经济学家需要判断的，不只是投资热潮本身会经历怎样的起伏，还有这轮 AI 投资最终会给全球经济留下什么。 摩根大通写道：“历史经验表明，由技术推动的繁荣，往往会在 基础设施无法继续带来足够回报 时结束。” 摩根大通以英伟达为例进行了测算。英伟达的芯片构成 AI 产业的核心基础，要支撑公司目前的估值，美国未来 10 年的生产率 每年需要提高 3% 至 5% 。美国国会预算办公室对同期生产率增长的基准预测只有每年 1.75%。 按照部分估算，美国约占全球 AI 投资的四分之三。哥伦比亚商学院经济学家斯泰恩 · 范尼乌韦伯格估算，仅美国在 2025 年至 2032 年间的 AI 投资就可能 达到约 9 万亿美元 （现汇率约合 60.43 万亿元人民币） ，相当于每年拿出美国 GDP 的 3.2%。 他估算，如果这些投资要获得 10% 的回报率，到 2032 年，美国 AI 行业 每年需要创造约 3.55 万亿美元 （现汇率约合 23.84 万亿元人民币） 收入 ，而目前的收入还只有这一数字的一小部分。 范尼乌韦伯格在 10 月修订的一篇会议论文中指出，AI 基础设施的大量债务融资杠杆率较高，因此哪怕需求只是小幅走弱、项目出现延期或资产价格下降，都可能造成大得多的损失。 这些令人目眩的数字，并没有削弱美国 AI 企业负责人谈论未来变化时的热情。 Anthropic CEO 阿莫代伊曾称，AI 的未来可能会“美好得超越想象”。OpenAI CEO 奥尔特曼则认为，随着模型学会改进自身并加快取得突破，新奇迹出现的速度将极其惊人。 谷歌 DeepMind 首席战略官贾斯吉特 · 塞洪 8 月在加州大学伯克利分校的一场峰会上表示，这种让 AI 不断改进自身的“递归自我改进”能力，是 投资逻辑的重要组成部分 。一旦实现，生产率有望获得前所未有的提升。 递归自我改进有可能让 AI 能力呈指数级提高，同时也引发了对人类存续风险的担忧：生产率的提升速度未必赶得上企业财务上的时间要求。 英国剑桥大学经济学家黛安 · 科伊尔指出，回顾过去的重大技术革命，新技术对生产率的影响通常要经过大约 10 年至 50 年才能充分显现。 Anthropic 经济团队测算了 AI 在 2030 年可能带来的几种经济增长情景。假设没有 AI 时经济年增长率为 2%，如果 AI 影响较小，增长率为 2.4%；影响较大时为 5.4%；极端情况下则达到 15.4%。经济增长越快，失去的岗位也会越多，但没有判断上述各种情景各自有多大概率发生。 阿莫代伊去年预测，AI 可能在 5 年内让一半初级白领岗位消失。但一些研究人员认为，到目前为止，AI 对就业最明显的影响主要是让寻找办公室工作的求职者更难找到岗位。 美国和英国的研究显示，整体就业仍然强劲的背景下，在 AI 比较擅长承担的白领工作中， 企业对职场新人的招聘已经放缓 。 斯坦福大学研究人员 8 月发现，在会计、律师助理等受 AI 影响较大的职业中，22 至 25 岁劳动者的就业水平，比清洁工、建筑工人等 AI 难以替代的职业低 19%。 报道也指出，即使 AI 带来的变革最终没有企业估值和投资数字暗示得那么快，真正产生的经济效益仍会留下。1873 年金融恐慌让不少铁路大亨破产，但铁路并没有消失；20 世纪 90 年代互联网泡沫破裂后，互联网同样继续发展。
+- [97] [“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易](https://www.ithome.com/1/008/690.htm) · IT之家 · 2 min
+  IT之家 9 月 30 日消息，“美国散户大本营”线上券商 Robinhood 当地时间周二于休斯敦乔治 ·R· 布朗会议中心举办年度活动，高管团队集中揭晓了一系列重磅新工具与服务。 其中最引人注目的是一款应用内人工智能助手 ——Robinhood Agents，它不仅能解答行情疑问、从零搭建定制化投资策略， 并最终能在你入睡、工作或远离屏幕时，自动替你盯盘并执行交易。 Robinhood 首席执行官 Vlad Tenev 表示，这类所谓的智能体交易工具，将把以往对冲基金及华尔街专业机构专属的高阶操盘能力，真正普及给普通散户。 此外，Robinhood 还将上线多款新产品，其中包括加密货币永续期货合约、财报挂钩期权，同时还计划推出周末股票交易服务。 IT之家注意到，早在今年五月，Robinhood 就已经在交易平台中接入人工智能功能，允许用户将外部 AI 智能体连接至这家线上券商的交易底层系统。该公司称，自那时起大约已有 15 万名用户开设过智能体交易账户。 这一次更新的版本把整套操作体验整合进 Robinhood Markets 自身的应用内部，以此降低使用上的阻碍。 用户可以下达指令，让 AI 智能体监控市场并执行交易，其中也包括依照预设条件运行的重复交易策略。 系统默认开启逐笔交易确认机制，不过用户可以手动关闭确认权限，允许 AI 智能体自主开展交易。AI 智能体只能动用转入独立代理账户内的资金。 Robinhood Markets 初期将向用户提供由 Anthropic 与 OpenAI 开发的大模型。Robinhood Markets 会通过自身平台向用户收取模型使用费；该公司同时说明，其中一款名为 Luna 的 OpenAI 模型在 2026 年剩余时间内可以免费使用。公司并未透露自身是否和这些 AI 服务商签订了收益分成协议。 Robinhood Markets 提示， 用户需要为 AI 智能体完成的所有交易自行承担后果 。同时该公司表示，目前还没有开展相关统计，尚未对比开设代理账户的用户与采用其他非自动化交易策略用户的投资收益情况。 Robinhood 认为，用户在逐步熟悉这项新技术的过程当中，一开始只会把一小部分资金投入代理账户。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 368，今日 +66，官方 AI 实验室与公司信号 本期匹配 1669 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- AI Agents：本周 180，今日 +58，AI Agents 本期匹配 927 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- 推理训练与强化学习：本周 86，今日 +23，推理训练与强化学习 本期匹配 547 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《2026 in LLMs (so far)》。
-- 预训练：本周 54，今日 +16，预训练 本期匹配 385 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 53，今日 +16，后训练与对齐 本期匹配 295 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《ROSS: Relearning from Self-Generated Rollouts through Selective Supervision》。
-- 编程 Agent：本周 40，今日 +12，编程 Agent 本期匹配 155 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全：本周 306，今日 +91，AI 评测与安全 本期匹配 1557 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系：本周 253，今日 +56，数据分析与指标体系 本期匹配 1345 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 235，今日 +73，AI 产品化 本期匹配 1271 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。
-- AI 基础设施与算力：本周 181，今日 +54，AI 基础设施与算力 本期匹配 985 篇文章，重点集中在 评测/安全、后训练/对齐、AI 基础设施。建议先看《桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元》。
-- 成本管理与 FinOps：本周 162，今日 +36，成本管理与 FinOps 本期匹配 839 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
-- 科技圈动态：本周 104，今日 +36，科技圈动态 本期匹配 405 篇文章，重点集中在 推理训练/测试时计算、科技圈动态、AI 基础设施。建议先看《2026 in LLMs (so far)》。
+- 官方 AI 实验室与公司信号：本周 376，今日 +54，官方 AI 实验室与公司信号 本期匹配 1642 篇文章，重点集中在 推理训练/测试时计算、评测/安全、产品发布。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- AI Agents：本周 187，今日 +29，AI Agents 本期匹配 901 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- 推理训练与强化学习：本周 89，今日 +10，推理训练与强化学习 本期匹配 530 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- 预训练：本周 62，今日 +8，预训练 本期匹配 370 篇文章，重点集中在 预训练/模型架构、后训练/对齐、推理训练/测试时计算。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 56，今日 +3，后训练与对齐 本期匹配 275 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《ROSS: Relearning from Self-Generated Rollouts through Selective Supervision》。
+- 编程 Agent：本周 38，今日 +8，编程 Agent 本期匹配 152 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全：本周 322，今日 +31，AI 评测与安全 本期匹配 1510 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系：本周 272，今日 +34，数据分析与指标体系 本期匹配 1315 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《Understanding ChatGPT Work》。
+- AI 产品化：本周 253，今日 +45，AI 产品化 本期匹配 1248 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- AI 基础设施与算力：本周 194，今日 +33，AI 基础设施与算力 本期匹配 964 篇文章，重点集中在 评测/安全、后训练/对齐、AI 基础设施。建议先看《桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元》。
+- 成本管理与 FinOps：本周 178，今日 +28，成本管理与 FinOps 本期匹配 820 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。
+- 科技圈动态：本周 110，今日 +17，科技圈动态 本期匹配 398 篇文章，重点集中在 推理训练/测试时计算、科技圈动态、AI 基础设施。建议先看《2026 in LLMs (so far)》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：43 篇
+- 做啥：41 篇
 - 忽略：0 篇
