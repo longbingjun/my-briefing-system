@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-10-04",
   "edition": "daily",
-  "generated_at": "2026-10-04T07:01:56.452024+00:00",
+  "generated_at": "2026-10-04T16:54:18.148432+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4214,
+    "total_scanned": 4196,
     "picks_count": 7,
     "est_read_minutes": 22,
-    "est_saved_hours": 175.2
+    "est_saved_hours": 174.5
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1617 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1601 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1617 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1601 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1617 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1601 篇文章，重点集中在 推理训练/测试时计算、评测/安全、AI 基础设施。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 873 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
+        "text": "AI Agents 本期匹配 866 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 873 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 866 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 499 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 497 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 499 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 497 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -67,6 +67,14 @@
       },
       {
         "n": 2,
+        "link": "https://www.ithome.com/1/009/701.htm",
+        "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 2
+      },
+      {
+        "n": 3,
         "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
         "title": "llm-keys-ui 0.1",
         "source": "Simon Willison",
@@ -74,7 +82,7 @@
         "minutes": 2
       },
       {
-        "n": 3,
+        "n": 4,
         "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
         "title": "MCP was always a bad idea?",
         "source": "Simon Willison",
@@ -82,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
         "title": "Quoting Thariq Shihipar",
         "source": "Simon Willison",
@@ -90,7 +98,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
         "title": "Claude Cowork and chat are now one Claude",
         "source": "Simon Willison",
@@ -98,41 +106,33 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 7,
         "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
         "title": "We're going to need default hard budget caps on pretty much everything",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 4
-      },
-      {
-        "n": 7,
-        "link": "https://www.ithome.com/1/009/621.htm",
-        "title": "民众集体抵制数据中心，亚马逊 AWS 停止和政府签署保密协议",
-        "source": "IT之家",
-        "score": 97,
-        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 360,
+        "articles_7d": 354,
         "direction": "down",
-        "today_count": 45
+        "today_count": 46
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 181,
+        "articles_7d": 182,
         "direction": "down",
         "today_count": 16
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 84,
+        "articles_7d": 82,
         "direction": "down",
         "today_count": 5
       },
@@ -146,14 +146,14 @@
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 57,
+        "articles_7d": 56,
         "direction": "down",
         "today_count": 2
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 40,
         "direction": "up",
         "today_count": 8
       },
@@ -162,14 +162,14 @@
         "display": "AI 评测与安全",
         "articles_7d": 324,
         "direction": "down",
-        "today_count": 15
+        "today_count": 14
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 271,
+        "articles_7d": 275,
         "direction": "down",
-        "today_count": 17
+        "today_count": 22
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-04",
-      "published_at": "2026-10-04T07:01:45.744863+00:00",
+      "published_at": "2026-10-04T16:54:07.966293+00:00",
       "score": 100,
       "entity_id": "official_ai_labs",
       "entity": "官方 AI 实验室与公司信号",
@@ -196,6 +196,27 @@
       "actionability": 55,
       "minutes": 8,
       "topic": "推理训练/测试时计算"
+    },
+    {
+      "id": "20435276c719b9cb",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "title_original": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "summary": "IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。 目前 DeepSeek Harness 中的“Claude Code Mods 兼容层”属于“alpha 版本”中的“实验性功能”。做这个兼容层的主要目的，是验证 Claude Code Mods 向插件作者提供的扩展能力，是否大致是 DSH“一切皆插件”架构所提供能力的一个子集。目前还无法让所有 Claude Code Mods 在 DeepSeek Harness 中无缝运行；如果认为这是一个值得投入的目标，从技术上看，未来有可能做到。 他提到：“DeepSeek Harness 的核心理念是 “一切皆插件” ，这个理念是从立项之初、写第一行代码之前就确立下来的，正如“开源”的理念是从 DeepSeek 成立之初、发布第一个模型之前就确立下来的一样。开源是我们的初心，不是被迫开源的。让我们的 Agent Harness 产品以开放、开源的方式具备尽量极致的可扩展性，也是我们的初心，并不是被迫或模仿别人才做开放可扩展的。” IT之家注意到，DeepSeek Harness v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。 本次更新优化了文件展示、内容预览和代码变更展示体验 ，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。 DeepSeek Harness 桌面端新版本中 新增了插件管理页面 ：安装插件无需命令行，直接在插件管理页面中输入插件包名（即 npm 包名）即可完成安装，用户也可以在同一页面中停用、卸载插件，以及查看插件的介绍与来源。 据官方此前介绍， 第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分 。按照官方模型 API 用户口径统计，约 60% 的 DeepSeek Harness 用户使用了第三方插件。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，改善第三方插件的发现、获取和管理体验，并建设官方插件市场。",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "link": "https://www.ithome.com/1/009/701.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-10-04",
+      "published_at": "2026-10-04T12:27:24+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
     },
     {
       "id": "2f06dacbbdb514eb",
@@ -293,7 +314,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-04",
-      "published_at": "2026-10-04T07:01:45.743291+00:00",
+      "published_at": "2026-10-04T16:54:07.964563+00:00",
       "score": 97,
       "entity_id": "ai_products",
       "entity": "AI 产品化",
@@ -301,39 +322,18 @@
       "actionability": 55,
       "minutes": 4,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "1f16c744f7a15faa",
-      "title": "民众集体抵制数据中心，亚马逊 AWS 停止和政府签署保密协议",
-      "title_original": "民众集体抵制数据中心，亚马逊 AWS 停止和政府签署保密协议",
-      "summary": "IT之家 10 月 4 日消息，亚马逊云服务（AWS）首席执行官马特 · 加曼（Matt Garman）表示，在为新建数据中心项目争取审批的过程当中，该公司已经停止与政府机构签署保密协议（NDA）。 加曼的这句话出自一篇篇幅较长的官方博客。在这篇博文当中，他试图回应社会各界针对数据中心普遍存在的质疑，并且论证数据中心实际上能够为地方社区带来益处。 保密协议正是民众抵制数据中心建设浪潮当中的一大焦点问题。例如环保活动人士艾琳 · 布洛科维奇（Erin Brockovich）近期就提到，民众针对数据中心最多的投诉集中在透明度问题。这类项目往往存在一套共性模式：“项目拿到许可之后才对外公布；开发方拒不回复当地居民的电话咨询；地方官员在周边民众还完全不知情的情况下，就先行签署了保密协议。” 受民间反对声音的影响，纽约已经宣布暂停大型数据中心审批，为期一年。据加曼称，眼下美国各地还有超过 100 项关于暂停审批数据中心的提案正在审议当中。 加曼提出：“如果这类限制政策正式落地，美国相当于在这场（AI 算力）竞赛当中给自己开出一张落败的罚单，其影响将会延续好几代人。作为一个国家，我们承受不起这样的局面。” 此外，加曼还试图破除流传较广的四大关于数据中心的误区：耗水量过大、推高居民电价、造成巨量污染排放、无法给所在社区带来收益。 他引用亚马逊自家的用水报告指出，“数据中心直接耗水量”仅占美国全部工业用水消耗量的 0.5%，“比高尔夫球场、扁桃种植以及许多其他行业低好几个数量级”。 英伟达此前曾宣称自家全新冷却系统几乎可以消除数据中心内部全部用水。然而和亚马逊的说辞类似，这类说法似乎忽略了发电以及芯片制造环节背后更广范围的水资源消耗。科研人员也表示，他们需要独立研究数据中心的水与能源消耗；目前无论是联邦还是各州层面，都没有强制科技企业上报相关数据的法规。 针对电价问题，加曼表示，只有部分建有大量数据中心的州出现电价上涨；另一些地区电价有所下降，或者至少涨幅更为平缓。他同时提出观点：“在电价上涨的部分地区，主要根源在于电网设施老旧；在新增算力需求到来之前，当地就缺少投资扩建。” 但与之相对，一家独立监督机构近期发布的看法是，在美国规模最大的电网体系当中，数据中心正是电价同比大涨 76% 的主要诱因。 至于污染排放问题 —— 美国全国有色人种协进会（NAACP）目前正就此起诉埃隆 · 马斯克旗下的 SpaceX 与 xAI。加曼抱怨，批评者总是拿数据中心许可文件上面写明的最大允许排放值说事。举个例子，亚马逊计划落地于得克萨斯州的一处数据中心，许可的二氧化碳年排放上限为 3300 万吨，该数值超过美国境内任何一座发电厂。 “但事实是，数据中心的备用发电机组几乎不会实际启动运行。”加曼写道，“发电机组 99.9% 的时间都处于闲置状态（每年大约仅运行 10 小时，大多只是开展强制性维护测试）。” 谈及社区收益这一部分，加曼明确写道：“我们在项目合作当中，已经不再和各级政府机构签署保密协议。”除此之外他还补充：“过去三年，亚马逊已经向国内建有重要数据中心的各地社区累计投入超过 10 亿美元 （IT之家注：现汇率约合 67.2 亿元人民币） 。” 这样的表态是否足以打消地方民众的疑虑？或许还远远不够。Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）近期提出，当下社会对于 AI 的抵制本质上属于一场信任危机。民众普遍认为政府与科技企业总是“想方设法琢磨出新的法子损害普通人的利益”。与此类似，撰稿人贾斯敏 · 孙（Jasmine Sun）也提到，当反对建设数据中心的居民听完科技企业的解释之后，他们的反应往往依旧是：“我不相信他们。”",
-      "url": "https://www.ithome.com/1/009/621.htm",
-      "link": "https://www.ithome.com/1/009/621.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-10-04",
-      "published_at": "2026-10-04T02:20:01+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 35,
-      "minutes": 2,
-      "topic": "AI 基础设施"
     }
   ],
   "trending": [
     {
+      "keyword": "new",
+      "mention_count": 3616,
+      "source_count": 10
+    },
+    {
       "keyword": "之家",
       "mention_count": 3596,
       "source_count": 1
-    },
-    {
-      "keyword": "new",
-      "mention_count": 3584,
-      "source_count": 10
     },
     {
       "keyword": "日消息",
@@ -342,93 +342,93 @@
     },
     {
       "keyword": "models",
-      "mention_count": 3348,
+      "mention_count": 3378,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3145,
+      "mention_count": 3169,
       "source_count": 9
     },
     {
       "keyword": "type",
-      "mention_count": 3026,
+      "mention_count": 3055,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3005,
+      "mention_count": 3034,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2997,
+      "mention_count": 3027,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 2962,
+      "mention_count": 2991,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 2864,
+      "mention_count": 2890,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2511,
+      "mention_count": 2539,
       "source_count": 8
     },
     {
       "keyword": "pro",
-      "mention_count": 2303,
+      "mention_count": 2293,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2210,
+      "mention_count": 2233,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2069,
+      "mention_count": 2089,
       "source_count": 7
     },
     {
       "keyword": "these",
-      "mention_count": 1719,
+      "mention_count": 1735,
       "source_count": 5
     },
     {
       "keyword": "data",
-      "mention_count": 1715,
+      "mention_count": 1731,
       "source_count": 12
     },
     {
       "keyword": "which",
-      "mention_count": 1699,
+      "mention_count": 1713,
       "source_count": 6
     },
     {
       "keyword": "not",
-      "mention_count": 1688,
-      "source_count": 7
+      "mention_count": 1698,
+      "source_count": 6
     },
     {
       "keyword": "but",
-      "mention_count": 1654,
+      "mention_count": 1668,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1644,
+      "mention_count": 1668,
       "source_count": 7
     }
   ],
   "quality": {
-    "scored": 527,
-    "must_read_count": 311,
-    "avg_score": 72.9
+    "scored": 525,
+    "must_read_count": 313,
+    "avg_score": 72.8
   }
 }
