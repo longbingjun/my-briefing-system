@@ -2,24 +2,24 @@
   "version": 1,
   "date": "2026-10-07",
   "edition": "daily",
-  "generated_at": "2026-10-07T07:19:48.565296+00:00",
+  "generated_at": "2026-10-07T18:59:26.781219+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4255,
+    "total_scanned": 4260,
     "picks_count": 7,
     "est_read_minutes": 20,
-    "est_saved_hours": 177.0
+    "est_saved_hours": 177.2
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1612 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1612 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1612 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1615 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 884 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。",
+        "text": "AI Agents 本期匹配 888 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 884 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 888 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 510 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 511 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 510 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 511 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -67,14 +67,6 @@
       },
       {
         "n": 2,
-        "link": "https://www.ithome.com/1/009/701.htm",
-        "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-        "source": "IT之家",
-        "score": 100,
-        "minutes": 2
-      },
-      {
-        "n": 3,
         "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
         "title": "llm-keys-ui 0.1",
         "source": "Simon Willison",
@@ -82,7 +74,7 @@
         "minutes": 2
       },
       {
-        "n": 4,
+        "n": 3,
         "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
         "title": "MCP was always a bad idea?",
         "source": "Simon Willison",
@@ -90,7 +82,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
+        "n": 4,
         "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
         "title": "Claude Cowork and chat are now one Claude",
         "source": "Simon Willison",
@@ -98,9 +90,17 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 5,
         "link": "https://www.ithome.com/1/009/990.htm",
         "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "source": "IT之家",
+        "score": 99,
+        "minutes": 2
+      },
+      {
+        "n": 6,
+        "link": "https://www.ithome.com/1/009/701.htm",
+        "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
         "source": "IT之家",
         "score": 99,
         "minutes": 2
@@ -118,9 +118,9 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 330,
+        "articles_7d": 328,
         "direction": "down",
-        "today_count": 83
+        "today_count": 84
       },
       {
         "entity_id": "ai_agents",
@@ -134,7 +134,7 @@
         "display": "推理训练与强化学习",
         "articles_7d": 88,
         "direction": "down",
-        "today_count": 23
+        "today_count": 25
       },
       {
         "entity_id": "pretraining",
@@ -153,23 +153,23 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 29,
-        "direction": "down",
-        "today_count": 12
+        "articles_7d": 32,
+        "direction": "up",
+        "today_count": 13
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 323,
+        "articles_7d": 324,
         "direction": "up",
-        "today_count": 78
+        "today_count": 75
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 291,
+        "articles_7d": 290,
         "direction": "up",
-        "today_count": 66
+        "today_count": 63
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -196,27 +196,6 @@
       "actionability": 55,
       "minutes": 8,
       "topic": "推理训练/测试时计算"
-    },
-    {
-      "id": "20435276c719b9cb",
-      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-      "title_original": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-      "summary": "IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。 目前 DeepSeek Harness 中的“Claude Code Mods 兼容层”属于“alpha 版本”中的“实验性功能”。做这个兼容层的主要目的，是验证 Claude Code Mods 向插件作者提供的扩展能力，是否大致是 DSH“一切皆插件”架构所提供能力的一个子集。目前还无法让所有 Claude Code Mods 在 DeepSeek Harness 中无缝运行；如果认为这是一个值得投入的目标，从技术上看，未来有可能做到。 他提到：“DeepSeek Harness 的核心理念是 “一切皆插件” ，这个理念是从立项之初、写第一行代码之前就确立下来的，正如“开源”的理念是从 DeepSeek 成立之初、发布第一个模型之前就确立下来的一样。开源是我们的初心，不是被迫开源的。让我们的 Agent Harness 产品以开放、开源的方式具备尽量极致的可扩展性，也是我们的初心，并不是被迫或模仿别人才做开放可扩展的。” IT之家注意到，DeepSeek Harness v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。 本次更新优化了文件展示、内容预览和代码变更展示体验 ，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。 DeepSeek Harness 桌面端新版本中 新增了插件管理页面 ：安装插件无需命令行，直接在插件管理页面中输入插件包名（即 npm 包名）即可完成安装，用户也可以在同一页面中停用、卸载插件，以及查看插件的介绍与来源。 据官方此前介绍， 第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分 。按照官方模型 API 用户口径统计，约 60% 的 DeepSeek Harness 用户使用了第三方插件。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，改善第三方插件的发现、获取和管理体验，并建设官方插件市场。",
-      "url": "https://www.ithome.com/1/009/701.htm",
-      "link": "https://www.ithome.com/1/009/701.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-10-04",
-      "published_at": "2026-10-04T12:27:24+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
     },
     {
       "id": "2f06dacbbdb514eb",
@@ -303,6 +282,27 @@
       "topic": "AI 基础设施"
     },
     {
+      "id": "20435276c719b9cb",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "title_original": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "summary": "IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。 目前 DeepSeek Harness 中的“Claude Code Mods 兼容层”属于“alpha 版本”中的“实验性功能”。做这个兼容层的主要目的，是验证 Claude Code Mods 向插件作者提供的扩展能力，是否大致是 DSH“一切皆插件”架构所提供能力的一个子集。目前还无法让所有 Claude Code Mods 在 DeepSeek Harness 中无缝运行；如果认为这是一个值得投入的目标，从技术上看，未来有可能做到。 他提到：“DeepSeek Harness 的核心理念是 “一切皆插件” ，这个理念是从立项之初、写第一行代码之前就确立下来的，正如“开源”的理念是从 DeepSeek 成立之初、发布第一个模型之前就确立下来的一样。开源是我们的初心，不是被迫开源的。让我们的 Agent Harness 产品以开放、开源的方式具备尽量极致的可扩展性，也是我们的初心，并不是被迫或模仿别人才做开放可扩展的。” IT之家注意到，DeepSeek Harness v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。 本次更新优化了文件展示、内容预览和代码变更展示体验 ，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。 DeepSeek Harness 桌面端新版本中 新增了插件管理页面 ：安装插件无需命令行，直接在插件管理页面中输入插件包名（即 npm 包名）即可完成安装，用户也可以在同一页面中停用、卸载插件，以及查看插件的介绍与来源。 据官方此前介绍， 第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分 。按照官方模型 API 用户口径统计，约 60% 的 DeepSeek Harness 用户使用了第三方插件。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，改善第三方插件的发现、获取和管理体验，并建设官方插件市场。",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "link": "https://www.ithome.com/1/009/701.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-10-04",
+      "published_at": "2026-10-04T12:27:24+00:00",
+      "score": 99,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
       "id": "885e14e67407a1b9",
       "title": "Quoting Thariq Shihipar",
       "title_original": "Quoting Thariq Shihipar",
@@ -327,108 +327,108 @@
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3792,
+      "mention_count": 3786,
       "source_count": 10
     },
     {
       "keyword": "models",
-      "mention_count": 3599,
+      "mention_count": 3590,
       "source_count": 7
     },
     {
       "keyword": "之家",
-      "mention_count": 3542,
+      "mention_count": 3546,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3510,
+      "mention_count": 3512,
       "source_count": 1
     },
     {
       "keyword": "model",
-      "mention_count": 3476,
+      "mention_count": 3455,
       "source_count": 9
     },
     {
       "keyword": "type",
-      "mention_count": 3221,
+      "mention_count": 3215,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3207,
+      "mention_count": 3201,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3177,
+      "mention_count": 3171,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 3145,
+      "mention_count": 3139,
       "source_count": 4
     },
     {
       "keyword": "are",
-      "mention_count": 3020,
+      "mention_count": 3014,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2703,
+      "mention_count": 2697,
       "source_count": 8
     },
     {
       "keyword": "can",
-      "mention_count": 2351,
+      "mention_count": 2350,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2229,
+      "mention_count": 2227,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 2201,
+      "mention_count": 2223,
       "source_count": 7
     },
     {
       "keyword": "these",
-      "mention_count": 1866,
+      "mention_count": 1859,
       "source_count": 5
     },
     {
       "keyword": "which",
-      "mention_count": 1794,
+      "mention_count": 1786,
       "source_count": 6
     },
     {
       "keyword": "data",
-      "mention_count": 1794,
+      "mention_count": 1780,
       "source_count": 12
     },
     {
       "keyword": "not",
-      "mention_count": 1765,
+      "mention_count": 1767,
       "source_count": 6
     },
     {
       "keyword": "language",
-      "mention_count": 1753,
+      "mention_count": 1750,
       "source_count": 7
     },
     {
       "keyword": "but",
-      "mention_count": 1740,
+      "mention_count": 1738,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 522,
-    "must_read_count": 322,
+    "scored": 524,
+    "must_read_count": 318,
     "avg_score": 73.3
   }
 }
