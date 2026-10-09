@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-10-09
-Funnel: 12 sources, 4328 scanned, 7 picks
+Funnel: 12 sources, 4358 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1633 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
+官方 AI 实验室与公司信号 本期匹配 1651 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
 
 ## Top Picks
 - [100] Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war (Simon Willison) https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
@@ -14,11 +14,11 @@ Funnel: 12 sources, 4328 scanned, 7 picks
 - [98] llm-keys-ui 0.1 (Simon Willison) https://simonwillison.net/2026/Sep/20/llm-keys-ui/
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1633 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
-- AI Agents: AI Agents 本期匹配 901 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 518 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1651 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
+- AI Agents: AI Agents 本期匹配 904 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 520 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
 - 预训练: 预训练 本期匹配 388 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
 - 后训练与对齐: 后训练与对齐 本期匹配 289 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment》。
-- 编程 Agent: 编程 Agent 本期匹配 140 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1558 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1321 篇文章，重点集中在 推理训练/测试时计算、评测/安全、数据与指标。建议先看《2026 in LLMs (so far)》。
+- 编程 Agent: 编程 Agent 本期匹配 141 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1562 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1326 篇文章，重点集中在 推理训练/测试时计算、评测/安全、数据与指标。建议先看《2026 in LLMs (so far)》。
