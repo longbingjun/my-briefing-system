@@ -1,13 +1,13 @@
-# My Briefing · 2026-10-08
+# My Briefing · 2026-10-09
 
-12 个活跃信源 -> 4230 条扫描 -> 7 条今日值得看
-预计阅读 20 分钟，节省约 175.9 小时。
+12 个活跃信源 -> 4328 条扫描 -> 7 条今日值得看
+预计阅读 22 分钟，节省约 180.0 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1618 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《Claude Haiku 5.5》。
-- **AI Agents**：AI Agents 本期匹配 872 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 502 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1633 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
+- **AI Agents**：AI Agents 本期匹配 901 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 518 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
 
 ## 今日值得看
 
@@ -17,33 +17,33 @@
   My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol
 - [100] [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) · Simon Willison · 2 min
   Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. I guess this means Claude is becoming a general agent in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago. On the one hand, this saves me some work, in that I was planning to finally figure out the boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , general-agents
-- [99] [消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与](https://www.ithome.com/1/009/990.htm) · IT之家 · 2 min
-  IT之家 10 月 6 日消息，据彭博社报道，DeepSeek 新一轮融资即将敲定，募资规模至少可达 800 亿元人民币，大幅超出自身原定募资目标。此次融资也将为该公司计划在 2027 年初开展的里程碑式 IPO 铺路。 知情人士称，宁德时代以及腾讯是本轮融资当中出资规模最大的几家投资方，本轮交易很快就会完成交割。DeepSeek 最初的募资目标约为 500 亿元；但随着最新 AI 模型发布取得成功，市场投资者的认购热情远超预期。知情人士补充，根据已经签署的投资条款书，本轮最终融资总额有可能逼近 1000 亿元。 这笔融资，为 DeepSeek 开启今后几年国内最受瞩目的上市进程打下基础。自 V4‑Flash 模型推出之后，公司发展势头强劲；该模型重塑了业界对于性价比的认知，已经可以同 Anthropic、OpenAI 等海外头部厂商展开竞争。这也是创始人梁文锋创业路上的又一个高光时刻，这家初创公司自 2025 年推出一款大模型起就凭借技术突破打响名气；当时该模型只用远低于硅谷同行的成本，就实现了与之相近的模型能力。 和其他 AI 企业一样，DeepSeek 需要巨额资金，支撑这项具备变革潜力的技术的宏大发展规划。该公司正在内蒙古建设一座大型数据中心，计划在这里部署至少 16 万枚华为高端 AI 加速芯片，有望建成目前规模数一数二的华为 AI 芯片算力集群。DeepSeek 还对外发布了与华为联合开发、用于 AI 芯片编程的软件，借此与这家硬件厂商深度协作，正式涉足一块全新的业务领域。与此同时，其竞争对手月之暗面（Moonshot）在完成一轮估值 500 亿美元 （IT之家注：现汇率约合 3,357.23 亿元人民币） 的融资之后，同样把 IPO 目标定在了 2027 年初。 据彭博社报道，梁文锋今年至少在一场投资者会议上作出表态：在向着实现通用人工智能这一长远目标迈进的同时，他会持续坚持开源 AI 模型的开发。这位对冲基金出身的管理者明确表示，自己首要目标是不断拓展技术的边界，而非优先追求商业化变现。 知情人士表示，虽然本轮融资谈判已经接近收尾，但最后的磋商阶段仍有可能改动部分交易细节。DeepSeek 原本希望本轮融资对应的估值大约为 5000 亿元人民币。 DeepSeek 吸引了大量潜在投资者，该公司也是中国参与全球 AI 竞争的一批核心企业之一。知情人士称，本轮融资完成之后，下一步公司将会启动业务重组，为 IPO 做好各项准备。 腾讯在上一轮融资当中就已经是这家初创公司的最大投资方，出资 100 亿元。腾讯希望能够把 AI 能力整合进自身旗下各个产品平台。而宁德时代或许看好面向数据中心等场景的算力零部件赛道，希望布局这块日渐景气的市场。 今年夏天 DeepSeek 完成首轮外部融资之后，梁文锋个人净资产翻了一倍以上，大约达到 360 亿美元 （现汇率约合 2,417.21 亿元人民币） 。这家 AI 初创企业脱胎于他创办的对冲基金幻方量化，早期发展阶段的大部分资源也来自幻方量化。在上一轮规模 500 亿元的融资当中，梁文锋本人也继续出资；当时 DeepSeek 对应的估值约为 3500 亿元人民币。
 - [99] [DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心](https://www.ithome.com/1/009/701.htm) · IT之家 · 2 min
   IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。 目前 DeepSeek Harness 中的“Claude Code Mods 兼容层”属于“alpha 版本”中的“实验性功能”。做这个兼容层的主要目的，是验证 Claude Code Mods 向插件作者提供的扩展能力，是否大致是 DSH“一切皆插件”架构所提供能力的一个子集。目前还无法让所有 Claude Code Mods 在 DeepSeek Harness 中无缝运行；如果认为这是一个值得投入的目标，从技术上看，未来有可能做到。 他提到：“DeepSeek Harness 的核心理念是 “一切皆插件” ，这个理念是从立项之初、写第一行代码之前就确立下来的，正如“开源”的理念是从 DeepSeek 成立之初、发布第一个模型之前就确立下来的一样。开源是我们的初心，不是被迫开源的。让我们的 Agent Harness 产品以开放、开源的方式具备尽量极致的可扩展性，也是我们的初心，并不是被迫或模仿别人才做开放可扩展的。” IT之家注意到，DeepSeek Harness v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。 本次更新优化了文件展示、内容预览和代码变更展示体验 ，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。 DeepSeek Harness 桌面端新版本中 新增了插件管理页面 ：安装插件无需命令行，直接在插件管理页面中输入插件包名（即 npm 包名）即可完成安装，用户也可以在同一页面中停用、卸载插件，以及查看插件的介绍与来源。 据官方此前介绍， 第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分 。按照官方模型 API 用户口径统计，约 60% 的 DeepSeek Harness 用户使用了第三方插件。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，改善第三方插件的发现、获取和管理体验，并建设官方插件市场。
 - [98] [llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) · Simon Willison · 2 min
   Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
 - [98] [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/) · Simon Willison · 2 min
   We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-shihipar , coding-agents , anthropic , claude-code , generative-ai , ai , llms
+- [97] [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) · Simon Willison · 4 min
+  Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say "after $X/month, cut this thing off and return errors". These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings , though that page warns that "We're currently releasing our new experience to a limited number of customers." Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you "set a monthly financial cap on specific services within a project". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services , ai , coding-agents
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 332，今日 +79，官方 AI 实验室与公司信号 本期匹配 1618 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、评测/安全。建议先看《Claude Haiku 5.5》。
-- AI Agents：本周 169，今日 +49，AI Agents 本期匹配 872 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《2026 in LLMs (so far)》。
-- 推理训练与强化学习：本周 94，今日 +29，推理训练与强化学习 本期匹配 502 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 预训练：本周 89，今日 +32，预训练 本期匹配 371 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
-- 后训练与对齐：本周 50，今日 +7，后训练与对齐 本期匹配 269 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《ROSS: Relearning from Self-Generated Rollouts through Selective Supervision》。
-- 编程 Agent：本周 33，今日 +12，编程 Agent 本期匹配 136 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全：本周 332，今日 +86，AI 评测与安全 本期匹配 1500 篇文章，重点集中在 推理训练/测试时计算、评测/安全、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系：本周 283，今日 +72，数据分析与指标体系 本期匹配 1281 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Understanding ChatGPT Work》。
-- AI 产品化：本周 261，今日 +71，AI 产品化 本期匹配 1235 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 基础设施与算力：本周 220，今日 +54，AI 基础设施与算力 本期匹配 940 篇文章，重点集中在 评测/安全、后训练/对齐、预训练/模型架构。建议先看《桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元》。
-- 成本管理与 FinOps：本周 173，今日 +49，成本管理与 FinOps 本期匹配 804 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Haiku 5.5》。
-- 科技圈动态：本周 104，今日 +18，科技圈动态 本期匹配 408 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- 官方 AI 实验室与公司信号：本周 332，今日 +85，官方 AI 实验室与公司信号 本期匹配 1633 篇文章，重点集中在 推理训练/测试时计算、评测/安全、官方 AI 实验室与公司信号。建议先看《Claude Haiku 5.5》。
+- AI Agents：本周 166，今日 +53，AI Agents 本期匹配 901 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
+- 推理训练与强化学习：本周 95，今日 +25，推理训练与强化学习 本期匹配 518 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
+- 预训练：本周 90，今日 +19，预训练 本期匹配 388 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调》。
+- 后训练与对齐：本周 54，今日 +20，后训练与对齐 本期匹配 289 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment》。
+- 编程 Agent：本周 35，今日 +13，编程 Agent 本期匹配 140 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全：本周 314，今日 +79，AI 评测与安全 本期匹配 1558 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系：本周 284，今日 +60，数据分析与指标体系 本期匹配 1321 篇文章，重点集中在 推理训练/测试时计算、评测/安全、数据与指标。建议先看《2026 in LLMs (so far)》。
+- AI 产品化：本周 258，今日 +69，AI 产品化 本期匹配 1278 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 基础设施与算力：本周 220，今日 +49，AI 基础设施与算力 本期匹配 974 篇文章，重点集中在 评测/安全、后训练/对齐、推理训练/测试时计算。建议先看《桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元》。
+- 成本管理与 FinOps：本周 192，今日 +55，成本管理与 FinOps 本期匹配 849 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Haiku 5.5》。
+- 科技圈动态：本周 94，今日 +18，科技圈动态 本期匹配 420 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、AI 基础设施。建议先看《2026 in LLMs (so far)》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：37 篇
+- 做啥：41 篇
 - 忽略：0 篇
