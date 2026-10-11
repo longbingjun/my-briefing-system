@@ -1,13 +1,13 @@
 # My Briefing · 2026-10-11
 
-12 个活跃信源 -> 4251 条扫描 -> 7 条今日值得看
-预计阅读 21 分钟，节省约 176.8 小时。
+12 个活跃信源 -> 4227 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 175.8 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1619 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Claude Haiku 5.5》。
-- **AI Agents**：AI Agents 本期匹配 871 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 491 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1605 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Claude Haiku 5.5》。
+- **AI Agents**：AI Agents 本期匹配 860 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 489 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
 
 ## 今日值得看
 
@@ -28,18 +28,18 @@
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 351，今日 +59，官方 AI 实验室与公司信号 本期匹配 1619 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Claude Haiku 5.5》。
-- AI Agents：本周 166，今日 +21，AI Agents 本期匹配 871 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
-- 推理训练与强化学习：本周 92，今日 +7，推理训练与强化学习 本期匹配 491 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
+- 官方 AI 实验室与公司信号：本周 348，今日 +47，官方 AI 实验室与公司信号 本期匹配 1605 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《Claude Haiku 5.5》。
+- AI Agents：本周 163，今日 +16，AI Agents 本期匹配 860 篇文章，重点集中在 Agent 工作流、后训练/对齐、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
+- 推理训练与强化学习：本周 92，今日 +6，推理训练与强化学习 本期匹配 489 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、评测/安全。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
 - 预训练：本周 82，今日 +3，预训练 本期匹配 369 篇文章，重点集中在 推理训练/测试时计算、预训练/模型架构、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- 后训练与对齐：本周 51，今日 +2，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《ROSS: Relearning from Self-Generated Rollouts through Selective Supervision》。
-- 编程 Agent：本周 34，今日 +6，编程 Agent 本期匹配 136 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全：本周 295，今日 +15，AI 评测与安全 本期匹配 1493 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系：本周 264，今日 +13，数据分析与指标体系 本期匹配 1268 篇文章，重点集中在 评测/安全、数据与指标、推理训练/测试时计算。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
-- AI 产品化：本周 244，今日 +24，AI 产品化 本期匹配 1230 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 基础设施与算力：本周 203，今日 +10，AI 基础设施与算力 本期匹配 941 篇文章，重点集中在 后训练/对齐、评测/安全、AI 基础设施。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
-- 成本管理与 FinOps：本周 176，今日 +12，成本管理与 FinOps 本期匹配 805 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Haiku 5.5》。
-- AI 改造传统领域：本周 88，今日 +10，AI 改造传统领域 本期匹配 369 篇文章，重点集中在 推理训练/测试时计算、产品发布、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- 后训练与对齐：本周 51，今日 +1，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、评测/安全。建议先看《ROSS: Relearning from Self-Generated Rollouts through Selective Supervision》。
+- 编程 Agent：本周 33，今日 +6，编程 Agent 本期匹配 131 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全：本周 293，今日 +13，AI 评测与安全 本期匹配 1486 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系：本周 261，今日 +14，数据分析与指标体系 本期匹配 1261 篇文章，重点集中在 评测/安全、数据与指标、推理训练/测试时计算。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- AI 产品化：本周 243，今日 +24，AI 产品化 本期匹配 1229 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 基础设施与算力：本周 202，今日 +9，AI 基础设施与算力 本期匹配 939 篇文章，重点集中在 后训练/对齐、AI 基础设施、评测/安全。建议先看《中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B》。
+- 成本管理与 FinOps：本周 176，今日 +10，成本管理与 FinOps 本期匹配 800 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《Claude Haiku 5.5》。
+- AI 改造传统领域：本周 87，今日 +8，AI 改造传统领域 本期匹配 367 篇文章，重点集中在 推理训练/测试时计算、产品发布、Agent 工作流。建议先看《2026 in LLMs (so far)》。
 
 ## 内容分栏
 
