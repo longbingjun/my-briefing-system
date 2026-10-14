@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-10-14
-Funnel: 12 sources, 4196 scanned, 7 picks
+Funnel: 12 sources, 4206 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1579 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+官方 AI 实验室与公司信号 本期匹配 1581 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
 
 ## Top Picks
 - [100] 响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent (量子位) https://www.qbitai.com/2026/10/503165.html
@@ -19,21 +19,21 @@ Funnel: 12 sources, 4196 scanned, 7 picks
   Summary: Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
 - [97] We're going to need default hard budget caps on pretty much everything (Simon Willison) https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
   Summary: Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say "after $X/month, cut this thing off and return errors". These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings , though that page warns that "We're currently releasing our new experience to a limited number of customers." Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you "set a monthly financial cap on specific services within a project". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services , ai , coding-agents
-- [97] Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents (IT之家) https://www.ithome.com/1/011/329.htm
-  Summary: IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告， 宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。 IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。 为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比较单智能体与动态工作流的检出数量。测试结果显示，在单智能体每次运行检出 14 至 27 个漏洞；而动态工作流则稳定检出 66 个。
+- [93] 雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放 (IT之家) https://www.ithome.com/1/012/769.htm
+  Summary: IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。 对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。 此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性能释放，官方数据显示，其整机重量约 1.54kg，厚度薄至 15.9mm，同时支持最高 160W 性能输出。双十一期间，雷神 ZERO Air 15 国补后售价为 12449 元。 在设计方面，雷神 ZERO Air 15 采用轻量化机身方案。机身外壳选用航空级镁合金材质，并通过结构优化降低整机重量，同时提升机身强度。此外，该机还采用定制轻量化主板，并对内部散热结构进行调整，通过 VC 架构散热方案进一步优化空间利用。 外观方面，机器表面采用准分子 UV 肤感漆工艺，通过多道工序处理后呈现哑光质感，同时具备一定抗指纹能力。对于需要经常携带电脑外出的用户来说，1.54kg 的重量相比传统游戏本更方便放入背包，减少移动负担。 性能方面，雷神 ZERO Air 15 搭载第三代英特尔酷睿 Ultra 7 356H 处理器，采用 16 核 16 线程设计，最高睿频可达 4.7GHz，并内置 NPU，可支持 AI 相关应用。 显卡方面，该机配备 NVIDIA GeForce RTX 5060 Laptop GPU，基于 Blackwell 架构打造，拥有 8GB GDDR7 显存，支持 115W 满功耗释放，提供 3328 个 CUDA 核心以及 572TOPS AI 算力，同时支持 DLSS 5 和 Max-Q 技术。 雷神 ZERO Air 15 搭载 Aero 真空腔散热系统，通过 VC 真空腔均热板、定制风扇以及相变硅脂等组件优化散热效率。官方数据显示，该机 CPU+GPU 双平台最高可实现 160W 性能释放，轻松满足游戏以及部分创作场景需求。 屏幕方面，雷神 ZERO Air 15 配备 15.3 英寸 OLED 屏幕，分辨率为 2560×1600，刷新率达到 165Hz，并支持 100% DCI-P3 色域、10bit 色深以及 HDR 显示，经过出厂校色。 存储配置方面，机器搭载 32GB DDR5 内存和 1TB SSD，同时提供双 SO-DIMM 内存插槽以及双 M.2 硬盘位，方便用户后续升级。显示模式方面，设备支持独显直连、混合输出以及核显输出三种模式切换，可以根据游戏性能需求和日常续航需求进行调整。 其他配置方面，雷神 ZERO Air 15 配备全尺寸 RGB 背光键盘、独立数字小键盘以及类玻璃触控板，同时搭载带物理遮挡开关的摄像头，提升隐私保护能力。接口方面提供 RJ45 网口、USB-A、USB-C 等接口，并搭配 250W 轻量化 SiC 电源适配器，方便日常携带。 双十一期间，雷神 ZERO Air 15 国补后售价为 12449 元，并提供雷神休闲背包、加速器季卡以及 Microsoft 365 个人版三个月订阅等购机权益。 京东 雷神 ZEROAir 15“小轻龙”游戏笔记本电脑 （英特尔酷睿 Ultra 7 356H RTX5060 32G 1T OLED 黑）国家补贴 国补后 12449 元起 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1579 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- AI Agents: AI Agents 本期匹配 845 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、评测/安全。建议先看《A new feature for my blog, built using my voice》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 474 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 预训练: 预训练 本期匹配 360 篇文章，重点集中在 预训练、预训练/模型架构、推理训练/测试时计算。建议先看《梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑》。
-- 后训练与对齐: 后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、AI 基础设施。建议先看《唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能》。
-- 编程 Agent: 编程 Agent 本期匹配 133 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1461 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1247 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
-- AI 产品化: AI 产品化 本期匹配 1210 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 934 篇文章，重点集中在 AI 基础设施、后训练/对齐、评测/安全。建议先看《雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1581 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+- AI Agents: AI Agents 本期匹配 852 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《A new feature for my blog, built using my voice》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 473 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 预训练: 预训练 本期匹配 358 篇文章，重点集中在 预训练、预训练/模型架构、推理训练/测试时计算。建议先看《梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑》。
+- 后训练与对齐: 后训练与对齐 本期匹配 274 篇文章，重点集中在 后训练/对齐、预训练/模型架构、AI 基础设施。建议先看《唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能》。
+- 编程 Agent: 编程 Agent 本期匹配 134 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1452 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1244 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- AI 产品化: AI 产品化 本期匹配 1208 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 932 篇文章，重点集中在 AI 基础设施、后训练/对齐、评测/安全。建议先看《雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放》。
 - 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 800 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- 科技圈动态: 科技圈动态 本期匹配 411 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、AI 基础设施。建议先看《2026 in LLMs (so far)》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 364 篇文章，重点集中在 推理训练/测试时计算、产品发布、Agent 工作流。建议先看《2026 in LLMs (so far)》。
+- 科技圈动态: 科技圈动态 本期匹配 410 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《2026 in LLMs (so far)》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 359 篇文章，重点集中在 推理训练/测试时计算、产品发布、Agent 工作流。建议先看《2026 in LLMs (so far)》。
 - 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 95 篇文章，重点集中在 推理训练/测试时计算、产品发布、行业改造。建议先看《2026 in LLMs (so far)》。
