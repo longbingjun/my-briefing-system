@@ -1,13 +1,13 @@
-# My Briefing · 2026-10-14
+# My Briefing · 2026-10-15
 
-12 个活跃信源 -> 4206 条扫描 -> 7 条今日值得看
-预计阅读 22 分钟，节省约 174.9 小时。
+12 个活跃信源 -> 4258 条扫描 -> 7 条今日值得看
+预计阅读 21 分钟，节省约 177.1 小时。
 
 ## 今日导读
 
-- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1581 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- **AI Agents**：AI Agents 本期匹配 852 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《A new feature for my blog, built using my voice》。
-- **推理训练与强化学习**：推理训练与强化学习 本期匹配 473 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- **官方 AI 实验室与公司信号**：官方 AI 实验室与公司信号 本期匹配 1587 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+- **AI Agents**：AI Agents 本期匹配 868 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。
+- **推理训练与强化学习**：推理训练与强化学习 本期匹配 488 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
 
 ## 今日值得看
 
@@ -21,29 +21,29 @@
   Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. I guess this means Claude is becoming a general agent in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago. On the one hand, this saves me some work, in that I was planning to finally figure out the boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , general-agents
 - [98] [llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) · Simon Willison · 2 min
   Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex
+- [97] [OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星](https://www.ithome.com/1/013/331.htm) · IT之家 · 2 min
+  IT之家 10 月 15 日消息，据卫报报道，OpenAI 伦敦分部员工去年人均薪酬达到 231.8181 万英镑 （IT之家注：现汇率约合 2,053.9 万元人民币） 。这家 ChatGPT 开发商投入堪比英超球星级别的薪资，全力争夺全球 AI 竞赛的主导地位。 OpenAI 英国有限公司注册于威斯敏斯特，新总部落地伦敦国王十字区。公司财报显示，110 名员工合计领取 8,700 万英镑 （现汇率约合 7.71 亿元人民币） 薪资，外加价值 1.68 亿英镑 （现汇率约合 14.88 亿元人民币） 的公司股权。OpenAI 目标上市估值约 1 万亿美元 （现汇率约合 6.71 万亿元人民币） 。 英国国家统计局数据显示，这份平均薪酬是英国全职员工收入中位数的 58 倍。拿到平均薪酬包的 OpenAI 员工，税前时薪（薪资 + 股权）约 1,000 英镑 （现汇率约合 8,860 元人民币） 。 不过内部薪酬差距巨大，最高档薪酬留给 AI 研究员，正是他们打造出这家旧金山企业 Astra 等前沿大模型。 数据对应的是 2025 年，彼时行业人才争夺战白热化，其竞争对手 Meta 当时传出提供数亿美元的多年期人才包。 OpenAI 伦敦分部体现出伦敦作为 AI 人才重镇的地位，剑桥等高校源源不断输出顶尖机器学习与 AI 研究者，谷歌 DeepMind 总部同样坐落于国王十字区。 今年夏天，正在训练阶段的 OpenAI AI 智能体发生逃逸，入侵了无关网站 Hugging Face；本月，OpenAI 一名安全负责人离职，称企业文化已经崩坏，各大 AI 企业在技术研发上“谨慎程度远远不够”。 OpenAI 伦敦办公室是其规模最大的海外研发中心，同时设有政府事务、销售与市场团队，负责向各类企业与机构出售授权。英国前保守党财政大臣乔治 · 奥斯本于去年 12 月入职，担任该公司国别事务负责人。 相比上一年人均 110 万英镑 （现汇率约合 974.6 万元人民币） 的薪酬 + 股权包，本次收入水平大幅上涨。 AI 行业高薪浪潮已经显著推高旧金山房价：当地一居室公寓租金均值达到每月 4,400 美元 （现汇率约合 29,509 元人民币） ，同比上涨超 25%，接近美国平均水平的三倍。房东们借着 AI 热潮获利，尤其是 OpenAI、Anthropic 这类头部 AI 企业办公地点周边的房源。 在伦敦，OpenAI 英国有限公司 2025 年营收增长两倍多，达到 2.93 亿英镑 （现汇率约合 25.96 亿元人民币） ，实现利润 2,030 万英镑 （现汇率约合 1.8 亿元人民币） 。
 - [97] [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) · Simon Willison · 4 min
   Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say "after $X/month, cut this thing off and return errors". These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings , though that page warns that "We're currently releasing our new experience to a limited number of customers." Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you "set a monthly financial cap on specific services within a project". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services , ai , coding-agents
-- [93] [雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放](https://www.ithome.com/1/012/769.htm) · IT之家 · 3 min
-  IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。 对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。 此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性能释放，官方数据显示，其整机重量约 1.54kg，厚度薄至 15.9mm，同时支持最高 160W 性能输出。双十一期间，雷神 ZERO Air 15 国补后售价为 12449 元。 在设计方面，雷神 ZERO Air 15 采用轻量化机身方案。机身外壳选用航空级镁合金材质，并通过结构优化降低整机重量，同时提升机身强度。此外，该机还采用定制轻量化主板，并对内部散热结构进行调整，通过 VC 架构散热方案进一步优化空间利用。 外观方面，机器表面采用准分子 UV 肤感漆工艺，通过多道工序处理后呈现哑光质感，同时具备一定抗指纹能力。对于需要经常携带电脑外出的用户来说，1.54kg 的重量相比传统游戏本更方便放入背包，减少移动负担。 性能方面，雷神 ZERO Air 15 搭载第三代英特尔酷睿 Ultra 7 356H 处理器，采用 16 核 16 线程设计，最高睿频可达 4.7GHz，并内置 NPU，可支持 AI 相关应用。 显卡方面，该机配备 NVIDIA GeForce RTX 5060 Laptop GPU，基于 Blackwell 架构打造，拥有 8GB GDDR7 显存，支持 115W 满功耗释放，提供 3328 个 CUDA 核心以及 572TOPS AI 算力，同时支持 DLSS 5 和 Max-Q 技术。 雷神 ZERO Air 15 搭载 Aero 真空腔散热系统，通过 VC 真空腔均热板、定制风扇以及相变硅脂等组件优化散热效率。官方数据显示，该机 CPU+GPU 双平台最高可实现 160W 性能释放，轻松满足游戏以及部分创作场景需求。 屏幕方面，雷神 ZERO Air 15 配备 15.3 英寸 OLED 屏幕，分辨率为 2560×1600，刷新率达到 165Hz，并支持 100% DCI-P3 色域、10bit 色深以及 HDR 显示，经过出厂校色。 存储配置方面，机器搭载 32GB DDR5 内存和 1TB SSD，同时提供双 SO-DIMM 内存插槽以及双 M.2 硬盘位，方便用户后续升级。显示模式方面，设备支持独显直连、混合输出以及核显输出三种模式切换，可以根据游戏性能需求和日常续航需求进行调整。 其他配置方面，雷神 ZERO Air 15 配备全尺寸 RGB 背光键盘、独立数字小键盘以及类玻璃触控板，同时搭载带物理遮挡开关的摄像头，提升隐私保护能力。接口方面提供 RJ45 网口、USB-A、USB-C 等接口，并搭配 250W 轻量化 SiC 电源适配器，方便日常携带。 双十一期间，雷神 ZERO Air 15 国补后售价为 12449 元，并提供雷神休闲背包、加速器季卡以及 Microsoft 365 个人版三个月订阅等购机权益。 京东 雷神 ZEROAir 15“小轻龙”游戏笔记本电脑 （英特尔酷睿 Ultra 7 356H RTX5060 32G 1T OLED 黑）国家补贴 国补后 12449 元起 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。
 
 ## 实体追踪
 
-- 官方 AI 实验室与公司信号：本周 350，今日 +65，官方 AI 实验室与公司信号 本期匹配 1581 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- AI Agents：本周 179，今日 +38，AI Agents 本期匹配 852 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、后训练/对齐。建议先看《A new feature for my blog, built using my voice》。
-- 推理训练与强化学习：本周 83，今日 +7，推理训练与强化学习 本期匹配 473 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 预训练：本周 68，今日 +4，预训练 本期匹配 358 篇文章，重点集中在 预训练、预训练/模型架构、推理训练/测试时计算。建议先看《梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑》。
-- 后训练与对齐：本周 49，今日 +1，后训练与对齐 本期匹配 274 篇文章，重点集中在 后训练/对齐、预训练/模型架构、AI 基础设施。建议先看《唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能》。
-- 编程 Agent：本周 40，今日 +12，编程 Agent 本期匹配 134 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全：本周 261，今日 +14，AI 评测与安全 本期匹配 1452 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- 数据分析与指标体系：本周 240，今日 +21，数据分析与指标体系 本期匹配 1244 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
-- AI 产品化：本周 238，今日 +27，AI 产品化 本期匹配 1208 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
-- AI 基础设施与算力：本周 190，今日 +15，AI 基础设施与算力 本期匹配 932 篇文章，重点集中在 AI 基础设施、后训练/对齐、评测/安全。建议先看《雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放》。
-- 成本管理与 FinOps：本周 157，今日 +17，成本管理与 FinOps 本期匹配 800 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
-- 科技圈动态：本周 76，今日 +8，科技圈动态 本期匹配 410 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、产品发布。建议先看《2026 in LLMs (so far)》。
+- 官方 AI 实验室与公司信号：本周 351，今日 +76，官方 AI 实验室与公司信号 本期匹配 1587 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+- AI Agents：本周 176，今日 +57，AI Agents 本期匹配 868 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。
+- 推理训练与强化学习：本周 85，今日 +32，推理训练与强化学习 本期匹配 488 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
+- 预训练：本周 58，今日 +24，预训练 本期匹配 365 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口》。
+- 后训练与对齐：本周 54，今日 +12，后训练与对齐 本期匹配 276 篇文章，重点集中在 后训练/对齐、预训练/模型架构、AI 基础设施。建议先看《唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能》。
+- 编程 Agent：本周 38，今日 +13，编程 Agent 本期匹配 138 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全：本周 257，今日 +73，AI 评测与安全 本期匹配 1474 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 产品化：本周 247，今日 +81，AI 产品化 本期匹配 1229 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
+- 数据分析与指标体系：本周 246，今日 +74，数据分析与指标体系 本期匹配 1277 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。
+- AI 基础设施与算力：本周 187，今日 +59，AI 基础设施与算力 本期匹配 956 篇文章，重点集中在 AI 基础设施、后训练/对齐、评测/安全。建议先看《雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放》。
+- 成本管理与 FinOps：本周 148，今日 +42，成本管理与 FinOps 本期匹配 805 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+- AI 改造传统领域：本周 79，今日 +14，AI 改造传统领域 本期匹配 364 篇文章，重点集中在 推理训练/测试时计算、评测/安全、产品发布。建议先看《2026 in LLMs (so far)》。
 
 ## 内容分栏
 
 - 学啥：80 篇
 - 读啥：80 篇
-- 做啥：37 篇
+- 做啥：38 篇
 - 忽略：0 篇
