@@ -1,24 +1,24 @@
 # My Briefing for LLMs
 
-Date: 2026-10-15
-Funnel: 12 sources, 4248 scanned, 7 picks
+Date: 2026-10-16
+Funnel: 12 sources, 4261 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1584 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+官方 AI 实验室与公司信号 本期匹配 1593 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
 
 ## Top Picks
 - [100] 响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent (量子位) https://www.qbitai.com/2026/10/503165.html
 - [100] Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war (Simon Willison) https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
-- [100] MCP was always a bad idea? (Simon Willison) https://simonwillison.net/2026/Sep/20/hn-49779718/
 - [100] Claude Cowork and chat are now one Claude (Simon Willison) https://simonwillison.net/2026/Sep/16/one-claude/
-- [98] llm-keys-ui 0.1 (Simon Willison) https://simonwillison.net/2026/Sep/20/llm-keys-ui/
+- [97] OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星 (IT之家) https://www.ithome.com/1/013/331.htm
+- [97] We're going to need default hard budget caps on pretty much everything (Simon Willison) https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1584 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1593 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。
 - AI Agents: AI Agents 本期匹配 869 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 487 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
-- 预训练: 预训练 本期匹配 368 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《阶跃星辰开源 Step 5 Preview 权重，华为昇腾、沐曦、壁仞等首发支持》。
-- 后训练与对齐: 后训练与对齐 本期匹配 276 篇文章，重点集中在 预训练/模型架构、后训练/对齐、AI 基础设施。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。
-- 编程 Agent: 编程 Agent 本期匹配 139 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1473 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
-- AI 产品化: AI 产品化 本期匹配 1237 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 487 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。
+- 预训练: 预训练 本期匹配 364 篇文章，重点集中在 预训练/模型架构、预训练、推理训练/测试时计算。建议先看《阶跃星辰开源 Step 5 Preview 权重，华为昇腾、沐曦、壁仞等首发支持》。
+- 后训练与对齐: 后训练与对齐 本期匹配 275 篇文章，重点集中在 后训练/对齐、预训练/模型架构、产品发布。建议先看《PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design》。
+- 编程 Agent: 编程 Agent 本期匹配 140 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1455 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1269 篇文章，重点集中在 评测/安全、预训练/模型架构、推理训练/测试时计算。建议先看《国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单》。

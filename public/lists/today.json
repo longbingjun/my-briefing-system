@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "edition": "daily",
-  "generated_at": "2026-10-15T17:10:48.778751+00:00",
+  "generated_at": "2026-10-16T05:56:50.813453+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4248,
+    "total_scanned": 4261,
     "picks_count": 7,
-    "est_read_minutes": 21,
-    "est_saved_hours": 176.7
+    "est_read_minutes": 20,
+    "est_saved_hours": 177.2
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1584 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1593 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1584 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1593 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1584 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1593 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 487 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 487 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 487 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 487 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -75,14 +75,6 @@
       },
       {
         "n": 3,
-        "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-        "title": "MCP was always a bad idea?",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 2
-      },
-      {
-        "n": 4,
         "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
         "title": "Claude Cowork and chat are now one Claude",
         "source": "Simon Willison",
@@ -90,15 +82,7 @@
         "minutes": 2
       },
       {
-        "n": 5,
-        "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-        "title": "llm-keys-ui 0.1",
-        "source": "Simon Willison",
-        "score": 98,
-        "minutes": 2
-      },
-      {
-        "n": 6,
+        "n": 4,
         "link": "https://www.ithome.com/1/013/331.htm",
         "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
         "source": "IT之家",
@@ -106,74 +90,90 @@
         "minutes": 2
       },
       {
-        "n": 7,
+        "n": 5,
         "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
         "title": "We're going to need default hard budget caps on pretty much everything",
         "source": "Simon Willison",
         "score": 97,
         "minutes": 4
+      },
+      {
+        "n": 6,
+        "link": "https://www.ithome.com/1/011/329.htm",
+        "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+        "source": "IT之家",
+        "score": 97,
+        "minutes": 1
+      },
+      {
+        "n": 7,
+        "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+        "title": "MCP was always a bad idea?",
+        "source": "Simon Willison",
+        "score": 97,
+        "minutes": 2
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 335,
+        "articles_7d": 359,
         "direction": "up",
-        "today_count": 77
+        "today_count": 90
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 177,
+        "articles_7d": 182,
         "direction": "up",
-        "today_count": 58
+        "today_count": 61
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 84,
-        "direction": "down",
-        "today_count": 32
+        "articles_7d": 93,
+        "direction": "up",
+        "today_count": 31
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 61,
+        "articles_7d": 66,
         "direction": "down",
-        "today_count": 27
+        "today_count": 28
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 55,
-        "direction": "up",
+        "articles_7d": 47,
+        "direction": "down",
         "today_count": 13
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 37,
+        "articles_7d": 35,
         "direction": "up",
-        "today_count": 15
+        "today_count": 11
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 253,
+        "articles_7d": 252,
         "direction": "down",
-        "today_count": 77
+        "today_count": 73
       },
       {
-        "entity_id": "ai_products",
-        "display": "AI 产品化",
-        "articles_7d": 249,
+        "entity_id": "data_analytics",
+        "display": "数据分析与指标体系",
+        "articles_7d": 248,
         "direction": "down",
-        "today_count": 86
+        "today_count": 65
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
-    "word_count": 282
+    "word_count": 355
   },
   "picks": [
     {
@@ -219,27 +219,6 @@
       "topic": "推理训练/测试时计算"
     },
     {
-      "id": "657227dfb1694c91",
-      "title": "MCP was always a bad idea?",
-      "title_original": "MCP was always a bad idea?",
-      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol",
-      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-09-30",
-      "published_at": "2026-09-30T18:01:56.821321+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
       "id": "62e9c2b9a4707d7c",
       "title": "Claude Cowork and chat are now one Claude",
       "title_original": "Claude Cowork and chat are now one Claude",
@@ -257,27 +236,6 @@
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 35,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "2f06dacbbdb514eb",
-      "title": "llm-keys-ui 0.1",
-      "title_original": "llm-keys-ui 0.1",
-      "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --with llm-keys-ui llm keys-ui --all Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys. Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key. Tags: llm , coding-agents , codex",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "source": "Simon Willison",
-      "source_id": "simon_willison",
-      "source_group": "individual",
-      "language": "en",
-      "date": "2026-09-30",
-      "published_at": "2026-09-30T18:01:56.821377+00:00",
-      "score": 98,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 55,
       "minutes": 2,
       "topic": "Agent 工作流"
     },
@@ -322,113 +280,155 @@
       "actionability": 55,
       "minutes": 4,
       "topic": "Agent 工作流"
+    },
+    {
+      "id": "59a989237db0e796",
+      "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+      "title_original": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+      "summary": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告， 宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。 IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。 为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比较单智能体与动态工作流的检出数量。测试结果显示，在单智能体每次运行检出 14 至 27 个漏洞；而动态工作流则稳定检出 66 个。",
+      "url": "https://www.ithome.com/1/011/329.htm",
+      "link": "https://www.ithome.com/1/011/329.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-10-10",
+      "published_at": "2026-10-10T05:38:05+00:00",
+      "score": 97,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 1,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "657227dfb1694c91",
+      "title": "MCP was always a bad idea?",
+      "title_original": "MCP was always a bad idea?",
+      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol",
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T18:01:56.821321+00:00",
+      "score": 97,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3742,
+      "mention_count": 3736,
       "source_count": 10
     },
     {
       "keyword": "models",
-      "mention_count": 3710,
+      "mention_count": 3675,
       "source_count": 7
     },
     {
       "keyword": "model",
-      "mention_count": 3614,
+      "mention_count": 3628,
       "source_count": 10
     },
     {
       "keyword": "之家",
-      "mention_count": 3586,
+      "mention_count": 3590,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3548,
+      "mention_count": 3552,
       "source_count": 1
     },
     {
       "keyword": "type",
-      "mention_count": 3181,
+      "mention_count": 3161,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3149,
+      "mention_count": 3133,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3127,
+      "mention_count": 3113,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 3093,
+      "mention_count": 3078,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2928,
+      "mention_count": 2895,
       "source_count": 9
     },
     {
       "keyword": "across",
-      "mention_count": 2686,
+      "mention_count": 2653,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2425,
+      "mention_count": 2472,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2306,
+      "mention_count": 2290,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 2166,
+      "mention_count": 2184,
       "source_count": 6
     },
     {
       "keyword": "these",
-      "mention_count": 1899,
-      "source_count": 5
-    },
-    {
-      "keyword": "language",
-      "mention_count": 1837,
+      "mention_count": 1870,
       "source_count": 5
     },
     {
       "keyword": "which",
-      "mention_count": 1798,
-      "source_count": 7
+      "mention_count": 1811,
+      "source_count": 6
     },
     {
-      "keyword": "data",
-      "mention_count": 1785,
-      "source_count": 12
-    },
-    {
-      "keyword": "but",
-      "mention_count": 1698,
+      "keyword": "language",
+      "mention_count": 1809,
       "source_count": 5
     },
     {
+      "keyword": "data",
+      "mention_count": 1781,
+      "source_count": 12
+    },
+    {
       "keyword": "not",
-      "mention_count": 1681,
+      "mention_count": 1712,
       "source_count": 6
+    },
+    {
+      "keyword": "but",
+      "mention_count": 1678,
+      "source_count": 5
     }
   ],
   "quality": {
-    "scored": 494,
-    "must_read_count": 315,
-    "avg_score": 73.3
+    "scored": 499,
+    "must_read_count": 317,
+    "avg_score": 73.2
   }
 }
