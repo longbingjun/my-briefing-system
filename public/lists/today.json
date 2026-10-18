@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "edition": "daily",
-  "generated_at": "2026-10-17T15:44:00.488790+00:00",
+  "generated_at": "2026-10-18T06:04:16.810308+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4140,
+    "total_scanned": 4042,
     "picks_count": 7,
     "est_read_minutes": 20,
-    "est_saved_hours": 172.2
+    "est_saved_hours": 168.1
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1567 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1540 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1567 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1540 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1567 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1540 篇文章，重点集中在 推理训练/测试时计算、评测/安全、Agent 工作流。建议先看《Claude Haiku 5.5》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 826 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。",
+        "text": "AI Agents 本期匹配 792 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 826 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 792 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《A new feature for my blog, built using my voice》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 456 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。",
+        "text": "推理训练与强化学习 本期匹配 434 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 456 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 434 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、后训练/对齐。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -75,6 +75,14 @@
       },
       {
         "n": 3,
+        "link": "https://www.ithome.com/1/014/477.htm",
+        "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+        "source": "IT之家",
+        "score": 100,
+        "minutes": 2
+      },
+      {
+        "n": 4,
         "link": "https://www.ithome.com/1/014/372.htm",
         "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
         "source": "IT之家",
@@ -82,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 4,
+        "n": 5,
         "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
         "source": "OpenAI Blog",
@@ -90,7 +98,7 @@
         "minutes": 1
       },
       {
-        "n": 5,
+        "n": 6,
         "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
         "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
         "source": "Simon Willison",
@@ -98,19 +106,11 @@
         "minutes": 8
       },
       {
-        "n": 6,
-        "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-        "title": "Claude Cowork and chat are now one Claude",
-        "source": "Simon Willison",
-        "score": 100,
-        "minutes": 2
-      },
-      {
         "n": 7,
-        "link": "https://www.ithome.com/1/013/331.htm",
-        "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
-        "source": "IT之家",
-        "score": 97,
+        "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+        "title": "MCP was always a bad idea?",
+        "source": "Simon Willison",
+        "score": 95,
         "minutes": 2
       }
     ],
@@ -118,23 +118,23 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 332,
+        "articles_7d": 340,
         "direction": "up",
-        "today_count": 59
+        "today_count": 56
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
         "articles_7d": 177,
         "direction": "up",
-        "today_count": 23
+        "today_count": 19
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
         "articles_7d": 89,
         "direction": "up",
-        "today_count": 5
+        "today_count": 6
       },
       {
         "entity_id": "pretraining",
@@ -146,30 +146,30 @@
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 47,
+        "articles_7d": 45,
         "direction": "down",
         "today_count": 0
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 39,
+        "articles_7d": 40,
         "direction": "up",
-        "today_count": 12
-      },
-      {
-        "entity_id": "ai_evaluation_safety",
-        "display": "AI 评测与安全",
-        "articles_7d": 255,
-        "direction": "down",
-        "today_count": 15
+        "today_count": 11
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 250,
+        "articles_7d": 261,
+        "direction": "up",
+        "today_count": 26
+      },
+      {
+        "entity_id": "ai_evaluation_safety",
+        "display": "AI 评测与安全",
+        "articles_7d": 256,
         "direction": "down",
-        "today_count": 18
+        "today_count": 13
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-10-17",
-      "published_at": "2026-10-17T15:43:51.864112+00:00",
+      "date": "2026-10-18",
+      "published_at": "2026-10-18T06:04:07.989838+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,29 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-10-17",
-      "published_at": "2026-10-17T15:43:51.863954+00:00",
+      "date": "2026-10-18",
+      "published_at": "2026-10-18T06:04:07.989627+00:00",
+      "score": 100,
+      "entity_id": "ai_agents",
+      "entity": "AI Agents",
+      "kind": "read",
+      "actionability": 35,
+      "minutes": 2,
+      "topic": "Agent 工作流"
+    },
+    {
+      "id": "c260b5538a634aa1",
+      "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+      "title_original": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+      "summary": "IT之家 10 月 18 日消息，李未可 Lawaken X-AI 记忆眼镜现已预售， 预售到手价 699 元起 ： 枪色经典圈丝框：699 元 深灰板材圆框：899 元 渐变灰板材方框：899 元 亮银飞行员圈丝框：899 元 灰银纯钛眉毛架：1099 元 黑金钛架眉毛架：1099 元 这款 AI 记忆眼镜主打全场景 AI 记录，覆盖高频会议、灵感碎片、商务拜访、多线程项目管理、微信 / 电话沟通等多种高频场景；机身重量 26 克（不含镜片及模组），提供多种框型可选，支持快拆设计，可更换镜框适配不同穿搭场景。 这款眼镜支持自动抓取待办、关键结论与优先级划分，用户可通过语音提问一键检索，即刻调取完整信息；集成腾讯云 WorkBuddy，可基于个人记忆库一键生成方案、会议纪要、文稿，省去二次整理步骤；采用分层记忆管理，支持用户随时编辑、删除、导出记忆数据，同时采用 AES-256 云端加密。 这款新品通过标准 MCP 协议连接豆包、飞书、千问办公、Codex、Claude 等主流 Agent 平台，实现记忆跨平台调用，工作流无缝衔接；支持最高 12 小时录音，单次充满电约需 60 分钟；支持 128 种语言实时翻译，支持 25 种语言 + 21 种方言录音转写。 此外，这款产品可选配独立摄像模组，重 10g，一吸即拍，支持 1200 万像素第一视角拍摄，可实现语音、文字、图像同步记录。 IT之家附这款新品参数： 京东 李未可 Lawaken X-AI 记忆眼镜 699 元起 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+      "url": "https://www.ithome.com/1/014/477.htm",
+      "link": "https://www.ithome.com/1/014/477.htm",
+      "source": "IT之家",
+      "source_id": "ithome",
+      "source_group": "chinese_media",
+      "language": "zh",
+      "date": "2026-10-18",
+      "published_at": "2026-10-18T03:43:07+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -282,153 +303,132 @@
       "topic": "推理训练/测试时计算"
     },
     {
-      "id": "62e9c2b9a4707d7c",
-      "title": "Claude Cowork and chat are now one Claude",
-      "title_original": "Claude Cowork and chat are now one Claude",
-      "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new users on these plans. I guess this means Claude is becoming a general agent in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago. On the one hand, this saves me some work, in that I was planning to finally figure out the boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai , generative-ai , llms , anthropic , claude , general-agents",
-      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "id": "657227dfb1694c91",
+      "title": "MCP was always a bad idea?",
+      "title_original": "MCP was always a bad idea?",
+      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol",
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
       "source": "Simon Willison",
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-09-25",
-      "published_at": "2026-09-25T06:12:14.145807+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T18:01:56.821321+00:00",
+      "score": 95,
+      "entity_id": "coding_agents",
+      "entity": "编程 Agent",
       "kind": "read",
-      "actionability": 35,
+      "actionability": 55,
       "minutes": 2,
       "topic": "Agent 工作流"
-    },
-    {
-      "id": "92251f332d8786e3",
-      "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
-      "title_original": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
-      "summary": "IT之家 10 月 15 日消息，据卫报报道，OpenAI 伦敦分部员工去年人均薪酬达到 231.8181 万英镑 （IT之家注：现汇率约合 2,053.9 万元人民币） 。这家 ChatGPT 开发商投入堪比英超球星级别的薪资，全力争夺全球 AI 竞赛的主导地位。 OpenAI 英国有限公司注册于威斯敏斯特，新总部落地伦敦国王十字区。公司财报显示，110 名员工合计领取 8,700 万英镑 （现汇率约合 7.71 亿元人民币） 薪资，外加价值 1.68 亿英镑 （现汇率约合 14.88 亿元人民币） 的公司股权。OpenAI 目标上市估值约 1 万亿美元 （现汇率约合 6.71 万亿元人民币） 。 英国国家统计局数据显示，这份平均薪酬是英国全职员工收入中位数的 58 倍。拿到平均薪酬包的 OpenAI 员工，税前时薪（薪资 + 股权）约 1,000 英镑 （现汇率约合 8,860 元人民币） 。 不过内部薪酬差距巨大，最高档薪酬留给 AI 研究员，正是他们打造出这家旧金山企业 Astra 等前沿大模型。 数据对应的是 2025 年，彼时行业人才争夺战白热化，其竞争对手 Meta 当时传出提供数亿美元的多年期人才包。 OpenAI 伦敦分部体现出伦敦作为 AI 人才重镇的地位，剑桥等高校源源不断输出顶尖机器学习与 AI 研究者，谷歌 DeepMind 总部同样坐落于国王十字区。 今年夏天，正在训练阶段的 OpenAI AI 智能体发生逃逸，入侵了无关网站 Hugging Face；本月，OpenAI 一名安全负责人离职，称企业文化已经崩坏，各大 AI 企业在技术研发上“谨慎程度远远不够”。 OpenAI 伦敦办公室是其规模最大的海外研发中心，同时设有政府事务、销售与市场团队，负责向各类企业与机构出售授权。英国前保守党财政大臣乔治 · 奥斯本于去年 12 月入职，担任该公司国别事务负责人。 相比上一年人均 110 万英镑 （现汇率约合 974.6 万元人民币） 的薪酬 + 股权包，本次收入水平大幅上涨。 AI 行业高薪浪潮已经显著推高旧金山房价：当地一居室公寓租金均值达到每月 4,400 美元 （现汇率约合 29,509 元人民币） ，同比上涨超 25%，接近美国平均水平的三倍。房东们借着 AI 热潮获利，尤其是 OpenAI、Anthropic 这类头部 AI 企业办公地点周边的房源。 在伦敦，OpenAI 英国有限公司 2025 年营收增长两倍多，达到 2.93 亿英镑 （现汇率约合 25.96 亿元人民币） ，实现利润 2,030 万英镑 （现汇率约合 1.8 亿元人民币） 。",
-      "url": "https://www.ithome.com/1/013/331.htm",
-      "link": "https://www.ithome.com/1/013/331.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-10-15",
-      "published_at": "2026-10-15T04:43:48+00:00",
-      "score": 97,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
-      "kind": "read",
-      "actionability": 20,
-      "minutes": 2,
-      "topic": "评测/安全"
     }
   ],
   "trending": [
     {
-      "keyword": "new",
-      "mention_count": 3618,
-      "source_count": 10
-    },
-    {
-      "keyword": "models",
-      "mention_count": 3587,
-      "source_count": 7
-    },
-    {
       "keyword": "之家",
-      "mention_count": 3586,
+      "mention_count": 3594,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3546,
+      "mention_count": 3554,
       "source_count": 1
     },
     {
-      "keyword": "model",
-      "mention_count": 3513,
+      "keyword": "models",
+      "mention_count": 3431,
+      "source_count": 7
+    },
+    {
+      "keyword": "new",
+      "mention_count": 3407,
       "source_count": 10
     },
     {
+      "keyword": "model",
+      "mention_count": 3297,
+      "source_count": 9
+    },
+    {
       "keyword": "type",
-      "mention_count": 3064,
+      "mention_count": 2887,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 3032,
+      "mention_count": 2851,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 3011,
+      "mention_count": 2834,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 2977,
+      "mention_count": 2800,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2789,
+      "mention_count": 2644,
       "source_count": 8
     },
     {
       "keyword": "across",
-      "mention_count": 2585,
+      "mention_count": 2443,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2445,
+      "mention_count": 2347,
       "source_count": 9
     },
     {
-      "keyword": "while",
-      "mention_count": 2215,
-      "source_count": 7
-    },
-    {
       "keyword": "pro",
-      "mention_count": 2179,
+      "mention_count": 2119,
       "source_count": 6
     },
     {
+      "keyword": "while",
+      "mention_count": 2114,
+      "source_count": 7
+    },
+    {
       "keyword": "these",
-      "mention_count": 1791,
+      "mention_count": 1706,
       "source_count": 5
     },
     {
       "keyword": "which",
-      "mention_count": 1775,
+      "mention_count": 1705,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1739,
+      "mention_count": 1662,
       "source_count": 4
     },
     {
       "keyword": "data",
-      "mention_count": 1723,
+      "mention_count": 1627,
       "source_count": 12
     },
     {
       "keyword": "not",
-      "mention_count": 1664,
+      "mention_count": 1552,
       "source_count": 8
     },
     {
       "keyword": "but",
-      "mention_count": 1607,
+      "mention_count": 1497,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 492,
-    "must_read_count": 295,
-    "avg_score": 72.8
+    "scored": 499,
+    "must_read_count": 297,
+    "avg_score": 72.6
   }
 }
