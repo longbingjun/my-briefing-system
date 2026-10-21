@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "edition": "daily",
-  "generated_at": "2026-10-20T17:20:42.419691+00:00",
+  "generated_at": "2026-10-21T06:07:19.657488+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4021,
+    "total_scanned": 4139,
     "picks_count": 7,
     "est_read_minutes": 21,
-    "est_saved_hours": 167.2
+    "est_saved_hours": 172.1
   },
-  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1496 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。",
+  "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1513 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。",
   "daily_digest": {
     "paragraphs": [
       {
         "lead": "官方 AI 实验室与公司信号",
         "entity": "official_ai_labs",
-        "text": "官方 AI 实验室与公司信号 本期匹配 1496 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。",
+        "text": "官方 AI 实验室与公司信号 本期匹配 1513 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。",
         "xhs_caption": {
           "title": "官方 AI 实验室与公司信号 本期值得关注",
-          "body": "官方 AI 实验室与公司信号 本期匹配 1496 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "官方 AI 实验室与公司信号 本期匹配 1513 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "官方 AI 实验室与公司信号",
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 775 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。",
+        "text": "AI Agents 本期匹配 818 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 775 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 818 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《A new feature for my blog, built using my voice》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 426 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。",
+        "text": "推理训练与强化学习 本期匹配 461 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 426 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 461 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -83,14 +83,6 @@
       },
       {
         "n": 4,
-        "link": "https://www.ithome.com/1/014/477.htm",
-        "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-        "source": "IT之家",
-        "score": 100,
-        "minutes": 2
-      },
-      {
-        "n": 5,
         "link": "https://www.ithome.com/1/014/372.htm",
         "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
         "source": "IT之家",
@@ -98,7 +90,7 @@
         "minutes": 2
       },
       {
-        "n": 6,
+        "n": 5,
         "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
         "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
         "source": "Simon Willison",
@@ -106,10 +98,18 @@
         "minutes": 8
       },
       {
-        "n": 7,
+        "n": 6,
         "link": "https://www.ithome.com/1/014/589.htm",
         "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
         "source": "IT之家",
+        "score": 95,
+        "minutes": 2
+      },
+      {
+        "n": 7,
+        "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+        "title": "MCP was always a bad idea?",
+        "source": "Simon Willison",
         "score": 95,
         "minutes": 2
       }
@@ -118,58 +118,58 @@
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 329,
-        "direction": "down",
-        "today_count": 59
+        "articles_7d": 339,
+        "direction": "up",
+        "today_count": 64
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 182,
+        "articles_7d": 211,
         "direction": "up",
-        "today_count": 26
+        "today_count": 66
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
-        "articles_7d": 91,
+        "articles_7d": 128,
         "direction": "up",
-        "today_count": 7
+        "today_count": 43
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 65,
-        "direction": "down",
-        "today_count": 4
+        "articles_7d": 89,
+        "direction": "up",
+        "today_count": 27
       },
       {
         "entity_id": "post_training",
         "display": "后训练与对齐",
-        "articles_7d": 39,
-        "direction": "down",
-        "today_count": 0
+        "articles_7d": 51,
+        "direction": "up",
+        "today_count": 13
       },
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 38,
+        "articles_7d": 41,
         "direction": "up",
-        "today_count": 14
+        "today_count": 19
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
-        "articles_7d": 256,
-        "direction": "down",
-        "today_count": 14
+        "articles_7d": 307,
+        "direction": "up",
+        "today_count": 67
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 251,
-        "direction": "down",
-        "today_count": 22
+        "articles_7d": 294,
+        "direction": "up",
+        "today_count": 69
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -187,8 +187,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-10-20",
-      "published_at": "2026-10-20T17:20:30.007826+00:00",
+      "date": "2026-10-21",
+      "published_at": "2026-10-21T06:07:09.964822+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -208,8 +208,8 @@
       "source_id": "simon_willison",
       "source_group": "individual",
       "language": "en",
-      "date": "2026-10-20",
-      "published_at": "2026-10-20T17:20:30.007672+00:00",
+      "date": "2026-10-21",
+      "published_at": "2026-10-21T06:07:09.964677+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -236,27 +236,6 @@
       "entity": "AI Agents",
       "kind": "read",
       "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
-    },
-    {
-      "id": "c260b5538a634aa1",
-      "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-      "title_original": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-      "summary": "IT之家 10 月 18 日消息，李未可 Lawaken X-AI 记忆眼镜现已预售， 预售到手价 699 元起 ： 枪色经典圈丝框：699 元 深灰板材圆框：899 元 渐变灰板材方框：899 元 亮银飞行员圈丝框：899 元 灰银纯钛眉毛架：1099 元 黑金钛架眉毛架：1099 元 这款 AI 记忆眼镜主打全场景 AI 记录，覆盖高频会议、灵感碎片、商务拜访、多线程项目管理、微信 / 电话沟通等多种高频场景；机身重量 26 克（不含镜片及模组），提供多种框型可选，支持快拆设计，可更换镜框适配不同穿搭场景。 这款眼镜支持自动抓取待办、关键结论与优先级划分，用户可通过语音提问一键检索，即刻调取完整信息；集成腾讯云 WorkBuddy，可基于个人记忆库一键生成方案、会议纪要、文稿，省去二次整理步骤；采用分层记忆管理，支持用户随时编辑、删除、导出记忆数据，同时采用 AES-256 云端加密。 这款新品通过标准 MCP 协议连接豆包、飞书、千问办公、Codex、Claude 等主流 Agent 平台，实现记忆跨平台调用，工作流无缝衔接；支持最高 12 小时录音，单次充满电约需 60 分钟；支持 128 种语言实时翻译，支持 25 种语言 + 21 种方言录音转写。 此外，这款产品可选配独立摄像模组，重 10g，一吸即拍，支持 1200 万像素第一视角拍摄，可实现语音、文字、图像同步记录。 IT之家附这款新品参数： 京东 李未可 Lawaken X-AI 记忆眼镜 699 元起 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
-      "url": "https://www.ithome.com/1/014/477.htm",
-      "link": "https://www.ithome.com/1/014/477.htm",
-      "source": "IT之家",
-      "source_id": "ithome",
-      "source_group": "chinese_media",
-      "language": "zh",
-      "date": "2026-10-18",
-      "published_at": "2026-10-18T03:43:07+00:00",
-      "score": 100,
-      "entity_id": "ai_agents",
-      "entity": "AI Agents",
-      "kind": "read",
-      "actionability": 35,
       "minutes": 2,
       "topic": "Agent 工作流"
     },
@@ -322,113 +301,134 @@
       "actionability": 55,
       "minutes": 2,
       "topic": "评测/安全"
+    },
+    {
+      "id": "657227dfb1694c91",
+      "title": "MCP was always a bad idea?",
+      "title_original": "MCP was always a bad idea?",
+      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol",
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "source": "Simon Willison",
+      "source_id": "simon_willison",
+      "source_group": "individual",
+      "language": "en",
+      "date": "2026-09-30",
+      "published_at": "2026-09-30T18:01:56.821321+00:00",
+      "score": 95,
+      "entity_id": "coding_agents",
+      "entity": "编程 Agent",
+      "kind": "read",
+      "actionability": 55,
+      "minutes": 2,
+      "topic": "Agent 工作流"
     }
   ],
   "trending": [
     {
+      "keyword": "new",
+      "mention_count": 3613,
+      "source_count": 10
+    },
+    {
+      "keyword": "models",
+      "mention_count": 3586,
+      "source_count": 7
+    },
+    {
       "keyword": "之家",
-      "mention_count": 3562,
+      "mention_count": 3572,
       "source_count": 1
     },
     {
       "keyword": "日消息",
-      "mention_count": 3512,
+      "mention_count": 3524,
       "source_count": 1
     },
     {
-      "keyword": "models",
-      "mention_count": 3434,
-      "source_count": 7
-    },
-    {
-      "keyword": "new",
-      "mention_count": 3419,
-      "source_count": 10
-    },
-    {
       "keyword": "model",
-      "mention_count": 3325,
+      "mention_count": 3459,
       "source_count": 9
     },
     {
       "keyword": "type",
-      "mention_count": 2873,
+      "mention_count": 3015,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 2843,
+      "mention_count": 2982,
       "source_count": 3
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2834,
+      "mention_count": 2973,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 2800,
+      "mention_count": 2939,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2661,
+      "mention_count": 2785,
       "source_count": 8
     },
     {
       "keyword": "across",
-      "mention_count": 2451,
+      "mention_count": 2584,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2375,
+      "mention_count": 2525,
       "source_count": 9
     },
     {
-      "keyword": "pro",
-      "mention_count": 2149,
-      "source_count": 6
-    },
-    {
       "keyword": "while",
-      "mention_count": 2092,
+      "mention_count": 2171,
       "source_count": 7
     },
     {
+      "keyword": "pro",
+      "mention_count": 2135,
+      "source_count": 6
+    },
+    {
       "keyword": "which",
-      "mention_count": 1755,
+      "mention_count": 1837,
       "source_count": 5
     },
     {
       "keyword": "these",
-      "mention_count": 1713,
+      "mention_count": 1816,
       "source_count": 5
     },
     {
       "keyword": "language",
-      "mention_count": 1688,
+      "mention_count": 1768,
       "source_count": 4
     },
     {
       "keyword": "data",
-      "mention_count": 1573,
-      "source_count": 11
+      "mention_count": 1627,
+      "source_count": 12
     },
     {
       "keyword": "not",
-      "mention_count": 1534,
+      "mention_count": 1606,
       "source_count": 8
     },
     {
       "keyword": "but",
-      "mention_count": 1493,
+      "mention_count": 1580,
       "source_count": 5
     }
   ],
   "quality": {
-    "scored": 506,
-    "must_read_count": 304,
-    "avg_score": 72.4
+    "scored": 500,
+    "must_read_count": 312,
+    "avg_score": 73.1
   }
 }
