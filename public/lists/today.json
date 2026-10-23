@@ -2,13 +2,13 @@
   "version": 1,
   "date": "2026-10-23",
   "edition": "daily",
-  "generated_at": "2026-10-23T06:05:45.241932+00:00",
+  "generated_at": "2026-10-23T17:17:35.100530+00:00",
   "funnel": {
     "sources_active": 12,
-    "total_scanned": 4122,
+    "total_scanned": 4109,
     "picks_count": 7,
-    "est_read_minutes": 22,
-    "est_saved_hours": 171.4
+    "est_read_minutes": 28,
+    "est_saved_hours": 170.7
   },
   "daily_brief": "官方 AI 实验室与公司信号 本期匹配 1518 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。",
   "daily_digest": {
@@ -30,10 +30,10 @@
       {
         "lead": "AI Agents",
         "entity": "ai_agents",
-        "text": "AI Agents 本期匹配 824 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《LaTeX renderer》。",
+        "text": "AI Agents 本期匹配 817 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《LaTeX renderer》。",
         "xhs_caption": {
           "title": "AI Agents 本期值得关注",
-          "body": "AI Agents 本期匹配 824 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《LaTeX renderer》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "AI Agents 本期匹配 817 篇文章，重点集中在 Agent 工作流、预训练/模型架构、推理训练/测试时计算。建议先看《LaTeX renderer》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "AI Agents",
@@ -44,10 +44,10 @@
       {
         "lead": "推理训练与强化学习",
         "entity": "reasoning_training",
-        "text": "推理训练与强化学习 本期匹配 469 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。",
+        "text": "推理训练与强化学习 本期匹配 469 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、预训练/模型架构。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。",
         "xhs_caption": {
           "title": "推理训练与强化学习 本期值得关注",
-          "body": "推理训练与强化学习 本期匹配 469 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
+          "body": "推理训练与强化学习 本期匹配 469 篇文章，重点集中在 后训练/对齐、推理训练/测试时计算、预训练/模型架构。建议先看《StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents》。\n\n我会继续追踪这个方向的官方信源、技术文章和产品变化。",
           "tags": [
             "AI简报",
             "推理训练与强化学习",
@@ -107,39 +107,39 @@
       },
       {
         "n": 7,
-        "link": "https://www.ithome.com/1/014/587.htm",
-        "title": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
+        "link": "https://www.ithome.com/1/017/270.htm",
+        "title": "微星神影 16 魔龙姬星际套装体验：锐龙 9 8940HX ，纯白高颜值与硬核性能兼得",
         "source": "IT之家",
         "score": 93,
-        "minutes": 2
+        "minutes": 8
       }
     ],
     "entity_moves": [
       {
         "entity_id": "official_ai_labs",
         "display": "官方 AI 实验室与公司信号",
-        "articles_7d": 339,
+        "articles_7d": 342,
         "direction": "up",
-        "today_count": 81
+        "today_count": 84
       },
       {
         "entity_id": "ai_agents",
         "display": "AI Agents",
-        "articles_7d": 197,
+        "articles_7d": 198,
         "direction": "up",
-        "today_count": 55
+        "today_count": 60
       },
       {
         "entity_id": "reasoning_training",
         "display": "推理训练与强化学习",
         "articles_7d": 121,
         "direction": "up",
-        "today_count": 28
+        "today_count": 27
       },
       {
         "entity_id": "pretraining",
         "display": "预训练",
-        "articles_7d": 77,
+        "articles_7d": 78,
         "direction": "up",
         "today_count": 18
       },
@@ -153,23 +153,23 @@
       {
         "entity_id": "coding_agents",
         "display": "编程 Agent",
-        "articles_7d": 40,
+        "articles_7d": 39,
         "direction": "up",
-        "today_count": 17
+        "today_count": 16
       },
       {
         "entity_id": "ai_evaluation_safety",
         "display": "AI 评测与安全",
         "articles_7d": 288,
         "direction": "up",
-        "today_count": 71
+        "today_count": 72
       },
       {
         "entity_id": "data_analytics",
         "display": "数据分析与指标体系",
-        "articles_7d": 279,
+        "articles_7d": 276,
         "direction": "up",
-        "today_count": 72
+        "today_count": 74
       }
     ],
     "skip_note": "低分、重复或与长期关注领域弱相关的内容会进入忽略，不展示在今日导读里。",
@@ -188,7 +188,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-23",
-      "published_at": "2026-10-23T06:05:34.775004+00:00",
+      "published_at": "2026-10-23T17:17:25.193841+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -209,7 +209,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-23",
-      "published_at": "2026-10-23T06:05:34.774626+00:00",
+      "published_at": "2026-10-23T17:17:25.193570+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -230,7 +230,7 @@
       "source_group": "individual",
       "language": "en",
       "date": "2026-10-23",
-      "published_at": "2026-10-23T06:05:34.773003+00:00",
+      "published_at": "2026-10-23T17:17:25.192393+00:00",
       "score": 100,
       "entity_id": "ai_agents",
       "entity": "AI Agents",
@@ -303,106 +303,106 @@
       "topic": "Agent 工作流"
     },
     {
-      "id": "5a2d24020854cf3a",
-      "title": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
-      "title_original": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
-      "summary": "IT之家 10 月 18 日消息，DeepSeek 今日发布公告，DeepSeek API 现已支持网页搜索与抓取，按请求次数计费，单价为每 1000 次成功请求 5 元。 公告称，当前用户在 DeepSeek Harness / Claude Code / Codex 中使用 DeepSeek API 时，已经会通过 Server 端工具调用访问到 Search / Fetch 接口，这部分 Search / Fetch 接口调用目前未计费，并将于北京时间 2026 年 11 月 1 日 00:00 起按次收取调用费用。 据IT之家此前报道，DeepSeek 官方于 10 月 17 日宣布 Search / Fetch API 已正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容。 Search 接口按 query 搜索网页并返回结构化结果，Fetch 接口则抓取单个网页，以 Markdown 文本返回标题与正文。两者均为原始 JSON API，Base URL 为 api.deepseek.com ，使用与 DeepSeek API 相同的 Bearer 鉴权。 相关阅读： 《 DeepSeek 上线网页搜索与抓取 API、API 短暂出现 V4.1 Flash-1017 快照、Harness v0.2.1-rc1 发布 》",
-      "url": "https://www.ithome.com/1/014/587.htm",
-      "link": "https://www.ithome.com/1/014/587.htm",
+      "id": "895f0ada19a9520e",
+      "title": "微星神影 16 魔龙姬星际套装体验：锐龙 9 8940HX ，纯白高颜值与硬核性能兼得",
+      "title_original": "微星神影 16 魔龙姬星际套装体验：锐龙 9 8940HX ，纯白高颜值与硬核性能兼得",
+      "summary": "对于游戏本来说，性能往往是选购时最先考虑的因素，但外观同样影响着日常使用体验。尤其是高性能游戏本，常见设计大多强调硬朗的机身线条与浓厚的电竞风格。如果想找一款性能足够强、外观又不那么浮夸张扬的产品，市面上的选择并不算多。 就在近日，IT之家拿到了一款特殊的游戏本新品 —— 神影 16 魔龙姬星际套装 2026。 作为微星 40 周年推出的特别产品，它将二次元 IP「魔龙姬」融入神影系列的设计之中，以「星云白」配色取代常见的黑灰色机身，让游戏本有了不同于传统电竞风格的表达。这款产品曾在 Computex 2026 上亮相，此次我们也有机会对它进行实际体验。 值得一提的是，本次IT之家拿到的并不只有笔记本本体，还包括同主题耳机、鼠标和鼠标垫。 从机身到外设，整套装备都融入了魔龙姬的设计元素，视觉风格保持统一。 对于喜欢二次元文化的年轻用户，尤其是学生群体而言，这样一套装备既能满足游戏娱乐需求，也能为日常学习和桌面搭配增添一些个性。 当然，限定版的看点并不止于外观。它搭载 AMD 锐龙 9 8940HX 处理器、115W 满功耗 RTX 5060 Laptop GPU，并配备一块 16 英寸 2.5K 分辨率、240Hz 刷新率的釉月屏。 接下来，IT之家就从设计、硬件性能到实际游戏表现，全面体验这款微星神影 16 魔龙姬限定款锐龙版，看看它除了特别的外观之外，还有哪些值得关注的地方。 一、设计 星云白机身搭配魔龙姬元素，限定版设计颇具辨识度 拿到微星神影 16 魔龙姬限定款，首先能感受到的变化来自外观。 微星神影 16 魔龙姬限定款采用了星云白配色，并将微星旗下的二次元 IP「魔龙姬」融入整体设计。 机身 A 面采用白色盖板，右侧布置了微星龙盾 Logo。表面的幻彩珠光涂层会随着光线和观察角度的变化，呈现出细微的色泽差异，让纯白机身多了几分层次感。 整体线条依然保留了游戏本应有的硬朗感，而星云白配色则柔和了传统电竞设计的凌厉气质，让整机看起来更加清爽，也少了几分张扬。 微星神影 16 魔龙姬限定款可以单手掀开屏幕，最大开合角度约为 135°。翻开机身，其配备了一块 16 英寸釉月屏，屏幕上边框中央集成了摄像头，旁边设置了物理防窥开关，并配有麦克风开孔。 分辨率为 2560×1600（2.5K），16:10 比例，刷新率达到 240Hz，官方标称覆盖 100% DCI-P3 广色域、500nits 峰值亮度。 IT之家通过校色仪对这块屏幕进行了实测。 在默认设置下，实测屏幕峰值亮度约为 492.4cd/m²，与官方标称的 500nits 基本吻合，日常室内使用足够明亮。 色域方面，实测这块屏幕覆盖： 99.9% sRGB 色域覆盖、146.7% sRGB 色域容积 87.2% AdobeRGB 色域覆盖、101.1% AdobeRGB 色域容积 97.7% DCI-P3 色域覆盖、103.9% DCI-P3 色域容积 可以看到，这块屏幕在 DCI-P3 广色域上的表现与官方标称基本一致，97.7% 的覆盖对于一款主打游戏的笔记本来说已经相当不错；sRGB 色域覆盖接近 100%，日常办公、网页浏览和视频播放的色彩表现也有保障。 整体来看，这块 2.5K 240Hz 屏幕在分辨率、刷新率、色域和亮度之间取得了不错的平衡，无论是玩游戏还是日常办公、影音娱乐，都能提供足够细腻流畅的视觉体验。 此外，微星也提供了“MSI True Color”应用，这是一款专业屏幕色彩管理软件，用户可通过软件主页面一键切换 sRGB、Adobe RGB 以及 Display P3 色域，每个色域还支持选项丰富的自定义调节。 回到键盘部分。 C 面的键盘区域延续了白色主题，采用带数字小键盘的全尺寸布局，下方搭配一块大尺寸一体式触控板。 WASD 四个按键与电源键使用了半透明键帽设计，方便背光透出。 方向键则加入了像素风格的网点渐变纹理，与魔龙姬限定版的个性化设计相呼应。 键盘支持四分区 RGB 背光，可以通过 MSI Center 调整颜色和灯效。 掌托区域的左下方贴有 AMD 锐龙 9 HX、GeForce RTX 和 HDMI 相关标识，右下方则加入了魔龙姬家族徽章，进一步强调限定版身份。 触控板采用与机身一致的白色设计，表面略微下凹，横向延伸的布局也让整个掌托区域看起来更加舒展。 机身尺寸方面，微星神影 16 魔龙姬限定款厚度约为 21.95–23.85mm，重量约 2.25kg。 相比上一代产品，这次全新模具在体积上做了明显瘦身，配合白色机身，视觉上比传统厚重游戏本轻盈不少。 日常塞入双肩背包带去图书馆、办公室，不会有太强烈的负担感，尽管谈不上轻薄，但在 16 寸高性能游戏本中也属于相对便携的水准了。 接口布局上，微星神影 16 魔龙姬限定款将接口分布在机身左右两侧及后部。 机身左侧设有锁孔、电源接口，以及两个 USB-C 接口，均支持最高 10Gbps 数据传输，并支持 100W PD 供电和 DP 1.4 视频输出。 机身右侧提供一个 3.5mm 二合一音频接口，以及两个支持 5Gbps 传输速率的 USB-A 接口。 后部则安排了 RJ45 有线网口、HDMI 2.1 FRL 接口和一个 5Gbps USB-A 接口。这样的布局覆盖了游戏、外接显示器和常见 USB 外设等使用场景。 此外，随机器附带的电源适配器输出功率为 240W，规格为 20V/12A。至于体积，也是意料之内了。 翻到机身底部，D 面同样采用星云白配色，不过设计语言与 A 面有所区别。几何线条让底部显得更具机械感，右上角的红色结构件则增加了视觉对比。 底部设置了两条较为醒目的大面积进风区域，机身四周和中间分布着防滑脚垫，为桌面放置提供支撑。 微星神影 16 魔龙姬限定款电池容量为 80Wh。存储方面，机器提供两个 M.2 SSD 插槽，出厂搭载的三星 PM9C1b 固态硬盘容量为 512GB，采用 PCIe 4.0 规格，旁边还预留了一个支持 PCIe 5.0 的 M.2 插槽。 内存部分则采用一根 SK 海力士 16GB DDR5-5600 笔记本内存，另一条插槽暂时空置。无论是想升级内存，还是增加一块 SSD，都有相应的扩展空间。当然，升级的前提还得是存储价格合适。面对如今的存储市场，能不能下得去手，可能还得再观望观望。 软件方面，这台机器预装了新版 MSI Center，整体 UI 走深色路线，并且专门为魔龙姬限定款做了主题定制 —— 打开功能页，右侧会立绘展示红发魔龙姬角色形象，与机身外观风格呼应。 内置了多套 UI 可选 主界面性能概览可以直观查看 CPU / GPU 使用率、硬盘与内存占用，以及 CPU / GPU 温度、风扇转速、显卡与处理器型号等硬件信息，相当于一个轻量的监控面板。 功能页提供了几档预设场景：游戏模式（可额外开启狂暴模式）、均衡模式、节能静音模式，一键切换即可调整整机性能释放与风扇策略；下方还支持独显直连、混合输出、集显模式三种显卡输出切换，切换后需重启生效，兼顾性能与续航。 此外，MSI Center 内置了微星 AI 智能引擎，可以根据使用场景自动优化灯效、音效与性能； 进阶选项里还提供 GPU 核心频率、显存频率的滑块调节，有一定的可玩性。功能集则集成了炫光灯效、AI 智能降噪、原厂系统恢复、硬件诊断等实用工具，日常维护和灯效调节都能在一个软件里完成。 二、性能 锐龙 9 8940HX 搭配满功耗 RTX 5060，硬件实力均衡 IT之家本次测试的微星神影 16 魔龙姬限定款锐龙版，搭载 AMD 锐龙 9 8940HX 处理器与 NVIDIA GeForce RTX 5060 Laptop GPU，115W 满功耗释放。 AMD 锐龙 9 8940HX，采用了 5nm 工艺，16 核 32 线程设计，最高可加速至 5.3GHz，拥有 80MB 大容量缓存，基础 TDP 55W，具备优秀的多核渲染与单核响应能力，无论是 3A 游戏，还是视频剪辑、3D 渲染等生产力任务都能从容应对。 IT之家首先使用 Cinebench R23、Cinebench 2026 以及 CPU-Z 基准，对这颗锐龙 9 8940HX 进行理论性能测试。 Cinebench R23：单核成绩 1905 分，多核成绩 32639 分。 Cinebench 2026：单核 453pts，多核 5639pts。 CPU-Z 基准跑分：单核 728.4 分，多核 13478.7 分。 从跑分数据可以看出，这颗 Zen4 架构移动处理器单核性能强劲，多核性能释放充沛，大缓存规格在渲染、多任务场景优势明显，可以满足游戏之外的内容创作需求。 显卡方面，RTX 5060 Laptop GPU 拥有 115W 满功耗，依托新一代 RTX 架构，支持 DLSS 4、硬件光线追踪，AI 算力也有明显提升。 IT之家实测了多项 3DMark 图形基准项目。 3DMark Solar Bay Extreme（DX12 光追）：总分 11605，显卡平均帧率 81.16FPS。 3DMark Wild Life Extreme（Vulkan 跨平台）：总分 23761，显卡平均帧率 142.28FPS。 3DMark CPU Profile：最大线程 13782，16 线程 12445，8 线程 7265，4 线程 3964，2 线程 2086，单线程 1059。 多项 3DMark 测试结果表明，RTX5060 满功耗版本图形性能属于当前中端游戏本的主流高水平，光追与常规光栅化性能都有不错表现，足以流畅运行各类 3A 大作。 存储方面，CrystalDiskMark 测试这块 PCIe4.0 固态，SEQ1M 顺序读取 6664.93MB/s，顺序写入 3338.82MB/s，4K 随机读写性能同样亮眼。 总而言之，微星神影 16 魔龙姬限定款整机硬件基准成绩符合这一套平台的预期，锐龙 9 8940HX 多核性能亮眼，115W 满血 RTX5060 图形能力到位，高速固态进一步补齐存储短板，保留了完整的高性能游戏本底子，游戏、创作两相兼顾。 三、烤机 双风扇五热管加持，190W 整机性能释放实测 基准跑分测试结束后，接下来进入性能释放环节。 微星神影 16 魔龙姬限定款官方标称整机双烤功耗可达 190W，这一释放水平在 2.25kg 级别的主流游戏本中属于比较激进的调校。 要在 21cm 厚的机身内压下这近 200W 的热量，微星配备了酷寒散热系统，采用双风扇、五热管、四出风口的散热模组布局，覆盖 CPU 与 GPU 两大核心热源。 烤机测试环节，IT之家在 MSI Center 中将机器调至极速性能模式，风扇拉至最高档。室温环境约 25℃，先使用 AIDA64 FPU 进行单烤 CPU 测试。 从测试截图可以看到，锐龙 9 8940HX 在单烤 FPU 下（15 分钟），封装功耗稳定在 102W 左右，CPU 温度控制在 90℃ 附近，核心频率维持在 3.9GHz 上下。 作为一颗 16 核 32 线程的移动处理器，这一功耗释放属于主流水准，长时间满载下温度并未撞墙降频，散热模组的压制力可见一斑。 接下来，通过 FurMark 对 RTX 5060 Laptop GPU 进行单烤测试。 经过约 10 分钟的持续烤机，显卡核心功耗稳定在 103W 左右，板载功耗约 114W，GPU 核心频率保持在 2257MHz，温度控制在 80℃ 上下。115W 满功耗的 RTX 5060 在单烤场景下表现稳定，没有出现频率大幅波动或温度过热的情况。 最后，IT之家使用 AIDA64 FPU 搭配 FurMark 进行双烤测试，模拟整机满载工况。这台机器调教偏激进，短时可以跑出 190W 更高功耗，一段时间后功耗回落趋于稳定，CPU 约 81W、温度 95℃，GPU 约 99W、温度 87℃，和官方宣称基本相符，整机性能释放十分扎实。 在长达十余分钟的持续满载中，CPU 与 GPU 功耗曲线均较为平稳，未出现明显的降频或功耗跳水，说明这套酷寒散热系统在应对双核心同时高负载时，仍能维持住持续的性能输出。 总体来说，微星神影 16 魔龙姬限定款在 2.25kg 级别的机身里，实现了 190W 的整机性能释放，CPU 单烤 102W、显卡单烤约 114W，双烤下两大核心均能稳定输出，散热表现对得起这个功耗级别。 对于一款主打颜值与轻量化的主流游戏本而言，这样的性能释放已经相当到位。 四、游戏 2.5K 高画质挑战多款大作，DLSS 加持畅享高帧体验 烤机测试结束，接下来进入大家最关心的实际游戏表现环节。 IT之家在 2.5K（2560×1600）原生分辨率下，选取了几款代表性游戏进行实测，看看这块 240Hz 高刷屏在满功耗 RTX 5060 加持下，实际游戏体验如何。 首先是《黑神话：悟空》。 作为国产 3A 大作的代表，这款游戏对显卡压力不小。 首先，IT之家将画质预设调至高，全景光线追踪关闭，关闭 DLSS 与帧生成，在 2.5K 分辨率下实测平均帧率为 74 帧，最高 86 帧、最低 52 帧，95% 帧率高于 64 帧，显存占用约 6.1GB。 接下来是超高全景光追 + DLSS 均衡。 开启全景光线追踪，DLSS 保持均衡，关闭帧生成，显卡原生硬扛光追算力负载。 该模式平均帧率仅 36fps，最高 42fps、最低 29fps，95% 帧率 31fps。 最后，是超高全景光追 + DLSS 均衡 + 4x 帧生成。 在上面这套光追设置基础上打开 4 倍帧生成。实测平均帧率 108fps，最高 121fps、最低 47fps，95% 帧率高于 96fps，显存占用 7.3GB，体验非常流畅。 三组横向对比可以清晰看到，全景光线追踪会带来极大的性能开销，而 4x DLSS 帧生成是这套配置在 2.5K 高画质 + 全景光追下实现流畅游玩的关键。 可以看出，DLSS 与帧生成对这款游戏的帧率提升相当明显，开启后流畅游玩无任何压力。 接下来是《极限竞速：地平线 5》。 这款赛车大作对硬件压力相对可控，IT之家直接将画质拉至极端预设，光线追踪质量设为高，2.5K 分辨率下实测 GPU 平均帧率为 83.5 帧，最低 65 帧、最高 100 帧，平均延迟 38.1ms，GPU 限制比率 99.1%，全程基本被显卡满载限制，流畅度表现令人满意。 将分辨率降至 1920×1200，其他极端画质设置不变，GPU 平均帧率提升至 101.1 帧，最低 79.7 帧、最高 122.9 帧，平均延迟降至 31.1ms。对于一款开放世界赛车游戏而言，这一帧率水平已经非常丝滑。 接下来是《赛博朋克 2077》，这款游戏最能体现 RTX 5060 的光追与 DLSS 多帧生成实力。 IT之家先将纹理质量调至高，开启光线追踪，DLSS 质量设为质量档，2.5K 分辨率下开启 DLSS 帧生成、多帧生成 2X，实测平均帧率为 84.48 帧； 将多帧生成档位提升至 3X，平均帧率提升至 116.45 帧，画面流畅度明显上了一个台阶。 再将 DLSS 质量从质量调整为平衡，其他高纹理、开光追的设置保持不变，同样开启帧生成 2X，平均帧率为 86.91 帧； 将多帧生成依次提升到 3X、4X，平均帧率分别来到 116.78 帧和 146.53 帧。 可以看到，在 DLSS 4 多帧生成的加持下，随着倍数提升，《赛博朋克 2077》的帧率增长非常线性，4X 模式下已经能跑到接近 150 帧的高水准，喂饱这块 240Hz 屏幕。 接下来，开启 6X DLSS 4 多帧生成，帧率直接来到了 189 帧，表现相当惊喜。 即便是开启光线追踪，在 6X 下，帧率仍保持在 170 以上。 从这组数据可以看出，即便在 2.5K 高画质 + 光追的重压下，满功耗 RTX 5060 配合 DLSS 4 多帧生成，依然能把《赛博朋克 2077》推到流畅高帧的水平，光追体验与帧率之间的平衡做得相当不错。 至于《CS2》这类主流 FPS 竞技游戏，RTX 5060 应对起来更是毫无压力。 2.5K 最高画质下，配合这块 240Hz 屏幕，帧率轻松达到 200fps 以上，1080P 更是超过了 300fps，跟枪与定位都非常顺滑，完全不需要担心帧率瓶颈。 总而言之，满功耗 RTX 5060 Laptop GPU 在 2.5K 分辨率下应对主流 3A 大作没有太大问题，开启 DLSS 与帧生成后帧率提升明显，配合 240Hz 高刷屏，无论 3A 大作还是电竞网游都能获得不错的体验。 结语 简单总结，在一众黑灰配色、RGB 灯效拉满的传统游戏本中，微星神影 16 魔龙姬限定款锐龙版交出了一份截然不同的答卷。 它并没有在核心配置上妥协：锐龙 9 8940HX 与 115W 满功耗 RTX 5060 的组合，稳居当前主流游戏本的中高端水准；190W 的整机性能释放、双风扇五热管的散热架构，外加 80Wh 电池与 100W PD 快充的支持，让它的硬件底盘扎实且全面。在此之上，星云白的珠光机身与魔龙姬主题的深度定制，配合 2.25kg 重的机身控制，则赋予了这台性能机器少见的轻盈感与高颜值；再辅以一块 240Hz 高刷、100% DCI-P3 广色域的优质屏幕，无论是畅玩 3A 大作还是应对日常内容创作，它都能游刃有余。 如果你是微星「魔龙姬」IP 的忠实拥趸，又或者早就厌倦了游戏本千篇一律的黑灰电竞风，渴望寻找一台性能不打折、放在桌面又足够清爽吸睛的主流游戏本，那么这款微星神影 16 魔龙姬限定款锐龙版，无疑是一个极具质感且值得入手的选择。 京东 神影 16 魔龙姬游戏笔记本电脑（14900HX RTX5060 16G 1TB 2.5K240Hz） 微星（MSI）【京东电脑直播间领券省 600】 9599 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+      "url": "https://www.ithome.com/1/017/270.htm",
+      "link": "https://www.ithome.com/1/017/270.htm",
       "source": "IT之家",
       "source_id": "ithome",
       "source_group": "chinese_media",
       "language": "zh",
-      "date": "2026-10-18",
-      "published_at": "2026-10-18T11:59:52+00:00",
+      "date": "2026-10-23",
+      "published_at": "2026-10-23T14:18:02+00:00",
       "score": 93,
-      "entity_id": "official_ai_labs",
-      "entity": "官方 AI 实验室与公司信号",
+      "entity_id": "ai_infra",
+      "entity": "AI 基础设施与算力",
       "kind": "read",
       "actionability": 55,
-      "minutes": 2,
-      "topic": "Agent 工作流"
+      "minutes": 8,
+      "topic": "AI 基础设施"
     }
   ],
   "trending": [
     {
       "keyword": "new",
-      "mention_count": 3601,
+      "mention_count": 3591,
       "source_count": 10
     },
     {
       "keyword": "之家",
-      "mention_count": 3554,
+      "mention_count": 3548,
       "source_count": 1
     },
     {
       "keyword": "models",
-      "mention_count": 3553,
+      "mention_count": 3544,
       "source_count": 7
     },
     {
       "keyword": "日消息",
-      "mention_count": 3512,
+      "mention_count": 3510,
       "source_count": 1
     },
     {
       "keyword": "model",
-      "mention_count": 3501,
+      "mention_count": 3494,
       "source_count": 9
     },
     {
       "keyword": "type",
-      "mention_count": 2998,
+      "mention_count": 2990,
       "source_count": 5
     },
     {
       "keyword": "abstract",
-      "mention_count": 2959,
+      "mention_count": 2957,
       "source_count": 4
     },
     {
       "keyword": "arxiv",
-      "mention_count": 2952,
+      "mention_count": 2950,
       "source_count": 5
     },
     {
       "keyword": "announce",
-      "mention_count": 2917,
+      "mention_count": 2915,
       "source_count": 3
     },
     {
       "keyword": "are",
-      "mention_count": 2764,
+      "mention_count": 2746,
       "source_count": 7
     },
     {
       "keyword": "across",
-      "mention_count": 2581,
+      "mention_count": 2580,
       "source_count": 7
     },
     {
       "keyword": "can",
-      "mention_count": 2512,
+      "mention_count": 2496,
       "source_count": 9
     },
     {
       "keyword": "while",
-      "mention_count": 2142,
+      "mention_count": 2138,
       "source_count": 7
     },
     {
       "keyword": "pro",
-      "mention_count": 1978,
+      "mention_count": 1948,
       "source_count": 5
     },
     {
       "keyword": "which",
-      "mention_count": 1875,
+      "mention_count": 1864,
       "source_count": 5
     },
     {
       "keyword": "these",
-      "mention_count": 1782,
+      "mention_count": 1778,
       "source_count": 5
     },
     {
@@ -412,23 +412,23 @@
     },
     {
       "keyword": "data",
-      "mention_count": 1630,
+      "mention_count": 1623,
       "source_count": 11
     },
     {
       "keyword": "not",
-      "mention_count": 1624,
+      "mention_count": 1613,
       "source_count": 8
     },
     {
       "keyword": "training",
-      "mention_count": 1596,
+      "mention_count": 1594,
       "source_count": 6
     }
   ],
   "quality": {
-    "scored": 496,
-    "must_read_count": 306,
-    "avg_score": 73.2
+    "scored": 493,
+    "must_read_count": 312,
+    "avg_score": 73.3
   }
 }
