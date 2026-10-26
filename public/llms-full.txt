@@ -1,10 +1,10 @@
 # My Briefing for LLMs
 
 Date: 2026-10-26
-Funnel: 12 sources, 3800 scanned, 7 picks
+Funnel: 12 sources, 3801 scanned, 7 picks
 
 ## Daily Brief
-官方 AI 实验室与公司信号 本期匹配 1429 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。
+官方 AI 实验室与公司信号 本期匹配 1432 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。
 
 ## Top Picks
 - [100] LaTeX renderer (Simon Willison) https://simonwillison.net/2026/Oct/15/latex/
@@ -23,17 +23,17 @@ Funnel: 12 sources, 3800 scanned, 7 picks
   Summary: My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication that doesn't allow the agent to directly access API keys A sensible UI to allow users to connect and authenticate further services Strong audit logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build. Tags: hacker-news , model-context-protocol
 
 ## Entities
-- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1429 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。
-- AI Agents: AI Agents 本期匹配 725 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《LaTeX renderer》。
-- 推理训练与强化学习: 推理训练与强化学习 本期匹配 404 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
-- 预训练: 预训练 本期匹配 288 篇文章，重点集中在 预训练/模型架构、后训练/对齐、预训练。建议先看《阶跃星辰开源 Step 5 Preview 权重，华为昇腾、沐曦、壁仞等首发支持》。
+- 官方 AI 实验室与公司信号: 官方 AI 实验室与公司信号 本期匹配 1432 篇文章，重点集中在 评测/安全、Agent 工作流、推理训练/测试时计算。建议先看《llm-gemini 0.35》。
+- AI Agents: AI Agents 本期匹配 722 篇文章，重点集中在 Agent 工作流、推理训练/测试时计算、预训练/模型架构。建议先看《LaTeX renderer》。
+- 推理训练与强化学习: 推理训练与强化学习 本期匹配 403 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、预训练/模型架构。建议先看《2026 in LLMs (so far)》。
+- 预训练: 预训练 本期匹配 288 篇文章，重点集中在 预训练/模型架构、预训练、后训练/对齐。建议先看《阶跃星辰开源 Step 5 Preview 权重，华为昇腾、沐曦、壁仞等首发支持》。
 - 后训练与对齐: 后训练与对齐 本期匹配 214 篇文章，重点集中在 后训练/对齐、预训练/模型架构、推理训练/测试时计算。建议先看《Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training》。
-- 编程 Agent: 编程 Agent 本期匹配 136 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 评测与安全: AI 评测与安全 本期匹配 1208 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
-- AI 产品化: AI 产品化 本期匹配 1023 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
-- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1104 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍》。
-- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 702 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
-- AI 基础设施与算力: AI 基础设施与算力 本期匹配 791 篇文章，重点集中在 预训练/模型架构、AI 基础设施、Agent 工作流。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。
-- 科技圈动态: 科技圈动态 本期匹配 370 篇文章，重点集中在 推理训练/测试时计算、产品发布、科技圈动态。建议先看《2026 in LLMs (so far)》。
-- AI 改造传统领域: AI 改造传统领域 本期匹配 328 篇文章，重点集中在 预训练/模型架构、推理训练/测试时计算、Agent 工作流。建议先看《苹果 CEO 特努斯登上《时代》周刊封面：谈公司未来 50 年，iPhone Duo 入选 2026 年度“最佳发明”》。
-- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 75 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、产品发布。建议先看《2026 in LLMs (so far)》。
+- 编程 Agent: 编程 Agent 本期匹配 134 篇文章，重点集中在 推理训练/测试时计算、Agent 工作流、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 评测与安全: AI 评测与安全 本期匹配 1206 篇文章，重点集中在 推理训练/测试时计算、后训练/对齐、评测/安全。建议先看《2026 in LLMs (so far)》。
+- AI 产品化: AI 产品化 本期匹配 1024 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
+- 数据分析与指标体系: 数据分析与指标体系 本期匹配 1102 篇文章，重点集中在 评测/安全、Agent 工作流、产品发布。建议先看《中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍》。
+- 成本管理与 FinOps: 成本管理与 FinOps 本期匹配 699 篇文章，重点集中在 评测/安全、推理训练/测试时计算、Agent 工作流。建议先看《llm-gemini 0.35》。
+- AI 基础设施与算力: AI 基础设施与算力 本期匹配 795 篇文章，重点集中在 预训练/模型架构、AI 基础设施、Agent 工作流。建议先看《英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB》。
+- 科技圈动态: 科技圈动态 本期匹配 373 篇文章，重点集中在 推理训练/测试时计算、产品发布、科技圈动态。建议先看《2026 in LLMs (so far)》。
+- AI 改造传统领域: AI 改造传统领域 本期匹配 329 篇文章，重点集中在 预训练/模型架构、评测/安全、推理训练/测试时计算。建议先看《苹果 CEO 特努斯登上《时代》周刊封面：谈公司未来 50 年，iPhone Duo 入选 2026 年度“最佳发明”》。
+- 成本数据库与项目财务: 成本数据库与项目财务 本期匹配 76 篇文章，重点集中在 推理训练/测试时计算、AI 基础设施、产品发布。建议先看《2026 in LLMs (so far)》。
